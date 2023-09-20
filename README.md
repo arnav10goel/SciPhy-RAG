@@ -10,7 +10,7 @@
 
 ## Fine-Tuning Vicuna using LoRA
 - Vicuna is a state-of-the-art model, and fine-tuning it can yield superior results for specific applications. This document provides an overview of how we fine-tuned Vicuna using the LoRA technique for both 8-bit and 16-bit.
-- LoRA (Low-Rank Adaptation) is a method used to efficiently fine-tune large neural networks. By adapting only a small part of the model, it allows for quicker updates and can yield significant benefits in performance, especially when there's limited data for fine-tuning.
+- Low-Rank Adaptation or LoRA (Hu et al. 2021) is a method used to efficiently fine-tune large neural networks by decomposing the weight matrix to lower rank matrices. By adapting only a small part of the model, it allows for quicker updates and can yield significant benefits in performance, especially when there's infrastructure for fine-tuning.
 - The rank of the matrix is adjusted for achieving 8-bit and 16-bit quantisation.
 - We refer to the following repository for helping us fine-tune using LoRA: [Link](https://github.com/jackaduma/Vicuna-LoRA-RLHF-PyTorch)
 
@@ -29,5 +29,6 @@
 ### Final Results:
 <img width="782" alt="Screenshot 2023-09-21 at 3 16 00 AM" src="https://github.com/arnav10goel/SciPhy-RAG/assets/97335445/685c7713-abd6-4715-8bb5-bcd3eb5ab43d">
 
-
+- We release our data augmentation codes for generating the dataset alongwith the train and testing questions used.
+- We additionally release the code for the retrieval pipeline.
 
