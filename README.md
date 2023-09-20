@@ -20,12 +20,14 @@
 ## Retrieval Experiment Setup (SciPhy-RAG):
 - Wikipedia Articles are extracted using <b> similarity search </b> on sub-topics and the title of Wikipedia pages.
 - These are stored as embeddings in a vector database (e.g. Pinecone).
-<img width="822" alt="Screenshot 2023-09-21 at 3 11 45 AM" src="https://github.com/arnav10goel/SciPhy-RAG/assets/97335445/86f4d63a-d9bd-41a3-8031-af5c123f5d7f">
+<img width="822" alt="Screenshot 2023-09-21 at 3 11 45 AM" src="https://github.com/arnav10goel/SciPhy-RAG/assets/97335445/99718311-f725-4f0e-983a-685f1de12744">
+
 
 - At the time of inference when running the model, the question is sent to the vector database. Here Approximate Nearest Neighbor (ANN) search is applied to find N relevant passages for solving the question.
 - The question and N relevant passages are then sent as input-prompt to the Language Model for solving the question. The inference is checked on the test again to get the results.
 
 ### Final Results:
-<img width="782" alt="Screenshot 2023-09-21 at 3 16 00 AM" src="https://github.com/arnav10goel/SciPhy-RAG/assets/97335445/f9ef8a96-d343-4bea-8435-2ecf0fb5be5d">
+<img width="782" alt="Screenshot 2023-09-21 at 3 16 00 AM" src="https://github.com/arnav10goel/SciPhy-RAG/assets/97335445/685c7713-abd6-4715-8bb5-bcd3eb5ab43d">
+
 
 
