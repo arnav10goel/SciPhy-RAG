@@ -1,0 +1,302 @@
+[
+    {
+        "instruction": "The near point of a hypermetropic person is 22907 mm. What is the nature and power of the lens required to correct the problem(assume normal near point of eye is 25cm).\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.96 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "A person needs a lens of power -84381 dioptres for correcting his distant vision. What is the focal length of the lens required for correcting distant vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.01 mm\n"
+    },
+    {
+        "instruction": "The near point of a hypermetropic person is 98762 mm. What is the nature and power of the lens required to correct the problem(assume normal near point of eye is 25cm).\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.99 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "A person needs a lens of power + 56177 dioptres for correcting his near vision. What is the focal length of the lens required for correcting near vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.02 mm\n"
+    },
+    {
+        "instruction": "The near point of a hypermetropic person is 54470 mm. What is the nature and power of the lens required to correct the problem(assume normal near point of eye is 25cm).\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.98 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "A person needs a lens of power -27138 dioptres for correcting his distant vision. What is the focal length of the lens required for correcting distant vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.04 mm\n"
+    },
+    {
+        "instruction": "A person needs a lens of power + 2087 dioptres for correcting his near vision. What is the focal length of the lens required for correcting near vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.48 mm\n"
+    },
+    {
+        "instruction": "A person needs a lens of power + 68731 dioptres for correcting his near vision. What is the focal length of the lens required for correcting near vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.01 mm\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 39082 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.03 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 15990 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.06 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 12717 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.08 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person with a hypermetropic eye cannot see objects within 29160 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.97 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 36182 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.03 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 45041 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.02 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person needs a lens of power + 13480 dioptres for correcting his near vision. What is the focal length of the lens required for correcting near vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.07 mm\n"
+    },
+    {
+        "instruction": "A person needs a lens of power -60733 dioptres for correcting his distant vision. What is the focal length of the lens required for correcting distant vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.02 mm\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 19131 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.05 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 99169 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.01 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person needs a lens of power -32198 dioptres for correcting his distant vision. What is the focal length of the lens required for correcting distant vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.03 mm\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 28987 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.03 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "The near point of a hypermetropic person is 61024 mm. What is the nature and power of the lens required to correct the problem(assume normal near point of eye is 25cm).\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.98 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 77484 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.01 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 53312 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.02 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person needs a lens of power + 35468 dioptres for correcting his near vision. What is the focal length of the lens required for correcting near vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.03 mm\n"
+    },
+    {
+        "instruction": "The near point of a hypermetropic person is 17044 mm. What is the nature and power of the lens required to correct the problem(assume normal near point of eye is 25cm).\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.94 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 83207 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.01 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person needs a lens of power + 91173 dioptres for correcting his near vision. What is the focal length of the lens required for correcting near vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.01 mm\n"
+    },
+    {
+        "instruction": "A person needs a lens of power -38014 dioptres for correcting his distant vision. What is the focal length of the lens required for correcting distant vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.03 mm\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 49069 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.02 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 12255 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.08 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "The near point of a hypermetropic person is 43682 mm. What is the nature and power of the lens required to correct the problem(assume normal near point of eye is 25cm).\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.98 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "A person needs a lens of power + 96037 dioptres for correcting his near vision. What is the focal length of the lens required for correcting near vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.01 mm\n"
+    },
+    {
+        "instruction": "A person needs a lens of power + 33815 dioptres for correcting his near vision. What is the focal length of the lens required for correcting near vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.03 mm\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 68057 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.01 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person with a hypermetropic eye cannot see objects within 63702 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.98 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 83462 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.01 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person with a hypermetropic eye cannot see objects within 78226 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.99 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 53050 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.02 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 669 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 1.49 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "The near point of a hypermetropic person is 12742 mm. What is the nature and power of the lens required to correct the problem(assume normal near point of eye is 25cm).\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.92 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 80416 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.01 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person needs a lens of power -43676 dioptres for correcting his distant vision. What is the focal length of the lens required for correcting distant vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.02 mm\n"
+    },
+    {
+        "instruction": "A person needs a lens of power -62783 dioptres for correcting his distant vision. What is the focal length of the lens required for correcting distant vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.02 mm\n"
+    },
+    {
+        "instruction": "The near point of a hypermetropic person is 5745 mm. What is the nature and power of the lens required to correct the problem(assume normal near point of eye is 25cm).\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.83 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 22730 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.04 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 84410 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.01 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person with a hypermetropic eye cannot see objects within 95940 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.99 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "A person needs a lens of power + 49773 dioptres for correcting his near vision. What is the focal length of the lens required for correcting near vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.02 mm\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 91965 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.01 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 15892 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.06 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person with a myopic eye cannot see objects beyond 93314 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.01 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 2076 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.48 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person needs a lens of power -52095 dioptres for correcting his distant vision. What is the focal length of the lens required for correcting distant vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.02 mm\n"
+    },
+    {
+        "instruction": "A person with a hypermetropic eye cannot see objects within 84903 mm distinctly. What should be the type of the corrective lens used to restore proper vision?\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.99 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "A person needs a lens of power + 18090 dioptres for correcting his near vision. What is the focal length of the lens required for correcting near vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.06 mm\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 44118 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.02 diatrope, type of lens required is concave.\n"
+    },
+    {
+        "instruction": "A person needs a lens of power -45144 dioptres for correcting his distant vision. What is the focal length of the lens required for correcting distant vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.02 mm\n"
+    },
+    {
+        "instruction": "A person needs a lens of power -41404 dioptres for correcting his distant vision. What is the focal length of the lens required for correcting distant vision?\n",
+        "input": "Power = 1/focal length (f)",
+        "output": "we know that power(P)=1/f, hence f=1/P, f(in mm)=1000/P, hence f=0.02 mm\n"
+    },
+    {
+        "instruction": "The near point of a hypermetropic person is 99949 mm. What is the nature and power of the lens required to correct the problem(assume normal near point of eye is 25cm).\n",
+        "input": "1/f=1/v-1/u",
+        "output": "the remedial lens should make the objects at defected eye's near point appear at normal eye's near point, hence u = 25cm, v = near point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-(1/-0.25)=1/v+1/0.25, implies P = 3.99 diatrope, type of lens required is convex\n"
+    },
+    {
+        "instruction": "The far point of a myopic person is 15044 mm in front of the eye. What is the nature and power of the lens required to correct the problem.\n",
+        "input": "1/f = 1/v-1/u",
+        "output": "the remedial lens should make the objects at infinity appear at far point, hence u = infinity, v = far point of defected eye, from P=1/f, 1/f=1/v-1/u, we get P=1/v-1/u, P=1/v-0=1/v, implies P = 0.07 diatrope, type of lens required is concave.\n"
+    }
+]

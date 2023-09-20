@@ -1,0 +1,352 @@
+[
+    {
+        "instruction": "For a transistor as a switch in saturation state, the audio signal voltage across the collected resistance of 3550 ohm is 35 V. Suppose the current amplification factor of the transistor is 190, find the base current if the base resistance is 1940 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 35/190 = 0.18, to get voltage per unit resistance, we need to divide it by 3550, the resultant voltage per unit resistance is current and it's value is 5.19e-05 ampere\n"
+    },
+    {
+        "instruction": "For a transistor as a switch in saturation state, the audio signal voltage across the collected resistance of 3950 ohm is 8 V. Suppose the current amplification factor of the transistor is 10, find the base current if the base resistance is 1060 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 8/10 = 0.8, to get voltage per unit resistance, we need to divide it by 3950, the resultant voltage per unit resistance is current and it's value is 2.03e-04 ampere\n"
+    },
+    {
+        "instruction": "For a transistor as a switch in saturation state, the audio signal voltage across the collected resistance of 2130 ohm is 24 V. Suppose the current amplification factor of the transistor is 10, find the base current if the base resistance is 1020 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 24/10 = 2.4, to get voltage per unit resistance, we need to divide it by 2130, the resultant voltage per unit resistance is current and it's value is 1.13e-03 ampere\n"
+    },
+    {
+        "instruction": "For a transistor as a switch in saturation state, the audio signal voltage across the collected resistance of 3610 ohm is 16 V. Suppose the current amplification factor of the transistor is 170, find the base current if the base resistance is 1470 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 16/170 = 0.09, to get voltage per unit resistance, we need to divide it by 3610, the resultant voltage per unit resistance is current and it's value is 2.61e-05 ampere\n"
+    },
+    {
+        "instruction": "For a transistor as a switch in saturation state, the audio signal voltage across the collected resistance of 2700 ohm is 40 V. Suppose the current amplification factor of the transistor is 200, find the base current if the base resistance is 1380 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 40/200 = 0.2, to get voltage per unit resistance, we need to divide it by 2700, the resultant voltage per unit resistance is current and it's value is 7.41e-05 ampere\n"
+    },
+    {
+        "instruction": "For a CE-transistor amplifier, the audio signal voltage across the collected resistance of 3880 ohm is 13 V. Suppose the current amplification factor of the transistor is 30, find the input signal voltage if the base resistance is 1810 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 13/30 = 0.43, to get voltage per unit resistance, we need to divide it by 3880, to get to original voltage, we need to multiply per unit resistance voltage with base resistance 1810 doing all that we get, 2.02e-01 volt\n"
+    },
+    {
+        "instruction": "Two amplifiers are connected one after the other in series(cascaded). The first amplifier has a voltage gain of 27 and the second has the voltage gain of 135. If the input signal is 0.08 volt, calculate the output ac signal.\n",
+        "input": "V2 = V1*amp1*amp2",
+        "output": "If the amplifiers are connected in series, the resultant amplification would be product of amplification factors of each of the amplifer, hence resultant output signal is 27*135*0.08 = 2.92e+02 volt\n"
+    },
+    {
+        "instruction": "For a CE-transistor amplifier, the audio signal voltage across the collected resistance of 3460 ohm is 34 V. Suppose the current amplification factor of the transistor is 200, find the input signal voltage if the base resistance is 1860 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 34/200 = 0.17, to get voltage per unit resistance, we need to divide it by 3460, to get to original voltage, we need to multiply per unit resistance voltage with base resistance 1860 doing all that we get, 9.14e-02 volt\n"
+    },
+    {
+        "instruction": "For a transistor as a switch in saturation state, the audio signal voltage across the collected resistance of 3330 ohm is 28 V. Suppose the current amplification factor of the transistor is 190, find the base current if the base resistance is 1870 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 28/190 = 0.15, to get voltage per unit resistance, we need to divide it by 3330, the resultant voltage per unit resistance is current and it's value is 4.43e-05 ampere\n"
+    },
+    {
+        "instruction": "For a transistor as a switch in saturation state, the audio signal voltage across the collected resistance of 3460 ohm is 35 V. Suppose the current amplification factor of the transistor is 100, find the base current if the base resistance is 1180 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 35/100 = 0.35, to get voltage per unit resistance, we need to divide it by 3460, the resultant voltage per unit resistance is current and it's value is 1.01e-04 ampere\n"
+    },
+    {
+        "instruction": "Two amplifiers are connected one after the other in series(cascaded). The first amplifier has a voltage gain of 121 and the second has the voltage gain of 166. If the input signal is 0.05 volt, calculate the output ac signal.\n",
+        "input": "V2 = V1*amp1*amp2",
+        "output": "If the amplifiers are connected in series, the resultant amplification would be product of amplification factors of each of the amplifer, hence resultant output signal is 121*166*0.05 = 1.00e+03 volt\n"
+    },
+    {
+        "instruction": "For a CE-transistor amplifier, the audio signal voltage across the collected resistance of 2460 ohm is 23 V. Suppose the current amplification factor of the transistor is 60, find the input signal voltage if the base resistance is 1840 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 23/60 = 0.38, to get voltage per unit resistance, we need to divide it by 2460, to get to original voltage, we need to multiply per unit resistance voltage with base resistance 1840 doing all that we get, 2.87e-01 volt\n"
+    },
+    {
+        "instruction": "For a CE-transistor amplifier, the audio signal voltage across the collected resistance of 3090 ohm is 10 V. Suppose the current amplification factor of the transistor is 50, find the input signal voltage if the base resistance is 1770 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 10/50 = 0.2, to get voltage per unit resistance, we need to divide it by 3090, to get to original voltage, we need to multiply per unit resistance voltage with base resistance 1770 doing all that we get, 1.15e-01 volt\n"
+    },
+    {
+        "instruction": "For a transistor as a switch in saturation state, the audio signal voltage across the collected resistance of 2550 ohm is 5 V. Suppose the current amplification factor of the transistor is 60, find the base current if the base resistance is 1490 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 5/60 = 0.08, to get voltage per unit resistance, we need to divide it by 2550, the resultant voltage per unit resistance is current and it's value is 3.27e-05 ampere\n"
+    },
+    {
+        "instruction": "For a CE-transistor amplifier, the audio signal voltage across the collected resistance of 2970 ohm is 34 V. Suppose the current amplification factor of the transistor is 150, find the input signal voltage if the base resistance is 1990 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 34/150 = 0.23, to get voltage per unit resistance, we need to divide it by 2970, to get to original voltage, we need to multiply per unit resistance voltage with base resistance 1990 doing all that we get, 1.52e-01 volt\n"
+    },
+    {
+        "instruction": "For a transistor as a switch in saturation state, the audio signal voltage across the collected resistance of 2970 ohm is 2 V. Suppose the current amplification factor of the transistor is 150, find the base current if the base resistance is 1880 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 2/150 = 0.01, to get voltage per unit resistance, we need to divide it by 2970, the resultant voltage per unit resistance is current and it's value is 4.49e-06 ampere\n"
+    },
+    {
+        "instruction": "For a CE-transistor amplifier, the audio signal voltage across the collected resistance of 2960 ohm is 25 V. Suppose the current amplification factor of the transistor is 50, find the input signal voltage if the base resistance is 1740 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 25/50 = 0.5, to get voltage per unit resistance, we need to divide it by 2960, to get to original voltage, we need to multiply per unit resistance voltage with base resistance 1740 doing all that we get, 2.94e-01 volt\n"
+    },
+    {
+        "instruction": "For a CE-transistor amplifier, the audio signal voltage across the collected resistance of 3660 ohm is 19 V. Suppose the current amplification factor of the transistor is 180, find the input signal voltage if the base resistance is 1930 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 19/180 = 0.11, to get voltage per unit resistance, we need to divide it by 3660, to get to original voltage, we need to multiply per unit resistance voltage with base resistance 1930 doing all that we get, 5.57e-02 volt\n"
+    },
+    {
+        "instruction": "Two amplifiers are connected one after the other in series(cascaded). The first amplifier has a voltage gain of 200 and the second has the voltage gain of 142. If the input signal is 0.058 volt, calculate the output ac signal.\n",
+        "input": "V2 = V1*amp1*amp2",
+        "output": "If the amplifiers are connected in series, the resultant amplification would be product of amplification factors of each of the amplifer, hence resultant output signal is 200*142*0.058 = 1.65e+03 volt\n"
+    },
+    {
+        "instruction": "Two amplifiers are connected one after the other in series(cascaded). The first amplifier has a voltage gain of 176 and the second has the voltage gain of 166. If the input signal is 0.072 volt, calculate the output ac signal.\n",
+        "input": "V2 = V1*amp1*amp2",
+        "output": "If the amplifiers are connected in series, the resultant amplification would be product of amplification factors of each of the amplifer, hence resultant output signal is 176*166*0.072 = 2.10e+03 volt\n"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2709 x 10^(-15) A and T = 296 K, what will be dynamic resistance if the voltage across the diode is increased from 0.3 V to 0.4 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "1.53e+04 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1009 x 10^(-15) A and T = 281 K, what will be dynamic resistance if the voltage across the diode is increased from 0.2 V to 0.3 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "1.11e+06 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2458 x 10^(-15) A and T = 281 K, what will be dynamic resistance if the voltage across the diode is increased from 1.5 V to 2.5 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "1.30e-33 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1879 x 10^(-15) A and T = 280 K, what will be the forward current at a forward voltage of 0.11 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "6.66e-11 ampere\nWe use the value of V given to us with the values of Kb and T to find forward current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1436 x 10^(-15) A and T = 284 K, what will be dynamic resistance if the voltage across the diode is increased from 1.0 V to 2.8 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "5.55e-38 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1920 x 10^(-15) A and T = 285 K, what will be dynamic resistance if the voltage across the diode is increased from 1.3 V to 2.5 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "8.56e-33 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2398 x 10^(-15) A and T = 281 K, what will be the forward current at a forward voltage of 0.282 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "1.03e-07 ampere\nWe use the value of V given to us with the values of Kb and T to find forward current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2413 x 10^(-15) A and T = 291 K, what will be the increase in the current if the voltage across the diode is increased from 0.7 V to 1.3 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "3.22e+10 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1652 x 10^(-15) A and T = 287 K, what will be the increase in the current if the voltage across the diode is increased from 0.2 V to 1.4 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "2.62e+12 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2474 x 10^(-15) A and T = 290 K, what will be dynamic resistance if the voltage across the diode is increased from 0.4 V to 1.4 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "4.59e-13 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2850 x 10^(-15) A and T = 290 K, what will be the increase in the current if the voltage across the diode is increased from 0.5 V to 1.7 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "4.20e+17 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2879 x 10^(-15) A and T = 281 K, what will be the forward current at a forward voltage of 0.151 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "5.48e-10 ampere\nWe use the value of V given to us with the values of Kb and T to find forward current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1018 x 10^(-15) A and T = 286 K, what will be the increase in the current if the voltage across the diode is increased from 1.4 V to 2.1 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "4.50e+24 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2027 x 10^(-15) A and T = 300 K, what will be dynamic resistance if the voltage across the diode is increased from 1.2 V to 2.6 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "3.22e-32 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2084 x 10^(-15) A and T = 280 K, what will be the increase in the current if the voltage across the diode is increased from 0.4 V to 2.1 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "5.74e+25 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1600 x 10^(-15) A and T = 285 K, what will be the increase in the current if the voltage across the diode is increased from 0.7 V to 1.6 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "1.32e+16 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2930 x 10^(-15) A and T = 295 K, what will be the increase in the current if the voltage across the diode is increased from 1.5 V to 3.4 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "1.72e+46 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2084 x 10^(-15) A and T = 298 K, what will be dynamic resistance if the voltage across the diode is increased from 0.6 V to 1.3 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "8.52e-11 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1746 x 10^(-15) A and T = 281 K, what will be dynamic resistance if the voltage across the diode is increased from 0.3 V to 0.4 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "1.02e+04 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2373 x 10^(-15) A and T = 298 K, what will be the increase in the current if the voltage across the diode is increased from 1.0 V to 1.6 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "1.13e+15 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2086 x 10^(-15) A and T = 300 K, what will be dynamic resistance if the voltage across the diode is increased from 0.7 V to 2.2 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "1.81e-25 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2651 x 10^(-15) A and T = 289 K, what will be the increase in the current if the voltage across the diode is increased from 0.5 V to 1.1 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "1.62e+07 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1529 x 10^(-15) A and T = 298 K, what will be the increase in the current if the voltage across the diode is increased from 0.2 V to 2.0 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "4.39e+21 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1111 x 10^(-15) A and T = 296 K, what will be dynamic resistance if the voltage across the diode is increased from 0.5 V to 1.8 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "6.22e-19 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2014 x 10^(-15) A and T = 286 K, what will be the forward current at a forward voltage of 0.231 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "8.88e-09 ampere\nWe use the value of V given to us with the values of Kb and T to find forward current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 1293 x 10^(-15) A and T = 298 K, what will be dynamic resistance if the voltage across the diode is increased from 1.1 V to 2.0 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "2.43e-22 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2655 x 10^(-15) A and T = 283 K, what will be the forward current at a forward voltage of 0.176 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "1.35e-09 ampere\nWe use the value of V given to us with the values of Kb and T to find forward current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2738 x 10^(-15) A and T = 296 K, what will be the increase in the current if the voltage across the diode is increased from 1.7 V to 2.4 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "8.88e+28 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2556 x 10^(-15) A and T = 295 K, what will be the increase in the current if the voltage across the diode is increased from 0.9 V to 2.2 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1)",
+        "output": "4.30e+25 ampere\nThe resultant forward voltage is V1+V2, input the value while caluclating I2 and use I2-I1 to calculate increase in the current."
+    },
+    {
+        "instruction": "In a p-n junction diode, the current I can be expressed as I = I0*exp((e*V/2*k_b*T)-1), k_b = 8.6 * 10^(-5) eV/K. If for given diode I0 = 2173 x 10^(-15) A and T = 298 K, what will be dynamic resistance if the voltage across the diode is increased from 0.6 V to 1.4 V?\n",
+        "input": "I=Io*exp((e*V/2*Kb*T)-1), R = V2/I2-I1",
+        "output": "1.89e-12 ohm\nCalculate the resistance by dividing the increased voltage and the increase in current"
+    },
+    {
+        "instruction": "A p-n photodiode is fabricated from a semiconductor with band gap of 0.77 eV. Can it detect a wavelength of 14239 nm?\n",
+        "input": "E = (h*c/wavelength)*1.6*10^-19",
+        "output": "no, it cannot detect\nIf E<band gap then wavelenght cannot be detected."
+    },
+    {
+        "instruction": "A p-n photodiode is fabricated from a semiconductor with band gap of 1.26 eV. Can it detect a wavelength of 13307 nm?\n",
+        "input": "E = (h*c/wavelength)*1.6*10^-19",
+        "output": "no, it cannot detect\nIf E<band gap then wavelenght cannot be detected."
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 14 x 10^28. This is doped simultaneously with 13 x 10^(22) atoms per m3 of Arsenic and 2 x 10^20 atoms per m3 of Indium. Given that the ni = 833 x 10^16 m^(-3), calculate the number of protons, is it p-type or n-type?\n",
+        "input": "Nh = Nh + N2 + N3",
+        "output": "5.34e+14, n-type semiconductor\nThe total number of protons (Ne) is the sum of the number of holes (Nh) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "A p-n photodiode is fabricated from a semiconductor with band gap of 0.27 eV. Can it detect a wavelength of 10607 nm?\n",
+        "input": "E = (h*c/wavelength)*1.6*10^-19",
+        "output": "no, it cannot detect\nIf E<band gap then wavelenght cannot be detected."
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 15 x 10^28. This is doped simultaneously with 18 x 10^(22) atoms per m3 of Arsenic and 16 x 10^20 atoms per m3 of Indium. Given that the ni = 184 x 10^16 m^(-3), calculate the number of protons, is it p-type or n-type?\n",
+        "input": "Nh = Nh + N2 + N3",
+        "output": "1.88e+13, n-type semiconductor\nThe total number of protons (Ne) is the sum of the number of holes (Nh) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 17 x 10^28. This is doped simultaneously with 20 x 10^(22) atoms per m3 of Arsenic and 17 x 10^20 atoms per m3 of Indium. Given that the ni = 1525 x 10^16 m^(-3), calculate the number of electrons, is it p-type or n-type?\n",
+        "input": "Ne = Ni + N2 + N3",
+        "output": "2.00e+23, n-type semiconductor\nThe total number of electrons (Ne) is the sum of the intrinsic electrons (Ni) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 6 x 10^28. This is doped simultaneously with 6 x 10^(22) atoms per m3 of Arsenic and 11 x 10^20 atoms per m3 of Indium. Given that the ni = 1218 x 10^16 m^(-3), calculate the number of electrons, is it p-type or n-type?\n",
+        "input": "Ne = Ni + N2 + N3",
+        "output": "6.00e+22, n-type semiconductor\nThe total number of electrons (Ne) is the sum of the intrinsic electrons (Ni) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 14 x 10^28. This is doped simultaneously with 14 x 10^(22) atoms per m3 of Arsenic and 13 x 10^20 atoms per m3 of Indium. Given that the ni = 380 x 10^16 m^(-3), calculate the number of electrons, is it p-type or n-type?\n",
+        "input": "Ne = Ni + N2 + N3",
+        "output": "1.40e+23, n-type semiconductor\nThe total number of electrons (Ne) is the sum of the intrinsic electrons (Ni) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 9 x 10^28. This is doped simultaneously with 11 x 10^(22) atoms per m3 of Arsenic and 14 x 10^20 atoms per m3 of Indium. Given that the ni = 1358 x 10^16 m^(-3), calculate the number of protons, is it p-type or n-type?\n",
+        "input": "Nh = Nh + N2 + N3",
+        "output": "1.68e+15, n-type semiconductor\nThe total number of protons (Ne) is the sum of the number of holes (Nh) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "A p-n photodiode is fabricated from a semiconductor with band gap of 1.9 eV. Can it detect a wavelength of 15012 nm?\n",
+        "input": "E = (h*c/wavelength)*1.6*10^-19",
+        "output": "no, it cannot detect\nIf E<band gap then wavelenght cannot be detected."
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 5 x 10^28. This is doped simultaneously with 15 x 10^(22) atoms per m3 of Arsenic and 5 x 10^20 atoms per m3 of Indium. Given that the ni = 1396 x 10^16 m^(-3), calculate the number of electrons, is it p-type or n-type?\n",
+        "input": "Ne = Ni + N2 + N3",
+        "output": "1.50e+23, n-type semiconductor\nThe total number of electrons (Ne) is the sum of the intrinsic electrons (Ni) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "A p-n photodiode is fabricated from a semiconductor with band gap of 0.09 eV. Can it detect a wavelength of 3246 nm?\n",
+        "input": "E = (h*c/wavelength)*1.6*10^-19",
+        "output": "yes, it can detect\nIf E>band gap then wavelength can be detected."
+    },
+    {
+        "instruction": "A p-n photodiode is fabricated from a semiconductor with band gap of 1.34 eV. Can it detect a wavelength of 3118 nm?\n",
+        "input": "E = (h*c/wavelength)*1.6*10^-19",
+        "output": "no, it cannot detect\nIf E<band gap then wavelenght cannot be detected."
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 9 x 10^28. This is doped simultaneously with 14 x 10^(22) atoms per m3 of Arsenic and 10 x 10^20 atoms per m3 of Indium. Given that the ni = 441 x 10^16 m^(-3), calculate the number of electrons, is it p-type or n-type?\n",
+        "input": "Ne = Ni + N2 + N3",
+        "output": "1.40e+23, n-type semiconductor\nThe total number of electrons (Ne) is the sum of the intrinsic electrons (Ni) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 4 x 10^28. This is doped simultaneously with 13 x 10^(22) atoms per m3 of Arsenic and 16 x 10^20 atoms per m3 of Indium. Given that the ni = 994 x 10^16 m^(-3), calculate the number of electrons, is it p-type or n-type?\n",
+        "input": "Ne = Ni + N2 + N3",
+        "output": "1.30e+23, n-type semiconductor\nThe total number of electrons (Ne) is the sum of the intrinsic electrons (Ni) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 6 x 10^28. This is doped simultaneously with 12 x 10^(22) atoms per m3 of Arsenic and 17 x 10^20 atoms per m3 of Indium. Given that the ni = 1694 x 10^16 m^(-3), calculate the number of electrons, is it p-type or n-type?\n",
+        "input": "Ne = Ni + N2 + N3",
+        "output": "1.20e+23, n-type semiconductor\nThe total number of electrons (Ne) is the sum of the intrinsic electrons (Ni) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "A p-n photodiode is fabricated from a semiconductor with band gap of 1.72 eV. Can it detect a wavelength of 16891 nm?\n",
+        "input": "E = (h*c/wavelength)*1.6*10^-19",
+        "output": "no, it cannot detect\nIf E<band gap then wavelenght cannot be detected."
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 9 x 10^28. This is doped simultaneously with 15 x 10^(22) atoms per m3 of Arsenic and 20 x 10^20 atoms per m3 of Indium. Given that the ni = 886 x 10^16 m^(-3), calculate the number of electrons, is it p-type or n-type?\n",
+        "input": "Ne = Ni + N2 + N3",
+        "output": "1.50e+23, n-type semiconductor\nThe total number of electrons (Ne) is the sum of the intrinsic electrons (Ni) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    },
+    {
+        "instruction": "A p-n photodiode is fabricated from a semiconductor with band gap of 0.25 eV. Can it detect a wavelength of 17424 nm?\n",
+        "input": "E = (h*c/wavelength)*1.6*10^-19",
+        "output": "no, it cannot detect\nIf E<band gap then wavelenght cannot be detected."
+    },
+    {
+        "instruction": "The number of silicon atoms per m3 is 18 x 10^28. This is doped simultaneously with 5 x 10^(22) atoms per m3 of Arsenic and 11 x 10^20 atoms per m3 of Indium. Given that the ni = 1118 x 10^16 m^(-3), calculate the number of electrons, is it p-type or n-type?\n",
+        "input": "Ne = Ni + N2 + N3",
+        "output": "5.00e+22, n-type semiconductor\nThe total number of electrons (Ne) is the sum of the intrinsic electrons (Ni) and the electrons contributed by the dopants.\n As the major dopant is Arsenic, it is a n-type semiconductor"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "An electric appliance of 55537 W power rating is operated in a domestic electric circuit of 225 V that has a current rating of 26.9 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 55537/225 - 26.9 = 219.931. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 86085 W power rating is operated in a domestic electric circuit of 226 V that has a current rating of 80.8 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 86085/226 - 80.8 = 300.107. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 40591 W power rating is operated in a domestic electric circuit of 236 V that has a current rating of 80.6 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 40591/236 - 80.6 = 91.396. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 18874 W power is operated in a domestic circuit of 220 V. What is the minimum current rating it should have to avoid overloading?",
+        "input": "P/V",
+        "output": "The minimum current rating required = P/V = 18874/220 = 85.8 ampere."
+    },
+    {
+        "instruction": "An electric appliance of 36746 W power rating is operated in a domestic electric circuit of 226 V that has a current rating of 81.2 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 36746/226 - 81.2 = 81.393. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 67059 W power is operated in a domestic circuit of 225 V. What is the minimum current rating it should have to avoid overloading?",
+        "input": "P/V",
+        "output": "The minimum current rating required = P/V = 67059/225 = 298.0 ampere."
+    },
+    {
+        "instruction": "An electric appliance of 98745 W power rating is operated in a domestic electric circuit of 223 V that has a current rating of 6.2 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 98745/223 - 6.2 = 436.603. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 67535 W power rating is operated in a domestic electric circuit of 236 V that has a current rating of 31.4 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 67535/236 - 31.4 = 254.765. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 8102 W power is operated in a domestic circuit of 237 V. What is the minimum current rating it should have to avoid overloading?",
+        "input": "P/V",
+        "output": "The minimum current rating required = P/V = 8102/237 = 34.2 ampere."
+    },
+    {
+        "instruction": "An electric appliance of 52270 W power is operated in a domestic circuit of 232 V. What is the minimum current rating it should have to avoid overloading?",
+        "input": "P/V",
+        "output": "The minimum current rating required = P/V = 52270/232 = 225.3 ampere."
+    },
+    {
+        "instruction": "An electric appliance of 32247 W power rating is operated in a domestic electric circuit of 233 V that has a current rating of 93.1 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 32247/233 - 93.1 = 45.299. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 72636 W power rating is operated in a domestic electric circuit of 226 V that has a current rating of 55.1 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 72636/226 - 55.1 = 266.298. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 29311 W power rating is operated in a domestic electric circuit of 221 V that has a current rating of 23.2 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 29311/221 - 23.2 = 109.429. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 47047 W power rating is operated in a domestic electric circuit of 224 V that has a current rating of 66.1 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 47047/224 - 66.1 = 143.931. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 53469 W power is operated in a domestic circuit of 234 V. What is the minimum current rating it should have to avoid overloading?",
+        "input": "P/V",
+        "output": "The minimum current rating required = P/V = 53469/234 = 228.5 ampere."
+    },
+    {
+        "instruction": "An electric appliance of 49388 W power rating is operated in a domestic electric circuit of 228 V that has a current rating of 88.3 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 49388/228 - 88.3 = 128.314. So, it will not be safe for a longer time."
+    },
+    {
+        "instruction": "An electric appliance of 38142 W power is operated in a domestic circuit of 239 V. What is the minimum current rating it should have to avoid overloading?",
+        "input": "P/V",
+        "output": "The minimum current rating required = P/V = 38142/239 = 159.6 ampere."
+    },
+    {
+        "instruction": "An electric appliance of 1569 W power is operated in a domestic circuit of 227 V. What is the minimum current rating it should have to avoid overloading?",
+        "input": "P/V",
+        "output": "The minimum current rating required = P/V = 1569/227 = 6.9 ampere."
+    },
+    {
+        "instruction": "An electric appliance of 77607 W power is operated in a domestic circuit of 240 V. What is the minimum current rating it should have to avoid overloading?",
+        "input": "P/V",
+        "output": "The minimum current rating required = P/V = 77607/240 = 323.4 ampere."
+    },
+    {
+        "instruction": "An electric appliance of 35022 W power rating is operated in a domestic electric circuit of 220 V that has a current rating of 44.6 A. Will the appliance be safe for a longer time?",
+        "input": "P/V - I",
+        "output": "It will be safer if P/V - I is less than or equal to 0.01. Now P/V - I = 35022/220 - 44.6 = 114.591. So, it will not be safe for a longer time."
+    }
+]

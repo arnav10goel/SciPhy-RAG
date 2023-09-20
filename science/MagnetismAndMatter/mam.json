@@ -1,0 +1,552 @@
+[
+    {
+        "instruction": "A short bar magnet of magnetic moment 1.47 is placed with its axis at 87 degrees with a uniform external magnetic field of 0.35 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 1.47 * 0.35 * 1.00."
+    },
+    {
+        "instruction": "A short bar magnet placed with its axis at 89 degrees with a uniform external magnetic field of 0.12 T experiences a torque of magnitude equal to 0.099 J. What is the magnitude of the magnetic moment of the bar magnet?",
+        "input": "t / (b * sin(d*pi/180))",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d). Solving for 'm', we have m = t / (b * sin(d)) = 0.099 / (0.12 * 1.00)."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 1.83 is placed with its axis at 3 degrees with a uniform external magnetic field of 0.53 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 1.83 * 0.53 * 0.05."
+    },
+    {
+        "instruction": "A short bar magnet placed with its axis at 28 degrees with a uniform external magnetic field of 0.04 T experiences a torque of magnitude equal to 0.182 J. What is the magnitude of the magnetic moment of the bar magnet?",
+        "input": "t / (b * sin(d*pi/180))",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d). Solving for 'm', we have m = t / (b * sin(d)) = 0.182 / (0.04 * 0.47)."
+    },
+    {
+        "instruction": "A short bar magnet placed with its axis at 71 degrees with a uniform external magnetic field of 0.36 T experiences a torque of magnitude equal to 0.145 J. What is the magnitude of the magnetic moment of the bar magnet?",
+        "input": "t / (b * sin(d*pi/180))",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d). Solving for 'm', we have m = t / (b * sin(d)) = 0.145 / (0.36 * 0.95)."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.16 is placed with its axis at 18 degrees with a uniform external magnetic field of 0.3 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 0.16 * 0.3 * 0.31."
+    },
+    {
+        "instruction": "A short bar magnet placed with its axis at 51 degrees with a uniform external magnetic field of 0.86 T experiences a torque of magnitude equal to 0.142 J. What is the magnitude of the magnetic moment of the bar magnet?",
+        "input": "t / (b * sin(d*pi/180))",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d). Solving for 'm', we have m = t / (b * sin(d)) = 0.142 / (0.86 * 0.78)."
+    },
+    {
+        "instruction": "A short bar magnet placed with its axis at 89 degrees with a uniform external magnetic field of 0.34 T experiences a torque of magnitude equal to 0.068 J. What is the magnitude of the magnetic moment of the bar magnet?",
+        "input": "t / (b * sin(d*pi/180))",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d). Solving for 'm', we have m = t / (b * sin(d)) = 0.068 / (0.34 * 1.00)."
+    },
+    {
+        "instruction": "A short bar magnet placed with its axis at 31 degrees with a uniform external magnetic field of 0.93 T experiences a torque of magnitude equal to 0.131 J. What is the magnitude of the magnetic moment of the bar magnet?",
+        "input": "t / (b * sin(d*pi/180))",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d). Solving for 'm', we have m = t / (b * sin(d)) = 0.131 / (0.93 * 0.52)."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.15 is placed with its axis at 24 degrees with a uniform external magnetic field of 0.61 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 0.15 * 0.61 * 0.41."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 1.2 is placed with its axis at 87 degrees with a uniform external magnetic field of 0.2 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 1.2 * 0.2 * 1.00."
+    },
+    {
+        "instruction": "A short bar magnet placed with its axis at 64 degrees with a uniform external magnetic field of 0.5 T experiences a torque of magnitude equal to 0.156 J. What is the magnitude of the magnetic moment of the bar magnet?",
+        "input": "t / (b * sin(d*pi/180))",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d). Solving for 'm', we have m = t / (b * sin(d)) = 0.156 / (0.5 * 0.90)."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.77 is placed with its axis at 78 degrees with a uniform external magnetic field of 0.22 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 0.77 * 0.22 * 0.98."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 1.5 is placed with its axis at 90 degrees with a uniform external magnetic field of 0.45 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 1.5 * 0.45 * 1.00."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.47 is placed with its axis at 70 degrees with a uniform external magnetic field of 0.65 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 0.47 * 0.65 * 0.94."
+    },
+    {
+        "instruction": "A short bar magnet placed with its axis at 73 degrees with a uniform external magnetic field of 0.48 T experiences a torque of magnitude equal to 0.06 J. What is the magnitude of the magnetic moment of the bar magnet?",
+        "input": "t / (b * sin(d*pi/180))",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d). Solving for 'm', we have m = t / (b * sin(d)) = 0.06 / (0.48 * 0.96)."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.08 is placed with its axis at 81 degrees with a uniform external magnetic field of 0.16 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 0.08 * 0.16 * 0.99."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.21 is placed with its axis at 55 degrees with a uniform external magnetic field of 0.27 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 0.21 * 0.27 * 0.82."
+    },
+    {
+        "instruction": "A short bar magnet placed with its axis at 12 degrees with a uniform external magnetic field of 0.64 T experiences a torque of magnitude equal to 0.123 J. What is the magnitude of the magnetic moment of the bar magnet?",
+        "input": "t / (b * sin(d*pi/180))",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d). Solving for 'm', we have m = t / (b * sin(d)) = 0.123 / (0.64 * 0.21)."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.06 is placed with its axis at 32 degrees with a uniform external magnetic field of 0.49 T. What is the magnitude of the torque experienced by the bar magnet?",
+        "input": "m * b * sin(d*pi/180)",
+        "output": "If 'b' is the magnetic field strength, 't' is the torque due to that magnetic moment, 'd' is the angle between the axis of the magnet and the magnetic field, and 'm' is the magnetic moment, then t = m * b * sin(d) = 0.06 * 0.49 * 0.53."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 220 turns and an area of cross-section 0.0182 m\u00b2 carries a current of 82 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 220 * 82 * 0.0182 = 328.32800000000003."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 640 turns and an area of cross-section 0.0091 m\u00b2 carries a current of 34 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 640 * 34 * 0.0091 = 198.01600000000002."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 220 turns and an area of cross-section 0.0069 m\u00b2 carries a current of 77 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 220 * 77 * 0.0069 = 116.886."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 220 turns and an area of cross-section 0.011 m\u00b2 carries a current of 10 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 220 * 10 * 0.011 = 24.2."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 680 turns and an area of cross-section 0.0041 m\u00b2 carries a current of 75 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 680 * 75 * 0.0041 = 209.10000000000002."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 800 turns and an area of cross-section 0.0175 m\u00b2 carries a current of 70 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 800 * 70 * 0.0175 = 980.0000000000001."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 760 turns and an area of cross-section 0.0083 m\u00b2 carries a current of 91 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 760 * 91 * 0.0083 = 574.028."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 840 turns and an area of cross-section 0.0169 m\u00b2 carries a current of 97 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 840 * 97 * 0.0169 = 1377.012."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 360 turns and an area of cross-section 0.0078 m\u00b2 carries a current of 8 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 360 * 8 * 0.0078 = 22.464."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 520 turns and an area of cross-section 0.0128 m\u00b2 carries a current of 51 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 520 * 51 * 0.0128 = 339.456."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 480 turns and an area of cross-section 0.0131 m\u00b2 carries a current of 88 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 480 * 88 * 0.0131 = 553.344."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 800 turns and an area of cross-section 0.0062 m\u00b2 carries a current of 93 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 800 * 93 * 0.0062 = 461.28."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 300 turns and an area of cross-section 0.0022 m\u00b2 carries a current of 93 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 300 * 93 * 0.0022 = 61.38."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 640 turns and an area of cross-section 0.0017 m\u00b2 carries a current of 61 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 640 * 61 * 0.0017 = 66.368."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 800 turns and an area of cross-section 0.0176 m\u00b2 carries a current of 40 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 800 * 40 * 0.0176 = 563.2."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 720 turns and an area of cross-section 0.0107 m\u00b2 carries a current of 47 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 720 * 47 * 0.0107 = 362.08799999999997."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 560 turns and an area of cross-section 0.0198 m\u00b2 carries a current of 65 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 560 * 65 * 0.0198 = 720.72."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 620 turns and an area of cross-section 0.0059 m\u00b2 carries a current of 57 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 620 * 57 * 0.0059 = 208.506."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 180 turns and an area of cross-section 0.0093 m\u00b2 carries a current of 21 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 180 * 21 * 0.0093 = 35.153999999999996."
+    },
+    {
+        "instruction": "A closely wounded solenoid of 200 turns and an area of cross-section 0.0101 m\u00b2 carries a current of 77 A. What is its associated magnetic moment?",
+        "input": "n * i * A",
+        "output": "The magnetic moment (m) of a solenoid is given by the formula m = n * i * A, where 'n' is the number of turns, 'i' is the current, and 'A' is the area of cross-section. Substituting the given values, we have m = 200 * 77 * 0.0101 = 155.54."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 18.11 J/T is placed in a uniform magnetic field of 4.04 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at unstable position?",
+        "input": "m * b",
+        "output": "The potential energy of the magnet at an unstable position can be calculated using the formula m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have 18.11 * 4.04 = 7.32e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 5.35 J/T is placed in a uniform magnetic field of 15.95 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 2 degrees with the magnetic field?",
+        "input": "-m * b * 1.00",
+        "output": "The potential energy of the magnet at a position making an angle of 0.9993908270190958 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(5.35) * 15.95 * 1.00 = -8.53e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.58 J/T is placed in a uniform magnetic field of 13.64 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at stable position?",
+        "input": "-m * b",
+        "output": "The potential energy of the magnet at a stable position can be calculated using the formula -m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have -(0.58) * 13.64 = -7.91e+00 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 18.03 J/T is placed in a uniform magnetic field of 12.58 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at stable position?",
+        "input": "-m * b",
+        "output": "The potential energy of the magnet at a stable position can be calculated using the formula -m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have -(18.03) * 12.58 = -2.27e+02 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.63 J/T is placed in a uniform magnetic field of 8.41 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at unstable position?",
+        "input": "m * b",
+        "output": "The potential energy of the magnet at an unstable position can be calculated using the formula m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have 0.63 * 8.41 = 5.30e+00 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 7.48 J/T is placed in a uniform magnetic field of 19.85 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at unstable position?",
+        "input": "m * b",
+        "output": "The potential energy of the magnet at an unstable position can be calculated using the formula m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have 7.48 * 19.85 = 1.48e+02 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 8.13 J/T is placed in a uniform magnetic field of 2.2 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at stable position?",
+        "input": "-m * b",
+        "output": "The potential energy of the magnet at a stable position can be calculated using the formula -m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have -(8.13) * 2.2 = -1.79e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.12 J/T is placed in a uniform magnetic field of 12.93 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 162 degrees with the magnetic field?",
+        "input": "-m * b * -0.95",
+        "output": "The potential energy of the magnet at a position making an angle of -0.9510565162951535 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(0.12) * 12.93 * -0.95 = 1.48e+00 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 2.16 J/T is placed in a uniform magnetic field of 9.07 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 92 degrees with the magnetic field?",
+        "input": "-m * b * -0.03",
+        "output": "The potential energy of the magnet at a position making an angle of -0.03489949670250073 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(2.16) * 9.07 * -0.03 = 6.84e-01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 14.79 J/T is placed in a uniform magnetic field of 11.13 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 128 degrees with the magnetic field?",
+        "input": "-m * b * -0.62",
+        "output": "The potential energy of the magnet at a position making an angle of -0.6156614753256583 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(14.79) * 11.13 * -0.62 = 1.01e+02 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 10.59 J/T is placed in a uniform magnetic field of 7.55 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at stable position?",
+        "input": "-m * b",
+        "output": "The potential energy of the magnet at a stable position can be calculated using the formula -m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have -(10.59) * 7.55 = -8.00e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 9.5 J/T is placed in a uniform magnetic field of 10.57 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 77 degrees with the magnetic field?",
+        "input": "-m * b * 0.22",
+        "output": "The potential energy of the magnet at a position making an angle of 0.22495105434386492 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(9.5) * 10.57 * 0.22 = -2.26e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 3.18 J/T is placed in a uniform magnetic field of 6.61 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 93 degrees with the magnetic field?",
+        "input": "-m * b * -0.05",
+        "output": "The potential energy of the magnet at a position making an angle of -0.05233595624294362 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(3.18) * 6.61 * -0.05 = 1.10e+00 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 18.21 J/T is placed in a uniform magnetic field of 9.05 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at stable position?",
+        "input": "-m * b",
+        "output": "The potential energy of the magnet at a stable position can be calculated using the formula -m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have -(18.21) * 9.05 = -1.65e+02 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 1.49 J/T is placed in a uniform magnetic field of 14.68 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 88 degrees with the magnetic field?",
+        "input": "-m * b * 0.03",
+        "output": "The potential energy of the magnet at a position making an angle of 0.03489949670250108 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(1.49) * 14.68 * 0.03 = -7.63e-01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 18.03 J/T is placed in a uniform magnetic field of 19.73 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 61 degrees with the magnetic field?",
+        "input": "-m * b * 0.48",
+        "output": "The potential energy of the magnet at a position making an angle of 0.4848096202463371 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(18.03) * 19.73 * 0.48 = -1.72e+02 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 11.77 J/T is placed in a uniform magnetic field of 18.36 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 33 degrees with the magnetic field?",
+        "input": "-m * b * 0.84",
+        "output": "The potential energy of the magnet at a position making an angle of 0.838670567945424 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(11.77) * 18.36 * 0.84 = -1.81e+02 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 9.04 J/T is placed in a uniform magnetic field of 16.54 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 22 degrees with the magnetic field?",
+        "input": "-m * b * 0.93",
+        "output": "The potential energy of the magnet at a position making an angle of 0.9271838545667874 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(9.04) * 16.54 * 0.93 = -1.39e+02 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 15.92 J/T is placed in a uniform magnetic field of 8.87 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at unstable position?",
+        "input": "m * b",
+        "output": "The potential energy of the magnet at an unstable position can be calculated using the formula m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have 15.92 * 8.87 = 1.41e+02 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 12.74 J/T is placed in a uniform magnetic field of 6.81 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at unstable position?",
+        "input": "m * b",
+        "output": "The potential energy of the magnet at an unstable position can be calculated using the formula m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have 12.74 * 6.81 = 8.68e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 11.42 J/T is placed in a uniform magnetic field of 17.39 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 116 degrees with the magnetic field?",
+        "input": "-m * b * -0.44",
+        "output": "The potential energy of the magnet at a position making an angle of -0.4383711467890775 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(11.42) * 17.39 * -0.44 = 8.71e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 0.21 J/T is placed in a uniform magnetic field of 5.61 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at stable position?",
+        "input": "-m * b",
+        "output": "The potential energy of the magnet at a stable position can be calculated using the formula -m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have -(0.21) * 5.61 = -1.18e+00 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 3.38 J/T is placed in a uniform magnetic field of 2.65 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at stable position?",
+        "input": "-m * b",
+        "output": "The potential energy of the magnet at a stable position can be calculated using the formula -m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have -(3.38) * 2.65 = -8.96e+00 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 18.38 J/T is placed in a uniform magnetic field of 7.44 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 115 degrees with the magnetic field?",
+        "input": "-m * b * -0.42",
+        "output": "The potential energy of the magnet at a position making an angle of -0.42261826174069933 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(18.38) * 7.44 * -0.42 = 5.78e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 17.25 J/T is placed in a uniform magnetic field of 9.25 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 11 degrees with the magnetic field?",
+        "input": "-m * b * 0.98",
+        "output": "The potential energy of the magnet at a position making an angle of 0.981627183447664 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(17.25) * 9.25 * 0.98 = -1.57e+02 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 14.67 J/T is placed in a uniform magnetic field of 11.02 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at stable position?",
+        "input": "-m * b",
+        "output": "The potential energy of the magnet at a stable position can be calculated using the formula -m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have -(14.67) * 11.02 = -1.62e+02 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 6.48 J/T is placed in a uniform magnetic field of 13.22 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at unstable position?",
+        "input": "m * b",
+        "output": "The potential energy of the magnet at an unstable position can be calculated using the formula m * b, where 'm' is the magnetic moment of the bar magnet and 'b' is the magnetic field strength. Substituting the given values, we have 6.48 * 13.22 = 8.57e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 8.34 J/T is placed in a uniform magnetic field of 4.7 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 133 degrees with the magnetic field?",
+        "input": "-m * b * -0.68",
+        "output": "The potential energy of the magnet at a position making an angle of -0.6819983600624984 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(8.34) * 4.7 * -0.68 = 2.67e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 14.98 J/T is placed in a uniform magnetic field of 6.26 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 169 degrees with the magnetic field?",
+        "input": "-m * b * -0.98",
+        "output": "The potential energy of the magnet at a position making an angle of -0.9816271834476639 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(14.98) * 6.26 * -0.98 = 9.21e+01 joule."
+    },
+    {
+        "instruction": "A short bar magnet of magnetic moment 9.77 J/T is placed in a uniform magnetic field of 17.19 T. If the magnet is free to rotate in the plane of the field, what is the potential energy of the magnet at a position making an angle of 146 degrees with the magnetic field?",
+        "input": "-m * b * -0.83",
+        "output": "The potential energy of the magnet at a position making an angle of -0.8290375725550416 degrees with the magnetic field can be calculated using the formula -m * b * cos(d), where 'm' is the magnetic moment of the bar magnet, 'b' is the magnetic field strength, and 'd' is the angle. Substituting the given values, we have -(9.77) * 17.19 * -0.83 = 1.39e+02 joule."
+    },
+    {
+        "instruction": "A bar magnet of magnetic moment 0.57 J/T is kept in a uniform magnetic field of 0.46 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 40 degrees with the magnetic field to an angle of 97 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.766044443118978 degrees with the magnetic field to an angle of -0.12186934340514737 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.57) * 0.46 * (0.77 - -0.12)."
+    },
+    {
+        "instruction": "A bar magnet of magnetic moment 0.72 J/T is kept in a uniform magnetic field of 0.37 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 107 degrees with the magnetic field to an angle of 115 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of -0.29237170472273666 degrees with the magnetic field to an angle of -0.42261826174069933 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.72) * 0.37 * (-0.29 - -0.42)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 1.16 J/T is kept in a uniform magnetic field of 0.38 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 42 degrees with the magnetic field to an angle of 151 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.7431448254773942 degrees with the magnetic field to an angle of -0.8746197071393957 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(1.16) * 0.38 * (0.74 - -0.87)."
+    },
+    {
+        "instruction": "A bar magnet of magnetic moment 0.79 J/T is kept in a uniform magnetic field of 0.03 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 17 degrees with the magnetic field to an angle of 43 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.9563047559630354 degrees with the magnetic field to an angle of 0.7313537016191706 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.79) * 0.03 * (0.96 - 0.73)."
+    },
+    {
+        "instruction": "A bar magnet of magnetic moment 0.13 J/T is kept in a uniform magnetic field of 0.08 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 64 degrees with the magnetic field to an angle of 149 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.43837114678907746 degrees with the magnetic field to an angle of -0.8571673007021122 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.13) * 0.08 * (0.44 - -0.86)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 0.08 J/T is kept in a uniform magnetic field of 0.52 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 36 degrees with the magnetic field to an angle of 107 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.8090169943749475 degrees with the magnetic field to an angle of -0.29237170472273666 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.08) * 0.52 * (0.81 - -0.29)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 0.83 J/T is kept in a uniform magnetic field of 0.93 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 12 degrees with the magnetic field to an angle of 146 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.9781476007338057 degrees with the magnetic field to an angle of -0.8290375725550416 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.83) * 0.93 * (0.98 - -0.83)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 1.36 J/T is kept in a uniform magnetic field of 0.6 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 95 degrees with the magnetic field to an angle of 155 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of -0.08715574274765824 degrees with the magnetic field to an angle of -0.9063077870366499 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(1.36) * 0.6 * (-0.09 - -0.91)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 1.41 J/T is kept in a uniform magnetic field of 0.59 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 89 degrees with the magnetic field to an angle of 101 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.017452406437283376 degrees with the magnetic field to an angle of -0.1908089953765448 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(1.41) * 0.59 * (0.02 - -0.19)."
+    },
+    {
+        "instruction": "A bar magnet of magnetic moment 1.47 J/T is kept in a uniform magnetic field of 0.82 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 86 degrees with the magnetic field to an angle of 155 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.06975647374412546 degrees with the magnetic field to an angle of -0.9063077870366499 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(1.47) * 0.82 * (0.07 - -0.91)."
+    },
+    {
+        "instruction": "A bar magnet of magnetic moment 1.21 J/T is kept in a uniform magnetic field of 0.08 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 55 degrees with the magnetic field to an angle of 56 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.573576436351046 degrees with the magnetic field to an angle of 0.5591929034707468 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(1.21) * 0.08 * (0.57 - 0.56)."
+    },
+    {
+        "instruction": "A bar magnet of magnetic moment 0.39 J/T is kept in a uniform magnetic field of 0.92 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 85 degrees with the magnetic field to an angle of 134 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.08715574274765814 degrees with the magnetic field to an angle of -0.694658370458997 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.39) * 0.92 * (0.09 - -0.69)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 0.67 J/T is kept in a uniform magnetic field of 0.15 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 46 degrees with the magnetic field to an angle of 76 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.6946583704589974 degrees with the magnetic field to an angle of 0.2419218955996679 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.67) * 0.15 * (0.69 - 0.24)."
+    },
+    {
+        "instruction": "A bar magnet of magnetic moment 1.3 J/T is kept in a uniform magnetic field of 0.61 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 118 degrees with the magnetic field to an angle of 152 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of -0.46947156278589053 degrees with the magnetic field to an angle of -0.8829475928589268 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(1.3) * 0.61 * (-0.47 - -0.88)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 0.97 J/T is kept in a uniform magnetic field of 0.65 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 105 degrees with the magnetic field to an angle of 125 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of -0.25881904510252085 degrees with the magnetic field to an angle of -0.5735764363510458 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.97) * 0.65 * (-0.26 - -0.57)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 0.91 J/T is kept in a uniform magnetic field of 0.58 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 66 degrees with the magnetic field to an angle of 88 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.4067366430758002 degrees with the magnetic field to an angle of 0.03489949670250108 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.91) * 0.58 * (0.41 - 0.03)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 1.99 J/T is kept in a uniform magnetic field of 0.71 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 45 degrees with the magnetic field to an angle of 179 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.7071067811865476 degrees with the magnetic field to an angle of -0.9998476951563913 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(1.99) * 0.71 * (0.71 - -1.00)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 0.76 J/T is kept in a uniform magnetic field of 0.36 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 86 degrees with the magnetic field to an angle of 146 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.06975647374412546 degrees with the magnetic field to an angle of -0.8290375725550416 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(0.76) * 0.36 * (0.07 - -0.83)."
+    },
+    {
+        "instruction": "A bar magnet of magnetic moment 1.95 J/T is kept in a uniform magnetic field of 0.85 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 2 degrees with the magnetic field to an angle of 50 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of 0.9993908270190958 degrees with the magnetic field to an angle of 0.6427876096865394 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(1.95) * 0.85 * (1.00 - 0.64)."
+    },
+    {
+        "instruction": "A solenoid of magnetic moment 1.63 J/T is kept in a uniform magnetic field of 0.44 T. What is the work done by an external torque to turn the magnet which is aligned at an angle of 94 degrees with the magnetic field to an angle of 145 degrees?",
+        "input": "-m * b * (d1 - d2)",
+        "output": "The work done by an external torque to turn the magnet aligned at an angle of -0.06975647374412533 degrees with the magnetic field to an angle of -0.8191520442889917 degrees can be calculated using the formula -m * b * (d1 - d2), where 'm' is the magnetic moment of the magnet, 'b' is the magnetic field strength, 'd1' is the initial angle, and 'd2' is the final angle. Substituting the given values, we have -(1.63) * 0.44 * (-0.07 - -0.82)."
+    },
+    {
+        "instruction": "A circular coil of 26 turns and radius 19 cm carrying a current of 3 A rests with its plane normal to an external field of magnitude 0.15 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 6 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (8.846096593978139 * 0.15) / (4 * 3.141592653589793^2 * 6^2) = 0.0009336426849128309 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 27 turns and radius 19 cm carrying a current of 37 A rests with its plane normal to an external field of magnitude 0.68 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 8 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (113.29808329979694 * 0.68) / (4 * 3.141592653589793^2 * 8^2) = 0.030492410995912714 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 29 turns and radius 12 cm carrying a current of 45 A rests with its plane normal to an external field of magnitude 0.92 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 10 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (59.03680914625939 * 0.92) / (4 * 3.141592653589793^2 * 10^2) = 0.013757862576681325 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 46 turns and radius 20 cm carrying a current of 50 A rests with its plane normal to an external field of magnitude 0.63 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 3 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (289.026524130261 * 0.63) / (4 * 3.141592653589793^2 * 3^2) = 0.5124789167559031 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 20 turns and radius 14 cm carrying a current of 40 A rests with its plane normal to an external field of magnitude 0.75 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 11 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (49.26017280828797 * 0.75) / (4 * 3.141592653589793^2 * 11^2) = 0.007734141036201197 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 25 turns and radius 13 cm carrying a current of 29 A rests with its plane normal to an external field of magnitude 0.77 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 10 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (38.49236398810894 * 0.77) / (4 * 3.141592653589793^2 * 10^2) = 0.007507676869898773 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 50 turns and radius 18 cm carrying a current of 44 A rests with its plane normal to an external field of magnitude 0.05 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 11 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (223.93272434788045 * 0.05) / (4 * 3.141592653589793^2 * 11^2) = 0.002343918252807913 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 30 turns and radius 18 cm carrying a current of 46 A rests with its plane normal to an external field of magnitude 0.73 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 10 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (140.46689072730683 * 0.73) / (4 * 3.141592653589793^2 * 10^2) = 0.025973895726665606 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 36 turns and radius 18 cm carrying a current of 38 A rests with its plane normal to an external field of magnitude 0.22 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 12 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (139.2454395035911 * 0.22) / (4 * 3.141592653589793^2 * 12^2) = 0.005388668063205391 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 20 turns and radius 14 cm carrying a current of 7 A rests with its plane normal to an external field of magnitude 0.99 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 12 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (8.620530241450394 * 0.99) / (4 * 3.141592653589793^2 * 12^2) = 0.0015012290007143032 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 19 turns and radius 17 cm carrying a current of 38 A rests with its plane normal to an external field of magnitude 0.19 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 15 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (65.55184399127391 * 0.19) / (4 * 3.141592653589793^2 * 15^2) = 0.0014021557559949008 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 14 turns and radius 17 cm carrying a current of 32 A rests with its plane normal to an external field of magnitude 0.39 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 17 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (40.67482840455777 * 0.39) / (4 * 3.141592653589793^2 * 17^2) = 0.0013903775828507977 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 6 turns and radius 17 cm carrying a current of 38 A rests with its plane normal to an external field of magnitude 0.56 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 8 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (20.700582313033866 * 0.56) / (4 * 3.141592653589793^2 * 8^2) = 0.004588078910717387 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 31 turns and radius 15 cm carrying a current of 30 A rests with its plane normal to an external field of magnitude 0.58 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 7 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (65.73782627636642 * 0.58) / (4 * 3.141592653589793^2 * 7^2) = 0.019710040477905994 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 31 turns and radius 18 cm carrying a current of 15 A rests with its plane normal to an external field of magnitude 0.14 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 3 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (47.33123491898382 * 0.14) / (4 * 3.141592653589793^2 * 3^2) = 0.018649776231508295 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 15 turns and radius 18 cm carrying a current of 45 A rests with its plane normal to an external field of magnitude 0.02 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 15 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (68.70663133400878 * 0.02) / (4 * 3.141592653589793^2 * 15^2) = 0.00015469860468532226 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 17 turns and radius 13 cm carrying a current of 38 A rests with its plane normal to an external field of magnitude 0.32 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 15 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (34.29802363630121 * 0.32) / (4 * 3.141592653589793^2 * 15^2) = 0.0012355969249503705 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 23 turns and radius 16 cm carrying a current of 5 A rests with its plane normal to an external field of magnitude 0.06 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 17 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (9.248848772168353 * 0.06) / (4 * 3.141592653589793^2 * 17^2) = 4.8638631743516255e-05 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 48 turns and radius 13 cm carrying a current of 15 A rests with its plane normal to an external field of magnitude 0.96 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 8 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (38.226899408880605 * 0.96) / (4 * 3.141592653589793^2 * 8^2) = 0.01452448010656637 kgm^2."
+    },
+    {
+        "instruction": "A circular coil of 13 turns and radius 19 cm carrying a current of 25 A rests with its plane normal to an external field of magnitude 0.36 T. The coil is free to turn about an axis in its plane perpendicular to the field direction. When the coil is turned slightly and released, it oscillates about its stable equilibrium with a frequency of 9 sec-1. What is the moment of inertia of the coil about its axis of rotation?",
+        "input": "(m * b) / (4 * pi^2 * v^2)",
+        "output": "The moment of inertia of the coil about its axis of rotation can be calculated using the formula (m * b) / (4 * pi^2 * v^2), where 'm' is the mass of the coil given by n * i * pi * r^2, 'b' is the magnitude of the external magnetic field, 'v' is the frequency of oscillation. Substituting the given values, we have (36.858735808242244 * 0.36) / (4 * 3.141592653589793^2 * 9^2) = 0.004149523044057026 kgm^2."
+    }
+]

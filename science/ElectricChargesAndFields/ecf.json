@@ -1,0 +1,1752 @@
+[
+    {
+        "instruction": "Two spheres q1 of charge -20 x 10^(-6)C, q2 of charge -129 x 10^(-6)C are placed at a distance 196 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 196 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is 1.63e+00 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -48 x 10^(-6)C, q2 of charge -78 x 10^(-6)C are placed at a distance 142 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 142 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is 5.46e+00 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 8 x 10^(-6)C, q2 of charge -49 x 10^(-6)C are placed at a distance 144 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 144 cm from both of them, then what is the final force between C and B?\n",
+        "input": "Final force between C and B = k * qa * qb / d^2",
+        "output": "The final force between spheres C and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on C and B respectively, and d is the distance between them. Therefore, the final force between C and B is 2.20e+00 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 46 x 10^(-6)C, q2 of charge 147 x 10^(-6)C are placed at a distance 121 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 121 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is 1.20e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -140 x 10^(-6)C, q2 of charge 6 x 10^(-6)C are placed at a distance 71 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 71 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is 4.00e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -16 x 10^(-6)C, q2 of charge -58 x 10^(-6)C are placed at a distance 199 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 199 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is 6.00e-01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 166 x 10^(-6)C, q2 of charge 90 x 10^(-6)C are placed at a distance 125 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 125 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is 4.14e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 192 x 10^(-6)C, q2 of charge 96 x 10^(-6)C are placed at a distance 194 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 194 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is 2.20e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -124 x 10^(-6)C, q2 of charge 89 x 10^(-6)C are placed at a distance 121 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 121 cm from both of them, then what is the final force between C and B?\n",
+        "input": "Final force between C and B = k * qa * qb / d^2",
+        "output": "The final force between spheres C and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on C and B respectively, and d is the distance between them. Therefore, the final force between C and B is 1.12e+00 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -32 x 10^(-6)C, q2 of charge 134 x 10^(-6)C are placed at a distance 80 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 80 cm from both of them, then what is the final charge on B?\n",
+        "input": "Final charge on B = qa / 4 + qb / 2",
+        "output": "The final charge on sphere B can be calculated by adding half of the initial charge qa and the full charge qb. Therefore, the final charge on B is 59.0 coulomb\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -136 x 10^(-6)C, q2 of charge -144 x 10^(-6)C are placed at a distance 143 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 143 cm from both of them, then what is the final charge on B?\n",
+        "input": "Final charge on B = qa / 4 + qb / 2",
+        "output": "The final charge on sphere B can be calculated by adding half of the initial charge qa and the full charge qb. Therefore, the final charge on B is -106.0 coulomb\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 43 x 10^(-6)C, q2 of charge 180 x 10^(-6)C are placed at a distance 8 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 8 cm from both of them, then what is the final charge on B?\n",
+        "input": "Final charge on B = qa / 4 + qb / 2",
+        "output": "The final charge on sphere B can be calculated by adding half of the initial charge qa and the full charge qb. Therefore, the final charge on B is 100.75 coulomb\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -13 x 10^(-6)C, q2 of charge 94 x 10^(-6)C are placed at a distance 80 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 80 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is -4.00e+00 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 76 x 10^(-6)C, q2 of charge 6 x 10^(-6)C are placed at a distance 117 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 117 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is 5.50e+00 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -102 x 10^(-6)C, q2 of charge -174 x 10^(-6)C are placed at a distance 37 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 37 cm from both of them, then what is the final force between C and B?\n",
+        "input": "Final force between C and B = k * qa * qb / d^2",
+        "output": "The final force between spheres C and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on C and B respectively, and d is the distance between them. Therefore, the final force between C and B is 8.32e+02 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 161 x 10^(-6)C, q2 of charge -15 x 10^(-6)C are placed at a distance 145 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 145 cm from both of them, then what is the final force between C and B?\n",
+        "input": "Final force between C and B = k * qa * qb / d^2",
+        "output": "The final force between spheres C and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on C and B respectively, and d is the distance between them. Therefore, the final force between C and B is 4.59e+00 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -120 x 10^(-6)C, q2 of charge 96 x 10^(-6)C are placed at a distance 82 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 82 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is -1.45e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 53 x 10^(-6)C, q2 of charge -136 x 10^(-6)C are placed at a distance 111 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 111 cm from both of them, then what is the final charge on A?\n",
+        "input": "Final charge on A = qa / 2",
+        "output": "The final charge on sphere A can be calculated by dividing the initial charge qa by 2. Therefore, the final charge on A is 26.5 coulomb\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 115 x 10^(-6)C, q2 of charge 26 x 10^(-6)C are placed at a distance 109 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 109 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is 1.82e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -165 x 10^(-6)C, q2 of charge -32 x 10^(-6)C are placed at a distance 188 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 188 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is 1.20e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -107 x 10^(-6)C, q2 of charge 47 x 10^(-6)C are placed at a distance 52 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 52 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is 5.79e+00 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 96 x 10^(-6)C, q2 of charge -165 x 10^(-6)C are placed at a distance 73 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 73 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is -4.74e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -174 x 10^(-6)C, q2 of charge -95 x 10^(-6)C are placed at a distance 66 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 66 cm from both of them, then what is the final charge on C?\n",
+        "input": "Final charge on C = qa / 4 + qb / 2",
+        "output": "The final charge on sphere C can be calculated by adding half of the initial charge qa and the full charge qb. Therefore, the final charge on C is -91.0 coulomb\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 73 x 10^(-6)C, q2 of charge 198 x 10^(-6)C are placed at a distance 92 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 92 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is 4.55e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 136 x 10^(-6)C, q2 of charge 169 x 10^(-6)C are placed at a distance 82 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 82 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is 1.08e+02 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 198 x 10^(-6)C, q2 of charge 69 x 10^(-6)C are placed at a distance 60 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 60 cm from both of them, then what is the final charge on B?\n",
+        "input": "Final charge on B = qa / 4 + qb / 2",
+        "output": "The final charge on sphere B can be calculated by adding half of the initial charge qa and the full charge qb. Therefore, the final charge on B is 84.0 coulomb\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -170 x 10^(-6)C, q2 of charge 150 x 10^(-6)C are placed at a distance 35 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 35 cm from both of them, then what is the final force between C and B?\n",
+        "input": "Final force between C and B = k * qa * qb / d^2",
+        "output": "The final force between spheres C and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on C and B respectively, and d is the distance between them. Therefore, the final force between C and B is 7.76e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 29 x 10^(-6)C, q2 of charge -183 x 10^(-6)C are placed at a distance 194 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 194 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is -2.92e+00 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -171 x 10^(-6)C, q2 of charge -198 x 10^(-6)C are placed at a distance 29 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 29 cm from both of them, then what is the final charge on C?\n",
+        "input": "Final charge on C = qa / 4 + qb / 2",
+        "output": "The final charge on sphere C can be calculated by adding half of the initial charge qa and the full charge qb. Therefore, the final charge on C is -141.75 coulomb\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -94 x 10^(-6)C, q2 of charge -134 x 10^(-6)C are placed at a distance 132 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 132 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is 2.20e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -182 x 10^(-6)C, q2 of charge 184 x 10^(-6)C are placed at a distance 26 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 26 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is -5.63e+02 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -36 x 10^(-6)C, q2 of charge -67 x 10^(-6)C are placed at a distance 33 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 33 cm from both of them, then what is the final charge on B?\n",
+        "input": "Final charge on B = qa / 4 + qb / 2",
+        "output": "The final charge on sphere B can be calculated by adding half of the initial charge qa and the full charge qb. Therefore, the final charge on B is -42.5 coulomb\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -112 x 10^(-6)C, q2 of charge -49 x 10^(-6)C are placed at a distance 67 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 67 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is 5.89e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 108 x 10^(-6)C, q2 of charge 30 x 10^(-6)C are placed at a distance 59 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 59 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is 5.86e+01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -1 x 10^(-6)C, q2 of charge -175 x 10^(-6)C are placed at a distance 198 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 198 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is 1.01e-01 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -131 x 10^(-6)C, q2 of charge -116 x 10^(-6)C are placed at a distance 8 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 8 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is 8.36e+03 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 158 x 10^(-6)C, q2 of charge 100 x 10^(-6)C are placed at a distance 41 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 41 cm from both of them, then what is the final force between A and C?\n",
+        "input": "Final force between A and C = k * qa * qb / d^2",
+        "output": "The final force between spheres A and C can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and C respectively, and d is the distance between them. Therefore, the final force between A and C is 3.79e+02 newton\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 165 x 10^(-6)C, q2 of charge -94 x 10^(-6)C are placed at a distance 22 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 22 cm from both of them, then what is the final charge on B?\n",
+        "input": "Final charge on B = qa / 4 + qb / 2",
+        "output": "The final charge on sphere B can be calculated by adding half of the initial charge qa and the full charge qb. Therefore, the final charge on B is -5.75 coulomb\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge 42 x 10^(-6)C, q2 of charge -92 x 10^(-6)C are placed at a distance 26 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 26 cm from both of them, then what is the final charge on B?\n",
+        "input": "Final charge on B = qa / 4 + qb / 2",
+        "output": "The final charge on sphere B can be calculated by adding half of the initial charge qa and the full charge qb. Therefore, the final charge on B is -35.5 coulomb\n"
+    },
+    {
+        "instruction": "Two spheres q1 of charge -21 x 10^(-6)C, q2 of charge 115 x 10^(-6)C are placed at a distance 127 cm. If an uncharged sphere C first comes in contact with A, then with B and placed at 127 cm from both of them, then what is the final force between A and B?\n",
+        "input": "Final force between A and B = k * qa * qb / d^2",
+        "output": "The final force between spheres A and B can be calculated using the formula F = k * qa * qb / d^2, where k is the electrostatic constant, qa and qb are the charges on A and B respectively, and d is the distance between them. Therefore, the final force between A and B is -3.06e+00 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 9 x 10^(-6)C and q2 = - 9 x 10^(-6)C are located at the points A:(0, 0, - 157 cm) and B:(0, 0, -41 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 1.78e-05 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 26 x 10^(-6)C and q2 = - 26 x 10^(-6)C are located at the points A:(0, 0, - 31 cm) and B:(0, 0, -187 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 5.67e-05 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 116 x 10^(-6)C and q2 = - 116 x 10^(-6)C are located at the points A:(0, 0, - 169 cm) and B:(0, 0, -122 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 3.38e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 178 x 10^(-6)C and q2 = - 178 x 10^(-6)C are located at the points A:(0, 0, - 22 cm) and B:(0, 0, -167 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 3.36e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 141 x 10^(-6)C and q2 = - 141 x 10^(-6)C are located at the points A:(0, 0, - 34 cm) and B:(0, 0, -83 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 1.65e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 113 x 10^(-6)C and q2 = - 113 x 10^(-6)C are located at the points A:(0, 0, - 13 cm) and B:(0, 0, -170 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 2.07e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 30 x 10^(-6)C and q2 = - 30 x 10^(-6)C are located at the points A:(0, 0, - 153 cm) and B:(0, 0, -194 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 1.04e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 138 x 10^(-6)C and q2 = - 138 x 10^(-6)C are located at the points A:(0, 0, - 9 cm) and B:(0, 0, -2 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 1.52e-05 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 63 x 10^(-6)C and q2 = - 63 x 10^(-6)C are located at the points A:(0, 0, - 32 cm) and B:(0, 0, -147 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 1.13e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 173 x 10^(-6)C and q2 = - 173 x 10^(-6)C are located at the points A:(0, 0, - 24 cm) and B:(0, 0, -181 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 3.55e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 166 x 10^(-6)C and q2 = - 166 x 10^(-6)C are located at the points A:(0, 0, - 21 cm) and B:(0, 0, -32 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 8.80e-05 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 60 x 10^(-6)C and q2 = - 60 x 10^(-6)C are located at the points A:(0, 0, - 164 cm) and B:(0, 0, -126 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 1.74e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 11 x 10^(-6)C and q2 = - 11 x 10^(-6)C are located at the points A:(0, 0, - 60 cm) and B:(0, 0, -48 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 1.19e-05 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 157 x 10^(-6)C and q2 = - 157 x 10^(-6)C are located at the points A:(0, 0, - 28 cm) and B:(0, 0, -9 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 5.81e-05 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 200 x 10^(-6)C and q2 = - 200 x 10^(-6)C are located at the points A:(0, 0, - 195 cm) and B:(0, 0, -68 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 5.26e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 105 x 10^(-6)C and q2 = - 105 x 10^(-6)C are located at the points A:(0, 0, - 190 cm) and B:(0, 0, -150 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 3.57e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 117 x 10^(-6)C and q2 = - 117 x 10^(-6)C are located at the points A:(0, 0, - 100 cm) and B:(0, 0, -127 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 2.66e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 137 x 10^(-6)C and q2 = - 137 x 10^(-6)C are located at the points A:(0, 0, - 159 cm) and B:(0, 0, -69 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 3.12e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 165 x 10^(-6)C and q2 = - 165 x 10^(-6)C are located at the points A:(0, 0, - 137 cm) and B:(0, 0, -82 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 3.61e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 74 x 10^(-6)C and q2 = - 74 x 10^(-6)C are located at the points A:(0, 0, - 176 cm) and B:(0, 0, -106 cm), respectively. What are the total charge and electric dipole moment of the system?\n",
+        "input": "Total charge = 0\nElectric dipole moment = q1 * d",
+        "output": "The total charge of the system is 0 coulomb and the electric dipole moment is 2.09e-04 coulomb-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 67 x 10^(-9) C-m is aligned at 110 degrees with the direction of a uniform electric field of magnitude 30 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 67 x 10^(-9) C-m * 30 x 10^4 N C-1 * sin(110)\nTorque = 1.9e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 113 x 10^(-9) C-m is aligned at 131 degrees with the direction of a uniform electric field of magnitude 123 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 113 x 10^(-9) C-m * 123 x 10^4 N C-1 * sin(131)\nTorque = 1.0e+04 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 75 x 10^(-9) C-m is aligned at 82 degrees with the direction of a uniform electric field of magnitude 105 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 75 x 10^(-9) C-m * 105 x 10^4 N C-1 * sin(82)\nTorque = 7.8e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 182 x 10^(-9) C-m is aligned at 116 degrees with the direction of a uniform electric field of magnitude 178 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 182 x 10^(-9) C-m * 178 x 10^4 N C-1 * sin(116)\nTorque = 2.9e+04 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 45 x 10^(-9) C-m is aligned at 73 degrees with the direction of a uniform electric field of magnitude 101 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 45 x 10^(-9) C-m * 101 x 10^4 N C-1 * sin(73)\nTorque = 4.3e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 188 x 10^(-9) C-m is aligned at 134 degrees with the direction of a uniform electric field of magnitude 38 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 188 x 10^(-9) C-m * 38 x 10^4 N C-1 * sin(134)\nTorque = 5.1e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 2 x 10^(-9) C-m is aligned at 55 degrees with the direction of a uniform electric field of magnitude 66 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 2 x 10^(-9) C-m * 66 x 10^4 N C-1 * sin(55)\nTorque = 1.1e+02 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 64 x 10^(-9) C-m is aligned at 144 degrees with the direction of a uniform electric field of magnitude 91 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 64 x 10^(-9) C-m * 91 x 10^4 N C-1 * sin(144)\nTorque = 3.4e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 135 x 10^(-9) C-m is aligned at 14 degrees with the direction of a uniform electric field of magnitude 34 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 135 x 10^(-9) C-m * 34 x 10^4 N C-1 * sin(14)\nTorque = 1.1e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 39 x 10^(-9) C-m is aligned at 116 degrees with the direction of a uniform electric field of magnitude 49 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 39 x 10^(-9) C-m * 49 x 10^4 N C-1 * sin(116)\nTorque = 1.7e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 123 x 10^(-9) C-m is aligned at 128 degrees with the direction of a uniform electric field of magnitude 51 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 123 x 10^(-9) C-m * 51 x 10^4 N C-1 * sin(128)\nTorque = 4.9e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 139 x 10^(-9) C-m is aligned at 17 degrees with the direction of a uniform electric field of magnitude 66 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 139 x 10^(-9) C-m * 66 x 10^4 N C-1 * sin(17)\nTorque = 2.7e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 24 x 10^(-9) C-m is aligned at 37 degrees with the direction of a uniform electric field of magnitude 62 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 24 x 10^(-9) C-m * 62 x 10^4 N C-1 * sin(37)\nTorque = 9.0e+02 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 144 x 10^(-9) C-m is aligned at 51 degrees with the direction of a uniform electric field of magnitude 168 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 144 x 10^(-9) C-m * 168 x 10^4 N C-1 * sin(51)\nTorque = 1.9e+04 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 188 x 10^(-9) C-m is aligned at 148 degrees with the direction of a uniform electric field of magnitude 88 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 188 x 10^(-9) C-m * 88 x 10^4 N C-1 * sin(148)\nTorque = 8.8e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 76 x 10^(-9) C-m is aligned at 99 degrees with the direction of a uniform electric field of magnitude 82 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 76 x 10^(-9) C-m * 82 x 10^4 N C-1 * sin(99)\nTorque = 6.2e+03 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 198 x 10^(-9) C-m is aligned at 47 degrees with the direction of a uniform electric field of magnitude 149 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 198 x 10^(-9) C-m * 149 x 10^4 N C-1 * sin(47)\nTorque = 2.2e+04 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 110 x 10^(-9) C-m is aligned at 171 degrees with the direction of a uniform electric field of magnitude 20 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 110 x 10^(-9) C-m * 20 x 10^4 N C-1 * sin(171)\nTorque = 3.4e+02 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 72 x 10^(-9) C-m is aligned at 118 degrees with the direction of a uniform electric field of magnitude 169 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 72 x 10^(-9) C-m * 169 x 10^4 N C-1 * sin(118)\nTorque = 1.1e+04 newton-m\n"
+    },
+    {
+        "instruction": "An Electric dipole with dipole moment 47 x 10^(-9) C-m is aligned at 34 degrees with the direction of a uniform electric field of magnitude 11 x 10^4 N C-1. Calculate the magnitude of torque acting on the dipole?\n",
+        "input": "Torque = dipole moment * electric field * sin(theta)\n",
+        "output": "The torque acting on an electric dipole in a uniform electric field can be calculated using the formula:\nSubstituting the given values:\nTorque = 47 x 10^(-9) C-m * 11 x 10^4 N C-1 * sin(34)\nTorque = 2.9e+02 newton-m\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -157 x 10^(-6)C and q2 = -14 x 10^(-6)C are located 87 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = -157 x 10^(-6)C, q2 = -14 x 10^(-6)C, and r = 87 cm,\nElectric field = 6.80e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 173 x 10^(-6)C and q2 = -140 x 10^(-6)C are located 102 cm apart in vacuum. What is the force on the test charge of -10 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -10 x 10^(-6)C,\nForce = 1.08e+02 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 18 x 10^(-6)C and q2 = 151 x 10^(-6)C are located 136 cm apart in vacuum. What is the force on the test charge of 10 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = 10 x 10^(-6)C,\nForce = 2.59e+01 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -144 x 10^(-6)C and q2 = -94 x 10^(-6)C are located 131 cm apart in vacuum. What is the force on the test charge of -8 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -8 x 10^(-6)C,\nForce = 8.39e+00 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -100 x 10^(-6)C and q2 = 50 x 10^(-6)C are located 39 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = -100 x 10^(-6)C, q2 = 50 x 10^(-6)C, and r = 39 cm,\nElectric field = 3.55e+07 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -19 x 10^(-6)C and q2 = 132 x 10^(-6)C are located 172 cm apart in vacuum. What is the force on the test charge of -10 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -10 x 10^(-6)C,\nForce = 1.84e+01 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 196 x 10^(-6)C and q2 = 195 x 10^(-6)C are located 58 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 196 x 10^(-6)C, q2 = 195 x 10^(-6)C, and r = 58 cm,\nElectric field = 1.07e+05 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -195 x 10^(-6)C and q2 = -65 x 10^(-6)C are located 155 cm apart in vacuum. What is the force on the test charge of -10 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -10 x 10^(-6)C,\nForce = 1.95e+01 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 118 x 10^(-6)C and q2 = 27 x 10^(-6)C are located 89 cm apart in vacuum. What is the force on the test charge of 4 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = 4 x 10^(-6)C,\nForce = 1.65e+01 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -57 x 10^(-6)C and q2 = 40 x 10^(-6)C are located 28 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = -57 x 10^(-6)C, q2 = 40 x 10^(-6)C, and r = 28 cm,\nElectric field = 4.45e+07 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 58 x 10^(-6)C and q2 = 175 x 10^(-6)C are located 39 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 58 x 10^(-6)C, q2 = 175 x 10^(-6)C, and r = 39 cm,\nElectric field = 2.77e+07 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 97 x 10^(-6)C and q2 = 128 x 10^(-6)C are located 82 cm apart in vacuum. What is the force on the test charge of -2 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -2 x 10^(-6)C,\nForce = 3.32e+00 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 195 x 10^(-6)C and q2 = -179 x 10^(-6)C are located 86 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 195 x 10^(-6)C, q2 = -179 x 10^(-6)C, and r = 86 cm,\nElectric field = 1.82e+07 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 157 x 10^(-6)C and q2 = 72 x 10^(-6)C are located 71 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 157 x 10^(-6)C, q2 = 72 x 10^(-6)C, and r = 71 cm,\nElectric field = 6.07e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 133 x 10^(-6)C and q2 = -89 x 10^(-6)C are located 114 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 133 x 10^(-6)C, q2 = -89 x 10^(-6)C, and r = 114 cm,\nElectric field = 6.15e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -182 x 10^(-6)C and q2 = -10 x 10^(-6)C are located 146 cm apart in vacuum. What is the force on the test charge of -4 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -4 x 10^(-6)C,\nForce = 1.16e+01 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -29 x 10^(-6)C and q2 = 155 x 10^(-6)C are located 84 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = -29 x 10^(-6)C, q2 = 155 x 10^(-6)C, and r = 84 cm,\nElectric field = 9.39e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -35 x 10^(-6)C and q2 = -59 x 10^(-6)C are located 54 cm apart in vacuum. What is the force on the test charge of -2 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -2 x 10^(-6)C,\nForce = 5.93e+00 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -62 x 10^(-6)C and q2 = 106 x 10^(-6)C are located 166 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = -62 x 10^(-6)C, q2 = 106 x 10^(-6)C, and r = 166 cm,\nElectric field = 2.19e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -86 x 10^(-6)C and q2 = 77 x 10^(-6)C are located 44 cm apart in vacuum. What is the force on the test charge of 4 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = 4 x 10^(-6)C,\nForce = 1.21e+02 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -38 x 10^(-6)C and q2 = -86 x 10^(-6)C are located 74 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = -38 x 10^(-6)C, q2 = -86 x 10^(-6)C, and r = 74 cm,\nElectric field = 3.16e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -69 x 10^(-6)C and q2 = -42 x 10^(-6)C are located 71 cm apart in vacuum. What is the force on the test charge of 3 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = 3 x 10^(-6)C,\nForce = 5.78e+00 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 53 x 10^(-6)C and q2 = 30 x 10^(-6)C are located 141 cm apart in vacuum. What is the force on the test charge of 3 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = 3 x 10^(-6)C,\nForce = 1.25e+00 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -152 x 10^(-6)C and q2 = -75 x 10^(-6)C are located 143 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = -152 x 10^(-6)C, q2 = -75 x 10^(-6)C, and r = 143 cm,\nElectric field = 1.36e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 133 x 10^(-6)C and q2 = -6 x 10^(-6)C are located 123 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 133 x 10^(-6)C, q2 = -6 x 10^(-6)C, and r = 123 cm,\nElectric field = 3.31e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 127 x 10^(-6)C and q2 = -1 x 10^(-6)C are located 101 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 127 x 10^(-6)C, q2 = -1 x 10^(-6)C, and r = 101 cm,\nElectric field = 4.52e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 167 x 10^(-6)C and q2 = 104 x 10^(-6)C are located 169 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 167 x 10^(-6)C, q2 = 104 x 10^(-6)C, and r = 169 cm,\nElectric field = 7.94e+05 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 44 x 10^(-6)C and q2 = -141 x 10^(-6)C are located 162 cm apart in vacuum. What is the force on the test charge of -9 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -9 x 10^(-6)C,\nForce = 2.28e+01 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -86 x 10^(-6)C and q2 = 134 x 10^(-6)C are located 19 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = -86 x 10^(-6)C, q2 = 134 x 10^(-6)C, and r = 19 cm,\nElectric field = 2.19e+08 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -159 x 10^(-6)C and q2 = -172 x 10^(-6)C are located 39 cm apart in vacuum. What is the force on the test charge of 5 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = 5 x 10^(-6)C,\nForce = 1.54e+01 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 50 x 10^(-6)C and q2 = -94 x 10^(-6)C are located 77 cm apart in vacuum. What is the force on the test charge of -9 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -9 x 10^(-6)C,\nForce = 7.87e+01 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -180 x 10^(-6)C and q2 = 127 x 10^(-6)C are located 133 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = -180 x 10^(-6)C, q2 = 127 x 10^(-6)C, and r = 133 cm,\nElectric field = 6.25e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -58 x 10^(-6)C and q2 = -163 x 10^(-6)C are located 191 cm apart in vacuum. What is the force on the test charge of -3 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -3 x 10^(-6)C,\nForce = 3.11e+00 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 17 x 10^(-6)C and q2 = 156 x 10^(-6)C are located 45 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 17 x 10^(-6)C, q2 = 156 x 10^(-6)C, and r = 45 cm,\nElectric field = 2.47e+07 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 82 x 10^(-6)C and q2 = -82 x 10^(-6)C are located 98 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 82 x 10^(-6)C, q2 = -82 x 10^(-6)C, and r = 98 cm,\nElectric field = 6.15e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 15 x 10^(-6)C and q2 = -196 x 10^(-6)C are located 153 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 15 x 10^(-6)C, q2 = -196 x 10^(-6)C, and r = 153 cm,\nElectric field = 3.24e+06 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 36 x 10^(-6)C and q2 = 36 x 10^(-6)C are located 91 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = 36 x 10^(-6)C, q2 = 36 x 10^(-6)C, and r = 91 cm,\nElectric field = 0.00e+00 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -13 x 10^(-6)C and q2 = -32 x 10^(-6)C are located 191 cm apart in vacuum. What is the electric field at the midpoint O of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)",
+        "output": "To calculate the electric field at the midpoint O, we use the formula:\nElectric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nGiven q1 = -13 x 10^(-6)C, q2 = -32 x 10^(-6)C, and r = 191 cm,\nElectric field = 1.87e+05 newton/coulomb\n"
+    },
+    {
+        "instruction": "Two point charges q1 = -1 x 10^(-6)C and q2 = 131 x 10^(-6)C are located 119 cm apart in vacuum. What is the force on the test charge of -9 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -9 x 10^(-6)C,\nForce = 3.02e+01 newton\n"
+    },
+    {
+        "instruction": "Two point charges q1 = 173 x 10^(-6)C and q2 = 113 x 10^(-6)C are located 17 cm apart in vacuum. What is the force on the test charge of -5 x 10^(-6)C placed at the midpoint of the line joining two charges?\n",
+        "input": "Electric field = (q1 - q2) / (4 * pi * epsilon * r^2)\nForce = Electric field * test charge",
+        "output": "To calculate the force on the test charge at the midpoint, we use the formula:\nForce = Electric field * test charge\nGiven the electric field as calculated before and the test charge qmid = -5 x 10^(-6)C,\nForce = 3.74e+02 newton\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 219865 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 1.374e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 1.250e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 298283 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 298283 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 1.864e+12 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 82583 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 5.161e+11, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 4.697e-19 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1977232 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 1977232 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 1.236e+13 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1566036 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 9.788e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 8.907e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 749083 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 4.682e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 4.260e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 927777 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 5.799e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 5.277e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1706474 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 1.067e+13, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 9.706e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1393757 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 8.711e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 7.927e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1288453 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 1288453 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 8.053e+12 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1630139 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 1.019e+13, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 9.271e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 914772 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 914772 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 5.717e+12 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 401864 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 401864 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 2.512e+12 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 854737 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 854737 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 5.342e+12 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 47281 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 2.955e+11, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 2.689e-19 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 58384 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 3.649e+11, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 3.321e-19 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1088246 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 6.802e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 6.189e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 340999 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 2.131e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 1.939e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1792478 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 1792478 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 1.120e+13 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1264514 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 7.903e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 7.192e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1652760 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 1652760 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 1.033e+13 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1738464 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 1.087e+13, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 9.888e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1464556 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 9.153e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 8.330e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 827082 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 5.169e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 4.704e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1399625 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 1399625 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 8.748e+12 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1719310 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 1719310 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 1.075e+13 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 1056720 x 10^(-12) C. Estimate the number of electrons transferred (from which to which)?\n",
+        "input": "Number of electrons = (charge / elementary charge)",
+        "output": "To estimate the number of electrons transferred, we use the formula:\nNumber of electrons = (charge / elementary charge)\nGiven charge = 1056720 x 10^(-12) C and elementary charge = 1.6 x 10^(-19) C,\nNumber of electrons = 6.604e+12 electrons transfered from wool to polythene\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 171545 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 1.072e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 9.757e-19 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 707098 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 4.419e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 4.022e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A polythene is rubbed with wool is found to have a negative charge of 667753 x 10^(-12) C. Is there a transfer of mass from wool to polythene?\n",
+        "input": "Mass = (number of electrons) * (mass of one electron)",
+        "output": "To determine if there is a transfer of mass, we consider the mass associated with the number of electrons transferred:\nMass = (number of electrons) * (mass of one electron)\nGiven number of electrons = 4.173e+12, mass of one electron = 9.1 x 10^(-31) kg,\nMass = 3.798e-18 kg of mass is transferred\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 312 cm diameter has a surface charge density of 1397 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 1397 micro-C/m\u00b2, diameter = 312 cm,\nCharge = 4.27e-02 C\n"
+    },
+    {
+        "instruction": "A sphere of radius 2 cm has an unknown charge. If the electric field at 25 cm from the center of the sphere is 3670 N/C and points radially outward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 3670 N/C, distance = 25 cm,\nNet charge = 2.55e-04 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 904 cm diameter has a surface charge density of 133 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 133 micro-C/m\u00b2, diameter = 904 cm,\nCharge = 3.41e-02 C\n"
+    },
+    {
+        "instruction": "A sphere of radius 77 cm has an unknown charge. If the electric field at 89 cm from the center of the sphere is 1700 N/C and points radially inward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "-To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 1700 N/C, distance = 89 cm,\nNet charge = 1.50e-03 C\n"
+    },
+    {
+        "instruction": "A sphere of radius 88 cm has an unknown charge. If the electric field at 142 cm from the center of the sphere is 2090 N/C and points radially outward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 2090 N/C, distance = 142 cm,\nNet charge = 4.68e-03 C\n"
+    },
+    {
+        "instruction": "A sphere of radius 77 cm has an unknown charge. If the electric field at 119 cm from the center of the sphere is 6040 N/C and points radially inward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "-To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 6040 N/C, distance = 119 cm,\nNet charge = 9.50e-03 C\n"
+    },
+    {
+        "instruction": "A sphere of radius 60 cm has an unknown charge. If the electric field at 150 cm from the center of the sphere is 3360 N/C and points radially outward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 3360 N/C, distance = 150 cm,\nNet charge = 8.40e-03 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1803 cm diameter has a surface charge density of 1036 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 1036 micro-C/m\u00b2, diameter = 1803 cm,\nElectric flux = 1.19e+11 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A sphere of radius 8 cm has an unknown charge. If the electric field at 32 cm from the center of the sphere is 4830 N/C and points radially outward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 4830 N/C, distance = 32 cm,\nNet charge = 5.50e-04 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 483 cm diameter has a surface charge density of 24 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 24 micro-C/m\u00b2, diameter = 483 cm,\nCharge = 1.76e-03 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1711 cm diameter has a surface charge density of 1518 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 1518 micro-C/m\u00b2, diameter = 1711 cm,\nCharge = 1.40e+00 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1018 cm diameter has a surface charge density of 1726 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 1726 micro-C/m\u00b2, diameter = 1018 cm,\nCharge = 5.62e-01 C\n"
+    },
+    {
+        "instruction": "A sphere of radius 26 cm has an unknown charge. If the electric field at 112 cm from the center of the sphere is 4290 N/C and points radially outward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 4290 N/C, distance = 112 cm,\nNet charge = 5.98e-03 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 828 cm diameter has a surface charge density of 1348 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 1348 micro-C/m\u00b2, diameter = 828 cm,\nElectric flux = 3.28e+10 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A sphere of radius 95 cm has an unknown charge. If the electric field at 97 cm from the center of the sphere is 6000 N/C and points radially inward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "-To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 6000 N/C, distance = 97 cm,\nNet charge = 6.27e-03 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1705 cm diameter has a surface charge density of 89 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 89 micro-C/m\u00b2, diameter = 1705 cm,\nCharge = 8.13e-02 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1736 cm diameter has a surface charge density of 1757 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 1757 micro-C/m\u00b2, diameter = 1736 cm,\nElectric flux = 1.88e+11 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A sphere of radius 32 cm has an unknown charge. If the electric field at 113 cm from the center of the sphere is 5430 N/C and points radially inward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "-To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 5430 N/C, distance = 113 cm,\nNet charge = 7.70e-03 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1534 cm diameter has a surface charge density of 1737 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 1737 micro-C/m\u00b2, diameter = 1534 cm,\nCharge = 1.28e+00 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1647 cm diameter has a surface charge density of 273 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 273 micro-C/m\u00b2, diameter = 1647 cm,\nElectric flux = 2.63e+10 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1773 cm diameter has a surface charge density of 1865 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 1865 micro-C/m\u00b2, diameter = 1773 cm,\nElectric flux = 2.08e+11 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 91 cm diameter has a surface charge density of 690 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 690 micro-C/m\u00b2, diameter = 91 cm,\nCharge = 1.80e-03 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1262 cm diameter has a surface charge density of 860 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 860 micro-C/m\u00b2, diameter = 1262 cm,\nElectric flux = 4.86e+10 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A sphere of radius 62 cm has an unknown charge. If the electric field at 105 cm from the center of the sphere is 5310 N/C and points radially outward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 5310 N/C, distance = 105 cm,\nNet charge = 6.50e-03 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1161 cm diameter has a surface charge density of 370 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 370 micro-C/m\u00b2, diameter = 1161 cm,\nCharge = 1.57e-01 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 888 cm diameter has a surface charge density of 1584 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 1584 micro-C/m\u00b2, diameter = 888 cm,\nCharge = 3.92e-01 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1534 cm diameter has a surface charge density of 1894 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 1894 micro-C/m\u00b2, diameter = 1534 cm,\nElectric flux = 1.58e+11 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1580 cm diameter has a surface charge density of 482 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 482 micro-C/m\u00b2, diameter = 1580 cm,\nElectric flux = 4.27e+10 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 587 cm diameter has a surface charge density of 882 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 882 micro-C/m\u00b2, diameter = 587 cm,\nElectric flux = 1.08e+10 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1071 cm diameter has a surface charge density of 328 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 328 micro-C/m\u00b2, diameter = 1071 cm,\nCharge = 1.18e-01 C\n"
+    },
+    {
+        "instruction": "A sphere of radius 68 cm has an unknown charge. If the electric field at 153 cm from the center of the sphere is 690 N/C and points radially inward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "-To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 690 N/C, distance = 153 cm,\nNet charge = 1.79e-03 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 728 cm diameter has a surface charge density of 1479 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 1479 micro-C/m\u00b2, diameter = 728 cm,\nElectric flux = 2.78e+10 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 939 cm diameter has a surface charge density of 5 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 5 micro-C/m\u00b2, diameter = 939 cm,\nCharge = 1.39e-03 C\n"
+    },
+    {
+        "instruction": "A sphere of radius 39 cm has an unknown charge. If the electric field at 125 cm from the center of the sphere is 3060 N/C and points radially outward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 3060 N/C, distance = 125 cm,\nNet charge = 5.31e-03 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1072 cm diameter has a surface charge density of 288 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 288 micro-C/m\u00b2, diameter = 1072 cm,\nCharge = 1.04e-01 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1283 cm diameter has a surface charge density of 1831 micro-C/m\u00b2, then find the charge on the sphere?\n",
+        "input": "Charge = Surface charge density * Surface area",
+        "output": "To determine the charge on the sphere, we use the formula:\nCharge = Surface charge density * Surface area\nGiven surface charge density = 1831 micro-C/m\u00b2, diameter = 1283 cm,\nCharge = 9.47e-01 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 367 cm diameter has a surface charge density of 1873 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 1873 micro-C/m\u00b2, diameter = 367 cm,\nElectric flux = 8.95e+09 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A sphere of radius 54 cm has an unknown charge. If the electric field at 63 cm from the center of the sphere is 900 N/C and points radially outward, then what is the net charge on the sphere?\n",
+        "input": "Net charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the net charge on the sphere, we use the formula:\nNet charge = Electric field * (distance^2) * (1 / (4 * pi * epsilon_0))\nGiven electric field = 900 N/C, distance = 63 cm,\nNet charge = 3.97e-04 C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 90 cm diameter has a surface charge density of 78 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 78 micro-C/m\u00b2, diameter = 90 cm,\nElectric flux = 2.24e+07 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A uniformly charged conducting sphere of 1814 cm diameter has a surface charge density of 894 micro-C/m\u00b2, then find the electric flux leaving the sphere?\n",
+        "input": "Electric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))",
+        "output": "To calculate the electric flux leaving the sphere, we use the formula:\nElectric flux = Surface charge density * Surface area * (1 / (4 * pi * epsilon_0))\nGiven surface charge density = 894 micro-C/m\u00b2, diameter = 1814 cm,\nElectric flux = 1.04e+11 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A point charge of 2.483e-06 C is at the center of a cubic Gaussian surface with an edge length of 211 cm. What is the net flux through the surface?\n",
+        "input": "Net flux = (Q / epsilon_0)",
+        "output": "To calculate the net flux through the surface, we use the formula:\nNet flux = (Q / epsilon_0)\nGiven charge Q = 2.483e-06 C,\nNet flux = 2.80e-04 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 6450 N/C, what is the flux through a square of 8 cm, whose plane is at 39 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 6450 N/C, area = 64 cm\u00b2, theta = 39 degrees,\nFlux = 3.21e+01 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 3390 N/C, what is the flux through a square of 35 cm, whose plane is at 79 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 3390 N/C, area = 1225 cm\u00b2, theta = 79 degrees,\nFlux = 7.92e+01 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A point charge of 6.537e-06 C is at the center of a cubic Gaussian surface with an edge length of 294 cm. What is the net flux through the surface?\n",
+        "input": "Net flux = (Q / epsilon_0)",
+        "output": "To calculate the net flux through the surface, we use the formula:\nNet flux = (Q / epsilon_0)\nGiven charge Q = 6.537e-06 C,\nNet flux = 7.38e-04 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A black box has a net outward flux of 1324110 N\u00b7m\u00b2/C through its surface. What is the net charge inside the box?\n",
+        "input": "Net charge = Flux * epsilon_0",
+        "output": "To determine the net charge inside the box, we use the formula:\nNet charge = Flux * epsilon_0\nGiven flux = 1324110 N\u00b7m\u00b2/C,\nNet charge = 1.17e-05 C\n"
+    },
+    {
+        "instruction": "A black box has a net outward flux of 1820079 N\u00b7m\u00b2/C through its surface. What is the net charge inside the box?\n",
+        "input": "Net charge = Flux * epsilon_0",
+        "output": "To determine the net charge inside the box, we use the formula:\nNet charge = Flux * epsilon_0\nGiven flux = 1820079 N\u00b7m\u00b2/C,\nNet charge = 1.61e-05 C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 3990 N/C, what is the flux through a square of 19 cm, whose plane is at 83 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 3990 N/C, area = 361 cm\u00b2, theta = 83 degrees,\nFlux = 1.76e+01 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 7630 N/C, what is the flux through a square of 46 cm, whose plane is at 51 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 7630 N/C, area = 2116 cm\u00b2, theta = 51 degrees,\nFlux = 1.02e+03 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 810 N/C, what is the flux through a square of 391 cm, whose plane is parallel to the yz-plane?\n",
+        "input": "Flux = Electric field * Area",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area\nGiven electric field = 810 N/C, area = 152881 cm\u00b2,\nFlux = 1.24e+04 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A black box has a net outward flux of 673286 N\u00b7m\u00b2/C through its surface. What is the net charge inside the box?\n",
+        "input": "Net charge = Flux * epsilon_0",
+        "output": "To determine the net charge inside the box, we use the formula:\nNet charge = Flux * epsilon_0\nGiven flux = 673286 N\u00b7m\u00b2/C,\nNet charge = 5.96e-06 C\n"
+    },
+    {
+        "instruction": "A point charge of 5.733e-06 C is at the center of a cubic Gaussian surface with an edge length of 281 cm. What is the net flux through the surface?\n",
+        "input": "Net flux = (Q / epsilon_0)",
+        "output": "To calculate the net flux through the surface, we use the formula:\nNet flux = (Q / epsilon_0)\nGiven charge Q = 5.733e-06 C,\nNet flux = 6.48e-04 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A black box has a net outward flux of 967535 N\u00b7m\u00b2/C through its surface. What is the net charge inside the box?\n",
+        "input": "Net charge = Flux * epsilon_0",
+        "output": "To determine the net charge inside the box, we use the formula:\nNet charge = Flux * epsilon_0\nGiven flux = 967535 N\u00b7m\u00b2/C,\nNet charge = 8.57e-06 C\n"
+    },
+    {
+        "instruction": "A black box has a net outward flux of 581195 N\u00b7m\u00b2/C through its surface. What is the net charge inside the box?\n",
+        "input": "Net charge = Flux * epsilon_0",
+        "output": "To determine the net charge inside the box, we use the formula:\nNet charge = Flux * epsilon_0\nGiven flux = 581195 N\u00b7m\u00b2/C,\nNet charge = 5.15e-06 C\n"
+    },
+    {
+        "instruction": "A black box has a net outward flux of 1335502 N\u00b7m\u00b2/C through its surface. What is the net charge inside the box?\n",
+        "input": "Net charge = Flux * epsilon_0",
+        "output": "To determine the net charge inside the box, we use the formula:\nNet charge = Flux * epsilon_0\nGiven flux = 1335502 N\u00b7m\u00b2/C,\nNet charge = 1.18e-05 C\n"
+    },
+    {
+        "instruction": "A black box has a net outward flux of 842908 N\u00b7m\u00b2/C through its surface. What is the net charge inside the box?\n",
+        "input": "Net charge = Flux * epsilon_0",
+        "output": "To determine the net charge inside the box, we use the formula:\nNet charge = Flux * epsilon_0\nGiven flux = 842908 N\u00b7m\u00b2/C,\nNet charge = 7.46e-06 C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 5608 N/C, what is the flux through a square of 378 cm, whose plane is parallel to the yz-plane?\n",
+        "input": "Flux = Electric field * Area",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area\nGiven electric field = 5608 N/C, area = 142884 cm\u00b2,\nFlux = 8.01e+04 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A point charge of 1.158e-06 C is at a distance of 97.0 cm directly above the center of the square of side 194 cm. What is the flux through the square?\n",
+        "input": "Flux = (Q / (6 * epsilon_0)) * A",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = (Q / (6 * epsilon_0)) * A\nGiven charge Q = 1.158e-06 C, area A = 37636 cm\u00b2,\nFlux = 2.18e-05 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A point charge of 5.655e-06 C is at the center of a cubic Gaussian surface with an edge length of 142 cm. What is the net flux through the surface?\n",
+        "input": "Net flux = (Q / epsilon_0)",
+        "output": "To calculate the net flux through the surface, we use the formula:\nNet flux = (Q / epsilon_0)\nGiven charge Q = 5.655e-06 C,\nNet flux = 6.39e-04 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 8140 N/C, what is the flux through a square of 9 cm, whose plane is at 32 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 8140 N/C, area = 81 cm\u00b2, theta = 32 degrees,\nFlux = 5.59e+01 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A black box has a net outward flux of 241654 N\u00b7m\u00b2/C through its surface. What is the net charge inside the box?\n",
+        "input": "Net charge = Flux * epsilon_0",
+        "output": "To determine the net charge inside the box, we use the formula:\nNet charge = Flux * epsilon_0\nGiven flux = 241654 N\u00b7m\u00b2/C,\nNet charge = 2.14e-06 C\n"
+    },
+    {
+        "instruction": "A point charge of 3.6180000000000003e-06 C is at a distance of 67.0 cm directly above the center of the square of side 134 cm. What is the flux through the square?\n",
+        "input": "Flux = (Q / (6 * epsilon_0)) * A",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = (Q / (6 * epsilon_0)) * A\nGiven charge Q = 3.6180000000000003e-06 C, area A = 17956 cm\u00b2,\nFlux = 6.81e-05 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 561 N/C, what is the flux through a square of 346 cm, whose plane is parallel to the yz-plane?\n",
+        "input": "Flux = Electric field * Area",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area\nGiven electric field = 561 N/C, area = 119716 cm\u00b2,\nFlux = 6.72e+03 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 7889 N/C, what is the flux through a square of 239 cm, whose plane is parallel to the yz-plane?\n",
+        "input": "Flux = Electric field * Area",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area\nGiven electric field = 7889 N/C, area = 57121 cm\u00b2,\nFlux = 4.51e+04 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A point charge of 2.1200000000000002e-07 C is at the center of a cubic Gaussian surface with an edge length of 312 cm. What is the net flux through the surface?\n",
+        "input": "Net flux = (Q / epsilon_0)",
+        "output": "To calculate the net flux through the surface, we use the formula:\nNet flux = (Q / epsilon_0)\nGiven charge Q = 2.1200000000000002e-07 C,\nNet flux = 2.39e-05 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A point charge of 2.9140000000000004e-06 C is at a distance of 150.0 cm directly above the center of the square of side 300 cm. What is the flux through the square?\n",
+        "input": "Flux = (Q / (6 * epsilon_0)) * A",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = (Q / (6 * epsilon_0)) * A\nGiven charge Q = 2.9140000000000004e-06 C, area A = 90000 cm\u00b2,\nFlux = 5.49e-05 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 1000 N/C, what is the flux through a square of 38 cm, whose plane is at 8 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 1000 N/C, area = 1444 cm\u00b2, theta = 8 degrees,\nFlux = 1.43e+02 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 4950 N/C, what is the flux through a square of 41 cm, whose plane is at 60 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 4950 N/C, area = 1681 cm\u00b2, theta = 60 degrees,\nFlux = 4.16e+02 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 7650 N/C, what is the flux through a square of 19 cm, whose plane is at 83 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 7650 N/C, area = 361 cm\u00b2, theta = 83 degrees,\nFlux = 3.37e+01 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 9720 N/C, what is the flux through a square of 36 cm, whose plane is at 39 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 9720 N/C, area = 1296 cm\u00b2, theta = 39 degrees,\nFlux = 9.79e+02 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A point charge of 8.365e-06 C is at the center of a cubic Gaussian surface with an edge length of 208 cm. What is the net flux through the surface?\n",
+        "input": "Net flux = (Q / epsilon_0)",
+        "output": "To calculate the net flux through the surface, we use the formula:\nNet flux = (Q / epsilon_0)\nGiven charge Q = 8.365e-06 C,\nNet flux = 9.45e-04 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A point charge of 3.766e-06 C is at a distance of 121.5 cm directly above the center of the square of side 243 cm. What is the flux through the square?\n",
+        "input": "Flux = (Q / (6 * epsilon_0)) * A",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = (Q / (6 * epsilon_0)) * A\nGiven charge Q = 3.766e-06 C, area A = 59049 cm\u00b2,\nFlux = 7.09e-05 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 7090 N/C, what is the flux through a square of 33 cm, whose plane is at 13 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 7090 N/C, area = 1089 cm\u00b2, theta = 13 degrees,\nFlux = 7.52e+02 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 8887 N/C, what is the flux through a square of 66 cm, whose plane is parallel to the yz-plane?\n",
+        "input": "Flux = Electric field * Area",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area\nGiven electric field = 8887 N/C, area = 4356 cm\u00b2,\nFlux = 3.87e+03 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 846 N/C, what is the flux through a square of 82 cm, whose plane is parallel to the yz-plane?\n",
+        "input": "Flux = Electric field * Area",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area\nGiven electric field = 846 N/C, area = 6724 cm\u00b2,\nFlux = 5.69e+02 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A black box has a net outward flux of 1387748 N\u00b7m\u00b2/C through its surface. What is the net charge inside the box?\n",
+        "input": "Net charge = Flux * epsilon_0",
+        "output": "To determine the net charge inside the box, we use the formula:\nNet charge = Flux * epsilon_0\nGiven flux = 1387748 N\u00b7m\u00b2/C,\nNet charge = 1.23e-05 C\n"
+    },
+    {
+        "instruction": "In a uniform electric field of 2930 N/C, what is the flux through a square of 40 cm, whose plane is at 7 degrees angle with the x-axis?\n",
+        "input": "Flux = Electric field * Area * cos(theta)",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = Electric field * Area * cos(theta)\nGiven electric field = 2930 N/C, area = 1600 cm\u00b2, theta = 7 degrees,\nFlux = 4.65e+02 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A point charge of 2.27e-07 C is at the center of a cubic Gaussian surface with an edge length of 137 cm. What is the net flux through the surface?\n",
+        "input": "Net flux = (Q / epsilon_0)",
+        "output": "To calculate the net flux through the surface, we use the formula:\nNet flux = (Q / epsilon_0)\nGiven charge Q = 2.27e-07 C,\nNet flux = 2.56e-05 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A point charge of 9.045e-06 C is at a distance of 102.0 cm directly above the center of the square of side 204 cm. What is the flux through the square?\n",
+        "input": "Flux = (Q / (6 * epsilon_0)) * A",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = (Q / (6 * epsilon_0)) * A\nGiven charge Q = 9.045e-06 C, area A = 41616 cm\u00b2,\nFlux = 1.70e-04 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "A black box has a net outward flux of 1854972 N\u00b7m\u00b2/C through its surface. What is the net charge inside the box?\n",
+        "input": "Net charge = Flux * epsilon_0",
+        "output": "To determine the net charge inside the box, we use the formula:\nNet charge = Flux * epsilon_0\nGiven flux = 1854972 N\u00b7m\u00b2/C,\nNet charge = 1.64e-05 C\n"
+    },
+    {
+        "instruction": "A point charge of 8.247e-06 C is at a distance of 133.0 cm directly above the center of the square of side 266 cm. What is the flux through the square?\n",
+        "input": "Flux = (Q / (6 * epsilon_0)) * A",
+        "output": "To calculate the flux through the square, we use the formula:\nFlux = (Q / (6 * epsilon_0)) * A\nGiven charge Q = 8.247e-06 C, area A = 70756 cm\u00b2,\nFlux = 1.55e-04 N\u00b7m\u00b2/C\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge -0.000121 C due to another small charge of -7e-05 C in air is 44 N. What is the distance between the spheres?\n",
+        "input": "r = sqrt(abs((q1 * q2 * k) / F))",
+        "output": "The distance between the spheres is 1.32e+00 m\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge -0.000149 C due to another small charge of -0.00010999999999999999 C in air is 182 N. What is the distance between the spheres?\n",
+        "input": "r = sqrt(abs((q1 * q2 * k) / F))",
+        "output": "The distance between the spheres is 9.00e-01 m\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge 0.000145 C due to another small charge of 0.000113 C in air is 16 N. What is the force on the second sphere due to the first?\n",
+        "input": "Force = F",
+        "output": "The force on the second sphere due to the first is 16 N\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge -0.000183 C due to another small charge of -0.00019899999999999999 C in air is 20 N. What is the distance between the spheres?\n",
+        "input": "r = sqrt(abs((q1 * q2 * k) / F))",
+        "output": "The distance between the spheres is 4.05e+00 m\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge -0.000139 C due to another small charge of -1.3e-05 C in air is 106 N. What is the force on the second sphere due to the first?\n",
+        "input": "Force = F",
+        "output": "The force on the second sphere due to the first is 106 N\n"
+    },
+    {
+        "instruction": "What is the force between two small charged spheres having charges -2.7e-05 C and -9.099999999999999e-05 C placed 62 cm apart?\n",
+        "input": "Force = (k * q1 * q2) / (d^2)",
+        "output": "The force between the two charged spheres is 5.75e+01 N\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge -0.000157 C due to another small charge of -2.8e-05 C in air is 21 N. What is the distance between the spheres?\n",
+        "input": "r = sqrt(abs((q1 * q2 * k) / F))",
+        "output": "The distance between the spheres is 1.37e+00 m\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge 0.000103 C due to another small charge of 9.6e-05 C in air is 13 N. What is the distance between the spheres?\n",
+        "input": "r = sqrt(abs((q1 * q2 * k) / F))",
+        "output": "The distance between the spheres is 2.62e+00 m\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge -9e-06 C due to another small charge of -9.9e-05 C in air is 48 N. What is the distance between the spheres?\n",
+        "input": "r = sqrt(abs((q1 * q2 * k) / F))",
+        "output": "The distance between the spheres is 4.09e-01 m\n"
+    },
+    {
+        "instruction": "What is the force between two small charged spheres having charges 1.7e-05 C and -0.00018199999999999998 C placed 13 cm apart?\n",
+        "input": "Force = (k * q1 * q2) / (d^2)",
+        "output": "The force between the two charged spheres is -1.65e+03 N\n"
+    },
+    {
+        "instruction": "What is the force between two small charged spheres having charges -0.000144 C and 2.9e-05 C placed 44 cm apart?\n",
+        "input": "Force = (k * q1 * q2) / (d^2)",
+        "output": "The force between the two charged spheres is -1.94e+02 N\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge -0.000186 C due to another small charge of -0.000122 C in air is 195 N. What is the distance between the spheres?\n",
+        "input": "r = sqrt(abs((q1 * q2 * k) / F))",
+        "output": "The distance between the spheres is 1.02e+00 m\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge 6.4e-05 C due to another small charge of -5.1e-05 C in air is 107 N. What is the force on the second sphere due to the first?\n",
+        "input": "Force = F",
+        "output": "The force on the second sphere due to the first is 107 N\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge 6.599999999999999e-05 C due to another small charge of 1.9999999999999998e-05 C in air is 85 N. What is the distance between the spheres?\n",
+        "input": "r = sqrt(abs((q1 * q2 * k) / F))",
+        "output": "The distance between the spheres is 3.74e-01 m\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge 0.000158 C due to another small charge of 0.000139 C in air is 141 N. What is the force on the second sphere due to the first?\n",
+        "input": "Force = F",
+        "output": "The force on the second sphere due to the first is 141 N\n"
+    },
+    {
+        "instruction": "What is the force between two small charged spheres having charges 0.00010499999999999999 C and 6.2e-05 C placed 8 cm apart?\n",
+        "input": "Force = (k * q1 * q2) / (d^2)",
+        "output": "The force between the two charged spheres is 9.15e+03 N\n"
+    },
+    {
+        "instruction": "What is the force between two small charged spheres having charges 0.00015999999999999999 C and -0.000188 C placed 19 cm apart?\n",
+        "input": "Force = (k * q1 * q2) / (d^2)",
+        "output": "The force between the two charged spheres is -7.50e+03 N\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge 3.7999999999999995e-05 C due to another small charge of 0.000187 C in air is 174 N. What is the force on the second sphere due to the first?\n",
+        "input": "Force = F",
+        "output": "The force on the second sphere due to the first is 174 N\n"
+    },
+    {
+        "instruction": "The electrostatic force on a small sphere of charge 9.6e-05 C due to another small charge of 0.000198 C in air is 175 N. What is the distance between the spheres?\n",
+        "input": "r = sqrt(abs((q1 * q2 * k) / F))",
+        "output": "The distance between the spheres is 9.89e-01 m\n"
+    },
+    {
+        "instruction": "What is the force between two small charged spheres having charges 0.000184 C and 6.599999999999999e-05 C placed 72 cm apart?\n",
+        "input": "Force = (k * q1 * q2) / (d^2)",
+        "output": "The force between the two charged spheres is 2.11e+02 N\n"
+    },
+    {
+        "instruction": "Two copper spheres A, B are separated by a distance 49 cm. The force of repulsion if the charge on A is -3.4e-05 C, and the charge on B is 4.4e-05 C is F1. The force of repulsion if the charge on A becomes 4 times, the charge on B becomes 2 times, and the distance between them becomes 2 times is F2. Find F1/F2?\n",
+        "input": "F1/F2 = (d2^2) / (r1 * r2)",
+        "output": "4/8"
+    },
+    {
+        "instruction": "Two copper spheres A, B are separated by a distance 29 cm. The force of repulsion if the charge on A is -1.8999999999999998e-05 C, and the charge on B is -4.2999999999999995e-05 C is F1. The force of repulsion if the charge on A becomes 2 times, the charge on B becomes 4 times, and the distance between them becomes 2 times is F2. Find F1/F2?\n",
+        "input": "F1/F2 = (d2^2) / (r1 * r2)",
+        "output": "4/8"
+    },
+    {
+        "instruction": "Two copper spheres A, B are separated by a distance 8 cm. The force of repulsion if the charge on A is 1.8999999999999998e-05 C, and the charge on B is -2.6e-05 C is F1. The force of repulsion if the charge on A becomes 3 times, the charge on B becomes 4 times, and the distance between them becomes 4 times is F2. Find F1/F2?\n",
+        "input": "F1/F2 = (d2^2) / (r1 * r2)",
+        "output": "16/12"
+    },
+    {
+        "instruction": "Two copper spheres A, B are separated by a distance 7 cm. The force of repulsion if the charge on A is 2.4e-05 C, and the charge on B is 3.9e-05 C is F1. The force of repulsion if the charge on A becomes 5 times, the charge on B becomes 5 times, and the distance between them becomes 2 times is F2. Find F1/F2?\n",
+        "input": "F1/F2 = (d2^2) / (r1 * r2)",
+        "output": "4/25"
+    },
+    {
+        "instruction": "Two copper spheres A, B are separated by a distance 38 cm. The force of repulsion if the charge on A is -9.999999999999999e-06 C, and the charge on B is 2.7e-05 C is F1. The force of repulsion if the charge on A becomes 5 times, the charge on B becomes 3 times, and the distance between them becomes 4 times is F2. Find F1/F2?\n",
+        "input": "F1/F2 = (d2^2) / (r1 * r2)",
+        "output": "16/15"
+    },
+    {
+        "instruction": "Two copper spheres A, B are separated by a distance 29 cm. The force of repulsion if the charge on A is 4e-06 C, and the charge on B is -1.4999999999999999e-05 C is F1. The force of repulsion if the charge on A becomes 2 times, the charge on B becomes 5 times, and the distance between them becomes 4 times is F2. Find F1/F2?\n",
+        "input": "F1/F2 = (d2^2) / (r1 * r2)",
+        "output": "16/10"
+    },
+    {
+        "instruction": "Two copper spheres A, B are separated by a distance 18 cm. The force of repulsion if the charge on A is -3.1e-05 C, and the charge on B is -3.1e-05 C is F1. The force of repulsion if the charge on A becomes 2 times, the charge on B becomes 2 times, and the distance between them becomes 4 times is F2. Find F1/F2?\n",
+        "input": "F1/F2 = (d2^2) / (r1 * r2)",
+        "output": "16/4"
+    },
+    {
+        "instruction": "Two copper spheres A, B are separated by a distance 7 cm. The force of repulsion if the charge on A is -3.7e-05 C, and the charge on B is 1.6e-05 C is F1. The force of repulsion if the charge on A becomes 2 times, the charge on B becomes 5 times, and the distance between them becomes 3 times is F2. Find F1/F2?\n",
+        "input": "F1/F2 = (d2^2) / (r1 * r2)",
+        "output": "9/10"
+    },
+    {
+        "instruction": "Two copper spheres A, B are separated by a distance 1 cm. The force of repulsion if the charge on A is 1.3e-05 C, and the charge on B is -2.8e-05 C is F1. The force of repulsion if the charge on A becomes 2 times, the charge on B becomes 3 times, and the distance between them becomes 5 times is F2. Find F1/F2?\n",
+        "input": "F1/F2 = (d2^2) / (r1 * r2)",
+        "output": "25/6"
+    },
+    {
+        "instruction": "Two copper spheres A, B are separated by a distance 2 cm. The force of repulsion if the charge on A is 3.9999999999999996e-05 C, and the charge on B is 1.9999999999999998e-05 C is F1. The force of repulsion if the charge on A becomes 2 times, the charge on B becomes 5 times, and the distance between them becomes 5 times is F2. Find F1/F2?\n",
+        "input": "F1/F2 = (d2^2) / (r1 * r2)",
+        "output": "25/10"
+    },
+    {
+        "instruction": "An infinite line charge produces a field of 5004 N/C at a distance of 42 cm. Calculate the linear charge density.\n",
+        "input": "Linear charge density = (Electric field * distance) / (18 * epsilon_0)",
+        "output": "To calculate the linear charge density, we use the formula:\nLinear charge density = (Electric field * distance) / (18 * epsilon_0)\nGiven electric field = 5004 N/C, distance = 42 cm,\nLinear charge density = 1.17e-07 C/m\n"
+    },
+    {
+        "instruction": "An infinite line charge produces a field of 8174 N/C at a distance of 30 cm. Calculate the linear charge density.\n",
+        "input": "Linear charge density = (Electric field * distance) / (18 * epsilon_0)",
+        "output": "To calculate the linear charge density, we use the formula:\nLinear charge density = (Electric field * distance) / (18 * epsilon_0)\nGiven electric field = 8174 N/C, distance = 30 cm,\nLinear charge density = 1.36e-07 C/m\n"
+    },
+    {
+        "instruction": "An infinite line charge produces a field of 2367 N/C at a distance of 105 cm. Calculate the linear charge density.\n",
+        "input": "Linear charge density = (Electric field * distance) / (18 * epsilon_0)",
+        "output": "To calculate the linear charge density, we use the formula:\nLinear charge density = (Electric field * distance) / (18 * epsilon_0)\nGiven electric field = 2367 N/C, distance = 105 cm,\nLinear charge density = 1.38e-07 C/m\n"
+    },
+    {
+        "instruction": "An infinite line charge produces a field of 5109 N/C at a distance of 144 cm. Calculate the linear charge density.\n",
+        "input": "Linear charge density = (Electric field * distance) / (18 * epsilon_0)",
+        "output": "To calculate the linear charge density, we use the formula:\nLinear charge density = (Electric field * distance) / (18 * epsilon_0)\nGiven electric field = 5109 N/C, distance = 144 cm,\nLinear charge density = 4.09e-07 C/m\n"
+    },
+    {
+        "instruction": "An infinite line charge produces a field of 7305 N/C at a distance of 166 cm. Calculate the linear charge density.\n",
+        "input": "Linear charge density = (Electric field * distance) / (18 * epsilon_0)",
+        "output": "To calculate the linear charge density, we use the formula:\nLinear charge density = (Electric field * distance) / (18 * epsilon_0)\nGiven electric field = 7305 N/C, distance = 166 cm,\nLinear charge density = 6.74e-07 C/m\n"
+    },
+    {
+        "instruction": "An infinite line charge produces a field of 4353 N/C at a distance of 127 cm. Calculate the linear charge density.\n",
+        "input": "Linear charge density = (Electric field * distance) / (18 * epsilon_0)",
+        "output": "To calculate the linear charge density, we use the formula:\nLinear charge density = (Electric field * distance) / (18 * epsilon_0)\nGiven electric field = 4353 N/C, distance = 127 cm,\nLinear charge density = 3.07e-07 C/m\n"
+    },
+    {
+        "instruction": "An infinite line charge produces a field of 3975 N/C at a distance of 380 cm. Calculate the linear charge density.\n",
+        "input": "Linear charge density = (Electric field * distance) / (18 * epsilon_0)",
+        "output": "To calculate the linear charge density, we use the formula:\nLinear charge density = (Electric field * distance) / (18 * epsilon_0)\nGiven electric field = 3975 N/C, distance = 380 cm,\nLinear charge density = 8.39e-07 C/m\n"
+    },
+    {
+        "instruction": "An infinite line charge produces a field of 6350 N/C at a distance of 275 cm. Calculate the linear charge density.\n",
+        "input": "Linear charge density = (Electric field * distance) / (18 * epsilon_0)",
+        "output": "To calculate the linear charge density, we use the formula:\nLinear charge density = (Electric field * distance) / (18 * epsilon_0)\nGiven electric field = 6350 N/C, distance = 275 cm,\nLinear charge density = 9.70e-07 C/m\n"
+    },
+    {
+        "instruction": "An infinite line charge produces a field of 7816 N/C at a distance of 50 cm. Calculate the linear charge density.\n",
+        "input": "Linear charge density = (Electric field * distance) / (18 * epsilon_0)",
+        "output": "To calculate the linear charge density, we use the formula:\nLinear charge density = (Electric field * distance) / (18 * epsilon_0)\nGiven electric field = 7816 N/C, distance = 50 cm,\nLinear charge density = 2.17e-07 C/m\n"
+    },
+    {
+        "instruction": "An infinite line charge produces a field of 3812 N/C at a distance of 306 cm. Calculate the linear charge density.\n",
+        "input": "Linear charge density = (Electric field * distance) / (18 * epsilon_0)",
+        "output": "To calculate the linear charge density, we use the formula:\nLinear charge density = (Electric field * distance) / (18 * epsilon_0)\nGiven electric field = 3812 N/C, distance = 306 cm,\nLinear charge density = 6.48e-07 C/m\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 56771 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 56771 x 10^(-22) C/m\u00b2,\nElectric field (E) = 6.41e-07 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 77782 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 77782 x 10^(-22) C/m\u00b2,\nElectric field (E) = 8.78e-07 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 1373976 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 1373976 x 10^(-22) C/m\u00b2,\nElectric field (E) = 1.55e-05 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 200193 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 200193 x 10^(-22) C/m\u00b2,\nElectric field (E) = 2.26e-06 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 218802 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 218802 x 10^(-22) C/m\u00b2,\nElectric field (E) = 2.47e-06 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 1532121 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 1532121 x 10^(-22) C/m\u00b2,\nElectric field (E) = 1.73e-05 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 1630036 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 1630036 x 10^(-22) C/m\u00b2,\nElectric field (E) = 1.84e-05 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 1416670 x 10^(-22) C/m\u00b2. What is E: in the outer region of the first plate?\n",
+        "input": "Electric field = 0 N/C",
+        "output": "To calculate the electric field in the outer region of a plate, the electric field is zero.\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 1556226 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 1556226 x 10^(-22) C/m\u00b2,\nElectric field (E) = 1.76e-05 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 43646 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 43646 x 10^(-22) C/m\u00b2,\nElectric field (E) = 4.93e-07 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 1805099 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 1805099 x 10^(-22) C/m\u00b2,\nElectric field (E) = 2.04e-05 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 1479302 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 1479302 x 10^(-22) C/m\u00b2,\nElectric field (E) = 1.67e-05 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 676400 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 676400 x 10^(-22) C/m\u00b2,\nElectric field (E) = 7.64e-06 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 382616 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 382616 x 10^(-22) C/m\u00b2,\nElectric field (E) = 4.32e-06 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 1183966 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 1183966 x 10^(-22) C/m\u00b2,\nElectric field (E) = 1.34e-05 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 619135 x 10^(-22) C/m\u00b2. What is E: in the outer region of the first plate?\n",
+        "input": "Electric field = 0 N/C",
+        "output": "To calculate the electric field in the outer region of a plate, the electric field is zero.\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 1062356 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 1062356 x 10^(-22) C/m\u00b2,\nElectric field (E) = 1.20e-05 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 1691267 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 1691267 x 10^(-22) C/m\u00b2,\nElectric field (E) = 1.91e-05 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 195541 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 195541 x 10^(-22) C/m\u00b2,\nElectric field (E) = 2.21e-06 N/C\n"
+    },
+    {
+        "instruction": "Two large thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 378860 x 10^(-22) C/m\u00b2. What is E: between the plates?\n",
+        "input": "Electric field (E) = surface charge density / (2 * epsilon_0)",
+        "output": "To calculate the electric field between the plates, we use the formula:\nElectric field (E) = surface charge density / (2 * epsilon_0)\nGiven surface charge density = 378860 x 10^(-22) C/m\u00b2,\nElectric field (E) = 4.28e-06 N/C\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -16 x 10^(-6) C, q2 = -1 x 10^(-6) C, q3 = 18 x 10^(-6) C, q4 = -18 x 10^(-6) C, are located at corners of square ABCD of side 17 cm. What is the force on a charge of 20 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -16 x 10^(-6) C, q2 = -1 x 10^(-6) C, q3 = 18 x 10^(-6) C, q4 = -18 x 10^(-6) C, d = 17 cm, and q_c = 20 x 10^(-6) C:\nForce (F) = 2.37e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -10 x 10^(-6) C, q2 = -13 x 10^(-6) C, q3 = -17 x 10^(-6) C, q4 = -14 x 10^(-6) C, are located at corners of square ABCD of side 16 cm. What is the force on a charge of 3 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -10 x 10^(-6) C, q2 = -13 x 10^(-6) C, q3 = -17 x 10^(-6) C, q4 = -14 x 10^(-6) C, d = 16 cm, and q_c = 3 x 10^(-6) C:\nForce (F) = 7.46e+00 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -6 x 10^(-6) C, q2 = 20 x 10^(-6) C, q3 = -14 x 10^(-6) C, q4 = 20 x 10^(-6) C, are located at corners of square ABCD of side 1 cm. What is the force on a charge of 4 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -6 x 10^(-6) C, q2 = 20 x 10^(-6) C, q3 = -14 x 10^(-6) C, q4 = 20 x 10^(-6) C, d = 1 cm, and q_c = 4 x 10^(-6) C:\nForce (F) = 2.88e+03 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = 17 x 10^(-6) C, q2 = 4 x 10^(-6) C, q3 = 6 x 10^(-6) C, q4 = 15 x 10^(-6) C, are located at corners of square ABCD of side 4 cm. What is the force on a charge of 20 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = 17 x 10^(-6) C, q2 = 4 x 10^(-6) C, q3 = 6 x 10^(-6) C, q4 = 15 x 10^(-6) C, d = 4 cm, and q_c = 20 x 10^(-6) C:\nForce (F) = 1.75e+03 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -13 x 10^(-6) C, q2 = -3 x 10^(-6) C, q3 = 12 x 10^(-6) C, q4 = 14 x 10^(-6) C, are located at corners of square ABCD of side 12 cm. What is the force on a charge of -2 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -13 x 10^(-6) C, q2 = -3 x 10^(-6) C, q3 = 12 x 10^(-6) C, q4 = 14 x 10^(-6) C, d = 12 cm, and q_c = -2 x 10^(-6) C:\nForce (F) = -3.78e+01 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = 1 x 10^(-6) C, q2 = 5 x 10^(-6) C, q3 = 18 x 10^(-6) C, q4 = -12 x 10^(-6) C, are located at corners of square ABCD of side 6 cm. What is the force on a charge of -4 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = 1 x 10^(-6) C, q2 = 5 x 10^(-6) C, q3 = 18 x 10^(-6) C, q4 = -12 x 10^(-6) C, d = 6 cm, and q_c = -4 x 10^(-6) C:\nForce (F) = -2.40e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -4 x 10^(-6) C, q2 = -3 x 10^(-6) C, q3 = 8 x 10^(-6) C, q4 = -8 x 10^(-6) C, are located at corners of square ABCD of side 6 cm. What is the force on a charge of -10 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -4 x 10^(-6) C, q2 = -3 x 10^(-6) C, q3 = 8 x 10^(-6) C, q4 = -8 x 10^(-6) C, d = 6 cm, and q_c = -10 x 10^(-6) C:\nForce (F) = -3.25e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -6 x 10^(-6) C, q2 = 12 x 10^(-6) C, q3 = 20 x 10^(-6) C, q4 = -7 x 10^(-6) C, are located at corners of square ABCD of side 5 cm. What is the force on a charge of 6 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -6 x 10^(-6) C, q2 = 12 x 10^(-6) C, q3 = 20 x 10^(-6) C, q4 = -7 x 10^(-6) C, d = 5 cm, and q_c = 6 x 10^(-6) C:\nForce (F) = 6.96e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = 4 x 10^(-6) C, q2 = -11 x 10^(-6) C, q3 = -20 x 10^(-6) C, q4 = 13 x 10^(-6) C, are located at corners of square ABCD of side 3 cm. What is the force on a charge of -15 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = 4 x 10^(-6) C, q2 = -11 x 10^(-6) C, q3 = -20 x 10^(-6) C, q4 = 13 x 10^(-6) C, d = 3 cm, and q_c = -15 x 10^(-6) C:\nForce (F) = -5.09e+03 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = 13 x 10^(-6) C, q2 = -18 x 10^(-6) C, q3 = -7 x 10^(-6) C, q4 = -3 x 10^(-6) C, are located at corners of square ABCD of side 15 cm. What is the force on a charge of -14 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = 13 x 10^(-6) C, q2 = -18 x 10^(-6) C, q3 = -7 x 10^(-6) C, q4 = -3 x 10^(-6) C, d = 15 cm, and q_c = -14 x 10^(-6) C:\nForce (F) = -1.40e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -11 x 10^(-6) C, q2 = 4 x 10^(-6) C, q3 = -5 x 10^(-6) C, q4 = 4 x 10^(-6) C, are located at corners of square ABCD of side 4 cm. What is the force on a charge of 4 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -11 x 10^(-6) C, q2 = 4 x 10^(-6) C, q3 = -5 x 10^(-6) C, q4 = 4 x 10^(-6) C, d = 4 cm, and q_c = 4 x 10^(-6) C:\nForce (F) = 1.35e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = 8 x 10^(-6) C, q2 = 19 x 10^(-6) C, q3 = 7 x 10^(-6) C, q4 = -8 x 10^(-6) C, are located at corners of square ABCD of side 17 cm. What is the force on a charge of -7 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = 8 x 10^(-6) C, q2 = 19 x 10^(-6) C, q3 = 7 x 10^(-6) C, q4 = -8 x 10^(-6) C, d = 17 cm, and q_c = -7 x 10^(-6) C:\nForce (F) = -5.89e+01 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -18 x 10^(-6) C, q2 = 15 x 10^(-6) C, q3 = -18 x 10^(-6) C, q4 = -11 x 10^(-6) C, are located at corners of square ABCD of side 16 cm. What is the force on a charge of 19 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -18 x 10^(-6) C, q2 = 15 x 10^(-6) C, q3 = -18 x 10^(-6) C, q4 = -11 x 10^(-6) C, d = 16 cm, and q_c = 19 x 10^(-6) C:\nForce (F) = 1.74e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -12 x 10^(-6) C, q2 = 6 x 10^(-6) C, q3 = 10 x 10^(-6) C, q4 = -3 x 10^(-6) C, are located at corners of square ABCD of side 16 cm. What is the force on a charge of -3 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -12 x 10^(-6) C, q2 = 6 x 10^(-6) C, q3 = 10 x 10^(-6) C, q4 = -3 x 10^(-6) C, d = 16 cm, and q_c = -3 x 10^(-6) C:\nForce (F) = -2.51e+01 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -17 x 10^(-6) C, q2 = -1 x 10^(-6) C, q3 = -7 x 10^(-6) C, q4 = 15 x 10^(-6) C, are located at corners of square ABCD of side 18 cm. What is the force on a charge of 20 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -17 x 10^(-6) C, q2 = -1 x 10^(-6) C, q3 = -7 x 10^(-6) C, q4 = 15 x 10^(-6) C, d = 18 cm, and q_c = 20 x 10^(-6) C:\nForce (F) = 1.05e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -5 x 10^(-6) C, q2 = 20 x 10^(-6) C, q3 = -6 x 10^(-6) C, q4 = -8 x 10^(-6) C, are located at corners of square ABCD of side 13 cm. What is the force on a charge of 17 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -5 x 10^(-6) C, q2 = 20 x 10^(-6) C, q3 = -6 x 10^(-6) C, q4 = -8 x 10^(-6) C, d = 13 cm, and q_c = 17 x 10^(-6) C:\nForce (F) = 2.54e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -18 x 10^(-6) C, q2 = 16 x 10^(-6) C, q3 = -20 x 10^(-6) C, q4 = -6 x 10^(-6) C, are located at corners of square ABCD of side 12 cm. What is the force on a charge of 10 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -18 x 10^(-6) C, q2 = 16 x 10^(-6) C, q3 = -20 x 10^(-6) C, q4 = -6 x 10^(-6) C, d = 12 cm, and q_c = 10 x 10^(-6) C:\nForce (F) = 1.38e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = 11 x 10^(-6) C, q2 = -19 x 10^(-6) C, q3 = -11 x 10^(-6) C, q4 = 2 x 10^(-6) C, are located at corners of square ABCD of side 2 cm. What is the force on a charge of -5 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = 11 x 10^(-6) C, q2 = -19 x 10^(-6) C, q3 = -11 x 10^(-6) C, q4 = 2 x 10^(-6) C, d = 2 cm, and q_c = -5 x 10^(-6) C:\nForce (F) = -3.42e+03 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = 9 x 10^(-6) C, q2 = 11 x 10^(-6) C, q3 = -18 x 10^(-6) C, q4 = 4 x 10^(-6) C, are located at corners of square ABCD of side 11 cm. What is the force on a charge of -8 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = 9 x 10^(-6) C, q2 = 11 x 10^(-6) C, q3 = -18 x 10^(-6) C, q4 = 4 x 10^(-6) C, d = 11 cm, and q_c = -8 x 10^(-6) C:\nForce (F) = -1.66e+02 N\n"
+    },
+    {
+        "instruction": "Four point charges q1 = -1 x 10^(-6) C, q2 = 12 x 10^(-6) C, q3 = 18 x 10^(-6) C, q4 = 4 x 10^(-6) C, are located at corners of square ABCD of side 15 cm. What is the force on a charge of 8 x 10^(-6) C placed at the centre of the square?\n",
+        "input": "Force (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)",
+        "output": "To calculate the force on the charge placed at the center of the square, we use the formula for electric force between two point charges:\nForce (F) = k * |q1 - q3| * |q2 - q4| * q_c / (d^2)\nwhere k is Coulomb's constant (9 * 10^9 N\u00b7m\u00b2/C\u00b2), q1, q2, q3, q4 are the charges at the corners of the square (in Coulombs), q_c is the charge placed at the center of the square (in Coulombs), and d is the side length of the square (in meters).\nGiven q1 = -1 x 10^(-6) C, q2 = 12 x 10^(-6) C, q3 = 18 x 10^(-6) C, q4 = 4 x 10^(-6) C, d = 15 cm, and q_c = 8 x 10^(-6) C:\nForce (F) = 6.60e+01 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 78700 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 858 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 78700 NC\u207b\u00b9/m, dipole moment = 858 x 10\u207b\u2079 Cm:\nForce = 6.75e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 64300 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 753 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 64300 NC\u207b\u00b9/m, dipole moment = 753 x 10\u207b\u2079 Cm:\nForce = 4.84e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 67900 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 924 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 67900 NC\u207b\u00b9/m, dipole moment = 924 x 10\u207b\u2079 Cm:\nForce = 6.27e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 35100 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 1161 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 35100 NC\u207b\u00b9/m, dipole moment = 1161 x 10\u207b\u2079 Cm:\nForce = 4.08e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 96600 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 646 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 96600 NC\u207b\u00b9/m, dipole moment = 646 x 10\u207b\u2079 Cm:\nForce = 6.24e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 116900 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 233 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 116900 NC\u207b\u00b9/m, dipole moment = 233 x 10\u207b\u2079 Cm:\nForce = 2.72e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 190400 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 281 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 190400 NC\u207b\u00b9/m, dipole moment = 281 x 10\u207b\u2079 Cm:\nForce = 5.35e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 65100 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 1863 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 65100 NC\u207b\u00b9/m, dipole moment = 1863 x 10\u207b\u2079 Cm:\nForce = 1.21e-01 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 103000 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 953 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 103000 NC\u207b\u00b9/m, dipole moment = 953 x 10\u207b\u2079 Cm:\nForce = 9.82e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 152500 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 1865 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 152500 NC\u207b\u00b9/m, dipole moment = 1865 x 10\u207b\u2079 Cm:\nForce = 2.84e-01 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 120100 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 1553 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 120100 NC\u207b\u00b9/m, dipole moment = 1553 x 10\u207b\u2079 Cm:\nForce = 1.87e-01 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 31200 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 1619 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 31200 NC\u207b\u00b9/m, dipole moment = 1619 x 10\u207b\u2079 Cm:\nForce = 5.05e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 132200 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 1593 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 132200 NC\u207b\u00b9/m, dipole moment = 1593 x 10\u207b\u2079 Cm:\nForce = 2.11e-01 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 64800 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 746 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 64800 NC\u207b\u00b9/m, dipole moment = 746 x 10\u207b\u2079 Cm:\nForce = 4.83e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 93400 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 64 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 93400 NC\u207b\u00b9/m, dipole moment = 64 x 10\u207b\u2079 Cm:\nForce = 5.98e-03 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 163800 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 1947 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 163800 NC\u207b\u00b9/m, dipole moment = 1947 x 10\u207b\u2079 Cm:\nForce = 3.19e-01 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 63500 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 1365 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 63500 NC\u207b\u00b9/m, dipole moment = 1365 x 10\u207b\u2079 Cm:\nForce = 8.67e-02 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 52500 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 189 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 52500 NC\u207b\u00b9/m, dipole moment = 189 x 10\u207b\u2079 Cm:\nForce = 9.92e-03 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 189800 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 1600 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 189800 NC\u207b\u00b9/m, dipole moment = 1600 x 10\u207b\u2079 Cm:\nForce = 3.04e-01 N\n"
+    },
+    {
+        "instruction": "If in a space electric field is along z-axis, increases uniformly along +ve z-direction, at the rate of 72000 NC\u207b\u00b9 per meter. What are the values of force and torque experienced by a system having a total dipole moment of 1769 x 10\u207b\u2079 Cm in the negative z-direction?\n",
+        "input": "Force = Electric field * Dipole moment",
+        "output": "To calculate the force and torque experienced by the system, we need to consider the interaction between the electric field and the dipole moment:\nForce = Electric field * Dipole moment\nTorque = 0\nGiven electric field rate = 72000 NC\u207b\u00b9/m, dipole moment = 1769 x 10\u207b\u2079 Cm:\nForce = 1.27e-01 N\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 1.0 cm, having a field of 1700 N/C (up to down), with a speed of 1755000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "1.44e-02 s\n"
+    },
+    {
+        "instruction": "A particle of mass 180 g and charge -(5) C enters a region between two charged particles initially moving along the x-axis with speed 10 m/s. The length of plates is 30 cm, and a uniform electric field of 13 N/C is applied. Find the vertical deflection?\n",
+        "input": "Vertical Deflection Formula: vertical_deflection = (q1 * E * L^2 * 0.0001) / (m * v^2 * 0.001)\n",
+        "output": "3.25e-01 m\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 0.8 cm, having a field of 2260 N/C (up to down), with a speed of 189000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "1.20e-03 s\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 1.0 cm, having a field of 900 N/C (up to down), with a speed of 780000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "8.77e-03 s\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 0.8 cm, having a field of 960 N/C (up to down), with a speed of 603000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "5.87e-03 s\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 0.5 cm, having a field of 3220 N/C (up to down), with a speed of 351000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "1.48e-03 s\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 1.0 cm, having a field of 2120 N/C (up to down), with a speed of 1081000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "7.92e-03 s\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 0.1 cm, having a field of 1970 N/C (up to down), with a speed of 828000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "1.99e-03 s\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 0.2 cm, having a field of 400 N/C (up to down), with a speed of 1227000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "9.25e-03 s\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 0.8 cm, having a field of 570 N/C (up to down), with a speed of 1841000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "2.33e-02 s\n"
+    },
+    {
+        "instruction": "A particle of mass 30 g and charge -(16) C enters a region between two charged particles initially moving along the x-axis with speed 16 m/s. The length of plates is 19 cm, and a uniform electric field of 20 N/C is applied. Find the vertical deflection?\n",
+        "input": "Vertical Deflection Formula: vertical_deflection = (q1 * E * L^2 * 0.0001) / (m * v^2 * 0.001)\n",
+        "output": "1.50e+00 m\n"
+    },
+    {
+        "instruction": "A particle of mass 240 g and charge -(14) C enters a region between two charged particles initially moving along the x-axis with speed 6 m/s. The length of plates is 27 cm, and a uniform electric field of 19 N/C is applied. Find the vertical deflection?\n",
+        "input": "Vertical Deflection Formula: vertical_deflection = (q1 * E * L^2 * 0.0001) / (m * v^2 * 0.001)\n",
+        "output": "2.24e+00 m\n"
+    },
+    {
+        "instruction": "A particle of mass 200 g and charge -(2) C enters a region between two charged particles initially moving along the x-axis with speed 7 m/s. The length of plates is 16 cm, and a uniform electric field of 10 N/C is applied. Find the vertical deflection?\n",
+        "input": "Vertical Deflection Formula: vertical_deflection = (q1 * E * L^2 * 0.0001) / (m * v^2 * 0.001)\n",
+        "output": "5.22e-02 m\n"
+    },
+    {
+        "instruction": "A particle of mass 150 g and charge -(7) C enters a region between two charged particles initially moving along the x-axis with speed 15 m/s. The length of plates is 2 cm, and a uniform electric field of 6 N/C is applied. Find the vertical deflection?\n",
+        "input": "Vertical Deflection Formula: vertical_deflection = (q1 * E * L^2 * 0.0001) / (m * v^2 * 0.001)\n",
+        "output": "4.98e-04 m\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 0.1 cm, having a field of 260 N/C (up to down), with a speed of 332000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "2.20e-03 s\n"
+    },
+    {
+        "instruction": "A particle of mass 140 g and charge -(13) C enters a region between two charged particles initially moving along the x-axis with speed 8 m/s. The length of plates is 19 cm, and a uniform electric field of 3 N/C is applied. Find the vertical deflection?\n",
+        "input": "Vertical Deflection Formula: vertical_deflection = (q1 * E * L^2 * 0.0001) / (m * v^2 * 0.001)\n",
+        "output": "1.57e-01 m\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 0.5 cm, having a field of 1540 N/C (up to down), with a speed of 1782000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "1.08e-02 s\n"
+    },
+    {
+        "instruction": "An electron is projected between parallel plates separated by 0.7 cm, having a field of 2200 N/C (up to down), with a speed of 162000 m/s. In what time will the electron strike the upper plate?\n",
+        "input": "Time Taken Formula: time_taken = sqrt(2 * d * 0.01 * 9.1 * 10^(-31) * v^2 / (1.6 * 10^(-19) * E))\n",
+        "output": "9.75e-04 s\n"
+    },
+    {
+        "instruction": "A particle of mass 150 g and charge -(2) C enters a region between two charged particles initially moving along the x-axis with speed 12 m/s. The length of plates is 28 cm, and a uniform electric field of 18 N/C is applied. Find the vertical deflection?\n",
+        "input": "Vertical Deflection Formula: vertical_deflection = (q1 * E * L^2 * 0.0001) / (m * v^2 * 0.001)\n",
+        "output": "1.31e-01 m\n"
+    },
+    {
+        "instruction": "A particle of mass 270 g and charge -(18) C enters a region between two charged particles initially moving along the x-axis with speed 12 m/s. The length of plates is 13 cm, and a uniform electric field of 2 N/C is applied. Find the vertical deflection?\n",
+        "input": "Vertical Deflection Formula: vertical_deflection = (q1 * E * L^2 * 0.0001) / (m * v^2 * 0.001)\n",
+        "output": "1.56e-02 m\n"
+    }
+]

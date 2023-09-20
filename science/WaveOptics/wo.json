@@ -1,0 +1,552 @@
+[
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.7 degrees on a screen placed 9 m away. The wavelength of light used is 11 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.12.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "6.25e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.8 degrees on a screen placed 5 m away. The wavelength of light used is 74 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.52.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "5.26e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.5 degrees on a screen placed 8 m away. The wavelength of light used is 43 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.47.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "3.40e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.5 degrees on a screen placed 6 m away. The wavelength of light used is 44 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.27.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "3.94e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 1.0 degrees on a screen placed 6 m away. The wavelength of light used is 11 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.02.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "9.80e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.5 degrees on a screen placed 1 m away. The wavelength of light used is 5 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.85.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "2.70e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.2 degrees on a screen placed 3 m away. The wavelength of light used is 26 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.51.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "1.32e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 1.0 degrees on a screen placed 9 m away. The wavelength of light used is 17 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.21.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "8.26e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.2 degrees on a screen placed 3 m away. The wavelength of light used is 24 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.9.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "1.05e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.5 degrees on a screen placed 6 m away. The wavelength of light used is 17 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.4.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "3.57e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.1 degrees on a screen placed 2 m away. The wavelength of light used is 36 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.95.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "5.13e-02 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.1 degrees on a screen placed 6 m away. The wavelength of light used is 67 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.97.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "5.08e-02 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.7 degrees on a screen placed 3 m away. The wavelength of light used is 11 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.73.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "4.05e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.7 degrees on a screen placed 6 m away. The wavelength of light used is 27 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.74.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "4.02e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.1 degrees on a screen placed 5 m away. The wavelength of light used is 31 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.13.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "8.85e-02 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.7 degrees on a screen placed 3 m away. The wavelength of light used is 79 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.08.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "6.48e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.2 degrees on a screen placed 2 m away. The wavelength of light used is 17 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.64.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "1.22e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.5 degrees on a screen placed 4 m away. The wavelength of light used is 4 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.87.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "2.67e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.8 degrees on a screen placed 6 m away. The wavelength of light used is 7 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.71.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "4.68e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "In a double-slit experiment the angular width of a fringe is found to be 0.6 degrees on a screen placed 4 m away. The wavelength of light used is 13 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in liquid of refractive index 1.27.\n",
+        "input": "refractive index = angular width before immersing in water/angular width after immersing in water",
+        "output": "4.72e-01 degrees\nTo calculate the angular width of a fringe when the entire experimental apparatus is immersed in a liquid of refractive index (\u03bc), we need to consider the effect of the refractive index on the wavelength of light.we can calculate the angular width of the fringe in the liquid (\u03b82') using the formula: \u03b82' = sin^(-1)(\u03bb' / d), where d is the distance to the screen (D) in meters."
+    },
+    {
+        "instruction": "What is Brewster angle for a material-1 of refractive index 2.75 to material-2 of refractive index 2.86 transition.\n",
+        "input": "tan theta = mu2/mu1",
+        "output": "8.05e-01 \nThe Brewster angle (\u03b8B) is the angle of incidence at which light with a specific polarization is perfectly transmitted through a boundary between two media with different refractive indices. It can be calculated using the formula: \u03b8 = arctan(mu2 / mu1), where mu1 and mu2 are the refractive indices of material-1 and material-2, respectively."
+    },
+    {
+        "instruction": "What is Brewster angle for a material-1 of refractive index 2.01 to material-2 of refractive index 1.18 transition.\n",
+        "input": "tan theta = mu2/mu1",
+        "output": "5.31e-01 \nThe Brewster angle (\u03b8B) is the angle of incidence at which light with a specific polarization is perfectly transmitted through a boundary between two media with different refractive indices. It can be calculated using the formula: \u03b8 = arctan(mu2 / mu1), where mu1 and mu2 are the refractive indices of material-1 and material-2, respectively."
+    },
+    {
+        "instruction": "What is Brewster angle for a material-1 of refractive index 1.79 to material-2 of refractive index 1.53 transition.\n",
+        "input": "tan theta = mu2/mu1",
+        "output": "7.07e-01 \nThe Brewster angle (\u03b8B) is the angle of incidence at which light with a specific polarization is perfectly transmitted through a boundary between two media with different refractive indices. It can be calculated using the formula: \u03b8 = arctan(mu2 / mu1), where mu1 and mu2 are the refractive indices of material-1 and material-2, respectively."
+    },
+    {
+        "instruction": "What is Brewster angle for a material-1 of refractive index 1.5 to material-2 of refractive index 1.19 transition.\n",
+        "input": "tan theta = mu2/mu1",
+        "output": "6.71e-01 \nThe Brewster angle (\u03b8B) is the angle of incidence at which light with a specific polarization is perfectly transmitted through a boundary between two media with different refractive indices. It can be calculated using the formula: \u03b8 = arctan(mu2 / mu1), where mu1 and mu2 are the refractive indices of material-1 and material-2, respectively."
+    },
+    {
+        "instruction": "What is Brewster angle for a material-1 of refractive index 1.33 to material-2 of refractive index 1.7 transition.\n",
+        "input": "tan theta = mu2/mu1",
+        "output": "9.07e-01 \nThe Brewster angle (\u03b8B) is the angle of incidence at which light with a specific polarization is perfectly transmitted through a boundary between two media with different refractive indices. It can be calculated using the formula: \u03b8 = arctan(mu2 / mu1), where mu1 and mu2 are the refractive indices of material-1 and material-2, respectively."
+    },
+    {
+        "instruction": "What is Brewster angle for a material-1 of refractive index 1.69 to material-2 of refractive index 1.58 transition.\n",
+        "input": "tan theta = mu2/mu1",
+        "output": "7.52e-01 \nThe Brewster angle (\u03b8B) is the angle of incidence at which light with a specific polarization is perfectly transmitted through a boundary between two media with different refractive indices. It can be calculated using the formula: \u03b8 = arctan(mu2 / mu1), where mu1 and mu2 are the refractive indices of material-1 and material-2, respectively."
+    },
+    {
+        "instruction": "What is Brewster angle for a material-1 of refractive index 1.47 to material-2 of refractive index 1.26 transition.\n",
+        "input": "tan theta = mu2/mu1",
+        "output": "7.09e-01 \nThe Brewster angle (\u03b8B) is the angle of incidence at which light with a specific polarization is perfectly transmitted through a boundary between two media with different refractive indices. It can be calculated using the formula: \u03b8 = arctan(mu2 / mu1), where mu1 and mu2 are the refractive indices of material-1 and material-2, respectively."
+    },
+    {
+        "instruction": "What is Brewster angle for a material-1 of refractive index 2.94 to material-2 of refractive index 1.62 transition.\n",
+        "input": "tan theta = mu2/mu1",
+        "output": "5.04e-01 \nThe Brewster angle (\u03b8B) is the angle of incidence at which light with a specific polarization is perfectly transmitted through a boundary between two media with different refractive indices. It can be calculated using the formula: \u03b8 = arctan(mu2 / mu1), where mu1 and mu2 are the refractive indices of material-1 and material-2, respectively."
+    },
+    {
+        "instruction": "What is Brewster angle for a material-1 of refractive index 1.1 to material-2 of refractive index 2.07 transition.\n",
+        "input": "tan theta = mu2/mu1",
+        "output": "1.08e+00 \nThe Brewster angle (\u03b8B) is the angle of incidence at which light with a specific polarization is perfectly transmitted through a boundary between two media with different refractive indices. It can be calculated using the formula: \u03b8 = arctan(mu2 / mu1), where mu1 and mu2 are the refractive indices of material-1 and material-2, respectively."
+    },
+    {
+        "instruction": "What is Brewster angle for a material-1 of refractive index 1.11 to material-2 of refractive index 1.51 transition.\n",
+        "input": "tan theta = mu2/mu1",
+        "output": "9.37e-01 \nThe Brewster angle (\u03b8B) is the angle of incidence at which light with a specific polarization is perfectly transmitted through a boundary between two media with different refractive indices. It can be calculated using the formula: \u03b8 = arctan(mu2 / mu1), where mu1 and mu2 are the refractive indices of material-1 and material-2, respectively."
+    },
+    {
+        "instruction": "What is the De-Broglie wavelength associated with a mass of 6.8914e-01 kg and having a velocity of 19 m/s. (h = 6.626 x 10^-34 Js)\n",
+        "input": "wavelength = Planck's constant/mass*velocity",
+        "output": "5.06e-35 \nThe de Broglie wavelength (\u03bb) associated with a particle can be calculated using the de Broglie wavelength equation: \u03bb = h / (m * v), where \u03bb is the wavelength, h is the Planck constant (approximately 6.626 x 10^-34 J\u00b7s), m is the mass of the particle, and v is its velocity."
+    },
+    {
+        "instruction": "What is the De-Broglie wavelength associated with a mass of 9.4418e-01 kg and having a velocity of 49 m/s.\n",
+        "input": "wavelength = Planck's constant/mass*velocity",
+        "output": "1.43e-35 \nThe de Broglie wavelength (\u03bb) associated with a particle can be calculated using the de Broglie wavelength equation: \u03bb = h / (m * v), where \u03bb is the wavelength, h is the Planck constant (approximately 6.626 x 10^-34 J\u00b7s), m is the mass of the particle, and v is its velocity."
+    },
+    {
+        "instruction": "What is the De-Broglie wavelength associated with a mass of 1.3133e-01 kg and having a velocity of 94 m/s. (h = 6.626 x 10^-34 Js)\n",
+        "input": "wavelength = Planck's constant/mass*velocity",
+        "output": "5.37e-35 \nThe de Broglie wavelength (\u03bb) associated with a particle can be calculated using the de Broglie wavelength equation: \u03bb = h / (m * v), where \u03bb is the wavelength, h is the Planck constant (approximately 6.626 x 10^-34 J\u00b7s), m is the mass of the particle, and v is its velocity."
+    },
+    {
+        "instruction": "What is the De-Broglie wavelength associated with a mass of 7.1737e-01 kg and having a velocity of 95 m/s.\n",
+        "input": "wavelength = Planck's constant/mass*velocity",
+        "output": "9.72e-36 \nThe de Broglie wavelength (\u03bb) associated with a particle can be calculated using the de Broglie wavelength equation: \u03bb = h / (m * v), where \u03bb is the wavelength, h is the Planck constant (approximately 6.626 x 10^-34 J\u00b7s), m is the mass of the particle, and v is its velocity."
+    },
+    {
+        "instruction": "What is the De-Broglie wavelength associated with a mass of 5.4628e-01 kg and having a velocity of 57 m/s. (h = 6.626 x 10^-34 Js)\n",
+        "input": "wavelength = Planck's constant/mass*velocity",
+        "output": "2.13e-35 \nThe de Broglie wavelength (\u03bb) associated with a particle can be calculated using the de Broglie wavelength equation: \u03bb = h / (m * v), where \u03bb is the wavelength, h is the Planck constant (approximately 6.626 x 10^-34 J\u00b7s), m is the mass of the particle, and v is its velocity."
+    },
+    {
+        "instruction": "What is the De-Broglie wavelength associated with a mass of 1.2100e-02 kg and having a velocity of 86 m/s.\n",
+        "input": "wavelength = Planck's constant/mass*velocity",
+        "output": "6.37e-34 \nThe de Broglie wavelength (\u03bb) associated with a particle can be calculated using the de Broglie wavelength equation: \u03bb = h / (m * v), where \u03bb is the wavelength, h is the Planck constant (approximately 6.626 x 10^-34 J\u00b7s), m is the mass of the particle, and v is its velocity."
+    },
+    {
+        "instruction": "What is the De-Broglie wavelength associated with a mass of 9.3708e-01 kg and having a velocity of 14 m/s.\n",
+        "input": "wavelength = Planck's constant/mass*velocity",
+        "output": "5.05e-35 \nThe de Broglie wavelength (\u03bb) associated with a particle can be calculated using the de Broglie wavelength equation: \u03bb = h / (m * v), where \u03bb is the wavelength, h is the Planck constant (approximately 6.626 x 10^-34 J\u00b7s), m is the mass of the particle, and v is its velocity."
+    },
+    {
+        "instruction": "What is the De-Broglie wavelength associated with a mass of 4.0925e-01 kg and having a velocity of 30 m/s.\n",
+        "input": "wavelength = Planck's constant/mass*velocity",
+        "output": "5.40e-35 \nThe de Broglie wavelength (\u03bb) associated with a particle can be calculated using the de Broglie wavelength equation: \u03bb = h / (m * v), where \u03bb is the wavelength, h is the Planck constant (approximately 6.626 x 10^-34 J\u00b7s), m is the mass of the particle, and v is its velocity."
+    },
+    {
+        "instruction": "What is the De-Broglie wavelength associated with a mass of 4.5756e-01 kg and having a velocity of 76 m/s.\n",
+        "input": "wavelength = Planck's constant/mass*velocity",
+        "output": "1.91e-35 \nThe de Broglie wavelength (\u03bb) associated with a particle can be calculated using the de Broglie wavelength equation: \u03bb = h / (m * v), where \u03bb is the wavelength, h is the Planck constant (approximately 6.626 x 10^-34 J\u00b7s), m is the mass of the particle, and v is its velocity."
+    },
+    {
+        "instruction": "What is the De-Broglie wavelength associated with a mass of 7.1275e-01 kg and having a velocity of 20 m/s.\n",
+        "input": "wavelength = Planck's constant/mass*velocity",
+        "output": "4.65e-35 \nThe de Broglie wavelength (\u03bb) associated with a particle can be calculated using the de Broglie wavelength equation: \u03bb = h / (m * v), where \u03bb is the wavelength, h is the Planck constant (approximately 6.626 x 10^-34 J\u00b7s), m is the mass of the particle, and v is its velocity."
+    },
+    {
+        "instruction": "Two towers on top of two hills are 4 km apart. The line joining them passes 167 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "6.97e+00 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Estimate the distance for which ray optics is good approximation for an aperture of 14 mm and wavelength 647 nm.\n",
+        "input": "Fresnel Distance = Aperture^2/Wavelength of light",
+        "output": "3.03e+08 m\nThe criterion for ray optics to be a good approximation is when the size of the aperture is much larger than the wavelength of light. This condition ensures that the wave nature of light can be neglected, and light can be treated as a ray.To estimate the distance for which ray optics is a good approximation, we can use the following formula: Distance \u2248 2 * (aperture size)^2 / (wavelength)"
+    },
+    {
+        "instruction": "Estimate the distance for which ray optics is good approximation for an aperture of 8 mm and wavelength 961 nm.\n",
+        "input": "Fresnel Distance = Aperture^2/Wavelength of light",
+        "output": "6.66e+07 m\nThe criterion for ray optics to be a good approximation is when the size of the aperture is much larger than the wavelength of light. This condition ensures that the wave nature of light can be neglected, and light can be treated as a ray.To estimate the distance for which ray optics is a good approximation, we can use the following formula: Distance \u2248 2 * (aperture size)^2 / (wavelength)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 94 km apart. The line joining them passes 55 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "3.22e-02 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 5 km apart. The line joining them passes 17 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "5.78e-02 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Estimate the distance for which ray optics is good approximation for an aperture of 16 mm and wavelength 108 nm.\n",
+        "input": "Fresnel Distance = Aperture^2/Wavelength of light",
+        "output": "2.37e+09 m\nThe criterion for ray optics to be a good approximation is when the size of the aperture is much larger than the wavelength of light. This condition ensures that the wave nature of light can be neglected, and light can be treated as a ray.To estimate the distance for which ray optics is a good approximation, we can use the following formula: Distance \u2248 2 * (aperture size)^2 / (wavelength)"
+    },
+    {
+        "instruction": "Estimate the distance for which ray optics is good approximation for an aperture of 20 mm and wavelength 980 nm.\n",
+        "input": "Fresnel Distance = Aperture^2/Wavelength of light",
+        "output": "4.08e+08 m\nThe criterion for ray optics to be a good approximation is when the size of the aperture is much larger than the wavelength of light. This condition ensures that the wave nature of light can be neglected, and light can be treated as a ray.To estimate the distance for which ray optics is a good approximation, we can use the following formula: Distance \u2248 2 * (aperture size)^2 / (wavelength)"
+    },
+    {
+        "instruction": "Estimate the distance for which ray optics is good approximation for an aperture of 7 mm and wavelength 81 nm.\n",
+        "input": "Fresnel Distance = Aperture^2/Wavelength of light",
+        "output": "6.05e+08 m\nThe criterion for ray optics to be a good approximation is when the size of the aperture is much larger than the wavelength of light. This condition ensures that the wave nature of light can be neglected, and light can be treated as a ray.To estimate the distance for which ray optics is a good approximation, we can use the following formula: Distance \u2248 2 * (aperture size)^2 / (wavelength)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 46 km apart. The line joining them passes 173 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "6.51e-01 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 66 km apart. The line joining them passes 88 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "1.17e-01 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 90 km apart. The line joining them passes 99 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "1.09e-01 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 21 km apart. The line joining them passes 15 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "1.07e-02 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 42 km apart. The line joining them passes 197 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "9.24e-01 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 3 km apart. The line joining them passes 71 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "1.68e+00 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Estimate the distance for which ray optics is good approximation for an aperture of 16 mm and wavelength 343 nm.\n",
+        "input": "Fresnel Distance = Aperture^2/Wavelength of light",
+        "output": "7.46e+08 m\nThe criterion for ray optics to be a good approximation is when the size of the aperture is much larger than the wavelength of light. This condition ensures that the wave nature of light can be neglected, and light can be treated as a ray.To estimate the distance for which ray optics is a good approximation, we can use the following formula: Distance \u2248 2 * (aperture size)^2 / (wavelength)"
+    },
+    {
+        "instruction": "Estimate the distance for which ray optics is good approximation for an aperture of 4 mm and wavelength 160 nm.\n",
+        "input": "Fresnel Distance = Aperture^2/Wavelength of light",
+        "output": "1.00e+08 m\nThe criterion for ray optics to be a good approximation is when the size of the aperture is much larger than the wavelength of light. This condition ensures that the wave nature of light can be neglected, and light can be treated as a ray.To estimate the distance for which ray optics is a good approximation, we can use the following formula: Distance \u2248 2 * (aperture size)^2 / (wavelength)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 11 km apart. The line joining them passes 181 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "2.98e+00 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 44 km apart. The line joining them passes 10 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "2.27e-03 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 70 km apart. The line joining them passes 157 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "3.52e-01 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Two towers on top of two hills are 78 km apart. The line joining them passes 69 m above a hill halfway between the towers. What is the longest wavelength of radio waves, which can be sent between the two towers without appreciable diffraction effects.\n",
+        "input": "Fresnel Distance*Aperture = Wavelength of light^2",
+        "output": "6.10e-02 m\nTo determine the longest wavelength of radio waves that can be sent between the two towers without appreciable diffraction effects, we can use the Fresnel diffraction criterion. The Fresnel diffraction criterion states that when the distance (d) between the two towers is much larger than the square of the wavelength (\u03bb), diffraction effects can be neglected.In this case, we want to find the maximum wavelength, so we can rearrange the formula to solve for \u03bb: \u03bb \u2248 sqrt(d * l)"
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 6745 nm is incident on aa surface of refractive index 674.5. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 4.45e+05 m/s and 4.45e+13 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 2802 nm is incident on aa surface of refractive index 280.2. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 1.07e+06 m/s and 1.07e+14 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 8280 nm is incident on aa surface of refractive index 828.0. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "8280.0 nm , 3.00e+08 m/s and 3.62e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 8006 nm is incident on aa surface of refractive index 800.6. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "8006.0 nm , 3.00e+08 m/s and 3.75e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 1041 nm is incident on aa surface of refractive index 104.1. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "1041.0 nm , 3.00e+08 m/s and 2.88e+14 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 8635 nm is incident on aa surface of refractive index 863.5. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "8635.0 nm , 3.00e+08 m/s and 3.47e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 302 nm is incident on aa surface of refractive index 30.2. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 9.93e+06 m/s and 9.93e+14 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 527 nm is incident on aa surface of refractive index 52.7. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "527.0 nm , 3.00e+08 m/s and 5.69e+14 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 8967 nm is incident on aa surface of refractive index 896.7. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "8967.0 nm , 3.00e+08 m/s and 3.35e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 9109 nm is incident on aa surface of refractive index 910.9. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "9109.0 nm , 3.00e+08 m/s and 3.29e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 4305 nm is incident on aa surface of refractive index 430.5. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "4305.0 nm , 3.00e+08 m/s and 6.97e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 3351 nm is incident on aa surface of refractive index 335.1. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 8.95e+05 m/s and 8.95e+13 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 5 nm is incident on aa surface of refractive index 0.5. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "5.0 nm , 3.00e+08 m/s and 6.00e+16 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 3631 nm is incident on aa surface of refractive index 363.1. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 8.26e+05 m/s and 8.26e+13 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 5886 nm is incident on aa surface of refractive index 588.6. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 5.10e+05 m/s and 5.10e+13 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 2050 nm is incident on aa surface of refractive index 205.0. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "2050.0 nm , 3.00e+08 m/s and 1.46e+14 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 1762 nm is incident on aa surface of refractive index 176.2. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "1762.0 nm , 3.00e+08 m/s and 1.70e+14 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 8135 nm is incident on aa surface of refractive index 813.5. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "8135.0 nm , 3.00e+08 m/s and 3.69e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 9140 nm is incident on aa surface of refractive index 914.0. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "9140.0 nm , 3.00e+08 m/s and 3.28e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 9407 nm is incident on aa surface of refractive index 940.7. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 3.19e+05 m/s and 3.19e+13 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 6706 nm is incident on aa surface of refractive index 670.6. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "6706.0 nm , 3.00e+08 m/s and 4.47e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 5992 nm is incident on aa surface of refractive index 599.2. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "5992.0 nm , 3.00e+08 m/s and 5.01e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 9360 nm is incident on aa surface of refractive index 936.0. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "9360.0 nm , 3.00e+08 m/s and 3.21e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 4652 nm is incident on aa surface of refractive index 465.2. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "4652.0 nm , 3.00e+08 m/s and 6.45e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 3305 nm is incident on aa surface of refractive index 330.5. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 9.08e+05 m/s and 9.08e+13 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 5200 nm is incident on aa surface of refractive index 520.0. What is the wavelength, speed and frequenct of reflected light.\n",
+        "input": "frequency = c/wavelength",
+        "output": "5200.0 nm , 3.00e+08 m/s and 5.77e+13 hz \nThe ray will reflect back in the same medium as that of incident ray. Hence, the wavelength, speed, and frequency of the reflected ray will be the same as that of the incident ray."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 8398 nm is incident on aa surface of refractive index 839.8. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 3.57e+05 m/s and 3.57e+13 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 5234 nm is incident on aa surface of refractive index 523.4. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 5.73e+05 m/s and 5.73e+13 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 1667 nm is incident on aa surface of refractive index 166.7. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 1.80e+06 m/s and 1.80e+14 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "Monochromatic light of wavelength of 6243 nm is incident on aa surface of refractive index 624.3. What is the wavelength, speed and frequenct of refracted light.\n",
+        "input": "speed of light in water = c/refractive index, wavelength = speed of light in water/frequency",
+        "output": "1.00e+01 nm , 4.81e+05 m/s and 4.81e+13 hz \nFrequency of light does not depend on the property of the medium in which it is travelling. Hence, the frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.18 mm and the screen is placed 4.3 m away. The distance between the central bright fringe and the 3 bright fringe is measured to be 9 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "1.26e-06 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment using monochromatic light of wavelength 28, the intensity of light at a point on the screen where path difference is 4.0, is 67 units. What is the intensity of light at a point where path difference is 2.8.\n",
+        "input": "Phase difference = (2*pi/wavelength)*path difference, Intensity = I0*cos^2(phase difference)",
+        "output": "7.47e+01 units\nIn a Young's double-slit experiment, the intensity of light at a point on the screen is directly related to the amplitude of the light waves arriving at that point. The intensity is given by the formula: I \u221d A^2, where I is the intensity and A is the amplitude of the light waves.Therefore, the intensity of light at a point where the path difference is 2.8 is 67 units, same as the intensity at the point with the path difference 4.0."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.07 mm and the screen is placed 2.0 m away. The distance between the central bright fringe and the 7 bright fringe is measured to be 4 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "2.00e-07 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.16 mm and the screen is placed 0.7 m away. The distance between the central bright fringe and the 4 bright fringe is measured to be 9 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "5.14e-06 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.78 mm and the screen is placed 8.7 m away. The distance between the central bright fringe and the 4 bright fringe is measured to be 2 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "4.48e-07 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.85 mm and the screen is placed 7.1 m away. The distance between the central bright fringe and the 1 bright fringe is measured to be 1 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "1.20e-06 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.38 mm and the screen is placed 1.0 m away. The distance between the central bright fringe and the 3 bright fringe is measured to be 5 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "6.33e-06 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.29 mm and the screen is placed 8.2 m away. The distance between the central bright fringe and the 6 bright fringe is measured to be 5 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "2.95e-07 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment using monochromatic light of wavelength 11, the intensity of light at a point on the screen where path difference is 2.2, is 55 units. What is the intensity of light at a point where path difference is 1.6.\n",
+        "input": "Phase difference = (2*pi/wavelength)*path difference, Intensity = I0*cos^2(phase difference)",
+        "output": "6.82e+01 units\nIn a Young's double-slit experiment, the intensity of light at a point on the screen is directly related to the amplitude of the light waves arriving at that point. The intensity is given by the formula: I \u221d A^2, where I is the intensity and A is the amplitude of the light waves.Therefore, the intensity of light at a point where the path difference is 1.6 is 55 units, same as the intensity at the point with the path difference 2.2."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.31 mm and the screen is placed 8.1 m away. The distance between the central bright fringe and the 9 bright fringe is measured to be 2 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "8.50e-08 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.71 mm and the screen is placed 2.2 m away. The distance between the central bright fringe and the 7 bright fringe is measured to be 6 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "2.77e-06 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.22 mm and the screen is placed 4.4 m away. The distance between the central bright fringe and the 4 bright fringe is measured to be 2 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "2.50e-07 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment using monochromatic light of wavelength 75, the intensity of light at a point on the screen where path difference is 8.3, is 35 units. What is the intensity of light at a point where path difference is 9.4.\n",
+        "input": "Phase difference = (2*pi/wavelength)*path difference, Intensity = I0*cos^2(phase difference)",
+        "output": "3.38e+01 units\nIn a Young's double-slit experiment, the intensity of light at a point on the screen is directly related to the amplitude of the light waves arriving at that point. The intensity is given by the formula: I \u221d A^2, where I is the intensity and A is the amplitude of the light waves.Therefore, the intensity of light at a point where the path difference is 9.4 is 35 units, same as the intensity at the point with the path difference 8.3."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment using monochromatic light of wavelength 10, the intensity of light at a point on the screen where path difference is 1.7, is 62 units. What is the intensity of light at a point where path difference is 2.5.\n",
+        "input": "Phase difference = (2*pi/wavelength)*path difference, Intensity = I0*cos^2(phase difference)",
+        "output": "4.13e+01 units\nIn a Young's double-slit experiment, the intensity of light at a point on the screen is directly related to the amplitude of the light waves arriving at that point. The intensity is given by the formula: I \u221d A^2, where I is the intensity and A is the amplitude of the light waves.Therefore, the intensity of light at a point where the path difference is 2.5 is 62 units, same as the intensity at the point with the path difference 1.7."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment using monochromatic light of wavelength 31, the intensity of light at a point on the screen where path difference is 6.2, is 38 units. What is the intensity of light at a point where path difference is 31.0.\n",
+        "input": "Phase difference = (2*pi/wavelength)*path difference, Intensity = I0*cos^2(phase difference)",
+        "output": "5.81e+01 units\nIn a Young's double-slit experiment, the intensity of light at a point on the screen is directly related to the amplitude of the light waves arriving at that point. The intensity is given by the formula: I \u221d A^2, where I is the intensity and A is the amplitude of the light waves.Therefore, the intensity of light at a point where the path difference is 31.0 is 38 units, same as the intensity at the point with the path difference 6.2."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.99 mm and the screen is placed 9.8 m away. The distance between the central bright fringe and the 5 bright fringe is measured to be 7 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "1.41e-06 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment using monochromatic light of wavelength 81, the intensity of light at a point on the screen where path difference is 10.1, is 57 units. What is the intensity of light at a point where path difference is 8.1.\n",
+        "input": "Phase difference = (2*pi/wavelength)*path difference, Intensity = I0*cos^2(phase difference)",
+        "output": "6.04e+01 units\nIn a Young's double-slit experiment, the intensity of light at a point on the screen is directly related to the amplitude of the light waves arriving at that point. The intensity is given by the formula: I \u221d A^2, where I is the intensity and A is the amplitude of the light waves.Therefore, the intensity of light at a point where the path difference is 8.1 is 57 units, same as the intensity at the point with the path difference 10.1."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.57 mm and the screen is placed 2.6 m away. The distance between the central bright fringe and the 7 bright fringe is measured to be 2 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "6.26e-07 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.78 mm and the screen is placed 3.0 m away. The distance between the central bright fringe and the 9 bright fringe is measured to be 6 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "1.73e-06 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    },
+    {
+        "instruction": "In a Youngs double-slit experiment, the slits are seperated by 0.73 mm and the screen is placed 1.7 m away. The distance between the central bright fringe and the 2 bright fringe is measured to be 10 cm. Determine the wavelength of the ligth used for the experiment.\n",
+        "input": "Distance between central bright fringe and bright fringe = (wavelength of light*distance from screen)/distance between slits",
+        "output": "2.15e-05 m\nIn a Young's double-slit experiment, the wavelength of light can be determined using the formula: \u03bb = (d * sin(\u03b8)) / n, where \u03bb is the wavelength of light, d is the separation between the slits, \u03b8 is the angle of the fringe (in radians), and n is the order of the fringe."
+    }
+]

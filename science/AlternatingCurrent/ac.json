@@ -1,0 +1,1377 @@
+[
+    {
+        "instruction": "Obtain the resonant angular frequency of a series LCR circuit with L = 73 H, C = 128 muF, R = 22 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "10.3 s-1\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 15 H, C = 49 muF, R = 119 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "4.6\n"
+    },
+    {
+        "instruction": "A charged 1295 muF capacitor is connected to 1716 mH inductor. What is the angular frequency of free oscillations of the circuit?\n",
+        "input": "Angular frequency = 1 / sqrt(L * C * 0.001 * 0.000001)",
+        "output": "21.2 s-1\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 69 H, C = 53 muF, R = 199 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "5.7\n"
+    },
+    {
+        "instruction": "A charged 1229 muF capacitor is connected to 251 mH inductor. What is the angular frequency of free oscillations of the circuit?\n",
+        "input": "Angular frequency = 1 / sqrt(L * C * 0.001 * 0.000001)",
+        "output": "56.9 s-1\n"
+    },
+    {
+        "instruction": "Obtain the resonant angular frequency of a series LCR circuit with L = 182 H, C = 87 muF, R = 14 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "7.9 s-1\n"
+    },
+    {
+        "instruction": "Obtain the resonant angular frequency of a series LCR circuit with L = 133 H, C = 22 muF, R = 153 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "18.5 s-1\n"
+    },
+    {
+        "instruction": "Obtain the resonant angular frequency of a series LCR circuit with L = 189 H, C = 199 muF, R = 146 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "5.2 s-1\n"
+    },
+    {
+        "instruction": "A charged 1457 muF capacitor is connected to 694 mH inductor. What is the angular frequency of free oscillations of the circuit?\n",
+        "input": "Angular frequency = 1 / sqrt(L * C * 0.001 * 0.000001)",
+        "output": "31.4 s-1\n"
+    },
+    {
+        "instruction": "A charged 810 muF capacitor is connected to 92 mH inductor. What is the angular frequency of free oscillations of the circuit?\n",
+        "input": "Angular frequency = 1 / sqrt(L * C * 0.001 * 0.000001)",
+        "output": "115.8 s-1\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 150 H, C = 150 muF, R = 166 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "6.0\n"
+    },
+    {
+        "instruction": "A charged 388 muF capacitor is connected to 192 mH inductor. What is the angular frequency of free oscillations of the circuit?\n",
+        "input": "Angular frequency = 1 / sqrt(L * C * 0.001 * 0.000001)",
+        "output": "115.9 s-1\n"
+    },
+    {
+        "instruction": "Obtain the resonant angular frequency of a series LCR circuit with L = 167 H, C = 199 muF, R = 36 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "5.5 s-1\n"
+    },
+    {
+        "instruction": "A charged 674 muF capacitor is connected to 1632 mH inductor. What is the angular frequency of free oscillations of the circuit?\n",
+        "input": "Angular frequency = 1 / sqrt(L * C * 0.001 * 0.000001)",
+        "output": "30.2 s-1\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 57 H, C = 180 muF, R = 48 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "11.7\n"
+    },
+    {
+        "instruction": "Obtain the resonant angular frequency of a series LCR circuit with L = 87 H, C = 30 muF, R = 197 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "19.6 s-1\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 92 H, C = 15 muF, R = 86 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "28.8\n"
+    },
+    {
+        "instruction": "A charged 1568 muF capacitor is connected to 1784 mH inductor. What is the angular frequency of free oscillations of the circuit?\n",
+        "input": "Angular frequency = 1 / sqrt(L * C * 0.001 * 0.000001)",
+        "output": "18.9 s-1\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 93 H, C = 132 muF, R = 149 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "5.6\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 6 H, C = 137 muF, R = 56 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "3.7\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 196 H, C = 146 muF, R = 119 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "9.7\n"
+    },
+    {
+        "instruction": "A charged 1942 muF capacitor is connected to 1025 mH inductor. What is the angular frequency of free oscillations of the circuit?\n",
+        "input": "Angular frequency = 1 / sqrt(L * C * 0.001 * 0.000001)",
+        "output": "22.4 s-1\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 138 H, C = 34 muF, R = 89 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "22.6\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 52 H, C = 115 muF, R = 40 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "16.8\n"
+    },
+    {
+        "instruction": "Obtain the Q-value of a series LCR circuit with L = 35 H, C = 169 muF, R = 71 ohm?\n",
+        "input": "Q-value = (1 / R) * sqrt(L / (C * 0.000001))",
+        "output": "6.4\n"
+    },
+    {
+        "instruction": "An LC circuit contains a 64 mH inductor and a 161 muF capacitor with an initial charge of 1 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the natural frequency of the circuit.",
+        "input": "Natural Frequency = 1 / (2 * pi * sqrt(Inductance * Capacitance))",
+        "output": "4.96e+01 hertz"
+    },
+    {
+        "instruction": "An LC circuit contains a 74 mH inductor and a 25 muF capacitor with an initial charge of 71 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. At what time(s) energy stored in magnetic form is 29 percent of total energy?",
+        "input": "Time = n * T, where n is an integer\nT = 1 / (Natural Frequency)",
+        "output": "0.09t, 0.59t, 1.09t, ...; where t = 8.55e-03 s"
+    },
+    {
+        "instruction": "An LC circuit contains a 117 mH inductor and a 157 muF capacitor with an initial charge of 16 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. At what time(s) energy stored in magnetic form is 47 percent of total energy?",
+        "input": "Time = n * T, where n is an integer\nT = 1 / (Natural Frequency)",
+        "output": "0.12t, 0.62t, 1.12t, ...; where t = 2.69e-02 s"
+    },
+    {
+        "instruction": "An LC circuit contains a 10 mH inductor and a 71 muF capacitor with an initial charge of 128 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the natural frequency of the circuit.",
+        "input": "Natural Frequency = 1 / (2 * pi * sqrt(Inductance * Capacitance))",
+        "output": "1.89e+02 hertz"
+    },
+    {
+        "instruction": "An LC circuit contains a 27 mH inductor and a 118 muF capacitor with an initial charge of 110 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the natural frequency of the circuit.",
+        "input": "Natural Frequency = 1 / (2 * pi * sqrt(Inductance * Capacitance))",
+        "output": "8.92e+01 hertz"
+    },
+    {
+        "instruction": "An LC circuit contains a 108 mH inductor and a 145 muF capacitor with an initial charge of 23 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. At what time(s) energy stored in electrical form is 31 percent of total energy?",
+        "input": "Time = n * T, where n is an integer\nT = 1 / (Natural Frequency)",
+        "output": "0.16t, 0.66t, 1.16t, ...; where t = 2.49e-02 s"
+    },
+    {
+        "instruction": "An LC circuit contains a 122 mH inductor and a 198 muF capacitor with an initial charge of 44 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the natural frequency of the circuit.",
+        "input": "Natural Frequency = 1 / (2 * pi * sqrt(Inductance * Capacitance))",
+        "output": "3.24e+01 hertz"
+    },
+    {
+        "instruction": "An LC circuit contains a 109 mH inductor and a 193 muF capacitor with an initial charge of 75 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. At what time(s) energy stored in electrical form is 68 percent of total energy?",
+        "input": "Time = n * T, where n is an integer\nT = 1 / (Natural Frequency)",
+        "output": "0.1t, 0.6t, 1.1t, ...; where t = 2.88e-02 s"
+    },
+    {
+        "instruction": "An LC circuit contains a 161 mH inductor and a 98 muF capacitor with an initial charge of 37 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. At what time(s) energy stored in magnetic form is 43 percent of total energy?",
+        "input": "Time = n * T, where n is an integer\nT = 1 / (Natural Frequency)",
+        "output": "0.11t, 0.61t, 1.11t, ...; where t = 2.50e-02 s"
+    },
+    {
+        "instruction": "An LC circuit contains a 174 mH inductor and a 10 muF capacitor with an initial charge of 183 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the initial energy stored, is it conserved during LC oscillations?",
+        "input": "Initial Energy = 0.5 * (Charge^2) * (1 / Capacitance)",
+        "output": "1.67e+03 joule, it is conserved during oscillations."
+    },
+    {
+        "instruction": "An LC circuit contains a 172 mH inductor and a 169 muF capacitor with an initial charge of 88 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the initial energy stored, is it conserved during LC oscillations?",
+        "input": "Initial Energy = 0.5 * (Charge^2) * (1 / Capacitance)",
+        "output": "2.29e+01 joule, it is conserved during oscillations."
+    },
+    {
+        "instruction": "An LC circuit contains a 134 mH inductor and a 171 muF capacitor with an initial charge of 18 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the natural frequency of the circuit.",
+        "input": "Natural Frequency = 1 / (2 * pi * sqrt(Inductance * Capacitance))",
+        "output": "3.32e+01 hertz"
+    },
+    {
+        "instruction": "An LC circuit contains a 174 mH inductor and a 147 muF capacitor with an initial charge of 39 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. At what time(s) energy stored in magnetic form is 7 percent of total energy?",
+        "input": "Time = n * T, where n is an integer\nT = 1 / (Natural Frequency)",
+        "output": "0.04t, 0.54t, 1.04t, ...; where t = 3.18e-02 s"
+    },
+    {
+        "instruction": "An LC circuit contains a 152 mH inductor and a 165 muF capacitor with an initial charge of 167 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the natural frequency of the circuit.",
+        "input": "Natural Frequency = 1 / (2 * pi * sqrt(Inductance * Capacitance))",
+        "output": "3.18e+01 hertz"
+    },
+    {
+        "instruction": "An LC circuit contains a 115 mH inductor and a 51 muF capacitor with an initial charge of 29 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the initial energy stored, is it conserved during LC oscillations?",
+        "input": "Initial Energy = 0.5 * (Charge^2) * (1 / Capacitance)",
+        "output": "8.25e+00 joule, it is conserved during oscillations."
+    },
+    {
+        "instruction": "An LC circuit contains a 155 mH inductor and a 46 muF capacitor with an initial charge of 25 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the initial energy stored, is it conserved during LC oscillations?",
+        "input": "Initial Energy = 0.5 * (Charge^2) * (1 / Capacitance)",
+        "output": "6.79e+00 joule, it is conserved during oscillations."
+    },
+    {
+        "instruction": "An LC circuit contains a 103 mH inductor and a 167 muF capacitor with an initial charge of 34 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the initial energy stored, is it conserved during LC oscillations?",
+        "input": "Initial Energy = 0.5 * (Charge^2) * (1 / Capacitance)",
+        "output": "3.46e+00 joule, it is conserved during oscillations."
+    },
+    {
+        "instruction": "An LC circuit contains a 11 mH inductor and a 97 muF capacitor with an initial charge of 71 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the initial energy stored, is it conserved during LC oscillations?",
+        "input": "Initial Energy = 0.5 * (Charge^2) * (1 / Capacitance)",
+        "output": "2.60e+01 joule, it is conserved during oscillations."
+    },
+    {
+        "instruction": "An LC circuit contains a 129 mH inductor and a 60 muF capacitor with an initial charge of 99 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. At what time(s) energy stored in magnetic form is 89 percent of total energy?",
+        "input": "Time = n * T, where n is an integer\nT = 1 / (Natural Frequency)",
+        "output": "0.2t, 0.7t, 1.2t, ...; where t = 1.75e-02 s"
+    },
+    {
+        "instruction": "An LC circuit contains a 188 mH inductor and a 198 muF capacitor with an initial charge of 157 mC. The resistance of the circuit is negligible. Let the instant the circuit is closed be t = 0. What is the natural frequency of the circuit.",
+        "input": "Natural Frequency = 1 / (2 * pi * sqrt(Inductance * Capacitance))",
+        "output": "2.61e+01 hertz"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 143 H, C = 148 muF, R = 119 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "Source Frequency = 6.9 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 30 H, C = 137 muF, R = 110 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "RMS Potential Drop across Inductance = 9.78e+02 V"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 139 H, C = 116 muF, R = 116 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "Current Amplitude = 2.8 A"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 80 H, C = 12 muF, R = 149 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "Source Frequency = 32.3 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 67 H, C = 141 muF, R = 132 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "Current Amplitude = 2.5 A"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 84 H, C = 142 muF, R = 130 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "Source Frequency = 9.2 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 190 H, C = 94 muF, R = 114 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "RMS Potential Drop across Inductance = 2.87e+03 V"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 119 H, C = 128 muF, R = 30 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "RMS Potential Drop across Capacitance = 7.39e+03 V"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 177 H, C = 131 muF, R = 88 ohm. Determine the RMS potential drop across resistance?",
+        "input": "RMS Potential Drop across Resistance = Total Potential = 230 V",
+        "output": "RMS Potential Drop across Resistance = 230 V"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 16 H, C = 151 muF, R = 65 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "RMS Potential Drop across Inductance = 1.15e+03 V"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 92 H, C = 106 muF, R = 4 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "Current Amplitude = 81.3 A"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 123 H, C = 7 muF, R = 141 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "Current Amplitude = 2.3 A"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 14 H, C = 185 muF, R = 119 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "Source Frequency = 19.6 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 104 H, C = 93 muF, R = 175 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "Current Amplitude = 1.9 A"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 3 H, C = 44 muF, R = 13 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "RMS Potential Drop across Inductance = 4.62e+03 V"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 130 H, C = 8 muF, R = 176 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "RMS Potential Drop across Inductance = 5.27e+03 V"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 26 H, C = 88 muF, R = 195 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "RMS Potential Drop across Inductance = 6.41e+02 V"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 30 H, C = 107 muF, R = 112 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "RMS Potential Drop across Inductance = 1.09e+03 V"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 147 H, C = 110 muF, R = 194 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "RMS Potential Drop across Capacitance = 1.37e+03 V"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 14 H, C = 74 muF, R = 46 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "Current Amplitude = 7.1 A"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 50 H, C = 151 muF, R = 112 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "1.18e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 120 H, C = 20 muF, R = 80 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "4.1 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 127 H, C = 73 muF, R = 87 ohm. Determine the RMS potential drop across resistance?",
+        "input": "RMS Potential Drop across Resistance = Total Potential = 230 V",
+        "output": "230 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 68 H, C = 72 muF, R = 184 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "1.8 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 118 H, C = 148 muF, R = 138 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "1.49e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 118 H, C = 142 muF, R = 131 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "7.7 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 181 H, C = 187 muF, R = 118 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "1.92e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 165 H, C = 193 muF, R = 31 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "6.86e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 146 H, C = 131 muF, R = 129 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "1.88e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 96 H, C = 61 muF, R = 176 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "13.1 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 113 H, C = 93 muF, R = 67 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "4.9 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 22 H, C = 21 muF, R = 92 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "2.56e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 99 H, C = 67 muF, R = 70 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "4.6 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 146 H, C = 197 muF, R = 169 ohm. Determine the impedance of the circuit at the resonating frequency?",
+        "input": "Impedance = sqrt(R^2 + (\u03c9L - 1 / (\u03c9C))^2)",
+        "output": "169 ohm"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 150 H, C = 165 muF, R = 169 ohm. Determine the impedance of the circuit at the resonating frequency?",
+        "input": "Impedance = sqrt(R^2 + (\u03c9L - 1 / (\u03c9C))^2)",
+        "output": "169 ohm"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 72 H, C = 142 muF, R = 161 ohm. Determine the impedance of the circuit at the resonating frequency?",
+        "input": "Impedance = sqrt(R^2 + (\u03c9L - 1 / (\u03c9C))^2)",
+        "output": "161 ohm"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 115 H, C = 66 muF, R = 91 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "11.5 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 197 H, C = 17 muF, R = 18 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "4.35e+04 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 180 H, C = 36 muF, R = 121 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "4.25e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 193 H, C = 182 muF, R = 76 ohm. Determine the impedance of the circuit at the resonating frequency?",
+        "input": "Impedance = sqrt(R^2 + (\u03c9L - 1 / (\u03c9C))^2)",
+        "output": "76 ohm"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 150 H, C = 154 muF, R = 30 ohm. Determine the RMS potential drop across resistance?",
+        "input": "RMS Potential Drop across Resistance = Total Potential = 230 V",
+        "output": "230 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 147 H, C = 53 muF, R = 19 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "2.02e+04 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 86 H, C = 95 muF, R = 45 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "7.2 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 186 H, C = 174 muF, R = 59 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "4.03e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 95 H, C = 87 muF, R = 63 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "11.0 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 58 H, C = 2 muF, R = 109 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "1.14e+04 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 164 H, C = 194 muF, R = 152 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "1.39e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 104 H, C = 4 muF, R = 162 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "7.24e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 144 H, C = 38 muF, R = 187 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "1.7 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 163 H, C = 111 muF, R = 78 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "3.57e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 78 H, C = 155 muF, R = 171 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "9.54e+02 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 42 H, C = 127 muF, R = 101 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "13.7 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 146 H, C = 59 muF, R = 100 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "10.8 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 100 H, C = 16 muF, R = 155 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "3.71e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 73 H, C = 24 muF, R = 67 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "4.9 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 186 H, C = 36 muF, R = 132 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "12.2 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 144 H, C = 76 muF, R = 25 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "1.27e+04 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 63 H, C = 178 muF, R = 152 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "9.00e+02 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 106 H, C = 128 muF, R = 68 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "8.6 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 165 H, C = 68 muF, R = 190 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "1.7 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 37 H, C = 103 muF, R = 6 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "2.30e+04 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 74 H, C = 153 muF, R = 8 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "2.00e+04 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 131 H, C = 30 muF, R = 95 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "3.4 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 130 H, C = 169 muF, R = 99 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "3.3 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 139 H, C = 110 muF, R = 103 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "2.51e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 174 H, C = 31 muF, R = 184 ohm. Determine the RMS potential drop across resistance?",
+        "input": "RMS Potential Drop across Resistance = Total Potential = 230 V",
+        "output": "230 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 174 H, C = 110 muF, R = 196 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "7.2 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 119 H, C = 191 muF, R = 94 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "1.93e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 193 H, C = 169 muF, R = 82 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "3.00e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 127 H, C = 49 muF, R = 23 ohm. Determine the impedance of the circuit at the resonating frequency?",
+        "input": "Impedance = sqrt(R^2 + (\u03c9L - 1 / (\u03c9C))^2)",
+        "output": "23 ohm"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 189 H, C = 70 muF, R = 139 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "2.72e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 52 H, C = 90 muF, R = 81 ohm. Determine the amplitude of current at the resonating frequency?",
+        "input": "Current Amplitude = V_amplitude / Impedance",
+        "output": "4.0 ampere"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 137 H, C = 182 muF, R = 187 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "6.3 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 148 H, C = 82 muF, R = 190 ohm. Determine the impedance of the circuit at the resonating frequency?",
+        "input": "Impedance = sqrt(R^2 + (\u03c9L - 1 / (\u03c9C))^2)",
+        "output": "190 ohm"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 65 H, C = 90 muF, R = 152 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "1.29e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 102 H, C = 59 muF, R = 118 ohm. Determine the source frequency which drives the circuit in resonance?",
+        "input": "Source Frequency = 1 / sqrt(L * C)",
+        "output": "12.9 rad/s"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 30 H, C = 157 muF, R = 72 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "1.40e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 160 H, C = 176 muF, R = 157 ohm. Determine the RMS potential drop across capacitance?",
+        "input": "RMS Potential Drop across Capacitance = Current RMS * 1 / (\u03c9_r * C)",
+        "output": "1.40e+03 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 103 H, C = 145 muF, R = 195 ohm. Determine the RMS potential drop across resistance?",
+        "input": "RMS Potential Drop across Resistance = Total Potential = 230 V",
+        "output": "230 volt"
+    },
+    {
+        "instruction": "A series LCR circuit is connected to a variable frequency 230 V source with L = 4 H, C = 18 muF, R = 20 ohm. Determine the RMS potential drop across inductance?",
+        "input": "RMS Potential Drop across Inductance = Current RMS * \u03c9_r * L",
+        "output": "5.42e+03 volt"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 336762 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "4.763e-01 ampere"
+    },
+    {
+        "instruction": "The peak voltage of an ac supply is 394305 mV. What is the rms voltage?",
+        "input": "RMS Voltage = Peak Voltage / sqrt(2)",
+        "output": "2.788e+02 volt"
+    },
+    {
+        "instruction": "The peak voltage of an ac supply is 99727 mV. What is the rms voltage?",
+        "input": "RMS Voltage = Peak Voltage / sqrt(2)",
+        "output": "7.052e+01 volt"
+    },
+    {
+        "instruction": "The peak voltage of an ac supply is 350772 mV. What is the rms voltage?",
+        "input": "RMS Voltage = Peak Voltage / sqrt(2)",
+        "output": "2.480e+02 volt"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 1370321 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "1.938e+00 ampere"
+    },
+    {
+        "instruction": "The peak voltage of an ac supply is 34971 mV. What is the rms voltage?",
+        "input": "RMS Voltage = Peak Voltage / sqrt(2)",
+        "output": "2.473e+01 volt"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 1744330 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "2.467e+00 ampere"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 1217351 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "1.722e+00 ampere"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 23333 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "3.300e-02 ampere"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 16365 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "2.314e-02 ampere"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 690018 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "9.758e-01 ampere"
+    },
+    {
+        "instruction": "The peak voltage of an ac supply is 588641 mV. What is the rms voltage?",
+        "input": "RMS Voltage = Peak Voltage / sqrt(2)",
+        "output": "4.162e+02 volt"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 1775470 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "2.511e+00 ampere"
+    },
+    {
+        "instruction": "The peak voltage of an ac supply is 1950956 mV. What is the rms voltage?",
+        "input": "RMS Voltage = Peak Voltage / sqrt(2)",
+        "output": "1.380e+03 volt"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 1132478 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "1.602e+00 ampere"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 1890329 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "2.673e+00 ampere"
+    },
+    {
+        "instruction": "The rms value of current in an ac circuit is 1887503 microampere. What is the peak current?",
+        "input": "Peak Current = RMS Current * sqrt(2)",
+        "output": "2.669e+00 ampere"
+    },
+    {
+        "instruction": "The peak voltage of an ac supply is 6789 mV. What is the rms voltage?",
+        "input": "RMS Voltage = Peak Voltage / sqrt(2)",
+        "output": "4.801e+00 volt"
+    },
+    {
+        "instruction": "The peak voltage of an ac supply is 808377 mV. What is the rms voltage?",
+        "input": "RMS Voltage = Peak Voltage / sqrt(2)",
+        "output": "5.716e+02 volt"
+    },
+    {
+        "instruction": "The peak voltage of an ac supply is 148511 mV. What is the rms voltage?",
+        "input": "RMS Voltage = Peak Voltage / sqrt(2)",
+        "output": "1.050e+02 volt"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 17 ohm, L = 133 H and C = 15 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "2352.9 watt"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 67 ohm, L = 42 H and C = 183 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "597.0 watt"
+    },
+    {
+        "instruction": "Suppose the initial charge on the capacitor in an LC circuit with 66 muF capacitor and 165 mH inductor is 174 mC. What is the total energy stored in the circuit initially? What is the total energy at later time?",
+        "input": "Initial Energy = 0.5 * Q^2 * (1 / C)",
+        "output": "2.29e+02 joule, final value is same as initial value"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 120 ohm, L = 193 H and C = 146 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "333.3 watt"
+    },
+    {
+        "instruction": "Suppose the initial charge on the capacitor in an LC circuit with 46 muF capacitor and 76 mH inductor is 166 mC. What is the total energy stored in the circuit initially? What is the total energy at later time?",
+        "input": "Initial Energy = 0.5 * Q^2 * (1 / C)",
+        "output": "3.00e+02 joule, final value is same as initial value"
+    },
+    {
+        "instruction": "Suppose the initial charge on the capacitor in an LC circuit with 69 muF capacitor and 104 mH inductor is 46 mC. What is the total energy stored in the circuit initially? What is the total energy at later time?",
+        "input": "Initial Energy = 0.5 * Q^2 * (1 / C)",
+        "output": "1.53e+01 joule, final value is same as initial value"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 165 ohm, L = 1 H and C = 95 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "242.4 watt"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 157 ohm, L = 97 H and C = 161 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "254.8 watt"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 178 ohm, L = 28 H and C = 152 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "224.7 watt"
+    },
+    {
+        "instruction": "Suppose the initial charge on the capacitor in an LC circuit with 171 muF capacitor and 77 mH inductor is 83 mC. What is the total energy stored in the circuit initially? What is the total energy at later time?",
+        "input": "Initial Energy = 0.5 * Q^2 * (1 / C)",
+        "output": "2.01e+01 joule, final value is same as initial value"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 138 ohm, L = 44 H and C = 13 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "289.9 watt"
+    },
+    {
+        "instruction": "Suppose the initial charge on the capacitor in an LC circuit with 11 muF capacitor and 165 mH inductor is 31 mC. What is the total energy stored in the circuit initially? What is the total energy at later time?",
+        "input": "Initial Energy = 0.5 * Q^2 * (1 / C)",
+        "output": "4.37e+01 joule, final value is same as initial value"
+    },
+    {
+        "instruction": "Suppose the initial charge on the capacitor in an LC circuit with 7 muF capacitor and 81 mH inductor is 99 mC. What is the total energy stored in the circuit initially? What is the total energy at later time?",
+        "input": "Initial Energy = 0.5 * Q^2 * (1 / C)",
+        "output": "7.00e+02 joule, final value is same as initial value"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 150 ohm, L = 96 H and C = 160 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "266.7 watt"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 192 ohm, L = 58 H and C = 87 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "208.3 watt"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 49 ohm, L = 112 H and C = 11 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "816.3 watt"
+    },
+    {
+        "instruction": "Suppose the initial charge on the capacitor in an LC circuit with 49 muF capacitor and 127 mH inductor is 189 mC. What is the total energy stored in the circuit initially? What is the total energy at later time?",
+        "input": "Initial Energy = 0.5 * Q^2 * (1 / C)",
+        "output": "3.64e+02 joule, final value is same as initial value"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 107 ohm, L = 123 H and C = 172 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "373.8 watt"
+    },
+    {
+        "instruction": "A series LCR circuit with R = 103 ohm, L = 54 H and C = 99 muF is connected to a variable frequency of 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+        "input": "Average Power = (V^2 / R)",
+        "output": "388.3 watt"
+    },
+    {
+        "instruction": "Suppose the initial charge on the capacitor in an LC circuit with 47 muF capacitor and 117 mH inductor is 75 mC. What is the total energy stored in the circuit initially? What is the total energy at later time?",
+        "input": "Initial Energy = 0.5 * Q^2 * (1 / C)",
+        "output": "5.98e+01 joule, final value is same as initial value"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1909 kHz to 2279 kHz). If its LC circuit has an effective inductance of 246 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "1.98e-11 farad to 2.83e-11 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (763 kHz to 1161 kHz). If its LC circuit has an effective inductance of 176 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "1.07e-10 farad to 2.47e-10 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1488 kHz to 1696 kHz). If its LC circuit has an effective inductance of 102 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "8.63e-11 farad to 1.12e-10 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1120 kHz to 1379 kHz). If its LC circuit has an effective inductance of 181 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "7.36e-11 farad to 1.12e-10 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1143 kHz to 1436 kHz). If its LC circuit has an effective inductance of 146 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "8.41e-11 farad to 1.33e-10 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1951 kHz to 2054 kHz). If its LC circuit has an effective inductance of 135 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "4.45e-11 farad to 4.93e-11 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1144 kHz to 1388 kHz). If its LC circuit has an effective inductance of 126 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "1.04e-10 farad to 1.54e-10 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (212 kHz to 424 kHz). If its LC circuit has an effective inductance of 360 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "3.91e-10 farad to 1.57e-09 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (913 kHz to 1154 kHz). If its LC circuit has an effective inductance of 239 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "7.96e-11 farad to 1.27e-10 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1864 kHz to 2084 kHz). If its LC circuit has an effective inductance of 388 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "1.50e-11 farad to 1.88e-11 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (403 kHz to 613 kHz). If its LC circuit has an effective inductance of 133 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "5.07e-10 farad to 1.17e-09 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1361 kHz to 1690 kHz). If its LC circuit has an effective inductance of 184 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "4.82e-11 farad to 7.43e-11 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (206 kHz to 435 kHz). If its LC circuit has an effective inductance of 324 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "4.13e-10 farad to 1.84e-09 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1401 kHz to 1608 kHz). If its LC circuit has an effective inductance of 131 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "7.48e-11 farad to 9.85e-11 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (263 kHz to 368 kHz). If its LC circuit has an effective inductance of 276 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "6.78e-10 farad to 1.33e-09 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1488 kHz to 1722 kHz). If its LC circuit has an effective inductance of 144 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "5.93e-11 farad to 7.94e-11 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (251 kHz to 490 kHz). If its LC circuit has an effective inductance of 153 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "6.90e-10 farad to 2.63e-09 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1131 kHz to 1446 kHz). If its LC circuit has an effective inductance of 139 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "8.72e-11 farad to 1.42e-10 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (465 kHz to 602 kHz). If its LC circuit has an effective inductance of 205 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "3.41e-10 farad to 5.71e-10 farad"
+    },
+    {
+        "instruction": "A radio can tune over the frequency range of a portion of MW broadcast band: (1209 kHz to 1459 kHz). If its LC circuit has an effective inductance of 309 muH, what must be the range of its variable capacitor?",
+        "input": "w1 = 2 * pi * f1\nC1 = 1 / ((w1 ** 2) * L)\nw2 = 2 * pi * (f1 + f2)\nC2 = 1 / ((w2 ** 2) * L)",
+        "output": "3.85e-11 farad to 5.61e-11 farad"
+    },
+    {
+        "instruction": "A 109 ohm resistor is connected to a 192 V, 10 Hz ac supply. What is the net power consumed over a full cycle?",
+        "input": "P_net = (V ** 2) / R",
+        "output": "3.38e+02 watt"
+    },
+    {
+        "instruction": "A 190 mH inductor is connected to 23 V, 156 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "1.24e-01 ampere"
+    },
+    {
+        "instruction": "A 108 ohm resistor is connected to a 84 V, 175 Hz ac supply. What is the net power consumed over a full cycle?",
+        "input": "P_net = (V ** 2) / R",
+        "output": "6.53e+01 watt"
+    },
+    {
+        "instruction": "A 166 microfarad capacitor is connected to a 52 V, 139 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "7.54e+00 ampere"
+    },
+    {
+        "instruction": "A 193 microfarad capacitor is connected to a 206 V, 18 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "4.50e+00 ampere"
+    },
+    {
+        "instruction": "A 192 ohm resistor is connected to a 149 V, 32 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "7.76e-01 ampere"
+    },
+    {
+        "instruction": "A 159 ohm resistor is connected to a 78 V, 11 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "4.91e-01 ampere"
+    },
+    {
+        "instruction": "A 127 ohm resistor is connected to a 175 V, 154 Hz ac supply. What is the net power consumed over a full cycle?",
+        "input": "P_net = (V ** 2) / R",
+        "output": "2.41e+02 watt"
+    },
+    {
+        "instruction": "A 133 mH inductor is connected to 26 V, 182 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "1.71e-01 ampere"
+    },
+    {
+        "instruction": "A 144 microfarad capacitor is connected to a 232 V, 106 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "2.23e+01 ampere"
+    },
+    {
+        "instruction": "A 88 microfarad capacitor is connected to a 209 V, 106 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "1.22e+01 ampere"
+    },
+    {
+        "instruction": "A 99 mH inductor is connected to 72 V, 139 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "8.33e-01 ampere"
+    },
+    {
+        "instruction": "A 66 ohm resistor is connected to a 39 V, 165 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "5.91e-01 ampere"
+    },
+    {
+        "instruction": "A 14 microfarad capacitor is connected to a 152 V, 90 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "1.20e+00 ampere"
+    },
+    {
+        "instruction": "A 111 mH inductor is connected to 102 V, 138 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "1.06e+00 ampere"
+    },
+    {
+        "instruction": "A 32 ohm resistor is connected to a 150 V, 41 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "4.69e+00 ampere"
+    },
+    {
+        "instruction": "A 193 ohm resistor is connected to a 141 V, 64 Hz ac supply. What is the net power consumed over a full cycle?",
+        "input": "P_net = (V ** 2) / R",
+        "output": "1.03e+02 watt"
+    },
+    {
+        "instruction": "A 47 ohm resistor is connected to a 89 V, 163 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "1.89e+00 ampere"
+    },
+    {
+        "instruction": "A 43 mH inductor is connected to 214 V, 24 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "3.30e+01 ampere"
+    },
+    {
+        "instruction": "A 98 ohm resistor is connected to a 40 V, 160 Hz ac supply. What is the net power consumed over a full cycle?",
+        "input": "P_net = (V ** 2) / R",
+        "output": "1.63e+01 watt"
+    },
+    {
+        "instruction": "A 40 ohm resistor is connected to a 186 V, 130 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "4.65e+00 ampere"
+    },
+    {
+        "instruction": "A 118 ohm resistor is connected to a 55 V, 113 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "4.66e-01 ampere"
+    },
+    {
+        "instruction": "A 44 ohm resistor is connected to a 226 V, 27 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "5.14e+00 ampere"
+    },
+    {
+        "instruction": "A 76 microfarad capacitor is connected to a 21 V, 179 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "1.80e+00 ampere"
+    },
+    {
+        "instruction": "A 186 mH inductor is connected to 191 V, 119 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "1.37e+00 ampere"
+    },
+    {
+        "instruction": "A 82 ohm resistor is connected to a 236 V, 195 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "2.88e+00 ampere"
+    },
+    {
+        "instruction": "A 131 mH inductor is connected to 172 V, 81 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "2.58e+00 ampere"
+    },
+    {
+        "instruction": "A 123 ohm resistor is connected to a 142 V, 177 Hz ac supply. What is the net power consumed over a full cycle?",
+        "input": "P_net = (V ** 2) / R",
+        "output": "1.64e+02 watt"
+    },
+    {
+        "instruction": "A 19 microfarad capacitor is connected to a 171 V, 81 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "1.65e+00 ampere"
+    },
+    {
+        "instruction": "A 109 microfarad capacitor is connected to a 94 V, 65 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "4.18e+00 ampere"
+    },
+    {
+        "instruction": "A 136 ohm resistor is connected to a 173 V, 123 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "1.27e+00 ampere"
+    },
+    {
+        "instruction": "A 94 ohm resistor is connected to a 189 V, 154 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "2.01e+00 ampere"
+    },
+    {
+        "instruction": "A 192 mH inductor is connected to 156 V, 76 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "1.70e+00 ampere"
+    },
+    {
+        "instruction": "A 34 ohm resistor is connected to a 30 V, 180 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "8.82e-01 ampere"
+    },
+    {
+        "instruction": "A 190 ohm resistor is connected to a 103 V, 71 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "5.42e-01 ampere"
+    },
+    {
+        "instruction": "A 161 microfarad capacitor is connected to a 30 V, 32 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "9.71e-01 ampere"
+    },
+    {
+        "instruction": "A 119 microfarad capacitor is connected to a 211 V, 183 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "2.89e+01 ampere"
+    },
+    {
+        "instruction": "A 47 microfarad capacitor is connected to a 132 V, 45 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "1.75e+00 ampere"
+    },
+    {
+        "instruction": "A 88 mH inductor is connected to 193 V, 189 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "1.85e+00 ampere"
+    },
+    {
+        "instruction": "A 144 mH inductor is connected to 135 V, 73 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "2.04e+00 ampere"
+    },
+    {
+        "instruction": "A 153 microfarad capacitor is connected to a 174 V, 50 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "8.36e+00 ampere"
+    },
+    {
+        "instruction": "A 52 ohm resistor is connected to a 89 V, 42 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "1.71e+00 ampere"
+    },
+    {
+        "instruction": "A 169 ohm resistor is connected to a 249 V, 186 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "1.47e+00 ampere"
+    },
+    {
+        "instruction": "A 141 mH inductor is connected to 162 V, 102 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_l = 2 * pi * f * L * 0.001\nI_rms = V / X_l",
+        "output": "1.79e+00 ampere"
+    },
+    {
+        "instruction": "A 98 ohm resistor is connected to a 128 V, 59 Hz ac supply. What is the net power consumed over a full cycle?",
+        "input": "P_net = (V ** 2) / R",
+        "output": "1.67e+02 watt"
+    },
+    {
+        "instruction": "A 19 ohm resistor is connected to a 105 V, 135 Hz ac supply. What is the net power consumed over a full cycle?",
+        "input": "P_net = (V ** 2) / R",
+        "output": "5.80e+02 watt"
+    },
+    {
+        "instruction": "A 154 microfarad capacitor is connected to a 195 V, 22 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "4.15e+00 ampere"
+    },
+    {
+        "instruction": "A 175 ohm resistor is connected to a 235 V, 75 Hz ac supply. What is the net power consumed over a full cycle?",
+        "input": "P_net = (V ** 2) / R",
+        "output": "3.16e+02 watt"
+    },
+    {
+        "instruction": "A 165 microfarad capacitor is connected to a 71 V, 128 Hz ac supply. Determine the rms value of current in the circuit?",
+        "input": "X_c_inverse = 2 * pi * f * C * 0.000001\nI_rms = V * X_c_inverse",
+        "output": "9.42e+00 ampere"
+    },
+    {
+        "instruction": "A 136 ohm resistor is connected to a 147 V, 37 Hz ac supply. What is the rms value of current in the circuit?",
+        "input": "I_rms = V / R",
+        "output": "1.08e+00 ampere"
+    },
+    {
+        "instruction": "A power transformer line feeds input power at 111627 V to a stepdown transformer with its primary windings having 27789 turns. What should be the number of turns in the secondary in order to get output at 237 V?",
+        "input": "N_secondary = (N_primary * V_primary) / V_secondary",
+        "output": "59 turns"
+    },
+    {
+        "instruction": "A small town with a demand of 560 kW of electric power at 220 V is situated 15 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.17 ohm per km. The town gets power from the line through 4210 - 220 V step down transformer at a sub-station in the town. How much power does the plant supply, assuming there is negligible power loss due to leakage?",
+        "input": "Total_power_supplied = Power_loss + Demand_power\nPower_loss = I^2 * R * 2 * distance",
+        "output": "6.50e+05 watt"
+    },
+    {
+        "instruction": "A small town with a demand of 700 kW of electric power at 220 V is situated 21 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.33 ohm per km. The town gets power from the line through 3940 - 220 V step down transformer at a sub-station in the town. Characterize the step-up transformer at the plant.",
+        "input": "Voltage_Drop = I * resistance_drop * 2 * distance\nStep_up_transformer_rating = Bigger_voltage - Voltage_drop",
+        "output": "rating is 440 volt -- 6.40e+03 volt"
+    },
+    {
+        "instruction": "A small town with a demand of 810 kW of electric power at 220 V is situated 20 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.25 ohm per km. The town gets power from the line through 3490 - 220 V step down transformer at a sub-station in the town. Characterize the step-up transformer at the plant.",
+        "input": "Voltage_Drop = I * resistance_drop * 2 * distance\nStep_up_transformer_rating = Bigger_voltage - Voltage_drop",
+        "output": "rating is 440 volt -- 5.81e+03 volt"
+    },
+    {
+        "instruction": "A small town with a demand of 700 kW of electric power at 220 V is situated 20 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.53 ohm per km. The town gets power from the line through 3890 - 220 V step down transformer at a sub-station in the town. Estimate the power loss in the form of heat?",
+        "input": "Power_loss = I^2 * R * 2 * distance",
+        "output": "6.86e+05 watt"
+    },
+    {
+        "instruction": "A power transformer line feeds input power at 29312 V to a stepdown transformer with its primary windings having 1408 turns. What should be the number of turns in the secondary in order to get output at 229 V?",
+        "input": "N_secondary = (N_primary * V_primary) / V_secondary",
+        "output": "11 turns"
+    },
+    {
+        "instruction": "A small town with a demand of 570 kW of electric power at 220 V is situated 28 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.79 ohm per km. The town gets power from the line through 4270 - 220 V step down transformer at a sub-station in the town. How much power does the plant supply, assuming there is negligible power loss due to leakage?",
+        "input": "Total_power_supplied = Power_loss + Demand_power\nPower_loss = I^2 * R * 2 * distance",
+        "output": "1.36e+06 watt"
+    },
+    {
+        "instruction": "A small town with a demand of 520 kW of electric power at 220 V is situated 11 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.26 ohm per km. The town gets power from the line through 3770 - 220 V step down transformer at a sub-station in the town. How much power does the plant supply, assuming there is negligible power loss due to leakage?",
+        "input": "Total_power_supplied = Power_loss + Demand_power\nPower_loss = I^2 * R * 2 * distance",
+        "output": "6.29e+05 watt"
+    },
+    {
+        "instruction": "A small town with a demand of 790 kW of electric power at 220 V is situated 10 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.89 ohm per km. The town gets power from the line through 3640 - 220 V step down transformer at a sub-station in the town. How much power does the plant supply, assuming there is negligible power loss due to leakage?",
+        "input": "Total_power_supplied = Power_loss + Demand_power\nPower_loss = I^2 * R * 2 * distance",
+        "output": "1.63e+06 watt"
+    },
+    {
+        "instruction": "A small town with a demand of 500 kW of electric power at 220 V is situated 19 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.88 ohm per km. The town gets power from the line through 4250 - 220 V step down transformer at a sub-station in the town. Characterize the step-up transformer at the plant.",
+        "input": "Voltage_Drop = I * resistance_drop * 2 * distance\nStep_up_transformer_rating = Bigger_voltage - Voltage_drop",
+        "output": "rating is 440 volt -- 8.18e+03 volt"
+    },
+    {
+        "instruction": "A power transformer line feeds input power at 17325 V to a stepdown transformer with its primary windings having 23485 turns. What should be the number of turns in the secondary in order to get output at 225 V?",
+        "input": "N_secondary = (N_primary * V_primary) / V_secondary",
+        "output": "305 turns"
+    },
+    {
+        "instruction": "A small town with a demand of 900 kW of electric power at 220 V is situated 17 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.29 ohm per km. The town gets power from the line through 3740 - 220 V step down transformer at a sub-station in the town. Characterize the step-up transformer at the plant.",
+        "input": "Voltage_Drop = I * resistance_drop * 2 * distance\nStep_up_transformer_rating = Bigger_voltage - Voltage_drop",
+        "output": "rating is 440 volt -- 6.11e+03 volt"
+    },
+    {
+        "instruction": "A small town with a demand of 840 kW of electric power at 220 V is situated 19 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.8 ohm per km. The town gets power from the line through 4570 - 220 V step down transformer at a sub-station in the town. Estimate the power loss in the form of heat?",
+        "input": "Power_loss = I^2 * R * 2 * distance",
+        "output": "1.03e+06 watt"
+    },
+    {
+        "instruction": "A small town with a demand of 980 kW of electric power at 220 V is situated 25 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.74 ohm per km. The town gets power from the line through 3350 - 220 V step down transformer at a sub-station in the town. Characterize the step-up transformer at the plant.",
+        "input": "Voltage_Drop = I * resistance_drop * 2 * distance\nStep_up_transformer_rating = Bigger_voltage - Voltage_drop",
+        "output": "rating is 440 volt -- 1.42e+04 volt"
+    },
+    {
+        "instruction": "A small town with a demand of 530 kW of electric power at 220 V is situated 15 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.51 ohm per km. The town gets power from the line through 4040 - 220 V step down transformer at a sub-station in the town. Estimate the power loss in the form of heat?",
+        "input": "Power_loss = I^2 * R * 2 * distance",
+        "output": "2.63e+05 watt"
+    },
+    {
+        "instruction": "A power transformer line feeds input power at 43554 V to a stepdown transformer with its primary windings having 10065 turns. What should be the number of turns in the secondary in order to get output at 238 V?",
+        "input": "N_secondary = (N_primary * V_primary) / V_secondary",
+        "output": "55 turns"
+    },
+    {
+        "instruction": "A small town with a demand of 770 kW of electric power at 220 V is situated 12 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.88 ohm per km. The town gets power from the line through 4750 - 220 V step down transformer at a sub-station in the town. Characterize the step-up transformer at the plant.",
+        "input": "Voltage_Drop = I * resistance_drop * 2 * distance\nStep_up_transformer_rating = Bigger_voltage - Voltage_drop",
+        "output": "rating is 440 volt -- 8.17e+03 volt"
+    },
+    {
+        "instruction": "A small town with a demand of 590 kW of electric power at 220 V is situated 28 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.2 ohm per km. The town gets power from the line through 4670 - 220 V step down transformer at a sub-station in the town. Estimate the power loss in the form of heat?",
+        "input": "Power_loss = I^2 * R * 2 * distance",
+        "output": "1.79e+05 watt"
+    },
+    {
+        "instruction": "A small town with a demand of 890 kW of electric power at 220 V is situated 19 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.89 ohm per km. The town gets power from the line through 3890 - 220 V step down transformer at a sub-station in the town. Estimate the power loss in the form of heat?",
+        "input": "Power_loss = I^2 * R * 2 * distance",
+        "output": "1.77e+06 watt"
+    },
+    {
+        "instruction": "A small town with a demand of 710 kW of electric power at 220 V is situated 15 km away from an electric plant generating power at 440 V. The resistance of each of the two wires carrying power is 0.1 ohm per km. The town gets power from the line through 4480 - 220 V step down transformer at a sub-station in the town. Estimate the power loss in the form of heat?",
+        "input": "Power_loss = I^2 * R * 2 * distance",
+        "output": "7.53e+04 watt"
+    },
+    {
+        "instruction": "A coil of inductance 0.28 H and resistance 184 ohm is connected to a 226 V, 48 Hz ac supply. What is the time lag between voltage maximum and current maximum?",
+        "input": "Time_lag = atan((f * L * 2 * pi) / R) / (2 * pi * f)",
+        "output": "1.43e-03 s"
+    },
+    {
+        "instruction": "A 125 muF capacitor in series with a 19 ohm resistance is connected to a 229 V, 35 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "4.95e-03 s"
+    },
+    {
+        "instruction": "A 220 muF capacitor in series with a 23 ohm resistance is connected to a 228 V, 30 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "4.29e-03 s"
+    },
+    {
+        "instruction": "A 65 muF capacitor in series with a 17 ohm resistance is connected to a 224 V, 61 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "3.05e-03 s"
+    },
+    {
+        "instruction": "A coil of inductance 0.65 H and resistance 170 ohm is connected to a 231 V, 51 Hz ac supply. What is the time lag between voltage maximum and current maximum?",
+        "input": "Time_lag = atan((f * L * 2 * pi) / R) / (2 * pi * f)",
+        "output": "2.77e-03 s"
+    },
+    {
+        "instruction": "A coil of inductance 0.38 H and resistance 125 ohm is connected to a 238 V, 34 Hz ac supply. What is the time lag between voltage maximum and current maximum?",
+        "input": "Time_lag = atan((f * L * 2 * pi) / R) / (2 * pi * f)",
+        "output": "2.70e-03 s"
+    },
+    {
+        "instruction": "A coil of inductance 0.59 H and resistance 82 ohm is connected to a 221 V, 74 Hz ac supply. What is the time lag between voltage maximum and current maximum?",
+        "input": "Time_lag = atan((f * L * 2 * pi) / R) / (2 * pi * f)",
+        "output": "2.75e-03 s"
+    },
+    {
+        "instruction": "A 52 muF capacitor in series with a 40 ohm resistance is connected to a 232 V, 70 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "1.89e-03 s"
+    },
+    {
+        "instruction": "A coil of inductance 0.59 H and resistance 65 ohm is connected to a 234 V, 32 Hz ac supply. What is the time lag between voltage maximum and current maximum?",
+        "input": "Time_lag = atan((f * L * 2 * pi) / R) / (2 * pi * f)",
+        "output": "5.32e-03 s"
+    },
+    {
+        "instruction": "A coil of inductance 0.68 H and resistance 89 ohm is connected to a 232 V, 20 Hz ac supply. What is the time lag between voltage maximum and current maximum?",
+        "input": "Time_lag = atan((f * L * 2 * pi) / R) / (2 * pi * f)",
+        "output": "6.09e-03 s"
+    },
+    {
+        "instruction": "A 166 muF capacitor in series with a 28 ohm resistance is connected to a 238 V, 39 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "2.94e-03 s"
+    },
+    {
+        "instruction": "A 205 muF capacitor in series with a 45 ohm resistance is connected to a 222 V, 70 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "5.49e-04 s"
+    },
+    {
+        "instruction": "A 195 muF capacitor in series with a 46 ohm resistance is connected to a 221 V, 73 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "5.20e-04 s"
+    },
+    {
+        "instruction": "A 42 muF capacitor in series with a 13 ohm resistance is connected to a 226 V, 46 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "4.89e-03 s"
+    },
+    {
+        "instruction": "A 93 muF capacitor in series with a 27 ohm resistance is connected to a 232 V, 65 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "1.89e-03 s"
+    },
+    {
+        "instruction": "A 40 muF capacitor in series with a 45 ohm resistance is connected to a 226 V, 49 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "3.46e-03 s"
+    },
+    {
+        "instruction": "A coil of inductance 0.37 H and resistance 168 ohm is connected to a 221 V, 37 Hz ac supply. What is the time lag between voltage maximum and current maximum?",
+        "input": "Time_lag = atan((f * L * 2 * pi) / R) / (2 * pi * f)",
+        "output": "2.04e-03 s"
+    },
+    {
+        "instruction": "A coil of inductance 0.69 H and resistance 212 ohm is connected to a 223 V, 31 Hz ac supply. What is the time lag between voltage maximum and current maximum?",
+        "input": "Time_lag = atan((f * L * 2 * pi) / R) / (2 * pi * f)",
+        "output": "2.90e-03 s"
+    },
+    {
+        "instruction": "A 196 muF capacitor in series with a 48 ohm resistance is connected to a 223 V, 48 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "1.12e-03 s"
+    },
+    {
+        "instruction": "A 185 muF capacitor in series with a 27 ohm resistance is connected to a 224 V, 70 Hz supply. What is the time lag between the current maximum and voltage maximum?",
+        "input": "Time_lag = atan(1 / (f * C * 10^-6 * 2 * pi * R)) / (2 * pi * f)",
+        "output": "9.71e-04 s"
+    }
+]

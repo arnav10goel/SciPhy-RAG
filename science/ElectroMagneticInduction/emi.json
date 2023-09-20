@@ -1,0 +1,702 @@
+[
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1979 km/h. What is the voltage difference developed between the ends of the wing, having a span of 31 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 59 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "3.65e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1894 km/h. What is the voltage difference developed between the ends of the wing, having a span of 38 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 21 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "1.79e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1378 km/h. What is the voltage difference developed between the ends of the wing, having a span of 51 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 12 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "1.01e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1802 km/h. What is the voltage difference developed between the ends of the wing, having a span of 45 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 82 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "5.58e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1372 km/h. What is the voltage difference developed between the ends of the wing, having a span of 55 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 13 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "1.18e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1611 km/h. What is the voltage difference developed between the ends of the wing, having a span of 22 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 81 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "2.43e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1270 km/h. What is the voltage difference developed between the ends of the wing, having a span of 76 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 56 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "5.56e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1082 km/h. What is the voltage difference developed between the ends of the wing, having a span of 40 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 20 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "1.03e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1681 km/h. What is the voltage difference developed between the ends of the wing, having a span of 13 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 57 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "1.27e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1565 km/h. What is the voltage difference developed between the ends of the wing, having a span of 22 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 49 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "1.80e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1444 km/h. What is the voltage difference developed between the ends of the wing, having a span of 37 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 25 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "1.57e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1912 km/h. What is the voltage difference developed between the ends of the wing, having a span of 38 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 51 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "3.92e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1937 km/h. What is the voltage difference developed between the ends of the wing, having a span of 55 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 13 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "1.66e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1908 km/h. What is the voltage difference developed between the ends of the wing, having a span of 72 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 40 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "6.13e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1876 km/h. What is the voltage difference developed between the ends of the wing, having a span of 26 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 63 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "3.02e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1458 km/h. What is the voltage difference developed between the ends of the wing, having a span of 44 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 22 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "1.67e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1988 km/h. What is the voltage difference developed between the ends of the wing, having a span of 22 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 68 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "2.82e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1911 km/h. What is the voltage difference developed between the ends of the wing, having a span of 77 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 83 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "1.01e+00 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1122 km/h. What is the voltage difference developed between the ends of the wing, having a span of 26 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 87 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "2.02e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A jet plane is traveling towards the west at a speed of 1316 km/h. What is the voltage difference developed between the ends of the wing, having a span of 46 m, if the Earth's magnetic field at the location has a magnitude of 5 x 10^(-4) T and the dip angle is 75 degrees?\n",
+        "input": "V = (B * l * v) / 2",
+        "output": "4.06e-01 volt\n\n\nThe voltage difference (V) can be calculated using the formula V = (B * l * v) / 2, where B is the Earth's magnetic field magnitude, l is the span of the wing, and v is the speed of the jet plane after conversion from km/h to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 7 cm and 15 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 1.5 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 15 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "1.58e-02 volt for 4.67e-01 s if the velocity is perpendicular to the 7 cm side, 3.37e-02 volt for 1.00e+00 s if the velocity is perpendicular to the 15 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 21 cm and 1 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 17.8 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 58 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "2.17e+00 volt for 3.62e-01 s if the velocity is perpendicular to the 21 cm side, 1.03e-01 volt for 1.72e-02 s if the velocity is perpendicular to the 1 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 16 cm and 4 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 13.9 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 93 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "2.07e+00 volt for 1.72e-01 s if the velocity is perpendicular to the 16 cm side, 5.17e-01 volt for 4.30e-02 s if the velocity is perpendicular to the 4 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 26 cm and 30 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 10.8 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 69 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "1.94e+00 volt for 3.77e-01 s if the velocity is perpendicular to the 26 cm side, 2.24e+00 volt for 4.35e-01 s if the velocity is perpendicular to the 30 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 15 cm and 24 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 19.7 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 91 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "2.69e+00 volt for 1.65e-01 s if the velocity is perpendicular to the 15 cm side, 4.30e+00 volt for 2.64e-01 s if the velocity is perpendicular to the 24 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 4 cm and 1 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 2.0 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 54 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "4.32e-02 volt for 7.41e-02 s if the velocity is perpendicular to the 4 cm side, 1.08e-02 volt for 1.85e-02 s if the velocity is perpendicular to the 1 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 18 cm and 19 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 7.9 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 66 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "9.39e-01 volt for 2.73e-01 s if the velocity is perpendicular to the 18 cm side, 9.91e-01 volt for 2.88e-01 s if the velocity is perpendicular to the 19 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 10 cm and 16 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 6.2 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 96 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "5.95e-01 volt for 1.04e-01 s if the velocity is perpendicular to the 10 cm side, 9.52e-01 volt for 1.67e-01 s if the velocity is perpendicular to the 16 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 22 cm and 21 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 2.7 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 49 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "2.91e-01 volt for 4.49e-01 s if the velocity is perpendicular to the 22 cm side, 2.78e-01 volt for 4.29e-01 s if the velocity is perpendicular to the 21 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 6 cm and 19 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 2.5 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 47 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "7.05e-02 volt for 1.28e-01 s if the velocity is perpendicular to the 6 cm side, 2.23e-01 volt for 4.04e-01 s if the velocity is perpendicular to the 19 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 29 cm and 21 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 10.6 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 79 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "2.43e+00 volt for 3.67e-01 s if the velocity is perpendicular to the 29 cm side, 1.76e+00 volt for 2.66e-01 s if the velocity is perpendicular to the 21 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 4 cm and 23 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 5.9 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 59 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "1.39e-01 volt for 6.78e-02 s if the velocity is perpendicular to the 4 cm side, 8.01e-01 volt for 3.90e-01 s if the velocity is perpendicular to the 23 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 22 cm and 19 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 7.9 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 57 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "9.91e-01 volt for 3.86e-01 s if the velocity is perpendicular to the 22 cm side, 8.56e-01 volt for 3.33e-01 s if the velocity is perpendicular to the 19 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 22 cm and 8 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 1.2 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 40 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "1.06e-01 volt for 5.50e-01 s if the velocity is perpendicular to the 22 cm side, 3.84e-02 volt for 2.00e-01 s if the velocity is perpendicular to the 8 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 11 cm and 30 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 0.1 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 94 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "1.03e-02 volt for 1.17e-01 s if the velocity is perpendicular to the 11 cm side, 2.82e-02 volt for 3.19e-01 s if the velocity is perpendicular to the 30 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 25 cm and 12 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 4.0 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 35 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "3.50e-01 volt for 7.14e-01 s if the velocity is perpendicular to the 25 cm side, 1.68e-01 volt for 3.43e-01 s if the velocity is perpendicular to the 12 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 1 cm and 21 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 8.7 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 93 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "8.09e-02 volt for 1.08e-02 s if the velocity is perpendicular to the 1 cm side, 1.70e+00 volt for 2.26e-01 s if the velocity is perpendicular to the 21 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 11 cm and 23 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 10.6 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 58 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "6.76e-01 volt for 1.90e-01 s if the velocity is perpendicular to the 11 cm side, 1.41e+00 volt for 3.97e-01 s if the velocity is perpendicular to the 23 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 11 cm and 23 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 6.4 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 30 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "2.11e-01 volt for 3.67e-01 s if the velocity is perpendicular to the 11 cm side, 4.42e-01 volt for 7.67e-01 s if the velocity is perpendicular to the 23 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A rectangular wire loop of sides 27 cm and 13 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 15.5 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 37 cm/s in a direction normal to the two different sides of the loop? For how long does the induced voltage last in each case?\n",
+        "input": "EMF = B * l * v",
+        "output": "1.55e+00 volt for 7.30e-01 s if the velocity is perpendicular to the 27 cm side, 7.46e-01 volt for 3.51e-01 s if the velocity is perpendicular to the 13 cm side\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = B * l * v, where B is the magnetic field magnitude, l is the side length of the rectangular wire loop, and v is the velocity of the loop after conversion from cm/s to m/s."
+    },
+    {
+        "instruction": "A 181 cm long metallic rod is rotated with an angular frequency of 125 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 134 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "1.89e+08 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 53 cm long metallic rod is rotated with an angular frequency of 137 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 30 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "1.49e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 33 cm long metallic rod is rotated with an angular frequency of 94 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 195 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "2.84e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 185 cm long metallic rod is rotated with an angular frequency of 82 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 152 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "9.45e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 47 cm long metallic rod is rotated with an angular frequency of 107 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 112 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "3.01e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 135 cm long metallic rod is rotated with an angular frequency of 52 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 66 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "1.20e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 183 cm long metallic rod is rotated with an angular frequency of 30 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 193 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "1.59e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 178 cm long metallic rod is rotated with an angular frequency of 70 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 148 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "6.45e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 35 cm long metallic rod is rotated with an angular frequency of 95 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 109 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "1.72e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 53 cm long metallic rod is rotated with an angular frequency of 172 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 67 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "5.25e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 105 cm long metallic rod is rotated with an angular frequency of 192 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 181 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "3.50e+08 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 23 cm long metallic rod is rotated with an angular frequency of 155 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 115 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "3.18e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 140 cm long metallic rod is rotated with an angular frequency of 46 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 197 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "2.92e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 32 cm long metallic rod is rotated with an angular frequency of 146 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 182 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "6.21e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 20 cm long metallic rod is rotated with an angular frequency of 142 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 83 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "1.67e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 32 cm long metallic rod is rotated with an angular frequency of 135 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 41 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "1.20e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 75 cm long metallic rod is rotated with an angular frequency of 26 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 5 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "1.27e+05 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 165 cm long metallic rod is rotated with an angular frequency of 74 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 38 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "1.72e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 57 cm long metallic rod is rotated with an angular frequency of 64 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 55 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "6.42e+06 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A 186 cm long metallic rod is rotated with an angular frequency of 123 rad s-1 about an axis normal to the rod passing through one of its ends. The other end of the rod is in contact with a circular metallic ring. A uniform magnetic field of 60 T parallel to the axis exists everywhere. Find the EMF developed between the center and the ring.\n",
+        "input": "EMF = (B * l * w^2) / 2",
+        "output": "8.44e+07 volt\n\n\nThe electromotive force (EMF) can be calculated using the formula EMF = (B * l * w^2) / 2, where B is the magnetic field magnitude, l is the length of the metallic rod, and w is the angular frequency of rotation in radians per second."
+    },
+    {
+        "instruction": "A long solenoid with 13 turns per cm has a small loop of area 13 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 26 A to 27 A in 0.21 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "1.01e-05 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 20 turns per cm has a small loop of area 13 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 2 A to 4 A in 0.08 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "8.17e-05 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 30 turns per cm has a small loop of area 27 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 20 A to 28 A in 0.26 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "3.13e-04 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 8 turns per cm has a small loop of area 3 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 25 A to 32 A in 0.06 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "3.52e-05 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 5 turns per cm has a small loop of area 6 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 30 A to 39 A in 0.21 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "1.62e-05 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 3 turns per cm has a small loop of area 26 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 2 A to 3 A in 0.18 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "5.45e-06 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 19 turns per cm has a small loop of area 3 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 26 A to 35 A in 0.3 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "2.15e-05 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 21 turns per cm has a small loop of area 24 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 19 A to 28 A in 0.04 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "1.43e-03 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 7 turns per cm has a small loop of area 11 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 26 A to 29 A in 0.08 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "3.63e-05 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 29 turns per cm has a small loop of area 30 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 26 A to 30 A in 0.21 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "2.08e-04 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 22 turns per cm has a small loop of area 28 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 18 A to 22 A in 0.15 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "2.06e-04 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 2 turns per cm has a small loop of area 6 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 6 A to 9 A in 0.18 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "2.51e-06 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 2 turns per cm has a small loop of area 14 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 14 A to 19 A in 0.2 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "8.80e-06 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 21 turns per cm has a small loop of area 26 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 26 A to 29 A in 0.03 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "6.86e-04 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 12 turns per cm has a small loop of area 9 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 12 A to 21 A in 0.14 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "8.72e-05 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 24 turns per cm has a small loop of area 12 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 11 A to 21 A in 0.27 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "1.34e-04 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 12 turns per cm has a small loop of area 29 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 11 A to 13 A in 0.17 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "5.14e-05 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 30 turns per cm has a small loop of area 20 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 29 A to 36 A in 0.24 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "2.20e-04 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 16 turns per cm has a small loop of area 4 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 22 A to 27 A in 0.05 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "8.04e-05 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A long solenoid with 4 turns per cm has a small loop of area 5 cm\u00b2 placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 8 A to 12 A in 0.23 s, what is the induced emf in the loop while the current is changing?\n",
+        "input": "EMF = (\u03bc\u2080 * A * n * I\u2082) / t",
+        "output": "4.37e-06 volt\n\n\nThe induced electromotive force (EMF) can be calculated using the formula EMF = (\u03bc\u2080 * A * n * I\u2082) / t, where \u03bc\u2080 is the permeability of free space, A is the area of the loop, n is the number of turns per cm of the solenoid, I\u2082 is the change in current, and t is the time taken for the change."
+    },
+    {
+        "instruction": "A circular coil of radius 25 cm and 19 turns is rotated about its vertical diameter with an angular speed of 70 rad/s in a uniform horizontal magnetic field of magnitude 1.8 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 8 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 4.70e+02 volt, average emf: 0 volts, maximum current: 5.88e+01 amp, average power loss: 1.38e+04 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 22 cm and 9 turns is rotated about its vertical diameter with an angular speed of 51 rad/s in a uniform horizontal magnetic field of magnitude 0.5 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 8 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 3.49e+01 volt, average emf: 0 volts, maximum current: 4.36e+00 amp, average power loss: 7.61e+01 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 36 cm and 7 turns is rotated about its vertical diameter with an angular speed of 67 rad/s in a uniform horizontal magnetic field of magnitude 9.5 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 9 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 1.81e+03 volt, average emf: 0 volts, maximum current: 2.02e+02 amp, average power loss: 1.83e+05 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 31 cm and 4 turns is rotated about its vertical diameter with an angular speed of 46 rad/s in a uniform horizontal magnetic field of magnitude 3.3 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 4 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 1.83e+02 volt, average emf: 0 volts, maximum current: 4.58e+01 amp, average power loss: 4.20e+03 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 34 cm and 13 turns is rotated about its vertical diameter with an angular speed of 49 rad/s in a uniform horizontal magnetic field of magnitude 9.1 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 7 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 2.11e+03 volt, average emf: 0 volts, maximum current: 3.01e+02 amp, average power loss: 3.17e+05 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 28 cm and 9 turns is rotated about its vertical diameter with an angular speed of 58 rad/s in a uniform horizontal magnetic field of magnitude 1.5 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 10 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 1.93e+02 volt, average emf: 0 volts, maximum current: 1.93e+01 amp, average power loss: 1.86e+03 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 27 cm and 18 turns is rotated about its vertical diameter with an angular speed of 50 rad/s in a uniform horizontal magnetic field of magnitude 5.9 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 6 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 1.22e+03 volt, average emf: 0 volts, maximum current: 2.03e+02 amp, average power loss: 1.23e+05 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 24 cm and 13 turns is rotated about its vertical diameter with an angular speed of 56 rad/s in a uniform horizontal magnetic field of magnitude 9.4 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 1 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 1.24e+03 volt, average emf: 0 volts, maximum current: 1.24e+03 amp, average power loss: 7.67e+05 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 36 cm and 12 turns is rotated about its vertical diameter with an angular speed of 20 rad/s in a uniform horizontal magnetic field of magnitude 2.9 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 9 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 2.83e+02 volt, average emf: 0 volts, maximum current: 3.15e+01 amp, average power loss: 4.46e+03 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 38 cm and 9 turns is rotated about its vertical diameter with an angular speed of 21 rad/s in a uniform horizontal magnetic field of magnitude 8.3 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 10 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 7.12e+02 volt, average emf: 0 volts, maximum current: 7.12e+01 amp, average power loss: 2.53e+04 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 36 cm and 16 turns is rotated about its vertical diameter with an angular speed of 93 rad/s in a uniform horizontal magnetic field of magnitude 4.4 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 1 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 2.67e+03 volt, average emf: 0 volts, maximum current: 2.67e+03 amp, average power loss: 3.55e+06 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 38 cm and 14 turns is rotated about its vertical diameter with an angular speed of 100 rad/s in a uniform horizontal magnetic field of magnitude 4.5 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 7 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 2.86e+03 volt, average emf: 0 volts, maximum current: 4.08e+02 amp, average power loss: 5.83e+05 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 25 cm and 2 turns is rotated about its vertical diameter with an angular speed of 67 rad/s in a uniform horizontal magnetic field of magnitude 8.2 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 10 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 2.16e+02 volt, average emf: 0 volts, maximum current: 2.16e+01 amp, average power loss: 2.33e+03 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 23 cm and 3 turns is rotated about its vertical diameter with an angular speed of 40 rad/s in a uniform horizontal magnetic field of magnitude 1.5 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 9 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 2.99e+01 volt, average emf: 0 volts, maximum current: 3.32e+00 amp, average power loss: 4.97e+01 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 34 cm and 7 turns is rotated about its vertical diameter with an angular speed of 87 rad/s in a uniform horizontal magnetic field of magnitude 1.7 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 9 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 3.76e+02 volt, average emf: 0 volts, maximum current: 4.18e+01 amp, average power loss: 7.85e+03 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 26 cm and 5 turns is rotated about its vertical diameter with an angular speed of 96 rad/s in a uniform horizontal magnetic field of magnitude 1.8 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 1 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 1.83e+02 volt, average emf: 0 volts, maximum current: 1.83e+02 amp, average power loss: 1.68e+04 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 38 cm and 4 turns is rotated about its vertical diameter with an angular speed of 70 rad/s in a uniform horizontal magnetic field of magnitude 2.2 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 2 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 2.79e+02 volt, average emf: 0 volts, maximum current: 1.40e+02 amp, average power loss: 1.95e+04 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 31 cm and 19 turns is rotated about its vertical diameter with an angular speed of 81 rad/s in a uniform horizontal magnetic field of magnitude 4.9 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 4 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 2.28e+03 volt, average emf: 0 volts, maximum current: 5.69e+02 amp, average power loss: 6.48e+05 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 39 cm and 13 turns is rotated about its vertical diameter with an angular speed of 25 rad/s in a uniform horizontal magnetic field of magnitude 0.3 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 9 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 4.66e+01 volt, average emf: 0 volts, maximum current: 5.18e+00 amp, average power loss: 1.21e+02 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A circular coil of radius 33 cm and 10 turns is rotated about its vertical diameter with an angular speed of 5 rad/s in a uniform horizontal magnetic field of magnitude 9.4 T. Obtain the maximum and average emf induced in the coil. If a coil forms a closed loop of resistance 4 ohm, what is the maximum current in the coil and average power loss due to joule heating?\n",
+        "input": "EMF = n * w * b * A, I = EMF / R, P = (EMF * I) / 2",
+        "output": "maximum emf: 1.61e+02 volt, average emf: 0 volts, maximum current: 4.02e+01 amp, average power loss: 3.23e+03 joule\n\n\nThe maximum emf induced in the coil can be calculated using the formula EMF = n * w * b * A, where n is the number of turns, w is the angular speed, b is the magnetic field magnitude, and A is the area of the coil.\nThe maximum current in the coil can be calculated using the formula I = EMF / R, where R is the resistance of the coil.\nThe average power loss due to joule heating can be calculated using the formula P = (EMF * I) / 2."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 2.1 H. If the current in one coil changes from 17 A to 3 A in 2.7 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "10.89 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 9.1 H. If the current in one coil changes from 19 A to 10 A in 8.2 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "9.99 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 6.4 H. If the current in one coil changes from 28 A to 9 A in 8.2 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "14.83 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 6.9 H. If the current in one coil changes from 42 A to 28 A in 1.7 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "56.82 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 6.9 H. If the current in one coil changes from 39 A to 24 A in 4.8 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "21.56 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 6.8 H. If the current in one coil changes from 28 A to 17 A in 6.8 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "11.0 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 6.2 H. If the current in one coil changes from 29 A to 23 A in 0.6 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "62.0 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 6.5 H. If the current in one coil changes from 28 A to 21 A in 7.6 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "5.99 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 1.2 H. If the current in one coil changes from 14 A to 11 A in 9.6 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "0.38 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 6.5 H. If the current in one coil changes from 37 A to 27 A in 2.5 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "26.0 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 6.9 H. If the current in one coil changes from 21 A to 8 A in 1.0 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "89.7 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 7.3 H. If the current in one coil changes from 32 A to 19 A in 8.9 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "10.66 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 3.1 H. If the current in one coil changes from 34 A to 20 A in 2.2 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "19.73 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 0.6 H. If the current in one coil changes from 32 A to 30 A in 2.9 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "0.41 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 9.0 H. If the current in one coil changes from 27 A to 23 A in 0.3 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "120.0 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 0.1 H. If the current in one coil changes from 22 A to 9 A in 8.7 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "0.15 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 3.3 H. If the current in one coil changes from 32 A to 15 A in 7.8 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "7.19 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 7.1 H. If the current in one coil changes from 36 A to 19 A in 1.6 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "75.44 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 2.5 H. If the current in one coil changes from 19 A to 11 A in 8.0 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "2.5 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "A pair of adjacent coils has a mutual inductance of 2.8 H. If the current in one coil changes from 37 A to 28 A in 5.0 sec, what is the change of flux linkage with the other coil?\n",
+        "input": "Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time",
+        "output": "5.04 weber\n\n\nThe change of flux linkage with the other coil can be calculated using the formula Change in Flux Linkage = (Mutual Inductance * (Current 1 - Current 2)) / Time, where Mutual Inductance is the mutual inductance of the coils, Current 1 and Current 2 are the initial and final currents respectively, and Time is the time taken for the change in current to occur."
+    },
+    {
+        "instruction": "Current in a circuit falls from 144 A to 20 A in 0.11 s. If an average emf of 258 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "2.29e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 48 A to 18 A in 0.11 s. If an average emf of 150 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "5.50e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 118 A to 2 A in 0.09 s. If an average emf of 269 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "2.09e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 161 A to 15 A in 0.13 s. If an average emf of 251 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "2.23e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 157 A to 12 A in 0.02 s. If an average emf of 174 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "2.40e-02 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 135 A to 20 A in 0.13 s. If an average emf of 283 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "3.20e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 115 A to 4 A in 0.12 s. If an average emf of 273 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "2.95e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 179 A to 17 A in 0.05 s. If an average emf of 132 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "4.07e-02 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 78 A to 10 A in 0.03 s. If an average emf of 195 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "8.60e-02 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 100 A to 6 A in 0.18 s. If an average emf of 176 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "3.37e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 118 A to 4 A in 0.13 s. If an average emf of 270 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "3.08e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 194 A to 5 A in 0.13 s. If an average emf of 177 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "1.22e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 18 A to 1 A in 0.13 s. If an average emf of 141 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "1.08e+00 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 145 A to 5 A in 0.18 s. If an average emf of 195 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "2.51e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 24 A to 17 A in 0.1 s. If an average emf of 241 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "3.44e+00 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 200 A to 3 A in 0.16 s. If an average emf of 186 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "1.51e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 148 A to 3 A in 0.08 s. If an average emf of 139 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "7.67e-02 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 162 A to 16 A in 0.01 s. If an average emf of 290 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "1.99e-02 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 176 A to 20 A in 0.2 s. If an average emf of 254 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "3.26e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    },
+    {
+        "instruction": "Current in a circuit falls from 77 A to 19 A in 0.1 s. If an average emf of 191 V induced, give an estimate of the self-inductance of the circuit.\n",
+        "input": "Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current)",
+        "output": "3.29e-01 henry\n\n\nThe self-inductance of the circuit can be estimated using the formula Self-Inductance = (Average EMF * Time) / (Initial Current - Final Current), where Average EMF is the average induced electromotive force, Time is the time taken for the current to change, Initial Current is the initial current in the circuit, and Final Current is the final current in the circuit."
+    }
+]

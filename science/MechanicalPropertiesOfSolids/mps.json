@@ -1,0 +1,1202 @@
+[
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 104 litre, Pressure increase = 232 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 620 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 3.94e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 166 litre, Pressure increase = 262 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 251 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 1.76e+10."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 179 litre, Pressure increase = 189 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 449 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 7.63e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 209 litre, Pressure increase = 242 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 741 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 6.91e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 146 litre, Pressure increase = 292 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 877 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 4.92e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 188 litre, Pressure increase = 138 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 775 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 3.39e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 151 litre, Pressure increase = 124 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 570 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 3.33e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 109 litre, Pressure increase = 269 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 43 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 6.91e+10."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 111 litre, Pressure increase = 185 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 368 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 5.65e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 257 litre, Pressure increase = 228 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 635 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 9.35e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 182 litre, Pressure increase = 181 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 496 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 6.73e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 219 litre, Pressure increase = 235 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 477 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 1.09e+10."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 142 litre, Pressure increase = 139 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 483 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 4.14e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 195 litre, Pressure increase = 103 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 482 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 4.22e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 110 litre, Pressure increase = 294 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 439 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 7.46e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 226 litre, Pressure increase = 100 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 820 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 2.79e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 254 litre, Pressure increase = 248 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 953 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 6.70e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 222 litre, Pressure increase = 227 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 775 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 6.59e+09."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 211 litre, Pressure increase = 175 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 218 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 1.72e+10."
+    },
+    {
+        "instruction": "Compute the bulk modulus of a material from the following data: Initial volume = 227 litre, Pressure increase = 232 atm (1 atm = 1.013 x 10^5 Pa), volume increased = 577 ml.",
+        "input": "bulk modulus = (pressure_increase * 1.013 * (10 ** 8) * initial_volume) / (final_volume - initial_volume)",
+        "output": "The bulk modulus of the material is 9.25e+09."
+    },
+    {
+        "instruction": "A rigid bar of mass 17 kg is supported symmetrically by three wires each 13 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 107 x 10^9 Nm-2, material-2 is 168 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 1.25."
+    },
+    {
+        "instruction": "A rigid bar of mass 20 kg is supported symmetrically by three wires each 18 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 54 x 10^9 Nm-2, material-2 is 195 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 1.90."
+    },
+    {
+        "instruction": "A rigid bar of mass 15 kg is supported symmetrically by three wires each 2 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 176 x 10^9 Nm-2, material-2 is 174 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 0.99."
+    },
+    {
+        "instruction": "A rigid bar of mass 13 kg is supported symmetrically by three wires each 12 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 176 x 10^9 Nm-2, material-2 is 150 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 0.92."
+    },
+    {
+        "instruction": "A rigid bar of mass 6 kg is supported symmetrically by three wires each 6 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 193 x 10^9 Nm-2, material-2 is 65 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 0.58."
+    },
+    {
+        "instruction": "A rigid bar of mass 11 kg is supported symmetrically by three wires each 17 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 9 x 10^9 Nm-2, material-2 is 55 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 2.47."
+    },
+    {
+        "instruction": "A rigid bar of mass 14 kg is supported symmetrically by three wires each 12 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 173 x 10^9 Nm-2, material-2 is 98 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 0.75."
+    },
+    {
+        "instruction": "A rigid bar of mass 9 kg is supported symmetrically by three wires each 3 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 88 x 10^9 Nm-2, material-2 is 109 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 1.11."
+    },
+    {
+        "instruction": "A rigid bar of mass 15 kg is supported symmetrically by three wires each 17 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 168 x 10^9 Nm-2, material-2 is 88 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 0.72."
+    },
+    {
+        "instruction": "A rigid bar of mass 16 kg is supported symmetrically by three wires each 15 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 182 x 10^9 Nm-2, material-2 is 151 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 0.91."
+    },
+    {
+        "instruction": "A rigid bar of mass 4 kg is supported symmetrically by three wires each 16 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 121 x 10^9 Nm-2, material-2 is 163 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 1.16."
+    },
+    {
+        "instruction": "A rigid bar of mass 1 kg is supported symmetrically by three wires each 2 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 12 x 10^9 Nm-2, material-2 is 148 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 3.51."
+    },
+    {
+        "instruction": "A rigid bar of mass 5 kg is supported symmetrically by three wires each 6 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 70 x 10^9 Nm-2, material-2 is 145 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 1.44."
+    },
+    {
+        "instruction": "A rigid bar of mass 5 kg is supported symmetrically by three wires each 2 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 1 x 10^9 Nm-2, material-2 is 30 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 5.48."
+    },
+    {
+        "instruction": "A rigid bar of mass 15 kg is supported symmetrically by three wires each 19 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 17 x 10^9 Nm-2, material-2 is 50 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 1.71."
+    },
+    {
+        "instruction": "A rigid bar of mass 2 kg is supported symmetrically by three wires each 18 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 124 x 10^9 Nm-2, material-2 is 13 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 0.32."
+    },
+    {
+        "instruction": "A rigid bar of mass 1 kg is supported symmetrically by three wires each 4 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 136 x 10^9 Nm-2, material-2 is 53 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 0.62."
+    },
+    {
+        "instruction": "A rigid bar of mass 4 kg is supported symmetrically by three wires each 10 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 64 x 10^9 Nm-2, material-2 is 96 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 1.22."
+    },
+    {
+        "instruction": "A rigid bar of mass 2 kg is supported symmetrically by three wires each 17 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 20 x 10^9 Nm-2, material-2 is 134 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 2.59."
+    },
+    {
+        "instruction": "A rigid bar of mass 13 kg is supported symmetrically by three wires each 16 m long. Those at each end are of material-1 and the middle one is of material-2. Find ratios of their diameters all have the same tension (Young's modulus of material-1 is 114 x 10^9 Nm-2, material-2 is 49 x 10^9 Nm-2).",
+        "input": "diameter_ratio = sqrt(Y2 / Y1)",
+        "output": "The ratio of their diameters is 0.66."
+    },
+    {
+        "instruction": "9 identical hollow cylindrical columns of mild steel support a big structure of mass 15360 kg. The inner and outer radii of each column are 28 cm and 48 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 1.8e-07."
+    },
+    {
+        "instruction": "16 identical hollow cylindrical columns of mild steel support a big structure of mass 26180 kg. The inner and outer radii of each column are 40 cm and 77 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 5.9e-08."
+    },
+    {
+        "instruction": "12 identical hollow cylindrical columns of mild steel support a big structure of mass 22540 kg. The inner and outer radii of each column are 19 cm and 40 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 2.4e-07."
+    },
+    {
+        "instruction": "16 identical hollow cylindrical columns of mild steel support a big structure of mass 34920 kg. The inner and outer radii of each column are 10 cm and 24 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 7.2e-07."
+    },
+    {
+        "instruction": "6 identical hollow cylindrical columns of mild steel support a big structure of mass 45610 kg. The inner and outer radii of each column are 31 cm and 43 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 1.3e-06."
+    },
+    {
+        "instruction": "15 identical hollow cylindrical columns of mild steel support a big structure of mass 34350 kg. The inner and outer radii of each column are 25 cm and 35 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 6.0e-07."
+    },
+    {
+        "instruction": "6 identical hollow cylindrical columns of mild steel support a big structure of mass 32460 kg. The inner and outer radii of each column are 20 cm and 51 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 3.8e-07."
+    },
+    {
+        "instruction": "12 identical hollow cylindrical columns of mild steel support a big structure of mass 43280 kg. The inner and outer radii of each column are 30 cm and 58 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 2.3e-07."
+    },
+    {
+        "instruction": "6 identical hollow cylindrical columns of mild steel support a big structure of mass 47650 kg. The inner and outer radii of each column are 23 cm and 52 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 5.7e-07."
+    },
+    {
+        "instruction": "12 identical hollow cylindrical columns of mild steel support a big structure of mass 44980 kg. The inner and outer radii of each column are 17 cm and 30 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 9.6e-07."
+    },
+    {
+        "instruction": "12 identical hollow cylindrical columns of mild steel support a big structure of mass 38980 kg. The inner and outer radii of each column are 28 cm and 58 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 2.0e-07."
+    },
+    {
+        "instruction": "4 identical hollow cylindrical columns of mild steel support a big structure of mass 14210 kg. The inner and outer radii of each column are 20 cm and 55 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 2.1e-07."
+    },
+    {
+        "instruction": "15 identical hollow cylindrical columns of mild steel support a big structure of mass 18260 kg. The inner and outer radii of each column are 35 cm and 73 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 4.6e-08."
+    },
+    {
+        "instruction": "12 identical hollow cylindrical columns of mild steel support a big structure of mass 33540 kg. The inner and outer radii of each column are 11 cm and 38 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 3.3e-07."
+    },
+    {
+        "instruction": "12 identical hollow cylindrical columns of mild steel support a big structure of mass 39870 kg. The inner and outer radii of each column are 18 cm and 32 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 7.4e-07."
+    },
+    {
+        "instruction": "16 identical hollow cylindrical columns of mild steel support a big structure of mass 15670 kg. The inner and outer radii of each column are 15 cm and 29 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 2.5e-07."
+    },
+    {
+        "instruction": "4 identical hollow cylindrical columns of mild steel support a big structure of mass 15650 kg. The inner and outer radii of each column are 19 cm and 43 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 4.1e-07."
+    },
+    {
+        "instruction": "12 identical hollow cylindrical columns of mild steel support a big structure of mass 28270 kg. The inner and outer radii of each column are 17 cm and 29 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 6.7e-07."
+    },
+    {
+        "instruction": "12 identical hollow cylindrical columns of mild steel support a big structure of mass 35520 kg. The inner and outer radii of each column are 22 cm and 53 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 2.0e-07."
+    },
+    {
+        "instruction": "16 identical hollow cylindrical columns of mild steel support a big structure of mass 14950 kg. The inner and outer radii of each column are 39 cm and 64 cm respectively. Calculate the compressional strain of each column.",
+        "input": "strain = F / (A * Y)",
+        "output": "The compressional strain of each column is 5.7e-08."
+    },
+    {
+        "instruction": "A body of mass 14 kg is hanged from the roof with the help of a brass wire of length 1 m. Another body of mass 12 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 9 m. If the radius of both wires is 113 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 2.9e-05 m."
+    },
+    {
+        "instruction": "A body of mass 11 kg is hanged from the roof with the help of a brass wire of length 20 m. Another body of mass 15 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 16 m. If the radius of both wires is 76 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 1.4e-04 m."
+    },
+    {
+        "instruction": "A body of mass 17 kg is hanged from the roof with the help of a steel wire of length 2 m. Another body of mass 3 kg is hanged from the bottom of mass m1 with the help of a steel wire of length 9 m. If the radius of both wires is 26 x 10^(-4) m, what is the elongation of the steel wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 9.2e-05 m."
+    },
+    {
+        "instruction": "A body of mass 18 kg is hanged from the roof with the help of a brass wire of length 2 m. Another body of mass 9 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 2 m. If the radius of both wires is 20 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 1.6e-04 m."
+    },
+    {
+        "instruction": "A body of mass 6 kg is hanged from the roof with the help of a steel wire of length 18 m. Another body of mass 1 kg is hanged from the bottom of mass m1 with the help of a steel wire of length 1 m. If the radius of both wires is 162 x 10^(-4) m, what is the elongation of the steel wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 7.5e-06 m."
+    },
+    {
+        "instruction": "A body of mass 15 kg is hanged from the roof with the help of a brass wire of length 4 m. Another body of mass 7 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 1 m. If the radius of both wires is 92 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 2.9e-06 m."
+    },
+    {
+        "instruction": "A body of mass 4 kg is hanged from the roof with the help of a brass wire of length 3 m. Another body of mass 1 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 20 m. If the radius of both wires is 156 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 2.8e-06 m."
+    },
+    {
+        "instruction": "A body of mass 3 kg is hanged from the roof with the help of a steel wire of length 6 m. Another body of mass 5 kg is hanged from the bottom of mass m1 with the help of a steel wire of length 10 m. If the radius of both wires is 6 x 10^(-4) m, what is the elongation of the steel wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 2.1e-03 m."
+    },
+    {
+        "instruction": "A body of mass 3 kg is hanged from the roof with the help of a brass wire of length 10 m. Another body of mass 1 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 10 m. If the radius of both wires is 127 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 2.1e-06 m."
+    },
+    {
+        "instruction": "A body of mass 4 kg is hanged from the roof with the help of a brass wire of length 5 m. Another body of mass 2 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 17 m. If the radius of both wires is 25 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 1.9e-04 m."
+    },
+    {
+        "instruction": "A body of mass 20 kg is hanged from the roof with the help of a steel wire of length 10 m. Another body of mass 7 kg is hanged from the bottom of mass m1 with the help of a steel wire of length 19 m. If the radius of both wires is 21 x 10^(-4) m, what is the elongation of the steel wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 9.5e-04 m."
+    },
+    {
+        "instruction": "A body of mass 3 kg is hanged from the roof with the help of a steel wire of length 19 m. Another body of mass 17 kg is hanged from the bottom of mass m1 with the help of a steel wire of length 14 m. If the radius of both wires is 174 x 10^(-4) m, what is the elongation of the steel wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 2.0e-05 m."
+    },
+    {
+        "instruction": "A body of mass 9 kg is hanged from the roof with the help of a steel wire of length 2 m. Another body of mass 18 kg is hanged from the bottom of mass m1 with the help of a steel wire of length 1 m. If the radius of both wires is 105 x 10^(-4) m, what is the elongation of the steel wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 7.6e-06 m."
+    },
+    {
+        "instruction": "A body of mass 15 kg is hanged from the roof with the help of a steel wire of length 19 m. Another body of mass 12 kg is hanged from the bottom of mass m1 with the help of a steel wire of length 3 m. If the radius of both wires is 177 x 10^(-4) m, what is the elongation of the steel wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 2.6e-05 m."
+    },
+    {
+        "instruction": "A body of mass 11 kg is hanged from the roof with the help of a steel wire of length 10 m. Another body of mass 16 kg is hanged from the bottom of mass m1 with the help of a steel wire of length 9 m. If the radius of both wires is 96 x 10^(-4) m, what is the elongation of the steel wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 4.6e-05 m."
+    },
+    {
+        "instruction": "A body of mass 13 kg is hanged from the roof with the help of a brass wire of length 8 m. Another body of mass 3 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 15 m. If the radius of both wires is 57 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 4.8e-05 m."
+    },
+    {
+        "instruction": "A body of mass 7 kg is hanged from the roof with the help of a brass wire of length 19 m. Another body of mass 3 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 20 m. If the radius of both wires is 200 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 5.2e-06 m."
+    },
+    {
+        "instruction": "A body of mass 5 kg is hanged from the roof with the help of a brass wire of length 10 m. Another body of mass 1 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 5 m. If the radius of both wires is 108 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 1.5e-06 m."
+    },
+    {
+        "instruction": "A body of mass 3 kg is hanged from the roof with the help of a brass wire of length 8 m. Another body of mass 1 kg is hanged from the bottom of mass m1 with the help of a brass wire of length 12 m. If the radius of both wires is 171 x 10^(-4) m, what is the elongation of the brass wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 1.4e-06 m."
+    },
+    {
+        "instruction": "A body of mass 9 kg is hanged from the roof with the help of a steel wire of length 9 m. Another body of mass 14 kg is hanged from the bottom of mass m1 with the help of a steel wire of length 18 m. If the radius of both wires is 149 x 10^(-4) m, what is the elongation of the steel wire?",
+        "input": "elongation = (F * l) / (A * E)",
+        "output": "elongation = (F * l) / (A * E)\nThe elongation of the wire is 1.5e-05 m."
+    },
+    {
+        "instruction": "A steel cable with a radius of 23 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 15197 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 2.5e+01 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 142 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 17330 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 1.1e+03 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 167 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 282 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 2.5e+01 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 8 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 7874900?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 1.6e+03 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 5 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 13905400?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 1.1e+03 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 3 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 18103400?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 5.1e+02 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 19 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 13183700?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 1.5e+04 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 20 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 26964 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 3.4e+01 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 152 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 37176 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 2.7e+03 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 127 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 11324 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 5.7e+02 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 19 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 13045000?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 1.5e+04 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 14 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 9734500?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 6.0e+03 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 18 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 4532400?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 4.6e+03 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 2 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 2255800?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 2.8e+01 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 9 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 18549500?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 4.7e+03 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 105 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 26658 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 9.2e+02 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 16 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 6459700?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 5.2e+03 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 145 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 31598 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 2.1e+03 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 162 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 29063 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 2.4e+03 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 12 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 8685200?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 3.9e+03 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 59 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 15915 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 1.7e+02 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 4 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 10357800?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 5.2e+02 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 2 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 8752200?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 1.1e+02 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 173 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 7469 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 7.0e+02 newton."
+    },
+    {
+        "instruction": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 6 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 15863500?",
+        "input": "",
+        "output": "The maximum tension that can be exerted by the riveted strip is 1.8e+03 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 193 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 889 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 1.0e+02 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 52 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 5917 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 5.0e+01 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 126 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 8547 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 4.3e+02 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 171 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 17376 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 1.6e+03 newton."
+    },
+    {
+        "instruction": "A steel cable with a radius of 196 mm supports a chairlift at a ski area. If the maximum stress is not to exceed 16441 x 10^(6) Nm-2, what is the maximum load the cable can support?",
+        "input": "",
+        "output": "The maximum load the cable can support is 2.0e+03 newton."
+    },
+    {
+        "instruction": "The edge of a cube is 147 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 177 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 42 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (177 kg * 9.8) / (42 * 10^9 GPa * (147 cm * 10^-2 m/cm))\n   = 28.1 nm."
+    },
+    {
+        "instruction": "The edge of a cube is 170 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 41 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 141 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (41 kg * 9.8) / (141 * 10^9 GPa * (170 cm * 10^-2 m/cm))\n   = 1.7 nm."
+    },
+    {
+        "instruction": "The edge of a cube is 163 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 159 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 69 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (159 kg * 9.8) / (69 * 10^9 GPa * (163 cm * 10^-2 m/cm))\n   = 13.9 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 63 mm x 73 mm is pulled in tension with 17800 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 17800 N / (63 mm * 73 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 92.2 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 66 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 130 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 56 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (130 kg * 9.8) / (56 * 10^9 GPa * (66 cm * 10^-2 m/cm))\n   = 34.5 nm."
+    },
+    {
+        "instruction": "The edge of a cube is 42 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 86 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 188 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (86 kg * 9.8) / (188 * 10^9 GPa * (42 cm * 10^-2 m/cm))\n   = 10.7 nm."
+    },
+    {
+        "instruction": "The edge of a cube is 108 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 150 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 150 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (150 kg * 9.8) / (150 * 10^9 GPa * (108 cm * 10^-2 m/cm))\n   = 9.1 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 90 mm x 96 mm is pulled in tension with 41600 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 41600 N / (90 mm * 96 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 114.6 x 10^(-6)."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 25 mm x 86 mm is pulled in tension with 77500 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 77500 N / (25 mm * 86 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 858.3 x 10^(-6)."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 85 mm x 83 mm is pulled in tension with 43300 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 43300 N / (85 mm * 83 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 146.1 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 195 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 110 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 192 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (110 kg * 9.8) / (192 * 10^9 GPa * (195 cm * 10^-2 m/cm))\n   = 2.9 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 29 mm x 15 mm is pulled in tension with 4800 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 4800 N / (29 mm * 15 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 262.7 x 10^(-6)."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 47 mm x 74 mm is pulled in tension with 60300 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 60300 N / (47 mm * 74 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 412.8 x 10^(-6)."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 87 mm x 93 mm is pulled in tension with 15500 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 15500 N / (87 mm * 93 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 45.6 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 45 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 147 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 199 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (147 kg * 9.8) / (199 * 10^9 GPa * (45 cm * 10^-2 m/cm))\n   = 16.1 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 24 mm x 53 mm is pulled in tension with 47100 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 47100 N / (24 mm * 53 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 881.6 x 10^(-6)."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 53 mm x 100 mm is pulled in tension with 76800 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 76800 N / (53 mm * 100 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 345.0 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 84 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 87 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 5 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (87 kg * 9.8) / (5 * 10^9 GPa * (84 cm * 10^-2 m/cm))\n   = 203.0 nm."
+    },
+    {
+        "instruction": "The edge of a cube is 183 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 194 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 187 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (194 kg * 9.8) / (187 * 10^9 GPa * (183 cm * 10^-2 m/cm))\n   = 5.6 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 6 mm x 69 mm is pulled in tension with 8900 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 8900 N / (6 mm * 69 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 511.8 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 140 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 150 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 164 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (150 kg * 9.8) / (164 * 10^9 GPa * (140 cm * 10^-2 m/cm))\n   = 6.4 nm."
+    },
+    {
+        "instruction": "The edge of a cube is 115 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 26 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 24 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (26 kg * 9.8) / (24 * 10^9 GPa * (115 cm * 10^-2 m/cm))\n   = 9.2 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 47 mm x 70 mm is pulled in tension with 3600 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 3600 N / (47 mm * 70 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 26.1 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 121 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 186 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 144 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (186 kg * 9.8) / (144 * 10^9 GPa * (121 cm * 10^-2 m/cm))\n   = 10.5 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 78 mm x 60 mm is pulled in tension with 29000 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 29000 N / (78 mm * 60 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 147.5 x 10^(-6)."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 23 mm x 55 mm is pulled in tension with 70400 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 70400 N / (23 mm * 55 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 1325.1 x 10^(-6)."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 7 mm x 22 mm is pulled in tension with 16000 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 16000 N / (7 mm * 22 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 2473.7 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 193 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 192 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 7 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (192 kg * 9.8) / (7 * 10^9 GPa * (193 cm * 10^-2 m/cm))\n   = 139.3 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 45 mm x 55 mm is pulled in tension with 72700 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 72700 N / (45 mm * 55 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 699.4 x 10^(-6)."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 20 mm x 91 mm is pulled in tension with 26000 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 26000 N / (20 mm * 91 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 340.1 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 98 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 148 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 92 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (148 kg * 9.8) / (92 * 10^9 GPa * (98 cm * 10^-2 m/cm))\n   = 16.1 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 68 mm x 41 mm is pulled in tension with 71900 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 71900 N / (68 mm * 41 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 614.0 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 77 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 53 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 144 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (53 kg * 9.8) / (144 * 10^9 GPa * (77 cm * 10^-2 m/cm))\n   = 4.7 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 90 mm x 37 mm is pulled in tension with 3900 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 3900 N / (90 mm * 37 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 27.9 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 90 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 96 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 160 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (96 kg * 9.8) / (160 * 10^9 GPa * (90 cm * 10^-2 m/cm))\n   = 6.5 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 25 mm x 50 mm is pulled in tension with 64400 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 64400 N / (25 mm * 50 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 1226.7 x 10^(-6)."
+    },
+    {
+        "instruction": "The edge of a cube is 124 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 31 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 56 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (31 kg * 9.8) / (56 * 10^9 GPa * (124 cm * 10^-2 m/cm))\n   = 4.4 nm."
+    },
+    {
+        "instruction": "The edge of a cube is 182 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 69 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 159 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (69 kg * 9.8) / (159 * 10^9 GPa * (182 cm * 10^-2 m/cm))\n   = 2.3 nm."
+    },
+    {
+        "instruction": "The edge of a cube is 82 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 187 kg is then attached to the opposite face of the cube. The shear modulus of the material of the cube is 89 GPa. What is the vertical deflection of this face?",
+        "input": "deflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))",
+        "output": "To calculate the vertical deflection, we use the formula:\n\ndeflection = (mass * 9.8) / (Y * 10^9 * (edge_length * 10^-2))\n   = (187 kg * 9.8) / (89 * 10^9 GPa * (82 cm * 10^-2 m/cm))\n   = 25.1 nm."
+    },
+    {
+        "instruction": "A piece of copper having a rectangular cross-section of 92 mm x 6 mm is pulled in tension with 6800 N force, producing only elastic deformation. Calculate the resulting strain? Shear modulus of elasticity of copper is 42 x 10^9 N/m^2.",
+        "input": "strain = force / (A * (shear_modulus * 10^9))",
+        "output": "To calculate the resulting strain, we use the formula:\n\nstrain = force / (A * (shear_modulus * 10^9))\n   = 6800 N / (92 mm * 6 mm * 10^-6 m^2 * (42 * 10^9 N/m^2))\n   = 293.3 x 10^(-6)."
+    },
+    {
+        "instruction": "A 133 kg mass, fastened to the end of a steel wire of initial length 16 m, is whirled in a vertical circle with an angular velocity of 2 rev/s at the bottom of the circle. The cross-sectional area of the wire is 90 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (133 kg * (9.8 + 16 m * \u03c0^2 * 2^2) * 16 m) / (90 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 7.6 cm."
+    },
+    {
+        "instruction": "A 67 kg mass, fastened to the end of a steel wire of initial length 18 m, is whirled in a vertical circle with an angular velocity of 4 rev/s at the bottom of the circle. The cross-sectional area of the wire is 98 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (67 kg * (9.8 + 18 m * \u03c0^2 * 4^2) * 18 m) / (98 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 17.6 cm."
+    },
+    {
+        "instruction": "A 94 kg mass, fastened to the end of a steel wire of initial length 26 m, is whirled in a vertical circle with an angular velocity of 3 rev/s at the bottom of the circle. The cross-sectional area of the wire is 58 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (94 kg * (9.8 + 26 m * \u03c0^2 * 3^2) * 26 m) / (58 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 48.9 cm."
+    },
+    {
+        "instruction": "A 74 kg mass, fastened to the end of a steel wire of initial length 13 m, is whirled in a vertical circle with an angular velocity of 9 rev/s at the bottom of the circle. The cross-sectional area of the wire is 72 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (74 kg * (9.8 + 13 m * \u03c0^2 * 9^2) * 13 m) / (72 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 69.5 cm."
+    },
+    {
+        "instruction": "A 45 kg mass, fastened to the end of a steel wire of initial length 18 m, is whirled in a vertical circle with an angular velocity of 5 rev/s at the bottom of the circle. The cross-sectional area of the wire is 35 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (45 kg * (9.8 + 18 m * \u03c0^2 * 5^2) * 18 m) / (35 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 51.5 cm."
+    },
+    {
+        "instruction": "A 24 kg mass, fastened to the end of a steel wire of initial length 36 m, is whirled in a vertical circle with an angular velocity of 5 rev/s at the bottom of the circle. The cross-sectional area of the wire is 18 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (24 kg * (9.8 + 36 m * \u03c0^2 * 5^2) * 36 m) / (18 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 213.4 cm."
+    },
+    {
+        "instruction": "A 27 kg mass, fastened to the end of a steel wire of initial length 25 m, is whirled in a vertical circle with an angular velocity of 6 rev/s at the bottom of the circle. The cross-sectional area of the wire is 44 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (27 kg * (9.8 + 25 m * \u03c0^2 * 6^2) * 25 m) / (44 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 68.2 cm."
+    },
+    {
+        "instruction": "A 28 kg mass, fastened to the end of a steel wire of initial length 27 m, is whirled in a vertical circle with an angular velocity of 9 rev/s at the bottom of the circle. The cross-sectional area of the wire is 37 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (28 kg * (9.8 + 27 m * \u03c0^2 * 9^2) * 27 m) / (37 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 220.6 cm."
+    },
+    {
+        "instruction": "A 169 kg mass, fastened to the end of a steel wire of initial length 38 m, is whirled in a vertical circle with an angular velocity of 7 rev/s at the bottom of the circle. The cross-sectional area of the wire is 86 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (169 kg * (9.8 + 38 m * \u03c0^2 * 7^2) * 38 m) / (86 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 686.5 cm."
+    },
+    {
+        "instruction": "A 44 kg mass, fastened to the end of a steel wire of initial length 36 m, is whirled in a vertical circle with an angular velocity of 9 rev/s at the bottom of the circle. The cross-sectional area of the wire is 42 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (44 kg * (9.8 + 36 m * \u03c0^2 * 9^2) * 36 m) / (42 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 542.9 cm."
+    },
+    {
+        "instruction": "A 106 kg mass, fastened to the end of a steel wire of initial length 16 m, is whirled in a vertical circle with an angular velocity of 8 rev/s at the bottom of the circle. The cross-sectional area of the wire is 22 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (106 kg * (9.8 + 16 m * \u03c0^2 * 8^2) * 16 m) / (22 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 389.9 cm."
+    },
+    {
+        "instruction": "A 59 kg mass, fastened to the end of a steel wire of initial length 28 m, is whirled in a vertical circle with an angular velocity of 8 rev/s at the bottom of the circle. The cross-sectional area of the wire is 16 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (59 kg * (9.8 + 28 m * \u03c0^2 * 8^2) * 28 m) / (16 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 913.6 cm."
+    },
+    {
+        "instruction": "A 181 kg mass, fastened to the end of a steel wire of initial length 26 m, is whirled in a vertical circle with an angular velocity of 5 rev/s at the bottom of the circle. The cross-sectional area of the wire is 89 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (181 kg * (9.8 + 26 m * \u03c0^2 * 5^2) * 26 m) / (89 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 169.9 cm."
+    },
+    {
+        "instruction": "A 43 kg mass, fastened to the end of a steel wire of initial length 26 m, is whirled in a vertical circle with an angular velocity of 2 rev/s at the bottom of the circle. The cross-sectional area of the wire is 65 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (43 kg * (9.8 + 26 m * \u03c0^2 * 2^2) * 26 m) / (65 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 8.9 cm."
+    },
+    {
+        "instruction": "A 160 kg mass, fastened to the end of a steel wire of initial length 17 m, is whirled in a vertical circle with an angular velocity of 10 rev/s at the bottom of the circle. The cross-sectional area of the wire is 51 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (160 kg * (9.8 + 17 m * \u03c0^2 * 10^2) * 17 m) / (51 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 447.7 cm."
+    },
+    {
+        "instruction": "A 28 kg mass, fastened to the end of a steel wire of initial length 20 m, is whirled in a vertical circle with an angular velocity of 7 rev/s at the bottom of the circle. The cross-sectional area of the wire is 18 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (28 kg * (9.8 + 20 m * \u03c0^2 * 7^2) * 20 m) / (18 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 150.6 cm."
+    },
+    {
+        "instruction": "A 130 kg mass, fastened to the end of a steel wire of initial length 32 m, is whirled in a vertical circle with an angular velocity of 4 rev/s at the bottom of the circle. The cross-sectional area of the wire is 96 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (130 kg * (9.8 + 32 m * \u03c0^2 * 4^2) * 32 m) / (96 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 109.7 cm."
+    },
+    {
+        "instruction": "A 54 kg mass, fastened to the end of a steel wire of initial length 10 m, is whirled in a vertical circle with an angular velocity of 6 rev/s at the bottom of the circle. The cross-sectional area of the wire is 60 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (54 kg * (9.8 + 10 m * \u03c0^2 * 6^2) * 10 m) / (60 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 16.0 cm."
+    },
+    {
+        "instruction": "A 26 kg mass, fastened to the end of a steel wire of initial length 17 m, is whirled in a vertical circle with an angular velocity of 1 rev/s at the bottom of the circle. The cross-sectional area of the wire is 85 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (26 kg * (9.8 + 17 m * \u03c0^2 * 1^2) * 17 m) / (85 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 0.5 cm."
+    },
+    {
+        "instruction": "A 128 kg mass, fastened to the end of a steel wire of initial length 16 m, is whirled in a vertical circle with an angular velocity of 10 rev/s at the bottom of the circle. The cross-sectional area of the wire is 96 mm^2. Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+        "input": "elongation = (force * length) / (A * 10^(-6) * Y_steel)",
+        "output": "To calculate the elongation, we use the formula:\n\nelongation = (force * length) / (A * 10^(-6) * Y_steel)\n = (128 kg * (9.8 + 16 m * \u03c0^2 * 10^2) * 16 m) / (96 mm^2 * 10^(-6) m^2 * (2 * 10^11 N/m^2))\n = 168.5 cm."
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 409900 Pa, given that its density at the surface is 1001 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 409900 Pa is approximately 1232.4 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 9389 x 10^4 Pa. A steel ball of initial volume 522 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 3.1e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 841000 Pa, given that its density at the surface is 1006 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 841000 Pa is approximately 1636.2 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 782 x 10^4 Pa. A steel ball of initial volume 197 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 9.6e-06 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 881300 Pa, given that its density at the surface is 1038 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 881300 Pa is approximately 1740.5 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "How much should the pressure of 6080 ml of water be changed to compress it by 4.3%, assuming a bulk modulus of elasticity of water to be 2.2 x 10^9 N/m^2?",
+        "input": "pressure_change = (bulk_modulus * percent) / 100",
+        "output": "The pressure of 6080 ml of water needs to be changed by 9.5e+07 Pa to compress it by 4.3%. The formula to calculate the pressure change is:\n\npressure_change = (bulk_modulus * percent) / 100"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 1235 x 10^4 Pa. A steel ball of initial volume 268 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 2.1e-05 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 908700 Pa, given that its density at the surface is 1014 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 908700 Pa is approximately 1736.9 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 913300 Pa, given that its density at the surface is 980 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 913300 Pa is approximately 1684.7 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "How much should the pressure of 2443 ml of water be changed to compress it by 67.7%, assuming a bulk modulus of elasticity of water to be 2.2 x 10^9 N/m^2?",
+        "input": "pressure_change = (bulk_modulus * percent) / 100",
+        "output": "The pressure of 2443 ml of water needs to be changed by 1.5e+09 Pa to compress it by 67.7%. The formula to calculate the pressure change is:\n\npressure_change = (bulk_modulus * percent) / 100"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 6351 x 10^4 Pa. A steel ball of initial volume 719 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 2.9e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 812700 Pa, given that its density at the surface is 1029 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 812700 Pa is approximately 1639.1 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 732700 Pa, given that its density at the surface is 1026 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 732700 Pa is approximately 1544.2 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "How much should the pressure of 1593 ml of water be changed to compress it by 18.1%, assuming a bulk modulus of elasticity of water to be 2.2 x 10^9 N/m^2?",
+        "input": "pressure_change = (bulk_modulus * percent) / 100",
+        "output": "The pressure of 1593 ml of water needs to be changed by 4.0e+08 Pa to compress it by 18.1%. The formula to calculate the pressure change is:\n\npressure_change = (bulk_modulus * percent) / 100"
+    },
+    {
+        "instruction": "How much should the pressure of 258 ml of water be changed to compress it by 73.7%, assuming a bulk modulus of elasticity of water to be 2.2 x 10^9 N/m^2?",
+        "input": "pressure_change = (bulk_modulus * percent) / 100",
+        "output": "The pressure of 258 ml of water needs to be changed by 1.6e+09 Pa to compress it by 73.7%. The formula to calculate the pressure change is:\n\npressure_change = (bulk_modulus * percent) / 100"
+    },
+    {
+        "instruction": "How much should the pressure of 1383 ml of water be changed to compress it by 91.1%, assuming a bulk modulus of elasticity of water to be 2.2 x 10^9 N/m^2?",
+        "input": "pressure_change = (bulk_modulus * percent) / 100",
+        "output": "The pressure of 1383 ml of water needs to be changed by 2.0e+09 Pa to compress it by 91.1%. The formula to calculate the pressure change is:\n\npressure_change = (bulk_modulus * percent) / 100"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 7003 x 10^4 Pa. A steel ball of initial volume 871 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 3.8e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 5655 x 10^4 Pa. A steel ball of initial volume 239 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 8.4e-05 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 7407 x 10^4 Pa. A steel ball of initial volume 425 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 2.0e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 7164 x 10^4 Pa. A steel ball of initial volume 316 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 1.4e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 189800 Pa, given that its density at the surface is 1006 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 189800 Pa is approximately 1101.8 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 3235 x 10^4 Pa. A steel ball of initial volume 822 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 1.7e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 6774 x 10^4 Pa. A steel ball of initial volume 992 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 4.2e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 5254 x 10^4 Pa. A steel ball of initial volume 331 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 1.1e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "How much should the pressure of 6847 ml of water be changed to compress it by 63.6%, assuming a bulk modulus of elasticity of water to be 2.2 x 10^9 N/m^2?",
+        "input": "pressure_change = (bulk_modulus * percent) / 100",
+        "output": "The pressure of 6847 ml of water needs to be changed by 1.4e+09 Pa to compress it by 63.6%. The formula to calculate the pressure change is:\n\npressure_change = (bulk_modulus * percent) / 100"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 3245 x 10^4 Pa. A steel ball of initial volume 406 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 8.2e-05 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 325900 Pa, given that its density at the surface is 987 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 325900 Pa is approximately 1160.2 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 122400 Pa, given that its density at the surface is 970 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 122400 Pa is approximately 1027.6 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 2159 x 10^4 Pa. A steel ball of initial volume 977 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 1.3e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 520800 Pa, given that its density at the surface is 990 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 520800 Pa is approximately 1300.1 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 799600 Pa, given that its density at the surface is 1029 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 799600 Pa is approximately 1623.6 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 8309 x 10^4 Pa. A steel ball of initial volume 501 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 2.6e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 4976 x 10^4 Pa. A steel ball of initial volume 991 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 3.1e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 607900 Pa, given that its density at the surface is 1046 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 607900 Pa is approximately 1449.6 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 6440 x 10^4 Pa. A steel ball of initial volume 900 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 3.6e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "How much should the pressure of 9654 ml of water be changed to compress it by 59.7%, assuming a bulk modulus of elasticity of water to be 2.2 x 10^9 N/m^2?",
+        "input": "pressure_change = (bulk_modulus * percent) / 100",
+        "output": "The pressure of 9654 ml of water needs to be changed by 1.3e+09 Pa to compress it by 59.7%. The formula to calculate the pressure change is:\n\npressure_change = (bulk_modulus * percent) / 100"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 537900 Pa, given that its density at the surface is 1017 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 537900 Pa is approximately 1349.4 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "How much should the pressure of 5186 ml of water be changed to compress it by 45.5%, assuming a bulk modulus of elasticity of water to be 2.2 x 10^9 N/m^2?",
+        "input": "pressure_change = (bulk_modulus * percent) / 100",
+        "output": "The pressure of 5186 ml of water needs to be changed by 1.0e+09 Pa to compress it by 45.5%. The formula to calculate the pressure change is:\n\npressure_change = (bulk_modulus * percent) / 100"
+    },
+    {
+        "instruction": "What is the density of water at a depth where pressure is 739300 Pa, given that its density at the surface is 958 kg/m^3?",
+        "input": "density = surface_density / (1 - depth * 45.8 * 10^(-8))",
+        "output": "The density of water at a depth of 739300 Pa is approximately 1448.4 kg/m^3. To calculate the density, we use the formula:\n\ndensity = surface_density / (1 - depth * 45.8 * 10^(-8))"
+    },
+    {
+        "instruction": "The water pressure at the bottom of the trench is about 4132 x 10^4 Pa. A steel ball of initial volume 947 dm^3 is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+        "input": "volume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)",
+        "output": "The change in volume of the steel ball when it reaches the bottom of the trench is approximately 2.4e-04 m^3. We can calculate the volume change using the formula:\n\nvolume_change = (pressure * 10 * initial_volume) / (1.6 * 10^11)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 96 m stretches by the same amount as a wire of material-2 of length 170 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 9/10?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 0.63. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 115 m and cross-sectional area 8 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of length 30 m and cross-sectional area 4 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 1.92. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 5 m stretches by the same amount as a wire of material-2 of length 167 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 6/7?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 0.03. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 142 m and cross-sectional area 5 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of length 169 m and cross-sectional area 16 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 2.69. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 16 m and cross-sectional area 19 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of length 10 m and cross-sectional area 17 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 1.43. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 23 m and cross-sectional area 5 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of length 166 m and cross-sectional area 10 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 0.28. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 170 m and cross-sectional area 6 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of length 15 m and cross-sectional area 9 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 17.00. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of cross-sectional area 6 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of cross-sectional area 15 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their lengths is 176/121?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 3.64. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of cross-sectional area 7 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of cross-sectional area 14 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their lengths is 65/9?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 14.44. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 14 m stretches by the same amount as a wire of material-2 of length 174 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 12/13?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 0.09. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of cross-sectional area 15 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of cross-sectional area 7 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their lengths is 106/13?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 3.81. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 32 m stretches by the same amount as a wire of material-2 of length 69 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 6/13?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 1.00. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 178 m stretches by the same amount as a wire of material-2 of length 101 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 3/12?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 7.05. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 188 m and cross-sectional area 14 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of length 61 m and cross-sectional area 12 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 2.64. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of cross-sectional area 3 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of cross-sectional area 12 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their lengths is 111/177?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 2.51. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of cross-sectional area 5 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of cross-sectional area 15 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their lengths is 157/115?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 4.10. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 66 m and cross-sectional area 3 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of length 162 m and cross-sectional area 17 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 2.31. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 29 m stretches by the same amount as a wire of material-2 of length 128 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 19/18?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 0.21. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 165 m stretches by the same amount as a wire of material-2 of length 25 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 1/8?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 52.80. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of cross-sectional area 13 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of cross-sectional area 17 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their lengths is 168/33?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 6.66. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of cross-sectional area 1 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of cross-sectional area 13 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their lengths is 29/147?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 2.56. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 137 m and cross-sectional area 8 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of length 38 m and cross-sectional area 15 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 6.76. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 50 m and cross-sectional area 8 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of length 114 m and cross-sectional area 17 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 0.93. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 2 m stretches by the same amount as a wire of material-2 of length 110 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 4/8?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 0.04. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 43 m stretches by the same amount as a wire of material-2 of length 133 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 18/20?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 0.36. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of cross-sectional area 1 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of cross-sectional area 19 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their lengths is 72/184?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 7.43. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 114 m stretches by the same amount as a wire of material-2 of length 70 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 20/19?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 1.55. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of cross-sectional area 7 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of cross-sectional area 18 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their lengths is 71/36?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 5.07. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of cross-sectional area 18 x 10^(-6) m^2 stretches by the same amount as a wire of material-2 of cross-sectional area 17 x 10^(-6) m^2 under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their lengths is 19/107?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 0.17. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    },
+    {
+        "instruction": "A wire of material-1 of length 95 m stretches by the same amount as a wire of material-2 of length 73 m under a given load. What is the ratio of the Young\u2019s modulus of material-1 to that of material-2, assuming the ratio of their cross-sectional areas is 6/19?",
+        "input": "ratio = (l1 * A2) / (l2 * A1)",
+        "output": "The ratio of the Young's modulus of material-1 to that of material-2 is approximately 4.12. To calculate the ratio, we use the formula:\n\nratio = (l1 * A2) / (l2 * A1)"
+    }
+]

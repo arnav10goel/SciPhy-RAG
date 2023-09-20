@@ -1,0 +1,302 @@
+[
+    {
+        "instruction": "A TV antenna is 33463 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "1.35e+10 m2"
+    },
+    {
+        "instruction": "A TV antenna is 21788 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "8.76e+09 m2"
+    },
+    {
+        "instruction": "A TV antenna is 31671 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "1.27e+10 m2"
+    },
+    {
+        "instruction": "A TV antenna is 33325 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "1.34e+10 m2"
+    },
+    {
+        "instruction": "A TV antenna is 13791 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "5.55e+09 m2"
+    },
+    {
+        "instruction": "A TV antenna is 545 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "2.19e+08 m2"
+    },
+    {
+        "instruction": "A TV antenna is 26151 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "1.05e+10 m2"
+    },
+    {
+        "instruction": "A TV antenna is 31126 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "1.25e+10 m2"
+    },
+    {
+        "instruction": "A TV antenna is 25399 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "1.02e+10 m2"
+    },
+    {
+        "instruction": "A TV antenna is 5731 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "2.30e+09 m2"
+    },
+    {
+        "instruction": "A TV antenna is 29805 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "1.20e+10 m2"
+    },
+    {
+        "instruction": "A TV antenna is 32804 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "1.32e+10 m2"
+    },
+    {
+        "instruction": "A TV antenna is 7599 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "3.06e+09 m2"
+    },
+    {
+        "instruction": "A TV antenna is 35495 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "1.43e+10 m2"
+    },
+    {
+        "instruction": "A TV antenna is 32293 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "1.30e+10 m2"
+    },
+    {
+        "instruction": "A TV antenna is 22221 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "8.94e+09 m2"
+    },
+    {
+        "instruction": "A TV antenna is 7765 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "3.12e+09 m2"
+    },
+    {
+        "instruction": "A TV antenna is 14433 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "5.80e+09 m2"
+    },
+    {
+        "instruction": "A TV antenna is 22550 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "9.07e+09 m2"
+    },
+    {
+        "instruction": "A TV antenna is 11211 cm tall. How much service area can it cover if the receiving antenna is at ground level?",
+        "input": "Service_area = pi * 2 * 6.4 * 10000 * l",
+        "output": "4.51e+09 m2"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 22.85 V while the minimum amplitude is found to be 9.37 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "We know that the modulation index of an amplitude modulated wave is the ratio of the difference between a_max and a_min to the sum of a_max and a_min. The difference of a_max, a_min is equal to 22.85 - 9.37 = 13.48, and the sum of a_max, a_min is equal to 22.85 + 9.37 = 32.22. Hence, the modulation index is equal to 13.48 / 32.22 = 0.42\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 30.32 V while the minimum amplitude is found to be 16.4 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "We know that the modulation index of an amplitude modulated wave is the ratio of the difference between a_max and a_min to the sum of a_max and a_min. The difference of a_max, a_min is equal to 30.32 - 16.4 = 13.92, and the sum of a_max, a_min is equal to 30.32 + 16.4 = 46.72. Hence, the modulation index is equal to 13.92 / 46.72 = 0.3\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 205.01 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 20 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "We know that the modulation index is the ratio of the voltage of the modulating signal to the voltage of the carrier. Therefore, the modulation index (in decimal) = V_sig / V_car, and V_sig = mod-index * V_car = 0.2 * 205.01 = 4.10e+01 V\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 39.15 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 13 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "We know that the modulation index is the ratio of the voltage of the modulating signal to the voltage of the carrier. Therefore, the modulation index (in decimal) = V_sig / V_car, and V_sig = mod-index * V_car = 0.13 * 39.15 = 5.09e+00 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 13.03 V while the minimum amplitude is found to be 4.08 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "We know that the modulation index of an amplitude modulated wave is the ratio of the difference between a_max and a_min to the sum of a_max and a_min. The difference of a_max, a_min is equal to 13.03 - 4.08 = 8.95, and the sum of a_max, a_min is equal to 13.03 + 4.08 = 17.11. Hence, the modulation index is equal to 8.95 / 17.11 = 0.52\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 335.54 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 92 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "We know that the modulation index is the ratio of the voltage of the modulating signal to the voltage of the carrier. Therefore, the modulation index (in decimal) = V_sig / V_car, and V_sig = mod-index * V_car = 0.92 * 335.54 = 3.09e+02 V\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 283.7 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 50 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "We know that the modulation index is the ratio of the voltage of the modulating signal to the voltage of the carrier. Therefore, the modulation index (in decimal) = V_sig / V_car, and V_sig = mod-index * V_car = 0.5 * 283.7 = 1.42e+02 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 23.74 V while the minimum amplitude is found to be 16.87 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "We know that the modulation index of an amplitude modulated wave is the ratio of the difference between a_max and a_min to the sum of a_max and a_min. The difference of a_max, a_min is equal to 23.74 - 16.87 = 6.87, and the sum of a_max, a_min is equal to 23.74 + 16.87 = 40.61. Hence, the modulation index is equal to 6.87 / 40.61 = 0.17\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 23.47 V while the minimum amplitude is found to be 14.32 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "We know that the modulation index of an amplitude modulated wave is the ratio of the difference between a_max and a_min to the sum of a_max and a_min. The difference of a_max, a_min is equal to 23.47 - 14.32 = 9.15, and the sum of a_max, a_min is equal to 23.47 + 14.32 = 37.79. Hence, the modulation index is equal to 9.15 / 37.79 = 0.24\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 167.86 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 24 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "We know that the modulation index is the ratio of the voltage of the modulating signal to the voltage of the carrier. Therefore, the modulation index (in decimal) = V_sig / V_car, and V_sig = mod-index * V_car = 0.24 * 167.86 = 4.03e+01 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 16.44 V while the minimum amplitude is found to be 2.19 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "We know that the modulation index of an amplitude modulated wave is the ratio of the difference between a_max and a_min to the sum of a_max and a_min. The difference of a_max, a_min is equal to 16.44 - 2.19 = 14.25, and the sum of a_max, a_min is equal to 16.44 + 2.19 = 18.63. Hence, the modulation index is equal to 14.25 / 18.63 = 0.76\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 7.19 V while the minimum amplitude is found to be 5.22 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "We know that the modulation index of an amplitude modulated wave is the ratio of the difference between a_max and a_min to the sum of a_max and a_min. The difference of a_max, a_min is equal to 7.19 - 5.22 = 1.97, and the sum of a_max, a_min is equal to 7.19 + 5.22 = 12.41. Hence, the modulation index is equal to 1.97 / 12.41 = 0.16\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 347.58 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 27 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "We know that the modulation index is the ratio of the voltage of the modulating signal to the voltage of the carrier. Therefore, the modulation index (in decimal) = V_sig / V_car, and V_sig = mod-index * V_car = 0.27 * 347.58 = 9.38e+01 V\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 62.13 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 8 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "We know that the modulation index is the ratio of the voltage of the modulating signal to the voltage of the carrier. Therefore, the modulation index (in decimal) = V_sig / V_car, and V_sig = mod-index * V_car = 0.08 * 62.13 = 4.97e+00 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 20.02 V while the minimum amplitude is found to be 5.97 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "We know that the modulation index of an amplitude modulated wave is the ratio of the difference between a_max and a_min to the sum of a_max and a_min. The difference of a_max, a_min is equal to 20.02 - 5.97 = 14.05, and the sum of a_max, a_min is equal to 20.02 + 5.97 = 25.99. Hence, the modulation index is equal to 14.05 / 25.99 = 0.54\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 29.03 V while the minimum amplitude is found to be 14.75 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "We know that the modulation index of an amplitude modulated wave is the ratio of the difference between a_max and a_min to the sum of a_max and a_min. The difference of a_max, a_min is equal to 29.03 - 14.75 = 14.28, and the sum of a_max, a_min is equal to 29.03 + 14.75 = 43.78. Hence, the modulation index is equal to 14.28 / 43.78 = 0.33\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 393.88 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 37 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "We know that the modulation index is the ratio of the voltage of the modulating signal to the voltage of the carrier. Therefore, the modulation index (in decimal) = V_sig / V_car, and V_sig = mod-index * V_car = 0.37 * 393.88 = 1.46e+02 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 24.23 V while the minimum amplitude is found to be 17.44 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "We know that the modulation index of an amplitude modulated wave is the ratio of the difference between a_max and a_min to the sum of a_max and a_min. The difference of a_max, a_min is equal to 24.23 - 17.44 = 6.79, and the sum of a_max, a_min is equal to 24.23 + 17.44 = 41.67. Hence, the modulation index is equal to 6.79 / 41.67 = 0.16\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 327.68 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 74 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "We know that the modulation index is the ratio of the voltage of the modulating signal to the voltage of the carrier. Therefore, the modulation index (in decimal) = V_sig / V_car, and V_sig = mod-index * V_car = 0.74 * 327.68 = 2.42e+02 V\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 364.83 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 93 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "We know that the modulation index is the ratio of the voltage of the modulating signal to the voltage of the carrier. Therefore, the modulation index (in decimal) = V_sig / V_car, and V_sig = mod-index * V_car = 0.93 * 364.83 = 3.39e+02 V\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 153.9 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 33 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "To calculate the peak voltage of the modulating signal, we use the formula V_sig = mod-index * V_car, where the modulation index is given as a percentage. Therefore, V_sig = 0.33 * 153.9 = 5.08e+01 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 36.59 V while the minimum amplitude is found to be 18.52 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 36.59 V and the minimum amplitude (a_min) = 18.52 V, the modulation index is equal to 0.33\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 13.06 V while the minimum amplitude is found to be 5.03 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 13.06 V and the minimum amplitude (a_min) = 5.03 V, the modulation index is equal to 0.44\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 386.32 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 34 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "To calculate the peak voltage of the modulating signal, we use the formula V_sig = mod-index * V_car, where the modulation index is given as a percentage. Therefore, V_sig = 0.34 * 386.32 = 1.31e+02 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 9.99 V while the minimum amplitude is found to be 9.86 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 9.99 V and the minimum amplitude (a_min) = 9.86 V, the modulation index is equal to 0.01\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 29.94 V while the minimum amplitude is found to be 14.94 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 29.94 V and the minimum amplitude (a_min) = 14.94 V, the modulation index is equal to 0.33\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 142.46 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 92 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "To calculate the peak voltage of the modulating signal, we use the formula V_sig = mod-index * V_car, where the modulation index is given as a percentage. Therefore, V_sig = 0.92 * 142.46 = 1.31e+02 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 13.95 V while the minimum amplitude is found to be 7.13 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 13.95 V and the minimum amplitude (a_min) = 7.13 V, the modulation index is equal to 0.32\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 45.05 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 65 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "To calculate the peak voltage of the modulating signal, we use the formula V_sig = mod-index * V_car, where the modulation index is given as a percentage. Therefore, V_sig = 0.65 * 45.05 = 2.93e+01 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 37.66 V while the minimum amplitude is found to be 19.68 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 37.66 V and the minimum amplitude (a_min) = 19.68 V, the modulation index is equal to 0.31\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 157.84 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 5 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "To calculate the peak voltage of the modulating signal, we use the formula V_sig = mod-index * V_car, where the modulation index is given as a percentage. Therefore, V_sig = 0.05 * 157.84 = 7.89e+00 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 32.18 V while the minimum amplitude is found to be 17.12 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 32.18 V and the minimum amplitude (a_min) = 17.12 V, the modulation index is equal to 0.31\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 7.57 V while the minimum amplitude is found to be 1.97 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 7.57 V and the minimum amplitude (a_min) = 1.97 V, the modulation index is equal to 0.59\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 21.85 V while the minimum amplitude is found to be 14.77 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 21.85 V and the minimum amplitude (a_min) = 14.77 V, the modulation index is equal to 0.19\n"
+    },
+    {
+        "instruction": "A carrier wave of peak voltage 386.29 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 51 percent?\n",
+        "input": "V_sig = mod-index * V_car",
+        "output": "To calculate the peak voltage of the modulating signal, we use the formula V_sig = mod-index * V_car, where the modulation index is given as a percentage. Therefore, V_sig = 0.51 * 386.29 = 1.97e+02 V\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 11.17 V while the minimum amplitude is found to be 1.98 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 11.17 V and the minimum amplitude (a_min) = 1.98 V, the modulation index is equal to 0.7\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 8.85 V while the minimum amplitude is found to be 2.3 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 8.85 V and the minimum amplitude (a_min) = 2.3 V, the modulation index is equal to 0.59\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 37.11 V while the minimum amplitude is found to be 17.28 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 37.11 V and the minimum amplitude (a_min) = 17.28 V, the modulation index is equal to 0.36\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 17.44 V while the minimum amplitude is found to be 16.45 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 17.44 V and the minimum amplitude (a_min) = 16.45 V, the modulation index is equal to 0.03\n"
+    },
+    {
+        "instruction": "For an amplitude modulated wave, the maximum amplitude is found to be 27.59 V while the minimum amplitude is found to be 18.7 V. Determine the modulation index.\n",
+        "input": "Modulation index = (a_max - a_min) / (a_max + a_min)",
+        "output": "To determine the modulation index of an amplitude modulated wave, we use the formula modulation index = (a_max - a_min) / (a_max + a_min). Given the maximum amplitude (a_max) = 27.59 V and the minimum amplitude (a_min) = 18.7 V, the modulation index is equal to 0.19\n"
+    }
+]

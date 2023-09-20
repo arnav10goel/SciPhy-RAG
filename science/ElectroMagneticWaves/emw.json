@@ -1,0 +1,1302 @@
+[
+    {
+        "instruction": "About 91 percent of the power of a 331 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 97 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "2.33e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 10 percent of the power of a 190 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 195 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.10e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 86 percent of the power of a 261 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 144 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.26e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 25 percent of the power of a 221 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 26 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.33e-03 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 73 percent of the power of a 137 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 194 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.13e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 91 percent of the power of a 367 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 99 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "2.01e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 91 percent of the power of a 297 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 155 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.01e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 73 percent of the power of a 291 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 17 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "6.91e-03 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 62 percent of the power of a 316 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 44 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "8.06e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 89 percent of the power of a 65 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 111 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "8.84e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 30 percent of the power of a 237 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 164 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "3.75e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 92 percent of the power of a 146 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 31 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "5.22e-03 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 75 percent of the power of a 63 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 98 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "9.86e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 60 percent of the power of a 232 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 140 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.05e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 70 percent of the power of a 297 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 153 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "8.01e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 43 percent of the power of a 126 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 75 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "4.83e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 56 percent of the power of a 308 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 185 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "4.23e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 51 percent of the power of a 368 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 3 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.23e-01 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 77 percent of the power of a 85 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 195 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.90e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 21 percent of the power of a 325 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 20 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.29e-03 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 69 percent of the power of a 62 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 34 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "7.66e-03 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 25 percent of the power of a 251 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 3 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "8.81e-02 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 36 percent of the power of a 266 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 32 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.05e-03 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 95 percent of the power of a 387 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 171 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "6.68e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 13 percent of the power of a 151 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 96 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "7.43e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 75 percent of the power of a 223 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 144 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.29e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 7 percent of the power of a 248 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 98 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "2.34e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 20 percent of the power of a 13 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 182 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "3.70e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 41 percent of the power of a 134 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 67 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "5.42e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 55 percent of the power of a 316 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 177 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "4.42e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 63 percent of the power of a 348 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 174 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "4.76e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 75 percent of the power of a 140 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 107 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "3.72e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 27 percent of the power of a 157 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 129 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "8.22e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 92 percent of the power of a 49 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 117 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.09e-03 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 81 percent of the power of a 217 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 129 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.78e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 9 percent of the power of a 144 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 1 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "4.97e-01 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 25 percent of the power of a 15 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 134 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "7.39e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 98 percent of the power of a 328 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 183 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "7.10e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 57 percent of the power of a 295 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 177 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "4.91e-05 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "About 34 percent of the power of a 380 W light bulb is converted to visible radiation. What is the average intensity of the visible radiation at a distance of 80 m from the bulb?\n",
+        "input": "Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2)",
+        "output": "1.11e-04 watt/m2\n\n\nThe average intensity of the visible radiation at a distance 'd' from the bulb can be calculated using the formula Average Intensity = (Percentage Power / Total Power) / (4 * pi * distance^2), where Percentage Power is the percentage of power converted to visible radiation, Total Power is the total power of the light bulb, and 'd' is the distance from the bulb."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 38 cm has a capacitance C = 14 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 230 rad/s. Determine the amplitude of B at a point 4 cm from the axis between the plates?",
+        "input": "d = 4 cm, r = 38 cm, I = 7.41e-07 ampere",
+        "output": "5.80e-14 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 1 cm, and separated by 50 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 23 mA. Calculate the capacitance between the plates?",
+        "input": "r = 1 cm, s = 50 cm",
+        "output": "5.56e-15 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 9 cm, and separated by 113 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 154 mA. Calculate the capacitance between the plates?",
+        "input": "r = 9 cm, s = 113 cm",
+        "output": "1.99e-13 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 123 cm has a capacitance C = 55 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1350 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 1.71e-05 ampere",
+        "output": "1.71e-05 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 92 cm has a capacitance C = 14 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1980 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 6.38e-06 ampere",
+        "output": "6.38e-06 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 119 cm, and separated by 41 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 161 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 161 mA, C = 9.60e-11 farad",
+        "output": "1.68e+09 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 112 cm, and separated by 178 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 193 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 193 mA, C = 1.96e-11 farad",
+        "output": "9.85e+09 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 36 cm, and separated by 21 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 200 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 200 mA, C = 1.72e-11 farad",
+        "output": "1.17e+10 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 71 cm has a capacitance C = 99 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1730 rad/s. Determine the amplitude of B at a point 8 cm from the axis between the plates?",
+        "input": "d = 8 cm, r = 71 cm, I = 3.94e-05 ampere",
+        "output": "1.77e-12 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 82 cm, and separated by 141 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 167 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 167 mA, C = 1.33e-11 farad",
+        "output": "1.26e+10 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 39 cm, and separated by 45 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 69 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 69 mA, C = 9.40e-12 farad",
+        "output": "7.34e+09 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 161 cm, and separated by 63 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 184 mA. Calculate the capacitance between the plates?",
+        "input": "r = 161 cm, s = 63 cm",
+        "output": "1.14e-10 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 159 cm, and separated by 166 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 96 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 96 mA, C = 4.23e-11 farad",
+        "output": "2.27e+09 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 42 cm has a capacitance C = 199 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1260 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 5.77e-05 ampere",
+        "output": "5.77e-05 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 178 cm has a capacitance C = 145 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1590 rad/s. Determine the amplitude of B at a point 10 cm from the axis between the plates?",
+        "input": "d = 10 cm, r = 178 cm, I = 5.30e-05 ampere",
+        "output": "4.73e-13 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 26 cm has a capacitance C = 118 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 330 rad/s. Determine the amplitude of B at a point 3 cm from the axis between the plates?",
+        "input": "d = 3 cm, r = 26 cm, I = 8.96e-06 ampere",
+        "output": "1.12e-12 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 146 cm has a capacitance C = 99 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 170 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 3.87e-06 ampere",
+        "output": "3.87e-06 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 2 cm, and separated by 121 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 183 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 183 mA, C = 9.19e-15 farad",
+        "output": "1.99e+13 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 154 cm, and separated by 192 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 97 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 97 mA, C = 3.43e-11 farad",
+        "output": "2.82e+09 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 69 cm, and separated by 125 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 196 mA. Calculate the capacitance between the plates?",
+        "input": "r = 69 cm, s = 125 cm",
+        "output": "1.06e-11 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 97 cm has a capacitance C = 118 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 540 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 1.47e-05 ampere",
+        "output": "1.47e-05 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 118 cm, and separated by 123 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 124 mA. Calculate the capacitance between the plates?",
+        "input": "r = 118 cm, s = 123 cm",
+        "output": "3.15e-11 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 35 cm has a capacitance C = 16 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1220 rad/s. Determine the amplitude of B at a point 6 cm from the axis between the plates?",
+        "input": "d = 6 cm, r = 35 cm, I = 4.49e-06 ampere",
+        "output": "6.22e-13 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 126 cm has a capacitance C = 9 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1460 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 3.02e-06 ampere",
+        "output": "3.02e-06 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 160 cm has a capacitance C = 65 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1020 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 1.52e-05 ampere",
+        "output": "1.52e-05 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 165 cm has a capacitance C = 128 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 80 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 2.36e-06 ampere",
+        "output": "2.36e-06 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 109 cm has a capacitance C = 195 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1450 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 6.50e-05 ampere",
+        "output": "6.50e-05 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 127 cm has a capacitance C = 178 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 700 rad/s. Determine the amplitude of B at a point 2 cm from the axis between the plates?",
+        "input": "d = 2 cm, r = 127 cm, I = 2.87e-05 ampere",
+        "output": "1.01e-13 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 87 cm has a capacitance C = 35 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 110 rad/s. Determine the amplitude of B at a point 3 cm from the axis between the plates?",
+        "input": "d = 3 cm, r = 87 cm, I = 8.86e-07 ampere",
+        "output": "9.93e-15 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 173 cm has a capacitance C = 5 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 830 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 9.54e-07 ampere",
+        "output": "9.54e-07 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 128 cm, and separated by 2 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 155 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 155 mA, C = 2.28e-09 farad",
+        "output": "6.81e+07 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 162 cm has a capacitance C = 52 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1810 rad/s. Determine the amplitude of B at a point 9 cm from the axis between the plates?",
+        "input": "d = 9 cm, r = 162 cm, I = 2.16e-05 ampere",
+        "output": "2.10e-13 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 35 cm has a capacitance C = 156 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1990 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 7.14e-05 ampere",
+        "output": "7.14e-05 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 103 cm, and separated by 11 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 92 mA. Calculate the capacitance between the plates?",
+        "input": "r = 103 cm, s = 11 cm",
+        "output": "2.68e-10 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 80 cm, and separated by 177 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 192 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 192 mA, C = 1.01e-11 farad",
+        "output": "1.91e+10 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 165 cm, and separated by 125 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 35 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 35 mA, C = 6.06e-11 farad",
+        "output": "5.78e+08 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 83 cm has a capacitance C = 28 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 440 rad/s. Determine the amplitude of B at a point 6 cm from the axis between the plates?",
+        "input": "d = 6 cm, r = 83 cm, I = 2.83e-06 ampere",
+        "output": "6.98e-14 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 172 cm has a capacitance C = 19 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1090 rad/s. Determine the amplitude of B at a point 7 cm from the axis between the plates?",
+        "input": "d = 7 cm, r = 172 cm, I = 4.76e-06 ampere",
+        "output": "3.19e-14 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 106 cm has a capacitance C = 47 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 80 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 8.65e-07 ampere",
+        "output": "8.65e-07 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 161 cm, and separated by 29 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 166 mA. Calculate the capacitance between the plates?",
+        "input": "r = 161 cm, s = 29 cm",
+        "output": "2.49e-10 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 157 cm has a capacitance C = 38 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 820 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 7.17e-06 ampere",
+        "output": "7.17e-06 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 12 cm has a capacitance C = 63 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1930 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 2.80e-05 ampere",
+        "output": "2.80e-05 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 174 cm, and separated by 118 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 133 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 133 mA, C = 7.13e-11 farad",
+        "output": "1.86e+09 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 83 cm, and separated by 9 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 172 mA. Calculate the capacitance between the plates?",
+        "input": "r = 83 cm, s = 9 cm",
+        "output": "2.13e-10 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 181 cm has a capacitance C = 53 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 30 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 3.66e-07 ampere",
+        "output": "3.66e-07 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 64 cm, and separated by 153 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 150 mA. Calculate the capacitance between the plates?",
+        "input": "r = 64 cm, s = 153 cm",
+        "output": "7.44e-12 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 76 cm, and separated by 62 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 154 mA. Calculate the capacitance between the plates?",
+        "input": "r = 76 cm, s = 62 cm",
+        "output": "2.59e-11 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 27 cm, and separated by 117 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 22 mA. Calculate the capacitance between the plates?",
+        "input": "r = 27 cm, s = 117 cm",
+        "output": "1.73e-12 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 196 cm, and separated by 83 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 69 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 69 mA, C = 1.29e-10 farad",
+        "output": "5.36e+08 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 125 cm has a capacitance C = 90 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1250 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 2.59e-05 ampere",
+        "output": "2.59e-05 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 131 cm has a capacitance C = 143 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 550 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 1.81e-05 ampere",
+        "output": "1.81e-05 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 74 cm, and separated by 110 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 66 mA. Calculate the capacitance between the plates?",
+        "input": "r = 74 cm, s = 110 cm",
+        "output": "1.38e-11 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 148 cm, and separated by 9 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 182 mA. Calculate the capacitance between the plates?",
+        "input": "r = 148 cm, s = 9 cm",
+        "output": "6.77e-10 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 177 cm has a capacitance C = 17 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 930 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 3.64e-06 ampere",
+        "output": "3.64e-06 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 107 cm has a capacitance C = 4 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 900 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 8.28e-07 ampere",
+        "output": "8.28e-07 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 101 cm, and separated by 45 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 60 mA. Calculate the rate of charge of potential difference between the plates?",
+        "input": "I = 60 mA, C = 6.30e-11 farad",
+        "output": "9.52e+08 volt/s\n\nThe rate of change of potential difference between the plates can be calculated using the formula: dV/dt = I / C, where I is the charging current and C is the capacitance."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 13 cm has a capacitance C = 119 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1530 rad/s. Determine the amplitude of B at a point 5 cm from the axis between the plates?",
+        "input": "d = 5 cm, r = 13 cm, I = 4.19e-05 ampere",
+        "output": "3.50e-11 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 188 cm has a capacitance C = 98 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 150 rad/s. What is the rms value of the conduction current?",
+        "input": "I = 3.38e-06 ampere",
+        "output": "3.38e-06 ampere\n\nThe rms value of the conduction current can be calculated by taking the square root of the average of the square of the current."
+    },
+    {
+        "instruction": "A parallel plate capacitor made of circular plates of radius r = 43 cm has a capacitance C = 129 pF. The capacitor is connected to a 230 V ac supply with an angular frequency of 1400 rad/s. Determine the amplitude of B at a point 5 cm from the axis between the plates?",
+        "input": "d = 5 cm, r = 43 cm, I = 4.15e-05 ampere",
+        "output": "3.18e-12 tesla\n\nThe amplitude of the magnetic field at a point between the plates can be calculated using the formula: B = (\u03bc\u2080dI\u2080) / (r\u00b2), where \u03bc\u2080 is the permeability of free space, d is the distance from the axis, I\u2080 is the rms current, and r is the radius of the plates."
+    },
+    {
+        "instruction": "A capacitor made of two circular plates of radius 146 cm, and separated by 38 cm. The capacitor is being charged by an external source. The charging current is constant and equal to 106 mA. Calculate the capacitance between the plates?",
+        "input": "r = 146 cm, s = 38 cm",
+        "output": "1.56e-10 farad\n\nThe capacitance of a capacitor can be calculated using the formula: C = (\u03b5\u03c0r\u00b2) / s, where \u03b5 is the permittivity of free space, r is the radius of the plates, and s is the separation between the plates."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1111 N/C and that its frequency is v = 175 MHz. Determine k?",
+        "input": "v = 175 MHz",
+        "output": "3.67e+00 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 110 N/C and that its frequency is v = 1275 MHz. Determine wavelength?",
+        "input": "v = 1275 MHz",
+        "output": "0.24 m\n\nThe wavelength can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 835 N/C and that its frequency is v = 1128 MHz. Determine k?",
+        "input": "v = 1128 MHz",
+        "output": "2.36e+01 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1419 N/C and that its frequency is v = 1930 MHz. Determine k?",
+        "input": "v = 1930 MHz",
+        "output": "4.04e+01 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 245 N/C and that its frequency is v = 1173 MHz. Determine k?",
+        "input": "v = 1173 MHz",
+        "output": "2.46e+01 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1001 N/C and that its frequency is v = 1040 MHz. Find an expression for B?",
+        "input": "B0 = 3.34e-06 tesla, k = 2.18e+01 rad/m, w = 6.53e+09 rad/s",
+        "output": "3.34e-06sin[2.18e+01x-6.53e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1163 N/C and that its frequency is v = 211 MHz. Find an expression for E?",
+        "input": "E0 = 1163 N/C, k = 4.42e+00 rad/m, w = 1.33e+09 rad/s",
+        "output": "1163sin[4.42e+00x-1.33e+09t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 84 N/C and that its frequency is v = 1505 MHz. Determine wavelength?",
+        "input": "v = 1505 MHz",
+        "output": "0.20 m\n\nThe wavelength can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 91 N/C and that its frequency is v = 185 MHz. Find an expression for B?",
+        "input": "B0 = 3.03e-07 tesla, k = 3.87e+00 rad/m, w = 1.16e+09 rad/s",
+        "output": "3.03e-07sin[3.87e+00x-1.16e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 730 N/C and that its frequency is v = 1608 MHz. Find an expression for B?",
+        "input": "B0 = 2.43e-06 tesla, k = 3.37e+01 rad/m, w = 1.01e+10 rad/s",
+        "output": "2.43e-06sin[3.37e+01x-1.01e+10t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1960 N/C and that its frequency is v = 1165 MHz. Determine k?",
+        "input": "v = 1165 MHz",
+        "output": "2.44e+01 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 47 N/C and that its frequency is v = 657 MHz. Find an expression for B?",
+        "input": "B0 = 1.57e-07 tesla, k = 1.38e+01 rad/m, w = 4.13e+09 rad/s",
+        "output": "1.57e-07sin[1.38e+01x-4.13e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1865 N/C and that its frequency is v = 627 MHz. Find an expression for E?",
+        "input": "E0 = 1865 N/C, k = 1.31e+01 rad/m, w = 3.94e+09 rad/s",
+        "output": "1865sin[1.31e+01x-3.94e+09t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 924 N/C and that its frequency is v = 1158 MHz. Find an expression for B?",
+        "input": "B0 = 3.08e-06 tesla, k = 2.43e+01 rad/m, w = 7.28e+09 rad/s",
+        "output": "3.08e-06sin[2.43e+01x-7.28e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1621 N/C and that its frequency is v = 206 MHz. Find an expression for B?",
+        "input": "B0 = 5.40e-06 tesla, k = 4.31e+00 rad/m, w = 1.29e+09 rad/s",
+        "output": "5.40e-06sin[4.31e+00x-1.29e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1688 N/C and that its frequency is v = 1681 MHz. Determine B0?",
+        "input": "E0 = 1688 N/C",
+        "output": "5.63e-06 tesla\n\nThe magnetic field amplitude can be determined by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1465 N/C and that its frequency is v = 481 MHz. Find an expression for B?",
+        "input": "B0 = 4.88e-06 tesla, k = 1.01e+01 rad/m, w = 3.02e+09 rad/s",
+        "output": "4.88e-06sin[1.01e+01x-3.02e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 27 N/C and that its frequency is v = 1302 MHz. Find an expression for B?",
+        "input": "B0 = 9.00e-08 tesla, k = 2.73e+01 rad/m, w = 8.18e+09 rad/s",
+        "output": "9.00e-08sin[2.73e+01x-8.18e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1935 N/C and that its frequency is v = 1054 MHz. Determine k?",
+        "input": "v = 1054 MHz",
+        "output": "2.21e+01 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 843 N/C and that its frequency is v = 279 MHz. Find an expression for E?",
+        "input": "E0 = 843 N/C, k = 5.84e+00 rad/m, w = 1.75e+09 rad/s",
+        "output": "843sin[5.84e+00x-1.75e+09t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 623 N/C and that its frequency is v = 540 MHz. Find an expression for E?",
+        "input": "E0 = 623 N/C, k = 1.13e+01 rad/m, w = 3.39e+09 rad/s",
+        "output": "623sin[1.13e+01x-3.39e+09t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1937 N/C and that its frequency is v = 1291 MHz. Determine B0?",
+        "input": "E0 = 1937 N/C",
+        "output": "6.46e-06 tesla\n\nThe magnetic field amplitude can be determined by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1670 N/C and that its frequency is v = 346 MHz. Determine B0?",
+        "input": "E0 = 1670 N/C",
+        "output": "5.57e-06 tesla\n\nThe magnetic field amplitude can be determined by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 236 N/C and that its frequency is v = 462 MHz. Find an expression for E?",
+        "input": "E0 = 236 N/C, k = 9.68e+00 rad/m, w = 2.90e+09 rad/s",
+        "output": "236sin[9.68e+00x-2.90e+09t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 319 N/C and that its frequency is v = 1759 MHz. Determine B0?",
+        "input": "E0 = 319 N/C",
+        "output": "1.06e-06 tesla\n\nThe magnetic field amplitude can be determined by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1044 N/C and that its frequency is v = 1329 MHz. Determine angular frequency?",
+        "input": "v = 1329 MHz",
+        "output": "8.35e+09 rad/s\n\nThe angular frequency can be calculated by multiplying the frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1023 N/C and that its frequency is v = 594 MHz. Determine k?",
+        "input": "v = 594 MHz",
+        "output": "1.24e+01 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1560 N/C and that its frequency is v = 1255 MHz. Determine angular frequency?",
+        "input": "v = 1255 MHz",
+        "output": "7.89e+09 rad/s\n\nThe angular frequency can be calculated by multiplying the frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1410 N/C and that its frequency is v = 1141 MHz. Find an expression for B?",
+        "input": "B0 = 4.70e-06 tesla, k = 2.39e+01 rad/m, w = 7.17e+09 rad/s",
+        "output": "4.70e-06sin[2.39e+01x-7.17e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 175 N/C and that its frequency is v = 57 MHz. Determine k?",
+        "input": "v = 57 MHz",
+        "output": "1.19e+00 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1166 N/C and that its frequency is v = 504 MHz. Find an expression for B?",
+        "input": "B0 = 3.89e-06 tesla, k = 1.06e+01 rad/m, w = 3.17e+09 rad/s",
+        "output": "3.89e-06sin[1.06e+01x-3.17e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1329 N/C and that its frequency is v = 805 MHz. Determine wavelength?",
+        "input": "v = 805 MHz",
+        "output": "0.37 m\n\nThe wavelength can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1166 N/C and that its frequency is v = 1732 MHz. Determine k?",
+        "input": "v = 1732 MHz",
+        "output": "3.63e+01 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 64 N/C and that its frequency is v = 1022 MHz. Determine wavelength?",
+        "input": "v = 1022 MHz",
+        "output": "0.29 m\n\nThe wavelength can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 60 N/C and that its frequency is v = 1089 MHz. Find an expression for E?",
+        "input": "E0 = 60 N/C, k = 2.28e+01 rad/m, w = 6.84e+09 rad/s",
+        "output": "60sin[2.28e+01x-6.84e+09t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 411 N/C and that its frequency is v = 1486 MHz. Determine wavelength?",
+        "input": "v = 1486 MHz",
+        "output": "0.20 m\n\nThe wavelength can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 20 N/C and that its frequency is v = 1954 MHz. Determine wavelength?",
+        "input": "v = 1954 MHz",
+        "output": "0.15 m\n\nThe wavelength can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 126 N/C and that its frequency is v = 42 MHz. Find an expression for B?",
+        "input": "B0 = 4.20e-07 tesla, k = 8.80e-01 rad/m, w = 2.64e+08 rad/s",
+        "output": "4.20e-07sin[8.80e-01x-2.64e+08t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 400 N/C and that its frequency is v = 1376 MHz. Determine B0?",
+        "input": "E0 = 400 N/C",
+        "output": "1.33e-06 tesla\n\nThe magnetic field amplitude can be determined by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1956 N/C and that its frequency is v = 776 MHz. Find an expression for B?",
+        "input": "B0 = 6.52e-06 tesla, k = 1.63e+01 rad/m, w = 4.88e+09 rad/s",
+        "output": "6.52e-06sin[1.63e+01x-4.88e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1101 N/C and that its frequency is v = 1283 MHz. Find an expression for E?",
+        "input": "E0 = 1101 N/C, k = 2.69e+01 rad/m, w = 8.06e+09 rad/s",
+        "output": "1101sin[2.69e+01x-8.06e+09t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1600 N/C and that its frequency is v = 663 MHz. Determine k?",
+        "input": "v = 663 MHz",
+        "output": "1.39e+01 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1034 N/C and that its frequency is v = 18 MHz. Determine wavelength?",
+        "input": "v = 18 MHz",
+        "output": "16.67 m\n\nThe wavelength can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1785 N/C and that its frequency is v = 152 MHz. Determine k?",
+        "input": "v = 152 MHz",
+        "output": "3.18e+00 rad/m\n\nThe wave number (k) can be determined by dividing the angular frequency by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 675 N/C and that its frequency is v = 1750 MHz. Find an expression for B?",
+        "input": "B0 = 2.25e-06 tesla, k = 3.67e+01 rad/m, w = 1.10e+10 rad/s",
+        "output": "2.25e-06sin[3.67e+01x-1.10e+10t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 91 N/C and that its frequency is v = 411 MHz. Find an expression for B?",
+        "input": "B0 = 3.03e-07 tesla, k = 8.61e+00 rad/m, w = 2.58e+09 rad/s",
+        "output": "3.03e-07sin[8.61e+00x-2.58e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1539 N/C and that its frequency is v = 1068 MHz. Determine B0?",
+        "input": "E0 = 1539 N/C",
+        "output": "5.13e-06 tesla\n\nThe magnetic field amplitude can be determined by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1009 N/C and that its frequency is v = 101 MHz. Determine wavelength?",
+        "input": "v = 101 MHz",
+        "output": "2.97 m\n\nThe wavelength can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1454 N/C and that its frequency is v = 169 MHz. Determine B0?",
+        "input": "E0 = 1454 N/C",
+        "output": "4.85e-06 tesla\n\nThe magnetic field amplitude can be determined by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1065 N/C and that its frequency is v = 1837 MHz. Find an expression for E?",
+        "input": "E0 = 1065 N/C, k = 3.85e+01 rad/m, w = 1.15e+10 rad/s",
+        "output": "1065sin[3.85e+01x-1.15e+10t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 931 N/C and that its frequency is v = 896 MHz. Find an expression for E?",
+        "input": "E0 = 931 N/C, k = 1.88e+01 rad/m, w = 5.63e+09 rad/s",
+        "output": "931sin[1.88e+01x-5.63e+09t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1020 N/C and that its frequency is v = 366 MHz. Determine B0?",
+        "input": "E0 = 1020 N/C",
+        "output": "3.40e-06 tesla\n\nThe magnetic field amplitude can be determined by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 189 N/C and that its frequency is v = 1806 MHz. Find an expression for E?",
+        "input": "E0 = 189 N/C, k = 3.78e+01 rad/m, w = 1.13e+10 rad/s",
+        "output": "189sin[3.78e+01x-1.13e+10t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 887 N/C and that its frequency is v = 1857 MHz. Determine B0?",
+        "input": "E0 = 887 N/C",
+        "output": "2.96e-06 tesla\n\nThe magnetic field amplitude can be determined by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 727 N/C and that its frequency is v = 1360 MHz. Determine angular frequency?",
+        "input": "v = 1360 MHz",
+        "output": "8.55e+09 rad/s\n\nThe angular frequency can be calculated by multiplying the frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 824 N/C and that its frequency is v = 1013 MHz. Determine B0?",
+        "input": "E0 = 824 N/C",
+        "output": "2.75e-06 tesla\n\nThe magnetic field amplitude can be determined by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 435 N/C and that its frequency is v = 129 MHz. Find an expression for B?",
+        "input": "B0 = 1.45e-06 tesla, k = 2.70e+00 rad/m, w = 8.11e+08 rad/s",
+        "output": "1.45e-06sin[2.70e+00x-8.11e+08t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 330 N/C and that its frequency is v = 683 MHz. Find an expression for E?",
+        "input": "E0 = 330 N/C, k = 1.43e+01 rad/m, w = 4.29e+09 rad/s",
+        "output": "330sin[1.43e+01x-4.29e+09t]\n\nThe expression for the electric field (E) of an electromagnetic wave can be written as E = E0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 547 N/C and that its frequency is v = 415 MHz. Determine angular frequency?",
+        "input": "v = 415 MHz",
+        "output": "2.61e+09 rad/s\n\nThe angular frequency can be calculated by multiplying the frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field amplitude of an electromagnetic wave is E0 = 1586 N/C and that its frequency is v = 1013 MHz. Find an expression for B?",
+        "input": "B0 = 5.29e-06 tesla, k = 2.12e+01 rad/m, w = 6.36e+09 rad/s",
+        "output": "5.29e-06sin[2.12e+01x-6.36e+09t]\n\nThe expression for the magnetic field (B) of an electromagnetic wave can be written as B = B0sin(kx - wt)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1854cos[1246y + 240770t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 6.18e-06 tesla, k = 1246, w = 240770",
+        "output": "6.18e-06cos[1246y + 240770t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1905cos[535y + 560748t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 6.35e-06 tesla, k = 535, w = 560748",
+        "output": "6.35e-06cos[535y + 560748t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1378cos[99y + 3030303t]. What is the amplitude of the magnetic field part of the wave?",
+        "input": "E0 = 1378 N/C",
+        "output": "4.59e-06 tesla\n\nThe magnetic field amplitude can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1341cos[621y + 483092t]. What is the frequency?",
+        "input": "w = 483092",
+        "output": "7.69e+04 rad/s\n\nThe frequency can be determined by dividing the angular frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 534cos[1115y + 269058t]. What is the frequency?",
+        "input": "w = 269058",
+        "output": "4.28e+04 rad/s\n\nThe frequency can be determined by dividing the angular frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1657cos[762y + 393701t]. What is the frequency?",
+        "input": "w = 393701",
+        "output": "6.27e+04 rad/s\n\nThe frequency can be determined by dividing the angular frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 658cos[38y + 7894737t]. What is the wavelength?",
+        "input": "k = 38",
+        "output": "1.65e-01 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1089cos[146y + 2054795t]. What is the frequency?",
+        "input": "w = 2054795",
+        "output": "3.27e+05 rad/s\n\nThe frequency can be determined by dividing the angular frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 435cos[555y + 540541t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 1.45e-06 tesla, k = 555, w = 540541",
+        "output": "1.45e-06cos[555y + 540541t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 556cos[1068y + 280899t]. What is the frequency?",
+        "input": "w = 280899",
+        "output": "4.47e+04 rad/s\n\nThe frequency can be determined by dividing the angular frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1737cos[1967y + 152517t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 5.79e-06 tesla, k = 1967, w = 152517",
+        "output": "5.79e-06cos[1967y + 152517t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 679cos[1713y + 175131t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 2.26e-06 tesla, k = 1713, w = 175131",
+        "output": "2.26e-06cos[1713y + 175131t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 201cos[395y + 759494t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 6.70e-07 tesla, k = 395, w = 759494",
+        "output": "6.70e-07cos[395y + 759494t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1740cos[967y + 310238t]. What is the wavelength?",
+        "input": "k = 967",
+        "output": "6.50e-03 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 761cos[1881y + 159490t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 2.54e-06 tesla, k = 1881, w = 159490",
+        "output": "2.54e-06cos[1881y + 159490t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 609cos[1770y + 169492t]. What is the frequency?",
+        "input": "w = 169492",
+        "output": "2.70e+04 rad/s\n\nThe frequency can be determined by dividing the angular frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1058cos[1098y + 273224t]. What is the frequency?",
+        "input": "w = 273224",
+        "output": "4.35e+04 rad/s\n\nThe frequency can be determined by dividing the angular frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 86cos[700y + 428571t]. What is the wavelength?",
+        "input": "k = 700",
+        "output": "8.98e-03 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 961cos[1328y + 225904t]. What is the wavelength?",
+        "input": "k = 1328",
+        "output": "4.73e-03 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 984cos[1439y + 208478t]. What is the frequency?",
+        "input": "w = 208478",
+        "output": "3.32e+04 rad/s\n\nThe frequency can be determined by dividing the angular frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1806cos[1701y + 176367t]. What is the amplitude of the magnetic field part of the wave?",
+        "input": "E0 = 1806 N/C",
+        "output": "6.02e-06 tesla\n\nThe magnetic field amplitude can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 21cos[159y + 1886792t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 7.00e-08 tesla, k = 159, w = 1886792",
+        "output": "7.00e-08cos[159y + 1886792t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 164cos[1921y + 156169t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 5.47e-07 tesla, k = 1921, w = 156169",
+        "output": "5.47e-07cos[1921y + 156169t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 916cos[1694y + 177096t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 3.05e-06 tesla, k = 1694, w = 177096",
+        "output": "3.05e-06cos[1694y + 177096t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1124cos[1329y + 225734t]. What is the frequency?",
+        "input": "w = 225734",
+        "output": "3.59e+04 rad/s\n\nThe frequency can be determined by dividing the angular frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1846cos[912y + 328947t]. What is the amplitude of the magnetic field part of the wave?",
+        "input": "E0 = 1846 N/C",
+        "output": "6.15e-06 tesla\n\nThe magnetic field amplitude can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 293cos[711y + 421941t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 9.77e-07 tesla, k = 711, w = 421941",
+        "output": "9.77e-07cos[711y + 421941t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 235cos[1685y + 178042t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 7.83e-07 tesla, k = 1685, w = 178042",
+        "output": "7.83e-07cos[1685y + 178042t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 849cos[644y + 465839t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 2.83e-06 tesla, k = 644, w = 465839",
+        "output": "2.83e-06cos[644y + 465839t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1423cos[1970y + 152284t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 4.74e-06 tesla, k = 1970, w = 152284",
+        "output": "4.74e-06cos[1970y + 152284t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 109cos[621y + 483092t]. What is the wavelength?",
+        "input": "k = 621",
+        "output": "1.01e-02 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 169cos[1248y + 240385t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 5.63e-07 tesla, k = 1248, w = 240385",
+        "output": "5.63e-07cos[1248y + 240385t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1103cos[465y + 645161t]. What is the amplitude of the magnetic field part of the wave?",
+        "input": "E0 = 1103 N/C",
+        "output": "3.68e-06 tesla\n\nThe magnetic field amplitude can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 165cos[121y + 2479339t]. What is the amplitude of the magnetic field part of the wave?",
+        "input": "E0 = 165 N/C",
+        "output": "5.50e-07 tesla\n\nThe magnetic field amplitude can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 457cos[1941y + 154560t]. What is the amplitude of the magnetic field part of the wave?",
+        "input": "E0 = 457 N/C",
+        "output": "1.52e-06 tesla\n\nThe magnetic field amplitude can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1387cos[1157y + 259291t]. What is the frequency?",
+        "input": "w = 259291",
+        "output": "4.13e+04 rad/s\n\nThe frequency can be determined by dividing the angular frequency by 2\u03c0."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 102cos[1436y + 208914t]. What is the amplitude of the magnetic field part of the wave?",
+        "input": "E0 = 102 N/C",
+        "output": "3.40e-07 tesla\n\nThe magnetic field amplitude can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1540cos[739y + 405954t]. What is the wavelength?",
+        "input": "k = 739",
+        "output": "8.50e-03 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1926cos[1909y + 157150t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 6.42e-06 tesla, k = 1909, w = 157150",
+        "output": "6.42e-06cos[1909y + 157150t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1488cos[708y + 423729t]. What is the wavelength?",
+        "input": "k = 708",
+        "output": "8.87e-03 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1701cos[1107y + 271003t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 5.67e-06 tesla, k = 1107, w = 271003",
+        "output": "5.67e-06cos[1107y + 271003t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 559cos[680y + 441176t]. What is the amplitude of the magnetic field part of the wave?",
+        "input": "E0 = 559 N/C",
+        "output": "1.86e-06 tesla\n\nThe magnetic field amplitude can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 220cos[979y + 306435t]. What is the wavelength?",
+        "input": "k = 979",
+        "output": "6.42e-03 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 924cos[639y + 469484t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 3.08e-06 tesla, k = 639, w = 469484",
+        "output": "3.08e-06cos[639y + 469484t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1808cos[172y + 1744186t]. What is the amplitude of the magnetic field part of the wave?",
+        "input": "E0 = 1808 N/C",
+        "output": "6.03e-06 tesla\n\nThe magnetic field amplitude can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1965cos[177y + 1694915t]. What is the wavelength?",
+        "input": "k = 177",
+        "output": "3.55e-02 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 956cos[917y + 327154t]. What is the wavelength?",
+        "input": "k = 917",
+        "output": "6.85e-03 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 708cos[99y + 3030303t]. What is the amplitude of the magnetic field part of the wave?",
+        "input": "E0 = 708 N/C",
+        "output": "2.36e-06 tesla\n\nThe magnetic field amplitude can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1006cos[1896y + 158228t]. What is the wavelength?",
+        "input": "k = 1896",
+        "output": "3.31e-03 m\n\nThe wavelength can be calculated by dividing 2\u03c0 by the wave number (k)."
+    },
+    {
+        "instruction": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = 1141cos[674y + 445104t]. Write an expression for the magnetic field part of the wave?",
+        "input": "B0 = 3.80e-06 tesla, k = 674, w = 445104",
+        "output": "3.80e-06cos[674y + 445104t]\n\nThe expression for the magnetic field part of the wave can be written as B = B0cos[ky + wt]."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1268 x 10^8 Hz and amplitude 815 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 815 V/m",
+        "output": "2.72e-06 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1615 x 10^8 Hz and amplitude 820 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 820 V/m",
+        "output": "2.73e-06 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 467 x 10^8 Hz and amplitude 810 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 810 V/m",
+        "output": "2.70e-06 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 135 x 10^8 Hz and amplitude 21 V/m. What is the wavelength of the wave?",
+        "input": "f = 135 x 10^8 Hz",
+        "output": "2.22e-02 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1896 x 10^8 Hz and amplitude 964 V/m. What is the wavelength of the wave?",
+        "input": "f = 1896 x 10^8 Hz",
+        "output": "1.58e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1092 x 10^8 Hz and amplitude 1609 V/m. What is the wavelength of the wave?",
+        "input": "f = 1092 x 10^8 Hz",
+        "output": "2.75e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 159 x 10^8 Hz and amplitude 356 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 356 V/m",
+        "output": "1.19e-06 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1497 x 10^8 Hz and amplitude 176 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 176 V/m",
+        "output": "5.87e-07 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 288 x 10^8 Hz and amplitude 1163 V/m. What is the wavelength of the wave?",
+        "input": "f = 288 x 10^8 Hz",
+        "output": "1.04e-02 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1450 x 10^8 Hz and amplitude 588 V/m. What is the wavelength of the wave?",
+        "input": "f = 1450 x 10^8 Hz",
+        "output": "2.07e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1949 x 10^8 Hz and amplitude 713 V/m. What is the wavelength of the wave?",
+        "input": "f = 1949 x 10^8 Hz",
+        "output": "1.54e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1247 x 10^8 Hz and amplitude 1982 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 1982 V/m",
+        "output": "6.61e-06 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1829 x 10^8 Hz and amplitude 1175 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 1175 V/m",
+        "output": "3.92e-06 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 141 x 10^8 Hz and amplitude 1427 V/m. What is the wavelength of the wave?",
+        "input": "f = 141 x 10^8 Hz",
+        "output": "2.13e-02 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1887 x 10^8 Hz and amplitude 599 V/m. What is the wavelength of the wave?",
+        "input": "f = 1887 x 10^8 Hz",
+        "output": "1.59e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1071 x 10^8 Hz and amplitude 1975 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 1975 V/m",
+        "output": "6.58e-06 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1774 x 10^8 Hz and amplitude 1930 V/m. What is the wavelength of the wave?",
+        "input": "f = 1774 x 10^8 Hz",
+        "output": "1.69e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1402 x 10^8 Hz and amplitude 1381 V/m. What is the wavelength of the wave?",
+        "input": "f = 1402 x 10^8 Hz",
+        "output": "2.14e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1155 x 10^8 Hz and amplitude 855 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 855 V/m",
+        "output": "2.85e-06 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 292 x 10^8 Hz and amplitude 1562 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 1562 V/m",
+        "output": "5.21e-06 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 14 x 10^8 Hz and amplitude 1226 V/m. What is the wavelength of the wave?",
+        "input": "f = 14 x 10^8 Hz",
+        "output": "2.14e-01 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1570 x 10^8 Hz and amplitude 868 V/m. What is the wavelength of the wave?",
+        "input": "f = 1570 x 10^8 Hz",
+        "output": "1.91e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 671 x 10^8 Hz and amplitude 611 V/m. What is the wavelength of the wave?",
+        "input": "f = 671 x 10^8 Hz",
+        "output": "4.47e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1740 x 10^8 Hz and amplitude 1405 V/m. What is the wavelength of the wave?",
+        "input": "f = 1740 x 10^8 Hz",
+        "output": "1.72e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1897 x 10^8 Hz and amplitude 1701 V/m. What is the wavelength of the wave?",
+        "input": "f = 1897 x 10^8 Hz",
+        "output": "1.58e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 665 x 10^8 Hz and amplitude 97 V/m. What is the wavelength of the wave?",
+        "input": "f = 665 x 10^8 Hz",
+        "output": "4.51e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 513 x 10^8 Hz and amplitude 785 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 785 V/m",
+        "output": "2.62e-06 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1515 x 10^8 Hz and amplitude 27 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 27 V/m",
+        "output": "9.00e-08 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 1887 x 10^8 Hz and amplitude 675 V/m. What is the wavelength of the wave?",
+        "input": "f = 1887 x 10^8 Hz",
+        "output": "1.59e-03 m\n\nThe wavelength can be calculated by dividing 3 by the frequency."
+    },
+    {
+        "instruction": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 33 x 10^8 Hz and amplitude 132 V/m. What is the amplitude of the oscillating magnetic field?",
+        "input": "A = 132 V/m",
+        "output": "4.40e-07 tesla\n\nThe amplitude of the oscillating magnetic field can be calculated by dividing the electric field amplitude by the speed of light."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 4 kHz to 256 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 4 kHz, f2 = 252 kHz",
+        "output": "1171.88 m to 75000.0 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 405 kHz to 1912 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 405 kHz, f2 = 1507 kHz",
+        "output": "156.9 m to 740.74 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 745 kHz to 3398 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 745 kHz, f2 = 2653 kHz",
+        "output": "88.29 m to 402.68 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A plane electromagnetic wave travels in vacuum along the z-direction. If the frequency of the wave is 60882500 Hz, what is its wavelength?",
+        "input": "f = 60882500 Hz",
+        "output": "4.93e+00 m\n\nThe wavelength of the wave can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "A plane electromagnetic wave travels in vacuum along the z-direction. If the frequency of the wave is 105850700 Hz, what is its wavelength?",
+        "input": "f = 105850700 Hz",
+        "output": "2.83e+00 m\n\nThe wavelength of the wave can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 1272 kHz to 4304 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 1272 kHz, f2 = 3032 kHz",
+        "output": "69.7 m to 235.85 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A plane electromagnetic wave travels in vacuum along the z-direction. If the frequency of the wave is 19886500 Hz, what is its wavelength?",
+        "input": "f = 19886500 Hz",
+        "output": "1.51e+01 m\n\nThe wavelength of the wave can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 853 kHz to 2794 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 853 kHz, f2 = 1941 kHz",
+        "output": "107.37 m to 351.7 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 498 kHz to 1494 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 498 kHz, f2 = 996 kHz",
+        "output": "200.8 m to 602.41 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 40 kHz to 1518 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 40 kHz, f2 = 1478 kHz",
+        "output": "197.63 m to 7500.0 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 782 kHz to 3101 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 782 kHz, f2 = 2319 kHz",
+        "output": "96.74 m to 383.63 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A plane electromagnetic wave travels in vacuum along the z-direction. If the frequency of the wave is 73123800 Hz, what is its wavelength?",
+        "input": "f = 73123800 Hz",
+        "output": "4.10e+00 m\n\nThe wavelength of the wave can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 1511 kHz to 4959 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 1511 kHz, f2 = 3448 kHz",
+        "output": "60.5 m to 198.54 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A plane electromagnetic wave travels in vacuum along the z-direction. If the frequency of the wave is 19438800 Hz, what is its wavelength?",
+        "input": "f = 19438800 Hz",
+        "output": "1.54e+01 m\n\nThe wavelength of the wave can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 1596 kHz to 4118 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 1596 kHz, f2 = 2522 kHz",
+        "output": "72.85 m to 187.97 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A plane electromagnetic wave travels in vacuum along the z-direction. If the frequency of the wave is 176668100 Hz, what is its wavelength?",
+        "input": "f = 176668100 Hz",
+        "output": "1.70e+00 m\n\nThe wavelength of the wave can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "A plane electromagnetic wave travels in vacuum along the z-direction. If the frequency of the wave is 190717100 Hz, what is its wavelength?",
+        "input": "f = 190717100 Hz",
+        "output": "1.57e+00 m\n\nThe wavelength of the wave can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "A plane electromagnetic wave travels in vacuum along the z-direction. If the frequency of the wave is 165972900 Hz, what is its wavelength?",
+        "input": "f = 165972900 Hz",
+        "output": "1.81e+00 m\n\nThe wavelength of the wave can be calculated by dividing the speed of light by the frequency."
+    },
+    {
+        "instruction": "A radio can tune in to any station in the 462 kHz to 2143 kHz band. What is the corresponding wavelength band?",
+        "input": "f1 = 462 kHz, f2 = 1681 kHz",
+        "output": "139.99 m to 649.35 m\n\nThe corresponding wavelength band can be calculated by dividing the speed of light by the frequency range."
+    },
+    {
+        "instruction": "A plane electromagnetic wave travels in vacuum along the z-direction. If the frequency of the wave is 39206100 Hz, what is its wavelength?",
+        "input": "f = 39206100 Hz",
+        "output": "7.65e+00 m\n\nThe wavelength of the wave can be calculated by dividing the speed of light by the frequency."
+    }
+]

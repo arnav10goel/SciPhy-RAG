@@ -1,0 +1,1907 @@
+[
+    {
+        "instruction": "For a transistor as a switch in saturation state, the audio signal voltage across the collected resistance of 2250 ohm is 34 V. Suppose the current amplification factor of the transistor is 160, find the base current if the base resistance is 1880 ohm?\n",
+        "input": "output voltage/input voltage = current amplification factor*output resistance/input resistance",
+        "output": "voltage without amplification is 34/160 = 0.21, to get voltage per unit resistance, we need to divide it by 2250, the resultant voltage per unit resistance is current and it's value is 9.44e-05 ampere\n"
+    },
+    {
+        "instruction": "If a monoatomic gas of 7 moles at 156 atm and volume 144 lit is adiabatically changed to volume 78 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "431.6atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 1 moles at 89 atm and volume 39 lit is adiabatically changed to volume 10 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "598.2atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a diatomic gas of 3 moles at 65 atm and volume 80 lit is adiabatically changed to volume 148 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "27.5atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 196 atm and volume 191 lit is adiabatically changed to pressure 125 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "250.4lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 2 moles at 83 atm and volume 135 lit is adiabatically changed to volume 171 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "56.1atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 104 atm and volume 196 lit is adiabatically changed to pressure 110 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "188.3lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 3 moles at 141 atm and volume 123 lit is adiabatically changed to volume 73 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "335.2atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 10 moles at 48 atm and volume 196 lit is adiabatically changed to pressure 168 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "92.2lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 5 moles at 91 atm and volume 102 lit is adiabatically changed to pressure 153 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "70.4lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a diatomic gas of 3 moles at 60 atm and volume 104 lit is adiabatically changed to pressure 99 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "72.7lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a diatomic gas of 4 moles at 46 atm and volume 176 lit is adiabatically changed to volume 84 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "129.6atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 10 moles at 18 atm and volume 72 lit is adiabatically changed to pressure 138 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "21.1lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 4 moles at 126 atm and volume 63 lit is adiabatically changed to volume 119 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "51.7atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 7 moles at 88 atm and volume 20 lit is adiabatically changed to pressure 120 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "16.6lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 1 moles at 99 atm and volume 164 lit is adiabatically changed to volume 108 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "177.7atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 3 moles at 153 atm and volume 160 lit is adiabatically changed to volume 139 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "193.3atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 8 moles at 167 atm and volume 29 lit is adiabatically changed to pressure 170 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "28.7lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 9 moles at 104 atm and volume 114 lit is adiabatically changed to pressure 160 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "87.9lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 4 moles at 145 atm and volume 139 lit is adiabatically changed to pressure 92 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "182.8lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 5 moles at 75 atm and volume 61 lit is adiabatically changed to pressure 77 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "59.9lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 7 moles at 74 atm and volume 127 lit is adiabatically changed to pressure 91 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "112.1lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 7 moles at 16 atm and volume 153 lit is adiabatically changed to volume 99 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "29.4atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a diatomic gas of 4 moles at 149 atm and volume 117 lit is adiabatically changed to volume 129 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "130.0atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 45 atm and volume 143 lit is adiabatically changed to pressure 120 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "71.0lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 5 moles at 66 atm and volume 109 lit is adiabatically changed to volume 99 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "77.4atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 8 moles at 124 atm and volume 65 lit is adiabatically changed to pressure 14 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "241.9lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 7 moles at 125 atm and volume 134 lit is adiabatically changed to pressure 113 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "142.4lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 4 moles at 41 atm and volume 82 lit is adiabatically changed to pressure 114 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "39.5lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a diatomic gas of 5 moles at 119 atm and volume 20 lit is adiabatically changed to volume 11 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "274.8atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 1 moles at 46 atm and volume 110 lit is adiabatically changed to pressure 50 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "104.6lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 8 moles at 177 atm and volume 135 lit is adiabatically changed to volume 128 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "190.7atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 177 atm and volume 27 lit is adiabatically changed to pressure 53 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "63.9lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a diatomic gas of 7 moles at 188 atm and volume 196 lit is adiabatically changed to volume 128 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "341.4atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 8 moles at 139 atm and volume 190 lit is adiabatically changed to volume 67 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "784.3atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 200 atm and volume 135 lit is adiabatically changed to volume 145 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "177.6atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 3 moles at 168 atm and volume 41 lit is adiabatically changed to volume 91 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "55.0atm\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 152 atm and volume 29 lit is adiabatically changed to volume 16 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "407.9atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 1 moles at 31 atm and volume 112 lit is adiabatically changed to pressure 188 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "30.9lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 57 atm and volume 187 lit is adiabatically changed to pressure 124 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "117.1lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 192 atm and volume 157 lit is adiabatically changed to pressure 103 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "245.0lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 8 moles at 73 atm and volume 191 lit is adiabatically changed to volume 109 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "185.2atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 190 atm and volume 120 lit is adiabatically changed to pressure 91 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "187.0lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 10 moles at 54 atm and volume 67 lit is adiabatically changed to pressure 66 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "59.4lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 8 moles at 133 atm and volume 76 lit is adiabatically changed to pressure 126 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "79.0lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 1 moles at 67 atm and volume 58 lit is adiabatically changed to pressure 82 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "51.4lit\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a monoatomic gas of 2 moles at 140 atm and volume 12 lit is adiabatically changed to volume 161 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "1.9atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 5 moles at 28 atm and volume 122 lit is adiabatically changed to pressure 13 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "211.0lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 3 moles at 101 atm and volume 87 lit is adiabatically changed to volume 76 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "126.4atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "If a diatomic gas of 4 moles at 88 atm and volume 87 lit is adiabatically changed to pressure 89 atm, then what will be its volume.\n",
+        "input": "P1*(V1^1.4)=P2*(V2^1.4)",
+        "output": "86.3lit\nTo calculate the final pressure of the diatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a diatomic gas is typically 7/5."
+    },
+    {
+        "instruction": "If a monoatomic gas of 1 moles at 55 atm and volume 155 lit is adiabatically changed to volume 122 lit, then what will be the pressure.\n",
+        "input": "P1*(V1^1.66)=P2*(V2^1.66)",
+        "output": "81.8atm\nTo calculate the final pressure of the monoatomic gas after an adiabatic expansion, we can use the adiabatic equation: P1 * V1^\u03b3 = P2 * V2^\u03b3, where P1 and V1 are the initial pressure and volume, P2 and V2 are the final pressure and volume, and \u03b3 is the heat capacity ratio. The heat capacity ratio (\u03b3) for a monoatomic gas is typically 5/3."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 10 mol of water at 79.1 celcius to ice at -82.3 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "89576.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 2 mol of water at 6.4 celcius to ice at -99.0 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "5737.4\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 11 mol of water at 41.4 celcius to ice at -56.4 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "77790.9\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 13 mol of water at 65.6 celcius to ice at -33.2 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "126722.7\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 19 mol of water at 72.1 celcius to ice at -28.4 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "197866.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 14 mol of water at 37.9 celcius to ice at -7.5 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "120510.6\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 7 mol of water at 77.8 celcius to ice at -82.2 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "62043.1\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 2 mol of water at 2.8 celcius to ice at -20.9 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "10943.4\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 20 mol of water at 23.4 celcius to ice at -59.7 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "111900.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 10 mol of water at 8.6 celcius to ice at -28.4 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "56325.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 20 mol of water at 21.0 celcius to ice at -72.5 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "98866.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 11 mol of water at 66.8 celcius to ice at -17.9 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "114414.3\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 1 mol of water at 63.5 celcius to ice at -60.6 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "8581.5\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 19 mol of water at 0.6 celcius to ice at -71.5 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "65436.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 12 mol of water at 81.2 celcius to ice at -67.3 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "116013.6\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 11 mol of water at 0.3 celcius to ice at -52.2 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "45447.6\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 8 mol of water at 38.5 celcius to ice at -15.4 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "66898.4\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 6 mol of water at 68.7 celcius to ice at -45.1 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "57260.4\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 4 mol of water at 55.1 celcius to ice at -30.9 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "36167.6\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 19 mol of water at 11.1 celcius to ice at -28.2 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "110732.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 12 mol of water at 6.2 celcius to ice at -19.1 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "69528.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 17 mol of water at 7.3 celcius to ice at -30.6 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "92711.2\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 13 mol of water at 1.0 celcius to ice at -88.2 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "37173.5\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 17 mol of water at 60.0 celcius to ice at -23.1 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "164864.3\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 16 mol of water at 68.2 celcius to ice at -87.6 celcius. Given, H = 6.03 KJ/mol at 0 celcius. Cp [H20(l)J = 75.3 J/molK; Cp [H20(s)J = 36.8 J/molK.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "127068.8\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 10 mol of water at 10.2 celcius to ice at -9.8 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "64375.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 20 mol of water at 40.4 celcius to ice at -0.3 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "181222.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 17 mol of water at 55.9 celcius to ice at -13.3 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "165748.3\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 20 mol of water at 96.1 celcius to ice at -30.1 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "243172.0\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "Calculate the enthalpy change on freezing of 17 mol of water at 11.5 celcius to ice at -57.5 celcius.\n",
+        "input": "(\u0394H)=(\u0394H1)+(\u0394H2)",
+        "output": "81258.3\nTotal enthalpy change involved in the transformation is the sum of the following changes and can be represented using the Hess Law."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 808. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 308.9.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-39528.7\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 203. Calculate the value of \u0394G^o, given T = 341.2.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-34652.8\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 728. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 355.4.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-44770.8\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 188. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 332.4.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-33271.3\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 665. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 278.3.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-34576.8\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 430. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 290.1.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-33625.1\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 881. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 333.1.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-43176.2\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 205. Calculate the value of \u0394G^o, given T = 286.8.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-29181.6\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 789. Calculate the value of \u0394G^o, given T = 341.2.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-43506.8\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 446. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 331.1.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-38608.6\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 338. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 314.7.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-35028.3\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 495. Calculate the value of \u0394G^o, given T = 295.6.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-35058.0\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 971. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 332.1.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-43664.0\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 615. Calculate the value of \u0394G^o, given T = 346.7.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-42557.0\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 347. Calculate the value of \u0394G^o, given T = 328.5.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-36729.3\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 924. Calculate the value of \u0394G^o, given T = 354.2.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-46233.8\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 934. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 283.1.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-37011.3\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 652. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 368.5.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-45644.4\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 446. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 311.8.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-36358.1\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 888. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 357.0.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-46328.1\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 486. Calculate the value of \u0394G^o, given T = 287.1.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-33949.2\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 630. Calculate the value of \u0394G^o, given T = 360.3.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-44392.3\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 115. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 356.0.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-32288.8\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 305. Calculate the value of \u0394G^o, given T = 355.7.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-38893.4\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 621. Calculate the value of \u0394G^o, given T = 337.0.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-41428.8\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 125. Calculate the value of \u0394G^o, given T = 354.9.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-32754.7\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 777. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 295.5.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-37592.9\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 430. Calculate the value of \u0394G^o, given R = 8.3 J/Kmol and T = 289.7.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-33578.7\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 191. Calculate the value of \u0394G^o, given T = 279.9.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-28101.0\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "The equilibrium constant for a reaction is 142. Calculate the value of \u0394G^o, given T = 349.3.\n",
+        "input": "\u0394G^o = -2.303RTlogK or -RTlnK",
+        "output": "-33089.2\nTo calculate the standard Gibbs free energy change (\u0394G^o) for a reaction given the equilibrium constant (K), gas constant (R), and temperature (T), we can use the following equation: \u0394G^o = -R * T * ln(K) where ln represents the natural logarithm."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -5088 J. If 1083 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-5088) - (-1083) => q = -4005joule\n"
+    },
+    {
+        "instruction": "In a process, 7993 J of heat is absorbed by the system and caused a change of -3648 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-3648) - (+7993) => w = -11641joule\n"
+    },
+    {
+        "instruction": "In a process, 2447 J of heat is absorbed by a system and 4297 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+2447) + (+4297) => du = 6744joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 9238 J of heat is absorbed by the system and caused a change of -5754 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-5754) - (-9238) => w = 3484joule\n"
+    },
+    {
+        "instruction": "In a process, 5821 J of heat is absorbed by the system and caused a change of 4844 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (4844) - (-5821) => w = 10665joule\n"
+    },
+    {
+        "instruction": "In a process, 3662 J of heat is released by a system and 2032 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-3662) + (-2032) => du = -5694joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 1952 J of heat is released by a system and 8173 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-1952) + (-8173) => du = -10125joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 7736 J of heat is absorbed by a system and 9765 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+7736) + (+9765) => du = 17501joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -3493 J. If 1726 J of work is done on the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-3493) - (+1726) => q = -5219joule\n"
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -3769 J. If 741 J of work is done on the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-3769) - (+741) => q = -4510joule\n"
+    },
+    {
+        "instruction": "In a process, 5578 J of heat is absorbed by the system and caused a change of 8733 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (8733) - (+5578) => w = 3155joule\n"
+    },
+    {
+        "instruction": "In a process, 5276 J of heat is absorbed by the system and caused a change of 4861 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (4861) - (-5276) => w = 10137joule\n"
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -8 J. If 5479 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-8) - (-5479) => q = 5471joule\n"
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 9817 J. If 7977 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (9817) - (-7977) => q = 17794joule\n"
+    },
+    {
+        "instruction": "In a process, 7325 J of heat is released by a system and 9974 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-7325) + (+9974) => du = 2649joule\nQ is negative and W is positive as heat is released by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 2456 J of heat is absorbed by the system and caused a change of -5655 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-5655) - (-2456) => w = -3199joule\n"
+    },
+    {
+        "instruction": "In a process, 1293 J of heat is absorbed by a system and 8567 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+1293) + (-8567) => du = -7274joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -1460 J. If 2555 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-1460) - (-2555) => q = 1095joule\n"
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -2373 J. If 4925 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-2373) - (-4925) => q = 2552joule\n"
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 6642 J. If 449 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (6642) - (-449) => q = 7091joule\n"
+    },
+    {
+        "instruction": "In a process, 2895 J of heat is absorbed by the system and caused a change of -1555 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-1555) - (+2895) => w = -4450joule\n"
+    },
+    {
+        "instruction": "In a process, 3246 J of heat is absorbed by a system and 3616 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+3246) + (+3616) => du = 6862joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 2156 J of heat is absorbed by a system and 6400 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+2156) + (+6400) => du = 8556joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 9884 J of heat is absorbed by the system and caused a change of -9946 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-9946) - (-9884) => w = -62joule\n"
+    },
+    {
+        "instruction": "In a process, 1851 J of heat is absorbed by a system and 3916 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+1851) + (-3916) => du = -2065joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 7183 J of heat is released by a system and 6180 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-7183) + (-6180) => du = -13363joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 7956 J. If 1081 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (7956) - (-1081) => q = 9037joule\n"
+    },
+    {
+        "instruction": "In a process, 2550 J of heat is released by a system and 5784 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-2550) + (+5784) => du = 3234joule\nQ is negative and W is positive as heat is released by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 1700 J of heat is absorbed by a system and 7492 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+1700) + (+7492) => du = 9192joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 1720 J. If 2521 J of work is done on the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (1720) - (+2521) => q = -801joule\n"
+    },
+    {
+        "instruction": "In a process, 1460 J of heat is absorbed by a system and 4041 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+1460) + (-4041) => du = -2581joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 8908 J of heat is absorbed by the system and caused a change of -5319 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-5319) - (-8908) => w = 3589joule\n"
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -4398 J. If 115 J of work is done on the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-4398) - (+115) => q = -4513joule\n"
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -5693 J. If 6804 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-5693) - (-6804) => q = 1111joule\n"
+    },
+    {
+        "instruction": "In a process, 9801 J of heat is released by a system and 6543 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-9801) + (-6543) => du = -16344joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 8769 J of heat is released by a system and 1268 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-8769) + (+1268) => du = -7501joule\nQ is negative and W is positive as heat is released by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 523 J of heat is absorbed by the system and caused a change of 336 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (336) - (-523) => w = 859joule\n"
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -84 J. If 1591 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-84) - (-1591) => q = 1507joule\n"
+    },
+    {
+        "instruction": "In a process, 8349 J of heat is released by a system and 3430 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-8349) + (+3430) => du = -4919joule\nQ is negative and W is positive as heat is released by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 4265 J of heat is absorbed by a system and 3748 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+4265) + (-3748) => du = 517joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 4684 J of heat is absorbed by a system and 4811 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+4684) + (+4811) => du = 9495joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -4952 J. If 1193 J of work is done on the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-4952) - (+1193) => q = -6145joule\n"
+    },
+    {
+        "instruction": "In a process, 5594 J of heat is released by a system and 7886 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-5594) + (-7886) => du = -13480joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 2042 J of heat is absorbed by the system and caused a change of 2920 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (2920) - (-2042) => w = 4962joule\n"
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 646 J. If 3591 J of work is done on the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (646) - (+3591) => q = -2945joule\n"
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 9218 J. If 1924 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (9218) - (-1924) => q = 11142joule\n"
+    },
+    {
+        "instruction": "In a process, 1197 J of heat is absorbed by a system and 5031 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+1197) + (-5031) => du = -3834joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 2925 J of heat is released by a system and 8337 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-2925) + (+8337) => du = 5412joule\nQ is negative and W is positive as heat is released by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 7151 J of heat is released by a system and 8710 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-7151) + (+8710) => du = 1559joule\nQ is negative and W is positive as heat is released by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 5857 J. If 6057 J of work is done on the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (5857) - (+6057) => q = -200joule\n"
+    },
+    {
+        "instruction": "In a process, 5442 J of heat is absorbed by a system and 6144 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+5442) + (-6144) => du = -702joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 8271 J. If 2939 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (8271) - (-2939) => q = 11210joule\n"
+    },
+    {
+        "instruction": "In a process, 964 J of heat is released by a system and 3364 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-964) + (-3364) => du = -4328joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -7307 J. If 6507 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-7307) - (-6507) => q = -800joule\n"
+    },
+    {
+        "instruction": "In a process, 5765 J of heat is released by a system and 2725 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-5765) + (-2725) => du = -8490joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 4564 J of heat is absorbed by the system and caused a change of -2251 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-2251) - (-4564) => w = 2313joule\n"
+    },
+    {
+        "instruction": "In a process, 9056 J of heat is absorbed by the system and caused a change of -3376 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-3376) - (-9056) => w = 5680joule\n"
+    },
+    {
+        "instruction": "In a process, 9647 J of heat is absorbed by a system and 8583 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+9647) + (+8583) => du = 18230joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 1519 J of heat is absorbed by the system and caused a change of -3008 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-3008) - (+1519) => w = -4527joule\n"
+    },
+    {
+        "instruction": "In a process, 8010 J of heat is released by a system and 2488 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-8010) + (+2488) => du = -5522joule\nQ is negative and W is positive as heat is released by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 4388 J of heat is absorbed by the system and caused a change of 8876 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (8876) - (+4388) => w = 4488joule\n"
+    },
+    {
+        "instruction": "In a process, 9827 J of heat is absorbed by the system and caused a change of 4598 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (4598) - (+9827) => w = -5229joule\n"
+    },
+    {
+        "instruction": "In a process, 2495 J of heat is absorbed by a system and 2451 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+2495) + (+2451) => du = 4946joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 6603 J of heat is absorbed by the system and caused a change of -8975 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-8975) - (-6603) => w = -2372joule\n"
+    },
+    {
+        "instruction": "In a process, 5987 J of heat is absorbed by a system and 3635 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+5987) + (-3635) => du = 2352joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 2852 J of heat is released by a system and 2563 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-2852) + (-2563) => du = -5415joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 9691 J of heat is absorbed by a system and 145 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+9691) + (-145) => du = 9546joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 626 J. If 7758 J of work is done on the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (626) - (+7758) => q = -7132joule\n"
+    },
+    {
+        "instruction": "In a process, 4234 J of heat is absorbed by a system and 285 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+4234) + (-285) => du = 3949joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 3203 J of heat is absorbed by the system and caused a change of -3238 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-3238) - (+3203) => w = -6441joule\n"
+    },
+    {
+        "instruction": "In a process, 5144 J of heat is absorbed by a system and 8072 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+5144) + (+8072) => du = 13216joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 7352 J of heat is absorbed by a system and 8272 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+7352) + (-8272) => du = -920joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 7207 J of heat is absorbed by a system and 498 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+7207) + (-498) => du = 6709joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 5827 J. If 4183 J of work is done on the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (5827) - (+4183) => q = 1644joule\n"
+    },
+    {
+        "instruction": "In a process, 7534 J of heat is absorbed by the system and caused a change of -7108 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-7108) - (+7534) => w = -14642joule\n"
+    },
+    {
+        "instruction": "In a process, 2003 J of heat is absorbed by a system and 1182 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+2003) + (+1182) => du = 3185joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is -3474 J. If 900 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (-3474) - (-900) => q = -2574joule\n"
+    },
+    {
+        "instruction": "In a process, 4408 J of heat is absorbed by a system and 6354 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+4408) + (-6354) => du = -1946joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 441 J of heat is absorbed by a system and 7203 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+441) + (+7203) => du = 7644joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 5949 J of heat is absorbed by the system and caused a change of -2183 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (-2183) - (+5949) => w = -8132joule\n"
+    },
+    {
+        "instruction": "In a process, 5735 J of heat is absorbed by the system and caused a change of 9153 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (9153) - (+5735) => w = 3418joule\n"
+    },
+    {
+        "instruction": "In a process, 4215 J of heat is absorbed by a system and 5891 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+4215) + (+5891) => du = 10106joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 3999 J of heat is released by a system and 657 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-3999) + (-657) => du = -4656joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 2650 J of heat is absorbed by the system and caused a change of 3178 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (3178) - (-2650) => w = 5828joule\n"
+    },
+    {
+        "instruction": "In a process, 6733 J of heat is absorbed by the system and caused a change of 33 J in internal energy of the system, what is the work done by the system ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => w = du - q => w = (33) - (-6733) => w = 6766joule\n"
+    },
+    {
+        "instruction": "In a process, 1205 J of heat is released by a system and 1887 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-1205) + (-1887) => du = -3092joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, change in internal energy of the system is 9249 J. If 4497 J of work is done by the system, what is the amount of heat absorbed by the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => q = du - w => q = (9249) - (-4497) => q = 13746joule\n"
+    },
+    {
+        "instruction": "In a process, 6638 J of heat is absorbed by a system and 1633 J of work is done on the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+6638) + (+1633) => du = 8271joule\nQ is positive and W is positive as heat is absorbed by a system and work is done on system."
+    },
+    {
+        "instruction": "In a process, 5149 J of heat is released by a system and 8359 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (-5149) + (-8359) => du = -13508joule\nQ is negative and W is negative as heat is released by a system and work is done by system."
+    },
+    {
+        "instruction": "In a process, 6734 J of heat is absorbed by a system and 3781 J of work is done by the system. What is the change in internal energy for the process ?\n",
+        "input": "\u0394U = Q+W",
+        "output": "from first law of thermodynamics, du = q + w => du = (+6734) + (-3781) => du = 2953joule\nQ is positive and W is negative as heat is absorbed by a system and work is done by system."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 87 atm and volume 69 lit is isothermally changed to volume 18 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "333.5atm\nTo determine the final pressure of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 2 moles at 100 atm and volume 155 lit is isothermally changed to volume 195 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "79.5atm\nTo determine the final pressure of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 1 moles at 11 atm and volume 178 lit is isothermally changed to volume 177 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "11.1atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 6 moles at 23 atm and volume 11 lit is isothermally changed to pressure 154 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "1.6lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 10 moles at 41 atm and volume 125 lit is isothermally changed to pressure 36 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "142.4lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 7 moles at 27 atm and volume 101 lit is isothermally changed to pressure 161 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "16.9lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 6 moles at 120 atm and volume 72 lit is isothermally changed to volume 195 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "44.3atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 30 atm and volume 16 lit is isothermally changed to pressure 108 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "4.4lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 108 atm and volume 34 lit is isothermally changed to pressure 67 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "54.8lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 6 moles at 27 atm and volume 199 lit is isothermally changed to volume 35 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "153.5atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 7 moles at 92 atm and volume 91 lit is isothermally changed to volume 108 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "77.5atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 9 moles at 57 atm and volume 86 lit is isothermally changed to pressure 56 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "87.5lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 5 moles at 160 atm and volume 122 lit is isothermally changed to volume 94 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "207.7atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 5 moles at 94 atm and volume 140 lit is isothermally changed to pressure 144 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "91.4lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 35 atm and volume 63 lit is isothermally changed to pressure 144 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "15.3lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 6 moles at 15 atm and volume 154 lit is isothermally changed to volume 69 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "33.5atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 7 moles at 27 atm and volume 28 lit is isothermally changed to volume 132 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "5.7atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 2 moles at 92 atm and volume 124 lit is isothermally changed to pressure 116 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "98.3lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 3 moles at 100 atm and volume 184 lit is isothermally changed to pressure 106 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "173.6lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 5 moles at 91 atm and volume 50 lit is isothermally changed to pressure 170 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "26.8lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 5 moles at 110 atm and volume 124 lit is isothermally changed to pressure 34 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "401.2lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 2 moles at 83 atm and volume 29 lit is isothermally changed to volume 167 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "14.4atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 2 moles at 191 atm and volume 127 lit is isothermally changed to pressure 197 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "123.1lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 1 moles at 200 atm and volume 41 lit is isothermally changed to volume 13 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "630.8atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 10 moles at 55 atm and volume 183 lit is isothermally changed to pressure 13 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "774.2lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 10 moles at 167 atm and volume 167 lit is isothermally changed to volume 32 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "871.5atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 4 moles at 104 atm and volume 176 lit is isothermally changed to volume 140 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "130.7atm\nTo determine the final pressure of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 25 atm and volume 163 lit is isothermally changed to pressure 128 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "31.8lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 4 moles at 29 atm and volume 181 lit is isothermally changed to volume 186 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "28.2atm\nTo determine the final pressure of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 170 atm and volume 141 lit is isothermally changed to volume 21 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "1141.4atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 1 moles at 153 atm and volume 66 lit is isothermally changed to pressure 91 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "111.0lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 1 moles at 148 atm and volume 146 lit is isothermally changed to volume 82 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "263.5atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 2 moles at 140 atm and volume 159 lit is isothermally changed to pressure 96 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "231.9lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 116 atm and volume 110 lit is isothermally changed to volume 121 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "105.5atm\nTo determine the final pressure of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 2 moles at 193 atm and volume 84 lit is isothermally changed to volume 44 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "368.5atm\nTo determine the final pressure of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 7 moles at 191 atm and volume 163 lit is isothermally changed to pressure 158 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "197.0lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 8 moles at 49 atm and volume 135 lit is isothermally changed to volume 32 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "206.7atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 8 moles at 181 atm and volume 89 lit is isothermally changed to pressure 29 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "555.5lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 8 moles at 169 atm and volume 90 lit is isothermally changed to pressure 71 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "214.2lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 50 atm and volume 17 lit is isothermally changed to pressure 119 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "7.1lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 1 moles at 94 atm and volume 47 lit is isothermally changed to volume 177 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "25.0atm\nTo determine the final pressure of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 10 moles at 176 atm and volume 123 lit is isothermally changed to volume 96 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "225.5atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 7 moles at 107 atm and volume 191 lit is isothermally changed to pressure 68 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "300.5lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 5 moles at 112 atm and volume 67 lit is isothermally changed to pressure 45 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "166.8lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 6 moles at 126 atm and volume 195 lit is isothermally changed to pressure 40 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "614.2lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 7 moles at 47 atm and volume 75 lit is isothermally changed to pressure 132 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "26.7lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 2 moles at 56 atm and volume 11 lit is isothermally changed to volume 180 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "3.4atm\nTo determine the final pressure of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 3 moles at 45 atm and volume 170 lit is isothermally changed to pressure 134 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "57.1lit\nTo determine the final volume of a monoatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 7 moles at 167 atm and volume 182 lit is isothermally changed to volume 94 lit, then what will be the pressure.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "323.3atm\nTo determine the final pressure of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 7 moles at 25 atm and volume 59 lit is isothermally changed to pressure 96 atm, then what will be its volume.\n",
+        "input": "P1*V1 = P2*V2",
+        "output": "15.4lit\nTo determine the final volume of a diatomic gas after an isothermal expansion, we can use Boyle's Law, which states that for an ideal gas at constant temperature: P1 * V1 = P2 * V2, where P1 and V1 are the initial pressure and volume, and P2 and V2 are the final pressure and volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 10 moles at 19 m3 is isothermally changed to volume 51 m3 at 58 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-4759.0 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 5 moles at 32 m3 is isothermally changed to volume 42 m3 at 60 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-677.9 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 10 moles at 26 pas is isothermally changed to pressure 37 pas at 31 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "908.9 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 7 moles at 14 m3 is isothermally changed to volume 34 m3 at 19 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-980.7 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 1 moles at 34 m3 is isothermally changed to volume 50 m3 at 47 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-150.6 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 4 moles at 33 pas is isothermally changed to pressure 32 pas at 29 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-29.7 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 1 moles at 33 pas is isothermally changed to pressure 55 pas at 35 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "148.6 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 5 moles at 22 m3 is isothermally changed to volume 18 m3 at 45 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "375.2 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 8 moles at 41 pas is isothermally changed to pressure 39 pas at 56 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-186.2 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 3 moles at 44 pas is isothermally changed to pressure 50 pas at 10 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "31.9 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 5 moles at 55 m3 is isothermally changed to volume 52 m3 at 25 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "58.3 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 2 moles at 22 pas is isothermally changed to pressure 51 pas at 21 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "293.5 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 41 pas is isothermally changed to pressure 52 pas at 44 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "782.1 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 3 moles at 10 pas is isothermally changed to pressure 24 pas at 49 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "1069.4 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 1 moles at 59 pas is isothermally changed to pressure 58 pas at 47 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-6.7 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 42 m3 is isothermally changed to volume 27 m3 at 39 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "1288.7 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 8 moles at 40 m3 is isothermally changed to volume 60 m3 at 25 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-673.9 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 2 moles at 18 pas is isothermally changed to pressure 30 pas at 22 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "186.8 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 2 moles at 54 m3 is isothermally changed to volume 20 m3 at 46 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "759.4 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 8 moles at 21 m3 is isothermally changed to volume 27 m3 at 20 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-334.1 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 1 moles at 10 m3 is isothermally changed to volume 40 m3 at 25 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-288.0 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 4 moles at 31 pas is isothermally changed to pressure 24 pas at 60 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-510.4 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a diatomic gas of 3 moles at 19 pas is isothermally changed to pressure 41 pas at 37 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "709.5 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 10 moles at 49 pas is isothermally changed to pressure 21 pas at 53 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-3731.8 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 2 moles at 49 pas is isothermally changed to pressure 26 pas at 15 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-158.0 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 8 moles at 23 m3 is isothermally changed to volume 38 m3 at 36 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-1201.6 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 7 moles at 31 pas is isothermally changed to pressure 51 pas at 39 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "1129.4 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 8 moles at 12 m3 is isothermally changed to volume 41 m3 at 50 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-4084.1 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 8 moles at 11 m3 is isothermally changed to volume 10 m3 at 14 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "88.7 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 26 m3 is isothermally changed to volume 40 m3 at 21 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-676.6 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 10 moles at 44 m3 is isothermally changed to volume 29 m3 at 19 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "658.2 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 5 moles at 33 pas is isothermally changed to pressure 45 pas at 19 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "244.9 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 51 m3 is isothermally changed to volume 54 m3 at 32 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-91.2 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 3 moles at 38 pas is isothermally changed to pressure 15 pas at 10 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-231.7 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 4 moles at 31 m3 is isothermally changed to volume 41 m3 at 17 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-158.0 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 7 moles at 45 m3 is isothermally changed to volume 27 m3 at 56 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "1664.0 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 7 moles at 58 pas is isothermally changed to pressure 26 pas at 53 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-2473.6 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 4 moles at 43 pas is isothermally changed to pressure 40 pas at 51 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-122.6 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a diatomic gas of 7 moles at 17 m3 is isothermally changed to volume 35 m3 at 32 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-1344.2 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 4 moles at 37 pas is isothermally changed to pressure 59 pas at 58 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "899.6 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 6 moles at 43 m3 is isothermally changed to volume 10 m3 at 20 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "1454.5 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 5 moles at 13 m3 is isothermally changed to volume 52 m3 at 28 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-1612.8 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 6 moles at 35 pas is isothermally changed to pressure 12 pas at 18 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-960.7 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 4 moles at 24 m3 is isothermally changed to volume 18 m3 at 35 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "334.7 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 6 moles at 27 pas is isothermally changed to pressure 10 pas at 49 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-2426.7 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a diatomic gas of 8 moles at 20 pas is isothermally changed to pressure 58 pas at 36 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "2548.2 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 3 moles at 23 m3 is isothermally changed to volume 22 m3 at 37 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "41.0 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 5 moles at 44 m3 is isothermally changed to volume 59 m3 at 16 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-195.0 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 2 moles at 42 pas is isothermally changed to pressure 46 pas at 33 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "49.9 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a gas of 6 moles at 36 m3 is isothermally changed to volume 34 m3 at 13 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "37.0 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 2 moles at 13 m3 is isothermally changed to volume 60 m3 at 10 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-254.2 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 4 moles at 48 pas is isothermally changed to pressure 37 pas at 12 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-103.8 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 6 moles at 44 pas is isothermally changed to pressure 35 pas at 43 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-490.6 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a diatomic gas of 2 moles at 35 m3 is isothermally changed to volume 59 m3 at 17 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-147.5 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 7 moles at 39 m3 is isothermally changed to volume 10 m3 at 20 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "1583.4 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 4 moles at 40 m3 is isothermally changed to volume 37 m3 at 54 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "139.9 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 1 moles at 40 m3 is isothermally changed to volume 43 m3 at 13 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-7.8 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 1 moles at 25 m3 is isothermally changed to volume 12 m3 at 10 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "61.0 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 4 moles at 12 m3 is isothermally changed to volume 12 m3 at 10 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-0.0 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 7 moles at 54 m3 is isothermally changed to volume 29 m3 at 14 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "506.3 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a monoatomic gas of 9 moles at 55 pas is isothermally changed to pressure 13 pas at 39 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-4207.2 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 7 moles at 46 pas is isothermally changed to pressure 25 pas at 22 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-780.3 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 1 moles at 30 m3 is isothermally changed to volume 53 m3 at 27 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-127.7 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a diatomic gas of 8 moles at 47 m3 is isothermally changed to volume 42 m3 at 24 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "179.5 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 5 moles at 57 pas is isothermally changed to pressure 47 pas at 23 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-184.3 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a diatomic gas of 9 moles at 16 m3 is isothermally changed to volume 58 m3 at 19 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-1830.1 joules\nTo calculate the work done during an isothermal expansion of a diatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 9 moles at 14 pas is isothermally changed to pressure 12 pas at 42 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "-484.2 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 2 moles at 30 pas is isothermally changed to pressure 38 pas at 59 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "231.8 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "If a monoatomic gas of 1 moles at 15 m3 is isothermally changed to volume 27 m3 at 48 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(V2/V1)",
+        "output": "-234.5 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(V2/V1), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, V1 is the initial volume, and V2 is the final volume."
+    },
+    {
+        "instruction": "If a gas of 1 moles at 35 pas is isothermally changed to pressure 39 pas at 26 K, then what is the work done.\n",
+        "input": "Work Done = n*R*T*ln(P1/P2)",
+        "output": "23.4 joules\nTo calculate the work done during an isothermal expansion of a monoatomic gas, we can use the following equation: Work done = n * R * T * ln(P1/P2), where n is the number of moles of the gas, R is the ideal gas constant (approximately 8.314 J/(mol\u00b7K)), T is the temperature in Kelvin, P1 is the initial pressure, and P2 is the final pressure."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -60 degree C, if room temperature is 92 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "1.4\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -83 degree C, if room temperature is 65 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "1.3\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -15 K, if room temperature is 371 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "-0.0\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -11 degree C, if room temperature is 45 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "4.7\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 22 K, if room temperature is 366 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "0.1\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -7 degree C, if room temperature is 68 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "3.5\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 101 K, if room temperature is 285 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "0.5\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 116 K, if room temperature is 346 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "0.5\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 30 K, if room temperature is 300 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "0.1\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -28 K, if room temperature is 342 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "-0.1\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -159 K, if room temperature is 306 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "-0.3\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 133 K, if room temperature is 325 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "0.7\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 132 K, if room temperature is 307 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "0.8\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -9 degree C, if room temperature is 58 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "3.9\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -58 degree C, if room temperature is 98 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "1.4\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -53 degree C, if room temperature is 78 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "1.7\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -94 degree C, if room temperature is 16 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "1.6\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 236 K, if room temperature is 291 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "4.3\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 240 K, if room temperature is 303 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "3.8\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -133 K, if room temperature is 363 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "-0.3\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -88 degree C, if room temperature is 95 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "1.0\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 279 K, if room temperature is 337 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "4.8\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -89 degree C, if room temperature is 62 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "1.2\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 110 K, if room temperature is 322 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "0.5\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -9 K, if room temperature is 288 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "-0.0\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -53 degree C, if room temperature is 74 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "1.7\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -18 degree C, if room temperature is 29 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "5.4\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at 235 K, if room temperature is 311 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "3.1\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -6 degree C, if room temperature is 84 degree C. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "3.0\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A refrigerator is to maintain eatables kept inside at -42 K, if room temperature is 372 K. Calculate the coefficient of performance.\n",
+        "input": "Coefficient of performance = T2/T1-T2",
+        "output": "-0.1\nThis formula is only applicable if the refrigerator is based on the Carnot Cycle."
+    },
+    {
+        "instruction": "A steam engine delivers 260 J of work per minute and services 1095 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "23.7\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 520 J of work per minute and services 571 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "51 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 39 J of work per minute and services 996 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "957 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 821 J of work per minute and services 1185 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "364 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 534 J of work per minute and services 630 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "84.8\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 653 J of work per minute and services 852 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "76.6\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 281 J of work per minute and services 1280 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "22.0\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 945 J of work per minute and services 1198 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "78.9\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 344 J of work per minute and services 1081 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "31.8\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 752 J of work per minute and services 807 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "55 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 608 J of work per minute and services 717 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "109 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 78 J of work per minute and services 892 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "8.7\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 864 J of work per minute and services 1573 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "709 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 960 J of work per minute and services 1065 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "105 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 926 J of work per minute and services 1742 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "53.2\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 946 J of work per minute and services 1831 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "885 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 864 J of work per minute and services 1723 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "50.1\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 817 J of work per minute and services 1595 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "778 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 465 J of work per minute and services 846 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "55.0\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 580 J of work per minute and services 1322 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "742 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 311 J of work per minute and services 1098 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "787 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 840 J of work per minute and services 1551 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "54.2\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 354 J of work per minute and services 1120 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "31.6\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 168 J of work per minute and services 542 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "31.0\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 311 J of work per minute and services 477 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "65.2\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 239 J of work per minute and services 1165 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "926 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 296 J of work per minute and services 301 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "5 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 463 J of work per minute and services 1170 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "39.6\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 212 J of work per minute and services 255 J of heat per minute from its boiler. What is the efficiency of the engine?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler",
+        "output": "83.1\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    },
+    {
+        "instruction": "A steam engine delivers 881 J of work per minute and services 1070 J of heat per minute from its boiler. How much heat is wasted per minute?\n",
+        "input": "Efficiency = Work per minute/Heat per minute from its boiler, Heat Wasted = Heat per minute - (Efficiency/100)*Heat per minute",
+        "output": "189 joules\nThe efficiency of an engine can be calculated using the formula: Efficiency = (Work output / Heat input) * 100"
+    }
+]

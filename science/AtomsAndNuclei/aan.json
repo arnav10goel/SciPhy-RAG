@@ -1,0 +1,152 @@
+[
+    {
+        "instruction": "What is the energy associated with a mass of 252.5 g ?\n",
+        "input": "Energy = Mass*c^2",
+        "output": "2.27e+16joule\nTo calculate the energy associated with a mass, we need to specify the type of energy we are referring to. There are various forms of energy, such as kinetic energy, potential energy, thermal energy, etc. If we assume you are referring to the energy associated with the mass in terms of its rest energy, we can use Einstein's mass-energy equivalence principle, given by the equation: E = m * c^2"
+    },
+    {
+        "instruction": "What is the energy associated with a mass of 597.2 g ? (c = 3 x 10^8 m/s)\n",
+        "input": "Energy = Mass*(3*10^8)^2",
+        "output": "5.37e+16joule\nTo calculate the energy associated with a mass, we need to specify the type of energy we are referring to. There are various forms of energy, such as kinetic energy, potential energy, thermal energy, etc. If we assume you are referring to the energy associated with the mass in terms of its rest energy, we can use Einstein's mass-energy equivalence principle, given by the equation: E = m * c^2"
+    },
+    {
+        "instruction": "What is the energy associated with a mass of 34.5 g ?\n",
+        "input": "Energy = Mass*c^2",
+        "output": "3.10e+15joule\nTo calculate the energy associated with a mass, we need to specify the type of energy we are referring to. There are various forms of energy, such as kinetic energy, potential energy, thermal energy, etc. If we assume you are referring to the energy associated with the mass in terms of its rest energy, we can use Einstein's mass-energy equivalence principle, given by the equation: E = m * c^2"
+    },
+    {
+        "instruction": "What is the energy associated with a mass of 402.4 g ?\n",
+        "input": "Energy = Mass*c^2",
+        "output": "3.62e+16joule\nTo calculate the energy associated with a mass, we need to specify the type of energy we are referring to. There are various forms of energy, such as kinetic energy, potential energy, thermal energy, etc. If we assume you are referring to the energy associated with the mass in terms of its rest energy, we can use Einstein's mass-energy equivalence principle, given by the equation: E = m * c^2"
+    },
+    {
+        "instruction": "What is the energy associated with a mass of 753.8 g ?\n",
+        "input": "Energy = Mass*c^2",
+        "output": "6.78e+16joule\nTo calculate the energy associated with a mass, we need to specify the type of energy we are referring to. There are various forms of energy, such as kinetic energy, potential energy, thermal energy, etc. If we assume you are referring to the energy associated with the mass in terms of its rest energy, we can use Einstein's mass-energy equivalence principle, given by the equation: E = m * c^2"
+    },
+    {
+        "instruction": "What is the energy associated with a mass of 937.1 g ? (c = 3 x 10^8 m/s)\n",
+        "input": "Energy = Mass*(3*10^8)^2",
+        "output": "8.43e+16joule\nTo calculate the energy associated with a mass, we need to specify the type of energy we are referring to. There are various forms of energy, such as kinetic energy, potential energy, thermal energy, etc. If we assume you are referring to the energy associated with the mass in terms of its rest energy, we can use Einstein's mass-energy equivalence principle, given by the equation: E = m * c^2"
+    },
+    {
+        "instruction": "What is the energy associated with a mass of 651.6 g ?\n",
+        "input": "Energy = Mass*c^2",
+        "output": "5.86e+16joule\nTo calculate the energy associated with a mass, we need to specify the type of energy we are referring to. There are various forms of energy, such as kinetic energy, potential energy, thermal energy, etc. If we assume you are referring to the energy associated with the mass in terms of its rest energy, we can use Einstein's mass-energy equivalence principle, given by the equation: E = m * c^2"
+    },
+    {
+        "instruction": "What is the energy associated with a mass of 147.5 g ?\n",
+        "input": "Energy = Mass*c^2",
+        "output": "1.33e+16joule\nTo calculate the energy associated with a mass, we need to specify the type of energy we are referring to. There are various forms of energy, such as kinetic energy, potential energy, thermal energy, etc. If we assume you are referring to the energy associated with the mass in terms of its rest energy, we can use Einstein's mass-energy equivalence principle, given by the equation: E = m * c^2"
+    },
+    {
+        "instruction": "What is the energy associated with a mass of 163.8 g ?\n",
+        "input": "Energy = Mass*c^2",
+        "output": "1.47e+16joule\nTo calculate the energy associated with a mass, we need to specify the type of energy we are referring to. There are various forms of energy, such as kinetic energy, potential energy, thermal energy, etc. If we assume you are referring to the energy associated with the mass in terms of its rest energy, we can use Einstein's mass-energy equivalence principle, given by the equation: E = m * c^2"
+    },
+    {
+        "instruction": "What is the energy associated with a mass of 409.3 g ? (c = 3 x 10^8 m/s)\n",
+        "input": "Energy = Mass*(3*10^8)^2",
+        "output": "3.68e+16joule\nTo calculate the energy associated with a mass, we need to specify the type of energy we are referring to. There are various forms of energy, such as kinetic energy, potential energy, thermal energy, etc. If we assume you are referring to the energy associated with the mass in terms of its rest energy, we can use Einstein's mass-energy equivalence principle, given by the equation: E = m * c^2"
+    },
+    {
+        "instruction": "The average energy released per fission for 239Pu94 is 180 MeV. How much energy per fission is released if all the atoms in 878.3 g of pure 239Pu94 undergo fission.\n",
+        "input": "Energy per fission = Average energy * 6.023*10^23*1000/239",
+        "output": "6.37e+13joule\nTo calculate the total energy released when all the atoms in 878.3 g of pure 239Pu94 undergo fission, we need to consider the number of atoms present and the average energy released per fission. First, we need to convert the mass from grams to kilograms: m = m / 1000 kg. Next, we need to calculate the number of atoms using Avogadro's number (6.022 x 10^23 atoms/mol) and the molar mass of 239Pu94 (239 g/mol): Number of atoms = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol)Finally, we can calculate the total energy released by multiplying the number of atoms by the average energy released per fission: Total energy released = Number of atoms * Average energy released per fission. However, the average energy released per fission is given in mega-electron volts (MeV), so we need to convert it to joules (J): 1 MeV = 1.602 x 10^-13 J. Substituting the values and converting the units, we can calculate the total energy released: Total energy released = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol) * (180 MeV) * (1.602 x 10^-13 J/MeV)"
+    },
+    {
+        "instruction": "The average energy released per fission for 239Pu94 is 180 MeV. How much energy per fission is released if all the atoms in 73.7 g of pure 239Pu94 undergo fission.\n",
+        "input": "Energy per fission = Average energy * 6.023*10^23*1000/239",
+        "output": "5.35e+12joule\nTo calculate the total energy released when all the atoms in 73.7 g of pure 239Pu94 undergo fission, we need to consider the number of atoms present and the average energy released per fission. First, we need to convert the mass from grams to kilograms: m = m / 1000 kg. Next, we need to calculate the number of atoms using Avogadro's number (6.022 x 10^23 atoms/mol) and the molar mass of 239Pu94 (239 g/mol): Number of atoms = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol)Finally, we can calculate the total energy released by multiplying the number of atoms by the average energy released per fission: Total energy released = Number of atoms * Average energy released per fission. However, the average energy released per fission is given in mega-electron volts (MeV), so we need to convert it to joules (J): 1 MeV = 1.602 x 10^-13 J. Substituting the values and converting the units, we can calculate the total energy released: Total energy released = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol) * (180 MeV) * (1.602 x 10^-13 J/MeV)"
+    },
+    {
+        "instruction": "The average energy released per fission for 239Pu94 is 180 MeV. How much energy per fission is released if all the atoms in 227.5 g of pure 239Pu94 undergo fission.\n",
+        "input": "Energy per fission = Average energy * 6.023*10^23*1000/239",
+        "output": "1.65e+13joule\nTo calculate the total energy released when all the atoms in 227.5 g of pure 239Pu94 undergo fission, we need to consider the number of atoms present and the average energy released per fission. First, we need to convert the mass from grams to kilograms: m = m / 1000 kg. Next, we need to calculate the number of atoms using Avogadro's number (6.022 x 10^23 atoms/mol) and the molar mass of 239Pu94 (239 g/mol): Number of atoms = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol)Finally, we can calculate the total energy released by multiplying the number of atoms by the average energy released per fission: Total energy released = Number of atoms * Average energy released per fission. However, the average energy released per fission is given in mega-electron volts (MeV), so we need to convert it to joules (J): 1 MeV = 1.602 x 10^-13 J. Substituting the values and converting the units, we can calculate the total energy released: Total energy released = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol) * (180 MeV) * (1.602 x 10^-13 J/MeV)"
+    },
+    {
+        "instruction": "The average energy released per fission for 239Pu94 is 180 MeV. How much energy per fission is released if all the atoms in 1417.1 g of pure 239Pu94 undergo fission.\n",
+        "input": "Energy per fission = Average energy * 6.023*10^23*1000/239",
+        "output": "1.03e+14joule\nTo calculate the total energy released when all the atoms in 1417.1 g of pure 239Pu94 undergo fission, we need to consider the number of atoms present and the average energy released per fission. First, we need to convert the mass from grams to kilograms: m = m / 1000 kg. Next, we need to calculate the number of atoms using Avogadro's number (6.022 x 10^23 atoms/mol) and the molar mass of 239Pu94 (239 g/mol): Number of atoms = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol)Finally, we can calculate the total energy released by multiplying the number of atoms by the average energy released per fission: Total energy released = Number of atoms * Average energy released per fission. However, the average energy released per fission is given in mega-electron volts (MeV), so we need to convert it to joules (J): 1 MeV = 1.602 x 10^-13 J. Substituting the values and converting the units, we can calculate the total energy released: Total energy released = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol) * (180 MeV) * (1.602 x 10^-13 J/MeV)"
+    },
+    {
+        "instruction": "The average energy released per fission for 239Pu94 is 180 MeV. How much energy per fission is released if all the atoms in 114.7 g of pure 239Pu94 undergo fission.\n",
+        "input": "Energy per fission = Average energy * 6.023*10^23*1000/239",
+        "output": "8.32e+12joule\nTo calculate the total energy released when all the atoms in 114.7 g of pure 239Pu94 undergo fission, we need to consider the number of atoms present and the average energy released per fission. First, we need to convert the mass from grams to kilograms: m = m / 1000 kg. Next, we need to calculate the number of atoms using Avogadro's number (6.022 x 10^23 atoms/mol) and the molar mass of 239Pu94 (239 g/mol): Number of atoms = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol)Finally, we can calculate the total energy released by multiplying the number of atoms by the average energy released per fission: Total energy released = Number of atoms * Average energy released per fission. However, the average energy released per fission is given in mega-electron volts (MeV), so we need to convert it to joules (J): 1 MeV = 1.602 x 10^-13 J. Substituting the values and converting the units, we can calculate the total energy released: Total energy released = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol) * (180 MeV) * (1.602 x 10^-13 J/MeV)"
+    },
+    {
+        "instruction": "The average energy released per fission for 239Pu94 is 180 MeV. How much energy per fission is released if all the atoms in 1803.6 g of pure 239Pu94 undergo fission.\n",
+        "input": "Energy per fission = Average energy * 6.023*10^23*1000/239",
+        "output": "1.31e+14joule\nTo calculate the total energy released when all the atoms in 1803.6 g of pure 239Pu94 undergo fission, we need to consider the number of atoms present and the average energy released per fission. First, we need to convert the mass from grams to kilograms: m = m / 1000 kg. Next, we need to calculate the number of atoms using Avogadro's number (6.022 x 10^23 atoms/mol) and the molar mass of 239Pu94 (239 g/mol): Number of atoms = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol)Finally, we can calculate the total energy released by multiplying the number of atoms by the average energy released per fission: Total energy released = Number of atoms * Average energy released per fission. However, the average energy released per fission is given in mega-electron volts (MeV), so we need to convert it to joules (J): 1 MeV = 1.602 x 10^-13 J. Substituting the values and converting the units, we can calculate the total energy released: Total energy released = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol) * (180 MeV) * (1.602 x 10^-13 J/MeV)"
+    },
+    {
+        "instruction": "The average energy released per fission for 239Pu94 is 180 MeV. How much energy per fission is released if all the atoms in 51.4 g of pure 239Pu94 undergo fission.\n",
+        "input": "Energy per fission = Average energy * 6.023*10^23*1000/239",
+        "output": "3.73e+12joule\nTo calculate the total energy released when all the atoms in 51.4 g of pure 239Pu94 undergo fission, we need to consider the number of atoms present and the average energy released per fission. First, we need to convert the mass from grams to kilograms: m = m / 1000 kg. Next, we need to calculate the number of atoms using Avogadro's number (6.022 x 10^23 atoms/mol) and the molar mass of 239Pu94 (239 g/mol): Number of atoms = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol)Finally, we can calculate the total energy released by multiplying the number of atoms by the average energy released per fission: Total energy released = Number of atoms * Average energy released per fission. However, the average energy released per fission is given in mega-electron volts (MeV), so we need to convert it to joules (J): 1 MeV = 1.602 x 10^-13 J. Substituting the values and converting the units, we can calculate the total energy released: Total energy released = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol) * (180 MeV) * (1.602 x 10^-13 J/MeV)"
+    },
+    {
+        "instruction": "The average energy released per fission for 239Pu94 is 180 MeV. How much energy per fission is released if all the atoms in 247.9 g of pure 239Pu94 undergo fission.\n",
+        "input": "Energy per fission = Average energy * 6.023*10^23*1000/239",
+        "output": "1.80e+13joule\nTo calculate the total energy released when all the atoms in 247.9 g of pure 239Pu94 undergo fission, we need to consider the number of atoms present and the average energy released per fission. First, we need to convert the mass from grams to kilograms: m = m / 1000 kg. Next, we need to calculate the number of atoms using Avogadro's number (6.022 x 10^23 atoms/mol) and the molar mass of 239Pu94 (239 g/mol): Number of atoms = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol)Finally, we can calculate the total energy released by multiplying the number of atoms by the average energy released per fission: Total energy released = Number of atoms * Average energy released per fission. However, the average energy released per fission is given in mega-electron volts (MeV), so we need to convert it to joules (J): 1 MeV = 1.602 x 10^-13 J. Substituting the values and converting the units, we can calculate the total energy released: Total energy released = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol) * (180 MeV) * (1.602 x 10^-13 J/MeV)"
+    },
+    {
+        "instruction": "The average energy released per fission for 239Pu94 is 180 MeV. How much energy per fission is released if all the atoms in 1886.5 g of pure 239Pu94 undergo fission.\n",
+        "input": "Energy per fission = Average energy * 6.023*10^23*1000/239",
+        "output": "1.37e+14joule\nTo calculate the total energy released when all the atoms in 1886.5 g of pure 239Pu94 undergo fission, we need to consider the number of atoms present and the average energy released per fission. First, we need to convert the mass from grams to kilograms: m = m / 1000 kg. Next, we need to calculate the number of atoms using Avogadro's number (6.022 x 10^23 atoms/mol) and the molar mass of 239Pu94 (239 g/mol): Number of atoms = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol)Finally, we can calculate the total energy released by multiplying the number of atoms by the average energy released per fission: Total energy released = Number of atoms * Average energy released per fission. However, the average energy released per fission is given in mega-electron volts (MeV), so we need to convert it to joules (J): 1 MeV = 1.602 x 10^-13 J. Substituting the values and converting the units, we can calculate the total energy released: Total energy released = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol) * (180 MeV) * (1.602 x 10^-13 J/MeV)"
+    },
+    {
+        "instruction": "The average energy released per fission for 239Pu94 is 180 MeV. How much energy per fission is released if all the atoms in 129.6 g of pure 239Pu94 undergo fission.\n",
+        "input": "Energy per fission = Average energy * 6.023*10^23*1000/239",
+        "output": "9.41e+12joule\nTo calculate the total energy released when all the atoms in 129.6 g of pure 239Pu94 undergo fission, we need to consider the number of atoms present and the average energy released per fission. First, we need to convert the mass from grams to kilograms: m = m / 1000 kg. Next, we need to calculate the number of atoms using Avogadro's number (6.022 x 10^23 atoms/mol) and the molar mass of 239Pu94 (239 g/mol): Number of atoms = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol)Finally, we can calculate the total energy released by multiplying the number of atoms by the average energy released per fission: Total energy released = Number of atoms * Average energy released per fission. However, the average energy released per fission is given in mega-electron volts (MeV), so we need to convert it to joules (J): 1 MeV = 1.602 x 10^-13 J. Substituting the values and converting the units, we can calculate the total energy released: Total energy released = (m / 239 g/mol) * (6.022 x 10^23 atoms/mol) * (180 MeV) * (1.602 x 10^-13 J/MeV)"
+    },
+    {
+        "instruction": "A radioactive isotope has a half-life of 977 years. How long will it take the activity to reduce to 7.7 percent.\n",
+        "input": "Time = Half Life/ln2 * ln(Initial Acitivity/Final Activity)",
+        "output": "3.61e+03years\nTo calculate the time it takes for the activity of a radioactive isotope to reduce to a certain percentage, we can use the concept of half-life. The half-life (T) is the time it takes for the activity of a radioactive substance to reduce by half. To find the time required to reduce the activity to a certain percentage (p), we can use the formula: t = T * log(0.01) / log(p/100), where t is the time required, T is the half-life, and p is the desired percentage."
+    },
+    {
+        "instruction": "A radioactive isotope has a half-life of 56 years. How long will it take the activity to reduce to 52.4 percent.\n",
+        "input": "Time = Half Life/ln2 * ln(Initial Acitivity/Final Activity)",
+        "output": "5.22e+01years\nTo calculate the time it takes for the activity of a radioactive isotope to reduce to a certain percentage, we can use the concept of half-life. The half-life (T) is the time it takes for the activity of a radioactive substance to reduce by half. To find the time required to reduce the activity to a certain percentage (p), we can use the formula: t = T * log(0.01) / log(p/100), where t is the time required, T is the half-life, and p is the desired percentage."
+    },
+    {
+        "instruction": "A radioactive isotope has a half-life of 469 years. How long will it take the activity to reduce to 73.4 percent.\n",
+        "input": "Time = Half Life/ln2 * ln(Initial Acitivity/Final Activity)",
+        "output": "2.09e+02years\nTo calculate the time it takes for the activity of a radioactive isotope to reduce to a certain percentage, we can use the concept of half-life. The half-life (T) is the time it takes for the activity of a radioactive substance to reduce by half. To find the time required to reduce the activity to a certain percentage (p), we can use the formula: t = T * log(0.01) / log(p/100), where t is the time required, T is the half-life, and p is the desired percentage."
+    },
+    {
+        "instruction": "A radioactive isotope has a half-life of 410 years. How long will it take the activity to reduce to 49.7 percent.\n",
+        "input": "Time = Half Life/ln2 * ln(Initial Acitivity/Final Activity)",
+        "output": "4.14e+02years\nTo calculate the time it takes for the activity of a radioactive isotope to reduce to a certain percentage, we can use the concept of half-life. The half-life (T) is the time it takes for the activity of a radioactive substance to reduce by half. To find the time required to reduce the activity to a certain percentage (p), we can use the formula: t = T * log(0.01) / log(p/100), where t is the time required, T is the half-life, and p is the desired percentage."
+    },
+    {
+        "instruction": "A radioactive isotope has a half-life of 302 years. How long will it take the activity to reduce to 27.8 percent.\n",
+        "input": "Time = Half Life/ln2 * ln(Initial Acitivity/Final Activity)",
+        "output": "5.58e+02years\nTo calculate the time it takes for the activity of a radioactive isotope to reduce to a certain percentage, we can use the concept of half-life. The half-life (T) is the time it takes for the activity of a radioactive substance to reduce by half. To find the time required to reduce the activity to a certain percentage (p), we can use the formula: t = T * log(0.01) / log(p/100), where t is the time required, T is the half-life, and p is the desired percentage."
+    },
+    {
+        "instruction": "A radioactive isotope has a half-life of 216 years. How long will it take the activity to reduce to 68.0 percent.\n",
+        "input": "Time = Half Life/ln2 * ln(Initial Acitivity/Final Activity)",
+        "output": "1.20e+02years\nTo calculate the time it takes for the activity of a radioactive isotope to reduce to a certain percentage, we can use the concept of half-life. The half-life (T) is the time it takes for the activity of a radioactive substance to reduce by half. To find the time required to reduce the activity to a certain percentage (p), we can use the formula: t = T * log(0.01) / log(p/100), where t is the time required, T is the half-life, and p is the desired percentage."
+    },
+    {
+        "instruction": "A radioactive isotope has a half-life of 889 years. How long will it take the activity to reduce to 74.2 percent.\n",
+        "input": "Time = Half Life/ln2 * ln(Initial Acitivity/Final Activity)",
+        "output": "3.83e+02years\nTo calculate the time it takes for the activity of a radioactive isotope to reduce to a certain percentage, we can use the concept of half-life. The half-life (T) is the time it takes for the activity of a radioactive substance to reduce by half. To find the time required to reduce the activity to a certain percentage (p), we can use the formula: t = T * log(0.01) / log(p/100), where t is the time required, T is the half-life, and p is the desired percentage."
+    },
+    {
+        "instruction": "A radioactive isotope has a half-life of 684 years. How long will it take the activity to reduce to 86.0 percent.\n",
+        "input": "Time = Half Life/ln2 * ln(Initial Acitivity/Final Activity)",
+        "output": "1.49e+02years\nTo calculate the time it takes for the activity of a radioactive isotope to reduce to a certain percentage, we can use the concept of half-life. The half-life (T) is the time it takes for the activity of a radioactive substance to reduce by half. To find the time required to reduce the activity to a certain percentage (p), we can use the formula: t = T * log(0.01) / log(p/100), where t is the time required, T is the half-life, and p is the desired percentage."
+    },
+    {
+        "instruction": "A radioactive isotope has a half-life of 686 years. How long will it take the activity to reduce to 96.4 percent.\n",
+        "input": "Time = Half Life/ln2 * ln(Initial Acitivity/Final Activity)",
+        "output": "3.63e+01years\nTo calculate the time it takes for the activity of a radioactive isotope to reduce to a certain percentage, we can use the concept of half-life. The half-life (T) is the time it takes for the activity of a radioactive substance to reduce by half. To find the time required to reduce the activity to a certain percentage (p), we can use the formula: t = T * log(0.01) / log(p/100), where t is the time required, T is the half-life, and p is the desired percentage."
+    },
+    {
+        "instruction": "A radioactive isotope has a half-life of 730 years. How long will it take the activity to reduce to 26.7 percent.\n",
+        "input": "Time = Half Life/ln2 * ln(Initial Acitivity/Final Activity)",
+        "output": "1.39e+03years\nTo calculate the time it takes for the activity of a radioactive isotope to reduce to a certain percentage, we can use the concept of half-life. The half-life (T) is the time it takes for the activity of a radioactive substance to reduce by half. To find the time required to reduce the activity to a certain percentage (p), we can use the formula: t = T * log(0.01) / log(p/100), where t is the time required, T is the half-life, and p is the desired percentage."
+    }
+]

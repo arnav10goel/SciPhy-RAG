@@ -1,0 +1,1102 @@
+[
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 79623 degree C.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 56757 degree C.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 45470 degree C. (k = 1.38 x 10^-23)",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 35890 degree K. (k = 1.38 x 10^-23)",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 60862 degree C.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 48327 degree C. (k = 1.38 x 10^-23)",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 70494 degree C. (k = 1.38 x 10^-23)",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 67971 degree C.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 93816 degree C.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 51480 degree C.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 4965 degree K.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 77714 degree K.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 70144 degree C. (k = 1.38 x 10^-23)",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 17027 degree C. (k = 1.38 x 10^-23)",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 59254 degree C.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 21399 degree C. (k = 1.38 x 10^-23)",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 96961 degree C.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 19087 degree C.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 50402 degree K. (k = 1.38 x 10^-23)",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "Estimate the average thermal energy of a helium atom at 14462 degree C.",
+        "input": "energy = 1.5 * k * temperature",
+        "output": "0.0= 1.5 * k * temperature"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 44 litre has an initial gauge pressure of 17 atmosphere and a temperature of 22 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 9 atmosphere and its temperature drops to 43 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "15.4 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 34 litre has an initial gauge pressure of 19 atmosphere and a temperature of 39 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 11 atmosphere and its temperature drops to 59 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "11.4 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 22 litre has an initial gauge pressure of 18 atmosphere and a temperature of 37 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 14 atmosphere and its temperature drops to 44 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "3.7 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 54 litre has an initial gauge pressure of 20 atmosphere and a temperature of 34 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 8 atmosphere and its temperature drops to 46 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "26.0 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 43 litre has an initial gauge pressure of 21 atmosphere and a temperature of 27 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 15 atmosphere and its temperature drops to 38 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "11.3 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 49 litre has an initial gauge pressure of 25 atmosphere and a temperature of 36 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 16 atmosphere and its temperature drops to 49 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "18.4 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 31 litre has an initial gauge pressure of 17 atmosphere and a temperature of 30 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 7 atmosphere and its temperature drops to 36 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "12.5 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 44 litre has an initial gauge pressure of 15 atmosphere and a temperature of 35 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 5 atmosphere and its temperature drops to 58 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "17.8 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 43 litre has an initial gauge pressure of 25 atmosphere and a temperature of 36 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 12 atmosphere and its temperature drops to 53 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "22.8 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 55 litre has an initial gauge pressure of 17 atmosphere and a temperature of 39 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 6 atmosphere and its temperature drops to 48 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "23.7 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 23 litre has an initial gauge pressure of 23 atmosphere and a temperature of 29 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 11 atmosphere and its temperature drops to 50 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "11.7 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 47 litre has an initial gauge pressure of 20 atmosphere and a temperature of 34 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 13 atmosphere and its temperature drops to 48 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "13.9 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 30 litre has an initial gauge pressure of 22 atmosphere and a temperature of 36 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 15 atmosphere and its temperature drops to 59 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "9.4 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 28 litre has an initial gauge pressure of 16 atmosphere and a temperature of 30 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 6 atmosphere and its temperature drops to 40 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "11.3 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 31 litre has an initial gauge pressure of 16 atmosphere and a temperature of 37 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 5 atmosphere and its temperature drops to 49 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "13.5 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 33 litre has an initial gauge pressure of 15 atmosphere and a temperature of 21 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 3 atmosphere and its temperature drops to 38 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "16.4 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 56 litre has an initial gauge pressure of 25 atmosphere and a temperature of 24 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 19 atmosphere and its temperature drops to 47 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "16.7 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 44 litre has an initial gauge pressure of 24 atmosphere and a temperature of 21 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 15 atmosphere and its temperature drops to 31 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "17.1 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 36 litre has an initial gauge pressure of 18 atmosphere and a temperature of 39 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 11 atmosphere and its temperature drops to 50 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "10.2 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 32 litre has an initial gauge pressure of 16 atmosphere and a temperature of 36 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 7 atmosphere and its temperature drops to 54 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "11.7 mol  (p1 * V) / (R * T1) - (p2 * V) / (R * T2)"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 31 litre has an initial gauge pressure of 16 atmosphere and a temperature of 31 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 6 atmosphere and its temperature drops to 54 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "12.8 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (16 * 31 * 10^5) / (8.31 * 304) - (6 * 31 * 10^5) / (8.31 * 327)\nn = 19633.9 - 6844.9\nn = 12789.1\nn = 12.8 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 25 litre has an initial gauge pressure of 24 atmosphere and a temperature of 24 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 14 atmosphere and its temperature drops to 45 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "11.1 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (24 * 25 * 10^5) / (8.31 * 297) - (14 * 25 * 10^5) / (8.31 * 318)\nn = 24310.5 - 13244.6\nn = 11065.9\nn = 11.1 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 57 litre has an initial gauge pressure of 24 atmosphere and a temperature of 30 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 11 atmosphere and its temperature drops to 45 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "30.6 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (24 * 57 * 10^5) / (8.31 * 303) - (11 * 57 * 10^5) / (8.31 * 318)\nn = 54330.3 - 23726.8\nn = 30603.5\nn = 30.6 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 32 litre has an initial gauge pressure of 18 atmosphere and a temperature of 22 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 14 atmosphere and its temperature drops to 46 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "6.6 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (18 * 32 * 10^5) / (8.31 * 295) - (14 * 32 * 10^5) / (8.31 * 319)\nn = 23496.3 - 16900.0\nn = 6596.3\nn = 6.6 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 23 litre has an initial gauge pressure of 25 atmosphere and a temperature of 39 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 18 atmosphere and its temperature drops to 55 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "7.0 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (25 * 23 * 10^5) / (8.31 * 312) - (18 * 23 * 10^5) / (8.31 * 328)\nn = 22177.5 - 15188.9\nn = 6988.6\nn = 7.0 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 21 litre has an initial gauge pressure of 15 atmosphere and a temperature of 37 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 2 atmosphere and its temperature drops to 61 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "10.7 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (15 * 21 * 10^5) / (8.31 * 310) - (2 * 21 * 10^5) / (8.31 * 334)\nn = 12227.8 - 1513.2\nn = 10714.6\nn = 10.7 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 22 litre has an initial gauge pressure of 24 atmosphere and a temperature of 26 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 17 atmosphere and its temperature drops to 38 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "6.8 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (24 * 22 * 10^5) / (8.31 * 299) - (17 * 22 * 10^5) / (8.31 * 311)\nn = 21250.1 - 14471.4\nn = 6778.7\nn = 6.8 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 36 litre has an initial gauge pressure of 25 atmosphere and a temperature of 39 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 17 atmosphere and its temperature drops to 55 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "12.3 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (25 * 36 * 10^5) / (8.31 * 312) - (17 * 36 * 10^5) / (8.31 * 328)\nn = 34712.6 - 22453.1\nn = 12259.5\nn = 12.3 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 51 litre has an initial gauge pressure of 16 atmosphere and a temperature of 25 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 9 atmosphere and its temperature drops to 37 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "15.1 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (16 * 51 * 10^5) / (8.31 * 298) - (9 * 51 * 10^5) / (8.31 * 310)\nn = 32951.3 - 17817.6\nn = 15133.7\nn = 15.1 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 60 litre has an initial gauge pressure of 15 atmosphere and a temperature of 37 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 9 atmosphere and its temperature drops to 49 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "14.8 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (15 * 60 * 10^5) / (8.31 * 310) - (9 * 60 * 10^5) / (8.31 * 322)\nn = 34936.5 - 20180.7\nn = 14755.8\nn = 14.8 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 25 litre has an initial gauge pressure of 22 atmosphere and a temperature of 27 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 10 atmosphere and its temperature drops to 33 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "12.2 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (22 * 25 * 10^5) / (8.31 * 300) - (10 * 25 * 10^5) / (8.31 * 306)\nn = 22061.8 - 9831.4\nn = 12230.3\nn = 12.2 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 21 litre has an initial gauge pressure of 21 atmosphere and a temperature of 38 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 11 atmosphere and its temperature drops to 46 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "8.3 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (21 * 21 * 10^5) / (8.31 * 311) - (11 * 21 * 10^5) / (8.31 * 319)\nn = 17063.9 - 8714.1\nn = 8349.8\nn = 8.3 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 58 litre has an initial gauge pressure of 20 atmosphere and a temperature of 35 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 16 atmosphere and its temperature drops to 54 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "11.2 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (20 * 58 * 10^5) / (8.31 * 308) - (16 * 58 * 10^5) / (8.31 * 327)\nn = 45321.7 - 34150.7\nn = 11171.0\nn = 11.2 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 23 litre has an initial gauge pressure of 18 atmosphere and a temperature of 38 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 6 atmosphere and its temperature drops to 48 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "10.8 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (18 * 23 * 10^5) / (8.31 * 311) - (6 * 23 * 10^5) / (8.31 * 321)\nn = 16019.1 - 5173.4\nn = 10845.8\nn = 10.8 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 49 litre has an initial gauge pressure of 23 atmosphere and a temperature of 38 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 16 atmosphere and its temperature drops to 58 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "15.1 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (23 * 49 * 10^5) / (8.31 * 311) - (16 * 49 * 10^5) / (8.31 * 331)\nn = 43607.6 - 28502.8\nn = 15104.9\nn = 15.1 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 31 litre has an initial gauge pressure of 15 atmosphere and a temperature of 33 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 2 atmosphere and its temperature drops to 49 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "16.0 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (15 * 31 * 10^5) / (8.31 * 306) - (2 * 31 * 10^5) / (8.31 * 322)\nn = 18286.5 - 2317.0\nn = 15969.4\nn = 16.0 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 38 litre has an initial gauge pressure of 22 atmosphere and a temperature of 36 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 17 atmosphere and its temperature drops to 49 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "8.4 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (22 * 38 * 10^5) / (8.31 * 309) - (17 * 38 * 10^5) / (8.31 * 322)\nn = 32557.2 - 24142.1\nn = 8415.0\nn = 8.4 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 40 litre has an initial gauge pressure of 21 atmosphere and a temperature of 31 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 17 atmosphere and its temperature drops to 50 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "7.9 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (21 * 40 * 10^5) / (8.31 * 304) - (17 * 40 * 10^5) / (8.31 * 323)\nn = 33251.0 - 25334.1\nn = 7916.9\nn = 7.9 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 39 litre has an initial gauge pressure of 19 atmosphere and a temperature of 36 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 13 atmosphere and its temperature drops to 58 degree C. Estimate the number of moles of oxygen taken out of the cylinder. (R = 8.3 J mol-1 K-1)",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "10.4 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (19 * 39 * 10^5) / (8.31 * 309) - (13 * 39 * 10^5) / (8.31 * 331)\nn = 28857.5 - 18432.3\nn = 10425.2\nn = 10.4 mol"
+    },
+    {
+        "instruction": "An oxygen cylinder of volume 51 litre has an initial gauge pressure of 15 atmosphere and a temperature of 39 degree C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 2 atmosphere and its temperature drops to 60 degree C. Estimate the number of moles of oxygen taken out of the cylinder.",
+        "input": "n = (p1 * V) / (R * T1) - (p2 * V) / (R * T2)",
+        "output": "25.8 mol \n \np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (15 * 51 * 10^5) / (8.31 * 312) - (2 * 51 * 10^5) / (8.31 * 333)\nn = 29505.7 - 3686.0\nn = 25819.7\nn = 25.8 mol"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 23 atm and temperature 99 degree C. Take the radius of a gas molecule to be roughly 51 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 23 * 10^5) / (8.31 * 99 + 273) = 4.481224848931847e+26\nmean_free_path = 1 / (sqrt(2) * pi * 4.481224848931847e+26 * (4 * 51 * 10^-10 * 51 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 100 atm and temperature 72 degree C. Take the radius of a gas molecule to be roughly 92 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 100 * 10^5) / (8.31 * 72 + 273) = 2.100838870576745e+27\nmean_free_path = 1 / (sqrt(2) * pi * 2.100838870576745e+27 * (4 * 92 * 10^-10 * 92 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 48 atm and temperature 15 degree C. Take the radius of a gas molecule to be roughly 48 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 48 * 10^5) / (8.31 * 15 + 273) = 1.2079823505816284e+27\nmean_free_path = 1 / (sqrt(2) * pi * 1.2079823505816284e+27 * (4 * 48 * 10^-10 * 48 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 79 atm and temperature 5 degree C. Take the radius of a gas molecule to be roughly 96 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 79 * 10^5) / (8.31 * 5 + 273) = 2.059653360344215e+27\nmean_free_path = 1 / (sqrt(2) * pi * 2.059653360344215e+27 * (4 * 96 * 10^-10 * 96 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 77 atm and temperature 66 degree C. Take the radius of a gas molecule to be roughly 98 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 77 * 10^5) / (8.31 * 66 + 273) = 1.6462768317661132e+27\nmean_free_path = 1 / (sqrt(2) * pi * 1.6462768317661132e+27 * (4 * 98 * 10^-10 * 98 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 26 atm and temperature 21 degree C. Take the radius of a gas molecule to be roughly 37 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 26 * 10^5) / (8.31 * 21 + 273) = 6.409702268392313e+26\nmean_free_path = 1 / (sqrt(2) * pi * 6.409702268392313e+26 * (4 * 37 * 10^-10 * 37 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 87 atm and temperature 70 degree C. Take the radius of a gas molecule to be roughly 61 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 87 * 10^5) / (8.31 * 70 + 273) = 1.8383871341213116e+27\nmean_free_path = 1 / (sqrt(2) * pi * 1.8383871341213116e+27 * (4 * 61 * 10^-10 * 61 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 39 atm and temperature 81 degree C. Take the radius of a gas molecule to be roughly 70 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 39 * 10^5) / (8.31 * 81 + 273) = 7.984968080115849e+26\nmean_free_path = 1 / (sqrt(2) * pi * 7.984968080115849e+26 * (4 * 70 * 10^-10 * 70 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 42 atm and temperature 54 degree C. Take the radius of a gas molecule to be roughly 97 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 42 * 10^5) / (8.31 * 54 + 273) = 9.309221784298786e+26\nmean_free_path = 1 / (sqrt(2) * pi * 9.309221784298786e+26 * (4 * 97 * 10^-10 * 97 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 47 atm and temperature 76 degree C. Take the radius of a gas molecule to be roughly 1 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 47 * 10^5) / (8.31 * 76 + 273) = 9.76077429409797e+26\nmean_free_path = 1 / (sqrt(2) * pi * 9.76077429409797e+26 * (4 * 1 * 10^-10 * 1 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 46 atm and temperature 35 degree C. Take the radius of a gas molecule to be roughly 3 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 46 * 10^5) / (8.31 * 35 + 273) = 1.0824776907809397e+27\nmean_free_path = 1 / (sqrt(2) * pi * 1.0824776907809397e+27 * (4 * 3 * 10^-10 * 3 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 14 atm and temperature 84 degree C. Take the radius of a gas molecule to be roughly 66 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 14 * 10^5) / (8.31 * 84 + 273) = 2.8423114131332433e+26\nmean_free_path = 1 / (sqrt(2) * pi * 2.8423114131332433e+26 * (4 * 66 * 10^-10 * 66 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 34 atm and temperature 52 degree C. Take the radius of a gas molecule to be roughly 60 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 34 * 10^5) / (8.31 * 52 + 273) = 7.582412292881605e+26\nmean_free_path = 1 / (sqrt(2) * pi * 7.582412292881605e+26 * (4 * 60 * 10^-10 * 60 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 67 atm and temperature 97 degree C. Take the radius of a gas molecule to be roughly 37 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 67 * 10^5) / (8.31 * 97 + 273) = 1.3124564998211202e+27\nmean_free_path = 1 / (sqrt(2) * pi * 1.3124564998211202e+27 * (4 * 37 * 10^-10 * 37 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 12 atm and temperature 37 degree C. Take the radius of a gas molecule to be roughly 38 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 12 * 10^5) / (8.31 * 37 + 273) = 2.8056364271573303e+26\nmean_free_path = 1 / (sqrt(2) * pi * 2.8056364271573303e+26 * (4 * 38 * 10^-10 * 38 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 98 atm and temperature 18 degree C. Take the radius of a gas molecule to be roughly 98 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 98 * 10^5) / (8.31 * 18 + 273) = 2.4408715537525685e+27\nmean_free_path = 1 / (sqrt(2) * pi * 2.4408715537525685e+27 * (4 * 98 * 10^-10 * 98 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 43 atm and temperature 29 degree C. Take the radius of a gas molecule to be roughly 30 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 43 * 10^5) / (8.31 * 29 + 273) = 1.0319849220200665e+27\nmean_free_path = 1 / (sqrt(2) * pi * 1.0319849220200665e+27 * (4 * 30 * 10^-10 * 30 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 76 atm and temperature 82 degree C. Take the radius of a gas molecule to be roughly 77 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 76 * 10^5) / (8.31 * 82 + 273) = 1.5516618362400635e+27\nmean_free_path = 1 / (sqrt(2) * pi * 1.5516618362400635e+27 * (4 * 77 * 10^-10 * 77 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 11 atm and temperature 46 degree C. Take the radius of a gas molecule to be roughly 32 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 11 * 10^5) / (8.31 * 46 + 273) = 2.4992738287895757e+26\nmean_free_path = 1 / (sqrt(2) * pi * 2.4992738287895757e+26 * (4 * 32 * 10^-10 * 32 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the mean free path of a gas molecule in a cylinder containing gas at 82 atm and temperature 20 degree C. Take the radius of a gas molecule to be roughly 98 A.",
+        "input": "mean_free_path = 1 / (sqrt(2) * pi * nu * (4 * r * r))",
+        "output": "0.0 m\nHere, nu = (n * p) / (R * t1) = (6.022999999999999e+23 * 82 * 10^5) / (8.31 * 20 + 273) = 2.02842087537939e+27\nmean_free_path = 1 / (sqrt(2) * pi * 2.02842087537939e+27 * (4 * 98 * 10^-10 * 98 * 10^-10)) = 0.0"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 36 m3 at a temperature of 86 degree C and 29 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "2.107302894513746e+28 molecules\nHere, p = 29 atm = 2900000 Pa, v = 36 m3, t1 = 86 degree C = 359 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 28 m3 at a temperature of 52 degree C and 82 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "5.119286510590859e+28 molecules\nHere, p = 82 atm = 8200000 Pa, v = 28 m3, t1 = 52 degree C = 325 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 90 m3 at a temperature of 52 degree C and 22 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "4.414715719063545e+28 molecules\nHere, p = 22 atm = 2200000 Pa, v = 90 m3, t1 = 52 degree C = 325 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 79 m3 at a temperature of 47 degree C and 33 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "5.903532608695653e+28 molecules\nHere, p = 33 atm = 3300000 Pa, v = 79 m3, t1 = 47 degree C = 320 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 39 m3 at a temperature of 92 degree C and 1 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "7.742703990470519e+26 molecules\nHere, p = 1 atm = 100000 Pa, v = 39 m3, t1 = 92 degree C = 365 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 69 m3 at a temperature of 91 degree C and 31 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "4.258241758241759e+28 molecules\nHere, p = 31 atm = 3100000 Pa, v = 69 m3, t1 = 91 degree C = 364 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 73 m3 at a temperature of 9 degree C and 58 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "1.0879843766060234e+29 molecules\nHere, p = 58 atm = 5800000 Pa, v = 73 m3, t1 = 9 degree C = 282 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 58 m3 at a temperature of 46 degree C and 88 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "1.1594202898550726e+29 molecules\nHere, p = 88 atm = 8800000 Pa, v = 58 m3, t1 = 46 degree C = 319 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 37 m3 at a temperature of 71 degree C and 11 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "8.573474890461747e+27 molecules\nHere, p = 11 atm = 1100000 Pa, v = 37 m3, t1 = 71 degree C = 344 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 78 m3 at a temperature of 95 degree C and 42 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "6.450850661625709e+28 molecules\nHere, p = 42 atm = 4200000 Pa, v = 78 m3, t1 = 95 degree C = 368 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 26 m3 at a temperature of 10 degree C and 40 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "2.6629794643314387e+28 molecules\nHere, p = 40 atm = 4000000 Pa, v = 26 m3, t1 = 10 degree C = 283 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 40 m3 at a temperature of 43 degree C and 83 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "7.613281966611632e+28 molecules\nHere, p = 83 atm = 8300000 Pa, v = 40 m3, t1 = 43 degree C = 316 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 53 m3 at a temperature of 67 degree C and 79 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "8.92369991474851e+28 molecules\nHere, p = 79 atm = 7900000 Pa, v = 53 m3, t1 = 67 degree C = 340 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 101 m3 at a temperature of 9 degree C and 78 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "2.0243601603453594e+29 molecules\nHere, p = 78 atm = 7800000 Pa, v = 101 m3, t1 = 9 degree C = 282 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 101 m3 at a temperature of 42 degree C and 92 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "2.1375661375661382e+29 molecules\nHere, p = 92 atm = 9200000 Pa, v = 101 m3, t1 = 42 degree C = 315 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 86 m3 at a temperature of 97 degree C and 87 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "1.4653349001175092e+29 molecules\nHere, p = 87 atm = 8700000 Pa, v = 86 m3, t1 = 97 degree C = 370 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 22 m3 at a temperature of 7 degree C and 91 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "5.181159420289856e+28 molecules\nHere, p = 91 atm = 9100000 Pa, v = 22 m3, t1 = 7 degree C = 280 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 89 m3 at a temperature of 58 degree C and 36 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "7.014317614606595e+28 molecules\nHere, p = 36 atm = 3600000 Pa, v = 89 m3, t1 = 58 degree C = 331 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 83 m3 at a temperature of 50 degree C and 99 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "1.8434513393458073e+29 molecules\nHere, p = 99 atm = 9900000 Pa, v = 83 m3, t1 = 50 degree C = 323 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapor, and other constituents) in a room of capacity 46 m3 at a temperature of 67 degree C and 81 atm pressure.",
+        "input": "total_number_of_molecules = (p * v) / (k * t1)",
+        "output": "7.941176470588237e+28 molecules\nHere, p = 81 atm = 8100000 Pa, v = 46 m3, t1 = 67 degree C = 340 K, k = 1.38 x 10^-23 J/K"
+    },
+    {
+        "instruction": "An air bubble of volume 29 cm3 rises from the bottom of a lake 22 m deep at a temperature of 22 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 33 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "94.9 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (315600.0 * 29 * 10^5) / (8.314 * 295) - (100000 * 29 * 10^5) / (8.314 * 306)\nn = 373166763.8 - 113989946.9\nn = 259176817.0\nV = n * R * t2 / p2 = 65.9 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 21 cm3 rises from the bottom of a lake 222 m deep at a temperature of 21 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 36 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "502.3 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (2275600.0 * 21 * 10^5) / (8.314 * 294) - (100000 * 21 * 10^5) / (8.314 * 309)\nn = 1955050001.7 - 81743041.9\nn = 1873306959.8\nV = n * R * t2 / p2 = 481.3 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 16 cm3 rises from the bottom of a lake 234 m deep at a temperature of 21 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 37 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "403.8 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (2393200.0 * 16 * 10^5) / (8.314 * 294) - (100000 * 16 * 10^5) / (8.314 * 310)\nn = 1566540496.4 - 62079508.3\nn = 1504460988.1\nV = n * R * t2 / p2 = 387.8 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 57 cm3 rises from the bottom of a lake 125 m deep at a temperature of 24 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 34 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "780.7 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (1325000.0 * 57 * 10^5) / (8.314 * 297) - (100000 * 57 * 10^5) / (8.314 * 307)\nn = 3058611129.3 - 223319403.9\nn = 2835291725.4\nV = n * R * t2 / p2 = 723.7 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 74 cm3 rises from the bottom of a lake 17 m deep at a temperature of 6 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 22 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "208.6 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (266600.0 * 74 * 10^5) / (8.314 * 279) - (100000 * 74 * 10^5) / (8.314 * 295)\nn = 850506508.4 - 301716932.4\nn = 548789576.0\nV = n * R * t2 / p2 = 134.6 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 60 cm3 rises from the bottom of a lake 29 m deep at a temperature of 20 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 39 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "245.5 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (384200.0 * 60 * 10^5) / (8.314 * 293) - (100000 * 60 * 10^5) / (8.314 * 312)\nn = 946304641.8 - 231305860.4\nn = 714998781.4\nV = n * R * t2 / p2 = 185.5 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 13 cm3 rises from the bottom of a lake 50 m deep at a temperature of 5 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 16 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "79.7 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (590000.0 * 13 * 10^5) / (8.314 * 278) - (100000 * 13 * 10^5) / (8.314 * 289)\nn = 331849026.4 - 54104761.8\nn = 277744264.6\nV = n * R * t2 / p2 = 66.7 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 51 cm3 rises from the bottom of a lake 24 m deep at a temperature of 12 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 32 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "182.9 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (335200.0 * 51 * 10^5) / (8.314 * 285) - (100000 * 51 * 10^5) / (8.314 * 305)\nn = 721471709.1 - 201122341.5\nn = 520349367.6\nV = n * R * t2 / p2 = 131.9 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 72 cm3 rises from the bottom of a lake 185 m deep at a temperature of 17 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 36 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "1467.6 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (1913000.0 * 72 * 10^5) / (8.314 * 290) - (100000 * 72 * 10^5) / (8.314 * 309)\nn = 5712674093.6 - 280261858.0\nn = 5432412235.6\nV = n * R * t2 / p2 = 1395.6 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 30 cm3 rises from the bottom of a lake 214 m deep at a temperature of 18 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 35 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "697.7 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (2197200.0 * 30 * 10^5) / (8.314 * 291) - (100000 * 30 * 10^5) / (8.314 * 308)\nn = 2724506421.9 - 117154916.3\nn = 2607351505.6\nV = n * R * t2 / p2 = 667.7 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 110 cm3 rises from the bottom of a lake 155 m deep at a temperature of 11 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 31 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "1906.3 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (1619000.0 * 110 * 10^5) / (8.314 * 284) - (100000 * 110 * 10^5) / (8.314 * 304)\nn = 7542428010.4 - 435220237.3\nn = 7107207773.2\nV = n * R * t2 / p2 = 1796.3 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 23 cm3 rises from the bottom of a lake 228 m deep at a temperature of 14 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 31 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "568.7 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (2334400.0 * 23 * 10^5) / (8.314 * 287) - (100000 * 23 * 10^5) / (8.314 * 304)\nn = 2250148567.7 - 91000595.1\nn = 2159147972.6\nV = n * R * t2 / p2 = 545.7 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 62 cm3 rises from the bottom of a lake 256 m deep at a temperature of 23 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 37 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "1694.0 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (2608800.0 * 62 * 10^5) / (8.314 * 296) - (100000 * 62 * 10^5) / (8.314 * 310)\nn = 6572502259.3 - 240558094.8\nn = 6331944164.5\nV = n * R * t2 / p2 = 1632.0 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 58 cm3 rises from the bottom of a lake 127 m deep at a temperature of 5 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 21 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "824.8 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (1344600.0 * 58 * 10^5) / (8.314 * 278) - (100000 * 58 * 10^5) / (8.314 * 294)\nn = 3374164752.9 - 237285195.5\nn = 3136879557.3\nV = n * R * t2 / p2 = 766.8 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 99 cm3 rises from the bottom of a lake 229 m deep at a temperature of 8 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 20 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "2419.9 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (2344200.0 * 99 * 10^5) / (8.314 * 281) - (100000 * 99 * 10^5) / (8.314 * 293)\nn = 9933756635.7 - 406403607.2\nn = 9527353028.5\nV = n * R * t2 / p2 = 2320.9 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 72 cm3 rises from the bottom of a lake 53 m deep at a temperature of 25 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 38 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "465.4 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (619400.0 * 72 * 10^5) / (8.314 * 298) - (100000 * 72 * 10^5) / (8.314 * 311)\nn = 1800020342.5 - 278459530.9\nn = 1521560811.6\nV = n * R * t2 / p2 = 393.4 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 21 cm3 rises from the bottom of a lake 110 m deep at a temperature of 24 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 43 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "263.2 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (1178000.0 * 21 * 10^5) / (8.314 * 297) - (100000 * 21 * 10^5) / (8.314 * 316)\nn = 1001839419.0 - 79932278.3\nn = 921907140.6\nV = n * R * t2 / p2 = 242.2 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 89 cm3 rises from the bottom of a lake 303 m deep at a temperature of 12 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 23 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "2837.2 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (3069400.0 * 89 * 10^5) / (8.314 * 285) - (100000 * 89 * 10^5) / (8.314 * 296)\nn = 11528919725.3 - 361649838.4\nn = 11167269886.9\nV = n * R * t2 / p2 = 2748.2 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 35 cm3 rises from the bottom of a lake 223 m deep at a temperature of 18 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 37 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "852.1 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (2285400.0 * 35 * 10^5) / (8.314 * 291) - (100000 * 35 * 10^5) / (8.314 * 310)\nn = 3306185815.0 - 135798924.5\nn = 3170386890.5\nV = n * R * t2 / p2 = 817.1 cm3"
+    },
+    {
+        "instruction": "An air bubble of volume 43 cm3 rises from the bottom of a lake 165 m deep at a temperature of 20 degree C. To what volume does it grow when it reaches the surface, which is at a temperature of 39 degree C.",
+        "input": "(p1 * v * t2) / (t1 * p2)",
+        "output": "786.2 cm3\np1 = initial pressure\np2 = final pressure\nV = volume\nt1 = initial temperature\nt2 = final temperature\nR = gas constant\nn = (1717000.0 * 43 * 10^5) / (8.314 * 293) - (100000 * 43 * 10^5) / (8.314 * 312)\nn = 3030826739.9 - 165769199.9\nn = 2865057540.0\nV = n * R * t2 / p2 = 743.2 cm3"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 396.3 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "8.762654414890183e+32 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 142.1 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "4.0396682495805896e+31 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 692.5 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "4.6754433620594987e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 569.7 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "2.6031675717231454e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 449.1 A and volume occupied by a gas at STP as 22.4 L.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "1.2752420722083103e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 630.2 A and volume occupied by a gas at STP as 22.4 L.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "3.5236978678679136e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 566.4 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "2.5581923812286832e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 898.1 A and volume occupied by a gas at STP as 22.4 L.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "1.0198529496571068e+34 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 573.3 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "2.652829219818573e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 825.4 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "7.916931016548372e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 75.6 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "6.083154595713601e+30 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 756.0 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "6.083154595713603e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 98.5 A and volume occupied by a gas at STP as 22.4 L.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "1.3454642373557466e+31 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 643.2 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "3.746291564159348e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 928.3 A and volume occupied by a gas at STP as 22.4 L.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "1.126233700067059e+34 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 631.8 A and volume occupied by a gas at STP as 22.4 L.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "3.550604767312189e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 824.7 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "7.896805671957631e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 144.9 A and volume occupied by a gas at STP as 22.4 L.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "4.283202660072189e+31 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 997.8 A and volume occupied by a gas at STP as 22.4 L.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "1.3986014235835683e+34 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "Estimate the fraction of molecular volume to the actual volume occupied by a gas at STP. Take the diameter of the gas molecule to be 774.1 A.",
+        "input": "(4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)",
+        "output": "6.530623842050937e+33 \n (4 * pi * d * d * d * 1000 * n) / (3 * 8 * 22.4)"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1735 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "2.4173680801831305 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 45 g/mol at 550 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "622.1057704847516 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 52 g/mol at 715 degree C.",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "634.0848393050173 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 175 g/mol at 1413 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "451.52347016788343 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 21 g/mol at 133 degree C.",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "639.6228033101247 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1919 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "3.5038297647006122 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1259 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "4.350515517482257 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 374 g/mol at 502 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "209.40431145907772 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 279 g/mol at 217 degree C.",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "192.7820115012651 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 338 g/mol at 1525 degree C.",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "335.51123111842026 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1359 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "4.120520693318554 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 233 g/mol at 1592 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "411.5589273066658 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1195 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "8.202060203946967 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1914 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "2.4304203665108695 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 204 g/mol at 114 degree C.",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "200.35997454292752 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1688 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "3.570389087103684 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1440 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "4.7836283893722875 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 113 g/mol at 536 degree C.",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "389.2293743053391 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 14 g/mol at 632 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "1169.58244430334 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1344 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "5.117994251282494 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 189 g/mol at 1081 degree C.",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "389.35790739850125 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 11 g/mol at 526 degree C.",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "1239.7885356919553 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1861 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "1.5282890218748966 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1193 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "9.969170712265164 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1766 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "1.1322726532117442 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 163 g/mol at 1260 degree C.",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "446.11604594271745 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1447 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "6.598331256728896 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1810 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "1.3298038945534276 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 135 g/mol at 444 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "335.2457359014966 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 65 g/mol at 1315 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "719.0169686538962 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1460 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "1.567287933823682 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1092 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "7.340111236235036 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 180 g/mol at 131 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "217.93400451529862 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 313 g/mol at 135 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "166.0842622976746 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1645 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "1.976516743846314 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has average velocity of 1238 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (math.pi * v * v)",
+        "output": "4.872151001974855 m/s\n The formula used is: (3 * r * t1 * 1000) / (math.pi * v * v)"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 78 g/mol at 846 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "550.9831415854233 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 355 g/mol at 1312 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "307.37675810445194 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 294 g/mol at 798 degree C.",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "277.64613949985466 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "Calculate root average velocity of a gas molecule having molar mass of 17 g/mol at 1227 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((8 * r * t1 * 1000) / (math.pi * m))",
+        "output": "1366.4436849472472 m/s\n The formula used is: math.sqrt((8 * r * t1 * 1000) / (math.pi * m))"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1093 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "16.861387738155727 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1829 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "4.188236363239599 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1989 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "2.63408020128808 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1556 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "11.06908079513088 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1200 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "23.8393125 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1842 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "13.622372651168712 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1139 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "14.758290353736658 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1657 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "12.847945968330256 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 298 g/mol at 863 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "308.2777445506485 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 283 g/mol at 602 degree C.",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "277.6335510931262 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 329 g/mol at 534 degree C.",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "247.2862436978419 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1988 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "6.408896032128384 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 239 g/mol at 302 degree C.",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "244.9041311877024 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1578 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "7.1183261287571025 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1080 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "8.03641975308642 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1584 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "5.484676308539945 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1348 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "9.67234126390124 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1601 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "5.047856176710293 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1675 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "15.336753842726665 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1900 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "4.70976731301939 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 395 g/mol at 501 degree C.",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "221.02076195504773 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1187 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "14.968945377790426 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 87 g/mol at 854 degree C.",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "568.2814382886778 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 57 g/mol at 508 degree C.",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "584.4525103394674 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1553 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "12.4556505096382 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 363 g/mol at 631 degree C.",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "249.16787132207386 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1224 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "15.558619281045752 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 239 g/mol at 136 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "206.5493548362318 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 53 g/mol at 1098 degree C.",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "803.0487896078083 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 363 g/mol at 269 degree C.",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "192.933423193401 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 55 g/mol at 869 degree C. (R = 8.31 J/molK)",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "719.4702596671071 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1612 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "6.7252776939701615 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1476 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "6.076368233194527 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1298 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "19.058501760442166 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1874 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "7.936424862381244 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1639 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "16.695350257843348 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1686 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "8.24394321247198 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "Calculate root mean square velocity of a gas molecule having molar mass of 114 g/mol at 256 degree C.",
+        "input": "math.sqrt((3 * r * t1 * 1000) / m)",
+        "output": "340.123429608166 m/s\n The formula used is: math.sqrt((3 * r * t1 * 1000) / m)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1807 m/s and is at a temperature 2 degree C. What is the molar mass of the gas. (R = 8.31 J/molK)",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "5.489526219899309 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    },
+    {
+        "instruction": "If a gas molecule has root mean square velocity of 1063 m/s and is at a temperature 1 degree C. What is the molar mass of the gas.",
+        "input": "(3 * r * t1 * 1000) / (v * v)",
+        "output": "13.325781503740368 m/s\n The formula used is: (3 * r * t1 * 1000) / (v * v)"
+    }
+]

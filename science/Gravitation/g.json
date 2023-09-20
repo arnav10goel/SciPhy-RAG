@@ -1,0 +1,1852 @@
+[
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 180.825 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 180.5 km/s km/s",
+        "output": "180.5 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 180.5 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 180.5 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 193.103 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 192.8 km/s km/s",
+        "output": "192.8 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 192.8 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 192.8 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 174.173 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 173.8 km/s km/s",
+        "output": "173.8 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 173.8 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 173.8 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 146.782 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 146.4 km/s km/s",
+        "output": "146.4 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 146.4 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 146.4 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 187.871 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 187.5 km/s km/s",
+        "output": "187.5 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 187.5 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 187.5 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 172.609 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 172.2 km/s km/s",
+        "output": "172.2 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 172.2 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 172.2 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 196.88 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 196.6 km/s km/s",
+        "output": "196.6 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 196.6 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 196.6 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 191.626 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 191.3 km/s km/s",
+        "output": "191.3 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 191.3 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 191.3 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 134.288 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 133.8 km/s km/s",
+        "output": "133.8 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 133.8 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 133.8 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 166.536 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 166.2 km/s km/s",
+        "output": "166.2 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 166.2 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 166.2 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 161.889 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 161.5 km/s km/s",
+        "output": "161.5 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 161.5 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 161.5 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 195.309 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 195.0 km/s km/s",
+        "output": "195.0 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 195.0 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 195.0 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 130.695 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 130.2 km/s km/s",
+        "output": "130.2 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 130.2 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 130.2 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 161.515 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 161.1 km/s km/s",
+        "output": "161.1 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 161.1 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 161.1 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 192.095 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 191.8 km/s km/s",
+        "output": "191.8 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 191.8 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 191.8 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 141.539 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 141.1 km/s km/s",
+        "output": "141.1 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 141.1 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 141.1 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 137.693 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 137.2 km/s km/s",
+        "output": "137.2 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 137.2 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 137.2 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 204.938 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 204.6 km/s km/s",
+        "output": "204.6 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 204.6 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 204.6 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 176.125 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 175.8 km/s km/s",
+        "output": "175.8 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 175.8 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 175.8 km/s."
+    },
+    {
+        "instruction": "The escape speed of a projectile on the Earth's surface is 11.2 km/s. A body is projected out with the speed of 172.377 km/s. What is the speed of the body far away from the Earth?",
+        "input": "Projectile Speed : 172.0 km/s km/s",
+        "output": "172.0 km/s\n\nExplanation: The speed of the body far away from the Earth, when projected with a speed of 172.0 km/s km/s, can be calculated using the escape speed formula. By substituting the given values, the speed is found to be 172.0 km/s."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 9 kg, 30 kg respectively are placed 156 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Field (g) = 2.30e-13 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 2.30e-13 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 56 kg, 47 kg respectively are placed 163 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Potential (V) = -8.43e-11 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -8.43e-11 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 134 kg, 17 kg respectively are placed 195 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Field (g) = 8.21e-13 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 8.21e-13 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 117 kg, 98 kg respectively are placed 29 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Field (g) = 6.03e-12 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 6.03e-12 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 28 kg, 57 kg respectively are placed 108 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -1.05e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -1.05e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 58 kg, 190 kg respectively are placed 146 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Potential (V) = -2.27e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -2.27e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 106 kg, 89 kg respectively are placed 146 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Field (g) = 2.13e-13 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 2.13e-13 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 188 kg, 141 kg respectively are placed 53 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -8.28e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -8.28e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 97 kg, 122 kg respectively are placed 185 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -1.58e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -1.58e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 194 kg, 185 kg respectively are placed 24 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -2.11e-09 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -2.11e-09 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 161 kg, 195 kg respectively are placed 113 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Potential (V) = -4.20e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -4.20e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 187 kg, 79 kg respectively are placed 175 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -2.03e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -2.03e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 60 kg, 31 kg respectively are placed 61 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Field (g) = 2.08e-12 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 2.08e-12 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 83 kg, 23 kg respectively are placed 34 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -4.16e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -4.16e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 21 kg, 66 kg respectively are placed 135 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -8.60e-11 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -8.60e-11 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 187 kg, 148 kg respectively are placed 107 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Field (g) = 9.09e-13 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 9.09e-13 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 178 kg, 59 kg respectively are placed 88 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Field (g) = 4.10e-12 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 4.10e-12 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 67 kg, 81 kg respectively are placed 147 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Field (g) = 1.73e-13 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 1.73e-13 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 45 kg, 96 kg respectively are placed 101 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Field (g) = 1.33e-12 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 1.33e-12 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 78 kg, 89 kg respectively are placed 95 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -2.35e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -2.35e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 38 kg, 39 kg respectively are placed 170 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Field (g) = 9.23e-15 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 9.23e-15 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 142 kg, 108 kg respectively are placed 43 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Potential (V) = -7.76e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -7.76e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 71 kg, 62 kg respectively are placed 145 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Field (g) = 1.14e-13 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 1.14e-13 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 193 kg, 102 kg respectively are placed 95 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -4.14e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -4.14e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 200 kg, 151 kg respectively are placed 162 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -2.89e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -2.89e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 162 kg, 174 kg respectively are placed 91 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Field (g) = 3.87e-13 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 3.87e-13 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 71 kg, 88 kg respectively are placed 107 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Potential (V) = -1.98e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -1.98e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 3 kg, 92 kg respectively are placed 81 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Field (g) = 3.62e-12 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 3.62e-12 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 174 kg, 119 kg respectively are placed 35 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Field (g) = 1.20e-11 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 1.20e-11 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 191 kg, 192 kg respectively are placed 99 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Potential (V) = -5.16e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -5.16e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 56 kg, 101 kg respectively are placed 89 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Field (g) = 1.52e-12 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 1.52e-12 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 104 kg, 148 kg respectively are placed 165 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Potential (V) = -2.04e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -2.04e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 129 kg, 151 kg respectively are placed 174 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -2.15e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -2.15e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 162 kg, 142 kg respectively are placed 149 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Potential (V) = -2.72e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -2.72e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 193 kg, 47 kg respectively are placed 36 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Field (g) = 3.01e-11 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 3.01e-11 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 49 kg, 31 kg respectively are placed 128 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Field (g) = 2.93e-13 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 2.93e-13 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 94 kg, 8 kg respectively are placed 6 m apart on a horizontal table. What is the gravitational field at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Field (g) = 6.37e-10 newton/kg",
+        "output": "The gravitational field at the mid point of the line joining the centres of the spheres is given by the formula g = (-1 * G * m1 / (R^2)) + (G * m2 / (R^2)), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get g = 6.37e-10 N/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 126 kg, 50 kg respectively are placed 158 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Potential (V) = -1.49e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -1.49e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 145 kg, 73 kg respectively are placed 47 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres?",
+        "input": "Gravitational Potential (V) = -6.19e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -6.19e-10 J/kg."
+    },
+    {
+        "instruction": "Two heavy spheres each of mass 173 kg, 187 kg respectively are placed 138 m apart on a horizontal table. What is the gravitational potential at the mid point of the line joining the centres of the spheres? G = 6.67 x 10^-11",
+        "input": "Gravitational Potential (V) = -3.48e-10 joule/kg",
+        "output": "The gravitational potential at the mid point of the line joining the centres of the spheres is given by the formula V = (-1 * G * m1 / R) - (G * m2 / R), where G is the gravitational constant, m1 and m2 are the masses of the spheres, and R is the distance between them. Plugging in the values, we get V = -3.48e-10 J/kg."
+    },
+    {
+        "instruction": "The volume of 1636 g of a substance is 113 cm\u00b3. If the density of the liquid in which the substance is placed is 3 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 14.47787610619469 g/cm\u00b3, Density of Liquid = 3 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 1917 g of a substance is 129 cm\u00b3. If the density of the liquid in which the substance is placed is 6 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 14.86046511627907 g/cm\u00b3, Density of Liquid = 6 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 1055 g of a substance is 129 cm\u00b3. If the density of the liquid in which the substance is placed is 5 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 8.178294573643411 g/cm\u00b3, Density of Liquid = 5 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 1676 g of a substance is 76 cm\u00b3. If the density of the liquid in which the substance is placed is 1 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 22.05263157894737 g/cm\u00b3, Density of Liquid = 1 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 1458 g of a substance is 189 cm\u00b3. If the density of the liquid in which the substance is placed is 8 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 7.714285714285714 g/cm\u00b3, Density of Liquid = 8 g/cm\u00b3",
+        "output": "The substance will float."
+    },
+    {
+        "instruction": "The volume of 80 g of a substance is 188 cm\u00b3. If the density of the liquid in which the substance is placed is 9 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 0.425531914893617 g/cm\u00b3, Density of Liquid = 9 g/cm\u00b3",
+        "output": "The substance will float."
+    },
+    {
+        "instruction": "The volume of 1190 g of a substance is 182 cm\u00b3. If the density of the liquid in which the substance is placed is 9 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 6.538461538461538 g/cm\u00b3, Density of Liquid = 9 g/cm\u00b3",
+        "output": "The substance will float."
+    },
+    {
+        "instruction": "The volume of 150 g of a substance is 123 cm\u00b3. If the density of the liquid in which the substance is placed is 6 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 1.2195121951219512 g/cm\u00b3, Density of Liquid = 6 g/cm\u00b3",
+        "output": "The substance will float."
+    },
+    {
+        "instruction": "The volume of 1607 g of a substance is 110 cm\u00b3. If the density of the liquid in which the substance is placed is 2 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 14.60909090909091 g/cm\u00b3, Density of Liquid = 2 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 1326 g of a substance is 96 cm\u00b3. If the density of the liquid in which the substance is placed is 5 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 13.8125 g/cm\u00b3, Density of Liquid = 5 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 115 g of a substance is 112 cm\u00b3. If the density of the liquid in which the substance is placed is 8 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 1.0267857142857142 g/cm\u00b3, Density of Liquid = 8 g/cm\u00b3",
+        "output": "The substance will float."
+    },
+    {
+        "instruction": "The volume of 1527 g of a substance is 55 cm\u00b3. If the density of the liquid in which the substance is placed is 9 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 27.763636363636362 g/cm\u00b3, Density of Liquid = 9 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 1955 g of a substance is 62 cm\u00b3. If the density of the liquid in which the substance is placed is 9 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 31.532258064516128 g/cm\u00b3, Density of Liquid = 9 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 937 g of a substance is 102 cm\u00b3. If the density of the liquid in which the substance is placed is 3 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 9.186274509803921 g/cm\u00b3, Density of Liquid = 3 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 457 g of a substance is 71 cm\u00b3. If the density of the liquid in which the substance is placed is 8 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 6.436619718309859 g/cm\u00b3, Density of Liquid = 8 g/cm\u00b3",
+        "output": "The substance will float."
+    },
+    {
+        "instruction": "The volume of 1290 g of a substance is 170 cm\u00b3. If the density of the liquid in which the substance is placed is 1 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 7.588235294117647 g/cm\u00b3, Density of Liquid = 1 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 468 g of a substance is 132 cm\u00b3. If the density of the liquid in which the substance is placed is 3 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 3.5454545454545454 g/cm\u00b3, Density of Liquid = 3 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 550 g of a substance is 12 cm\u00b3. If the density of the liquid in which the substance is placed is 8 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 45.833333333333336 g/cm\u00b3, Density of Liquid = 8 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 155 g of a substance is 27 cm\u00b3. If the density of the liquid in which the substance is placed is 1 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 5.7407407407407405 g/cm\u00b3, Density of Liquid = 1 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "The volume of 1819 g of a substance is 5 cm\u00b3. If the density of the liquid in which the substance is placed is 6 g/cm\u00b3, will the substance float or sink?",
+        "input": "Density of Substance = 363.8 g/cm\u00b3, Density of Liquid = 6 g/cm\u00b3",
+        "output": "The substance will sink."
+    },
+    {
+        "instruction": "A body weighs 9 N on the surface of the Earth. What is the gravitational force on it due to the Earth at a height equal to 72/109 the radius of the Earth?",
+        "input": "Weight on the Surface (W) = 9 N, Height Ratio (n/d) = 72/109",
+        "output": "The gravitational force on the body at a height equal to 72/109 the radius of the Earth is 5.4 newtons."
+    },
+    {
+        "instruction": "A body weighs 698 N on the surface of the Earth. What is the gravitational force on it due to the Earth at a height equal to 29/44 the radius of the Earth?",
+        "input": "Weight on the Surface (W) = 698 N, Height Ratio (n/d) = 29/44",
+        "output": "The gravitational force on the body at a height equal to 29/44 the radius of the Earth is 420.7 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 97/121 down to the center of the Earth if it weighed 803 N on the surface?",
+        "input": "Weight on the Surface (W) = 803 N, Height Ratio (n/d) = 97/121",
+        "output": "The weight of the body 97/121 down to the center of the Earth, assuming a uniform mass density, would be 159.3 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 43/49 down to the center of the Earth if it weighed 223 N on the surface?",
+        "input": "Weight on the Surface (W) = 223 N, Height Ratio (n/d) = 43/49",
+        "output": "The weight of the body 43/49 down to the center of the Earth, assuming a uniform mass density, would be 27.3 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 80/130 down to the center of the Earth if it weighed 338 N on the surface?",
+        "input": "Weight on the Surface (W) = 338 N, Height Ratio (n/d) = 80/130",
+        "output": "The weight of the body 80/130 down to the center of the Earth, assuming a uniform mass density, would be 130.0 newtons."
+    },
+    {
+        "instruction": "A body weighs 281 N on the surface of the Earth. What is the gravitational force on it due to the Earth at a height equal to 98/158 the radius of the Earth?",
+        "input": "Weight on the Surface (W) = 281 N, Height Ratio (n/d) = 98/158",
+        "output": "The gravitational force on the body at a height equal to 98/158 the radius of the Earth is 173.4 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 44/87 down to the center of the Earth if it weighed 700 N on the surface?",
+        "input": "Weight on the Surface (W) = 700 N, Height Ratio (n/d) = 44/87",
+        "output": "The weight of the body 44/87 down to the center of the Earth, assuming a uniform mass density, would be 346.0 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 75/110 down to the center of the Earth if it weighed 282 N on the surface?",
+        "input": "Weight on the Surface (W) = 282 N, Height Ratio (n/d) = 75/110",
+        "output": "The weight of the body 75/110 down to the center of the Earth, assuming a uniform mass density, would be 89.7 newtons."
+    },
+    {
+        "instruction": "A body weighs 403 N on the surface of the Earth. What is the gravitational force on it due to the Earth at a height equal to 50/105 the radius of the Earth?",
+        "input": "Weight on the Surface (W) = 403 N, Height Ratio (n/d) = 50/105",
+        "output": "The gravitational force on the body at a height equal to 50/105 the radius of the Earth is 273.0 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 71/163 down to the center of the Earth if it weighed 578 N on the surface?",
+        "input": "Weight on the Surface (W) = 578 N, Height Ratio (n/d) = 71/163",
+        "output": "The weight of the body 71/163 down to the center of the Earth, assuming a uniform mass density, would be 326.2 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 73/108 down to the center of the Earth if it weighed 278 N on the surface?",
+        "input": "Weight on the Surface (W) = 278 N, Height Ratio (n/d) = 73/108",
+        "output": "The weight of the body 73/108 down to the center of the Earth, assuming a uniform mass density, would be 90.1 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 45/133 down to the center of the Earth if it weighed 778 N on the surface?",
+        "input": "Weight on the Surface (W) = 778 N, Height Ratio (n/d) = 45/133",
+        "output": "The weight of the body 45/133 down to the center of the Earth, assuming a uniform mass density, would be 514.8 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 57/140 down to the center of the Earth if it weighed 190 N on the surface?",
+        "input": "Weight on the Surface (W) = 190 N, Height Ratio (n/d) = 57/140",
+        "output": "The weight of the body 57/140 down to the center of the Earth, assuming a uniform mass density, would be 112.6 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 73/149 down to the center of the Earth if it weighed 931 N on the surface?",
+        "input": "Weight on the Surface (W) = 931 N, Height Ratio (n/d) = 73/149",
+        "output": "The weight of the body 73/149 down to the center of the Earth, assuming a uniform mass density, would be 474.9 newtons."
+    },
+    {
+        "instruction": "A body weighs 65 N on the surface of the Earth. What is the gravitational force on it due to the Earth at a height equal to 78/170 the radius of the Earth?",
+        "input": "Weight on the Surface (W) = 65 N, Height Ratio (n/d) = 78/170",
+        "output": "The gravitational force on the body at a height equal to 78/170 the radius of the Earth is 44.6 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 90/161 down to the center of the Earth if it weighed 944 N on the surface?",
+        "input": "Weight on the Surface (W) = 944 N, Height Ratio (n/d) = 90/161",
+        "output": "The weight of the body 90/161 down to the center of the Earth, assuming a uniform mass density, would be 416.3 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 17/63 down to the center of the Earth if it weighed 303 N on the surface?",
+        "input": "Weight on the Surface (W) = 303 N, Height Ratio (n/d) = 17/63",
+        "output": "The weight of the body 17/63 down to the center of the Earth, assuming a uniform mass density, would be 221.2 newtons."
+    },
+    {
+        "instruction": "A body weighs 117 N on the surface of the Earth. What is the gravitational force on it due to the Earth at a height equal to 31/51 the radius of the Earth?",
+        "input": "Weight on the Surface (W) = 117 N, Height Ratio (n/d) = 31/51",
+        "output": "The gravitational force on the body at a height equal to 31/51 the radius of the Earth is 72.8 newtons."
+    },
+    {
+        "instruction": "A body weighs 418 N on the surface of the Earth. What is the gravitational force on it due to the Earth at a height equal to 16/74 the radius of the Earth?",
+        "input": "Weight on the Surface (W) = 418 N, Height Ratio (n/d) = 16/74",
+        "output": "The gravitational force on the body at a height equal to 16/74 the radius of the Earth is 343.7 newtons."
+    },
+    {
+        "instruction": "Assuming the Earth to be a sphere of uniform mass density, how much would a body weigh 61/106 down to the center of the Earth if it weighed 497 N on the surface?",
+        "input": "Weight on the Surface (W) = 497 N, Height Ratio (n/d) = 61/106",
+        "output": "The weight of the body 61/106 down to the center of the Earth, assuming a uniform mass density, would be 211.0 newtons."
+    },
+    {
+        "instruction": "Let us assume that our galaxy consists of 13 * 10^9 stars each of one solar mass. How long will a star at a distance of 59822 ly from the galactic centre take to complete one revolution? Take the diameter of the Milky Way to be 10^5 ly.",
+        "input": "No. of Stars = 13 * 10^9, Distance = 59822 ly",
+        "output": "2.595e-05 s"
+    },
+    {
+        "instruction": "Let us assume that our galaxy consists of 69 * 10^9 stars each of one solar mass. How long will a star at a distance of 48267 ly from the galactic centre take to complete one revolution? Take the diameter of the Milky Way to be 10^5 ly.",
+        "input": "No. of Stars = 69 * 10^9, Distance = 48267 ly",
+        "output": "2.331e-05 s"
+    },
+    {
+        "instruction": "Let us assume that our galaxy consists of 58 * 10^9 stars each of one solar mass. How long will a star at a distance of 69281 ly from the galactic centre take to complete one revolution? Take the diameter of the Milky Way to be 10^5 ly.",
+        "input": "No. of Stars = 58 * 10^9, Distance = 69281 ly",
+        "output": "2.793e-05 s"
+    },
+    {
+        "instruction": "Let us assume that our galaxy consists of 263 * 10^9 stars each of one solar mass. How long will a star at a distance of 57250 ly from the galactic centre take to complete one revolution? Take the diameter of the Milky Way to be 10^5 ly.",
+        "input": "No. of Stars = 263 * 10^9, Distance = 57250 ly",
+        "output": "2.539e-05 s"
+    },
+    {
+        "instruction": "Let us assume that our galaxy consists of 201 * 10^9 stars each of one solar mass. How long will a star at a distance of 50889 ly from the galactic centre take to complete one revolution? Take the diameter of the Milky Way to be 10^5 ly.",
+        "input": "No. of Stars = 201 * 10^9, Distance = 50889 ly",
+        "output": "2.394e-05 s"
+    },
+    {
+        "instruction": "Let us assume that our galaxy consists of 103 * 10^9 stars each of one solar mass. How long will a star at a distance of 30956 ly from the galactic centre take to complete one revolution? Take the diameter of the Milky Way to be 10^5 ly.",
+        "input": "No. of Stars = 103 * 10^9, Distance = 30956 ly",
+        "output": "1.867e-05 s"
+    },
+    {
+        "instruction": "Let us assume that our galaxy consists of 252 * 10^9 stars each of one solar mass. How long will a star at a distance of 48669 ly from the galactic centre take to complete one revolution? Take the diameter of the Milky Way to be 10^5 ly.",
+        "input": "No. of Stars = 252 * 10^9, Distance = 48669 ly",
+        "output": "2.341e-05 s"
+    },
+    {
+        "instruction": "Let us assume that our galaxy consists of 144 * 10^9 stars each of one solar mass. How long will a star at a distance of 38569 ly from the galactic centre take to complete one revolution? Take the diameter of the Milky Way to be 10^5 ly.",
+        "input": "No. of Stars = 144 * 10^9, Distance = 38569 ly",
+        "output": "2.084e-05 s"
+    },
+    {
+        "instruction": "Let us assume that our galaxy consists of 22 * 10^9 stars each of one solar mass. How long will a star at a distance of 50445 ly from the galactic centre take to complete one revolution? Take the diameter of the Milky Way to be 10^5 ly.",
+        "input": "No. of Stars = 22 * 10^9, Distance = 50445 ly",
+        "output": "2.383e-05 s"
+    },
+    {
+        "instruction": "Let us assume that our galaxy consists of 82 * 10^9 stars each of one solar mass. How long will a star at a distance of 58300 ly from the galactic centre take to complete one revolution? Take the diameter of the Milky Way to be 10^5 ly.",
+        "input": "No. of Stars = 82 * 10^9, Distance = 58300 ly",
+        "output": "2.562e-05 s"
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 312 m from the center of the spherical shell of radius 382 m and mass 215 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 219 m and mass 79 kg?",
+        "input": "Gravitational Field (g) = cal3(79, 219) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 219 m and mass 79 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.10e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 365 m and mass 35 kg?",
+        "input": "Gravitational Field (g) = cal3(35, 365) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 365 m and mass 35 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.75e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 473 m from the center of the uniform solid sphere of radius 558 m and mass 442 kg?",
+        "input": "Gravitational Field (g) = cal2(442, 473, 558) N/kg",
+        "output": "The gravitational field at a point P at a distance of 473 m from the center of the uniform solid sphere of radius 558 m and mass 442 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -8.03e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 481 m and mass 160 kg?",
+        "input": "Gravitational Field (g) = cal3(160, 481) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 481 m and mass 160 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -4.61e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 357 m from a mass of 54 kg?",
+        "input": "Gravitational Field (g) = cal3(54, 357) N/kg",
+        "output": "The gravitational field at a point P at a distance of 357 m from a mass of 54 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -2.83e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 183 m and mass 337 kg?",
+        "input": "Gravitational Field (g) = cal3(337, 183) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 183 m and mass 337 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -6.71e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 455 m from the center of the uniform solid sphere of radius 463 m and mass 100 kg?",
+        "input": "Gravitational Field (g) = cal2(100, 455, 463) N/kg",
+        "output": "The gravitational field at a point P at a distance of 455 m from the center of the uniform solid sphere of radius 463 m and mass 100 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -3.06e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 214 m and mass 374 kg?",
+        "input": "Gravitational Field (g) = cal3(374, 214) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 214 m and mass 374 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -5.45e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 369 m and mass 287 kg?",
+        "input": "Gravitational Field (g) = cal3(287, 369) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 342 m from the center of the spherical shell of radius 373 m and mass 379 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 305 m from the center of the uniform solid sphere of radius 373 m and mass 342 kg?",
+        "input": "Gravitational Field (g) = cal2(342, 305, 373) N/kg",
+        "output": "The gravitational field at a point P at a distance of 305 m from the center of the uniform solid sphere of radius 373 m and mass 342 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -1.34e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 291 m from a mass of 260 kg?",
+        "input": "Gravitational Field (g) = cal3(260, 291) N/kg",
+        "output": "The gravitational field at a point P at a distance of 291 m from a mass of 260 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -2.05e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 511 m and mass 481 kg?",
+        "input": "Gravitational Field (g) = cal3(481, 511) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 511 m and mass 481 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.23e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 311 m from a mass of 447 kg?",
+        "input": "Gravitational Field (g) = cal3(447, 311) N/kg",
+        "output": "The gravitational field at a point P at a distance of 311 m from a mass of 447 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -3.08e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 265 m and mass 86 kg?",
+        "input": "Gravitational Field (g) = cal3(86, 265) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 265 m and mass 86 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -8.17e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 350 m from the center of the spherical shell of radius 426 m and mass 372 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 472 m from the center of the uniform solid sphere of radius 485 m and mass 28 kg?",
+        "input": "Gravitational Field (g) = cal2(28, 472, 485) N/kg",
+        "output": "The gravitational field at a point P at a distance of 472 m from the center of the uniform solid sphere of radius 485 m and mass 28 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -7.73e-15 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 483 m and mass 388 kg?",
+        "input": "Gravitational Field (g) = cal3(388, 483) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 483 m and mass 388 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.11e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 366 m and mass 198 kg?",
+        "input": "Gravitational Field (g) = cal3(198, 366) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 366 m and mass 198 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -9.86e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 174 m and mass 432 kg?",
+        "input": "Gravitational Field (g) = cal3(432, 174) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 174 m and mass 432 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -9.52e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 392 m and mass 287 kg?",
+        "input": "Gravitational Field (g) = cal3(287, 392) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 392 m and mass 287 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.25e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 462 m from the center of the spherical shell of radius 490 m and mass 271 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 459 m and mass 254 kg?",
+        "input": "Gravitational Field (g) = cal3(254, 459) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 197 m and mass 246 kg?",
+        "input": "Gravitational Field (g) = cal3(246, 197) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 197 m and mass 246 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -4.23e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 220 m and mass 236 kg?",
+        "input": "Gravitational Field (g) = cal3(236, 220) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 220 m and mass 236 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -3.25e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 271 m from the center of the uniform solid sphere of radius 303 m and mass 153 kg?",
+        "input": "Gravitational Field (g) = cal2(153, 271, 303) N/kg",
+        "output": "The gravitational field at a point P at a distance of 271 m from the center of the uniform solid sphere of radius 303 m and mass 153 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -9.94e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 442 m from the center of the uniform solid sphere of radius 518 m and mass 140 kg?",
+        "input": "Gravitational Field (g) = cal2(140, 442, 518) N/kg",
+        "output": "The gravitational field at a point P at a distance of 442 m from the center of the uniform solid sphere of radius 518 m and mass 140 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -4.78e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 268 m from a mass of 341 kg?",
+        "input": "Gravitational Field (g) = cal3(341, 268) N/kg",
+        "output": "The gravitational field at a point P at a distance of 268 m from a mass of 341 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -3.17e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 246 m from a mass of 224 kg?",
+        "input": "Gravitational Field (g) = cal3(224, 246) N/kg",
+        "output": "The gravitational field at a point P at a distance of 246 m from a mass of 224 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -2.47e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 191 m and mass 69 kg?",
+        "input": "Gravitational Field (g) = cal3(69, 191) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 504 m and mass 159 kg?",
+        "input": "Gravitational Field (g) = cal3(159, 504) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 22 m from the center of the spherical shell of radius 47 m and mass 175 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 265 m and mass 70 kg?",
+        "input": "Gravitational Field (g) = cal3(70, 265) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 265 m and mass 70 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -6.65e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 325 m and mass 107 kg?",
+        "input": "Gravitational Field (g) = cal3(107, 325) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 325 m and mass 107 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -6.76e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 239 m and mass 19 kg?",
+        "input": "Gravitational Field (g) = cal3(19, 239) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 321 m from the center of the spherical shell of radius 384 m and mass 121 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 419 m and mass 482 kg?",
+        "input": "Gravitational Field (g) = cal3(482, 419) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 419 m and mass 482 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.83e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 393 m and mass 134 kg?",
+        "input": "Gravitational Field (g) = cal3(134, 393) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 393 m and mass 134 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -5.79e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 235 m from the center of the spherical shell of radius 279 m and mass 382 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 392 m from the center of the uniform solid sphere of radius 465 m and mass 56 kg?",
+        "input": "Gravitational Field (g) = cal2(56, 392, 465) N/kg",
+        "output": "The gravitational field at a point P at a distance of 392 m from the center of the uniform solid sphere of radius 465 m and mass 56 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -2.43e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 347 m from the center of the uniform solid sphere of radius 418 m and mass 218 kg?",
+        "input": "Gravitational Field (g) = cal2(218, 347, 418) N/kg",
+        "output": "The gravitational field at a point P at a distance of 347 m from the center of the uniform solid sphere of radius 418 m and mass 218 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -6.91e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 155 m from a mass of 118 kg?",
+        "input": "Gravitational Field (g) = cal3(118, 155) N/kg",
+        "output": "The gravitational field at a point P at a distance of 155 m from a mass of 118 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -3.28e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 357 m from the center of the uniform solid sphere of radius 437 m and mass 29 kg?",
+        "input": "Gravitational Field (g) = cal2(29, 357, 437) N/kg",
+        "output": "The gravitational field at a point P at a distance of 357 m from the center of the uniform solid sphere of radius 437 m and mass 29 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -8.27e-15 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 166 m and mass 265 kg?",
+        "input": "Gravitational Field (g) = cal3(265, 166) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 166 m and mass 265 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -6.41e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 269 m and mass 79 kg?",
+        "input": "Gravitational Field (g) = cal3(79, 269) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 269 m and mass 79 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -7.28e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 441 m from the center of the uniform solid sphere of radius 493 m and mass 85 kg?",
+        "input": "Gravitational Field (g) = cal2(85, 441, 493) N/kg",
+        "output": "The gravitational field at a point P at a distance of 441 m from the center of the uniform solid sphere of radius 493 m and mass 85 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -2.92e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 307 m from a mass of 164 kg?",
+        "input": "Gravitational Field (g) = cal3(164, 307) N/kg",
+        "output": "The gravitational field at a point P at a distance of 307 m from a mass of 164 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.16e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 89 m from a mass of 488 kg?",
+        "input": "Gravitational Field (g) = cal3(488, 89) N/kg",
+        "output": "The gravitational field at a point P at a distance of 89 m from a mass of 488 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -4.11e-12 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 355 m and mass 308 kg?",
+        "input": "Gravitational Field (g) = cal3(308, 355) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 355 m and mass 308 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.63e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 444 m from the center of the uniform solid sphere of radius 500 m and mass 341 kg?",
+        "input": "Gravitational Field (g) = cal2(341, 444, 500) N/kg",
+        "output": "The gravitational field at a point P at a distance of 444 m from the center of the uniform solid sphere of radius 500 m and mass 341 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.15e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 396 m and mass 112 kg?",
+        "input": "Gravitational Field (g) = cal3(112, 396) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 396 m and mass 112 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -4.76e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 447 m and mass 371 kg?",
+        "input": "Gravitational Field (g) = cal3(371, 447) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 447 m and mass 371 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.24e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 405 m and mass 331 kg?",
+        "input": "Gravitational Field (g) = cal3(331, 405) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 405 m and mass 331 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.35e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 405 m and mass 112 kg?",
+        "input": "Gravitational Field (g) = cal3(112, 405) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 253 m and mass 320 kg?",
+        "input": "Gravitational Field (g) = cal3(320, 253) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 253 m and mass 320 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -3.33e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 482 m from a mass of 469 kg?",
+        "input": "Gravitational Field (g) = cal3(469, 482) N/kg",
+        "output": "The gravitational field at a point P at a distance of 482 m from a mass of 469 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.35e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 359 m and mass 361 kg?",
+        "input": "Gravitational Field (g) = cal3(361, 359) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 359 m and mass 361 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.87e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 331 m from the center of the spherical shell of radius 418 m and mass 442 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 208 m and mass 229 kg?",
+        "input": "Gravitational Field (g) = cal3(229, 208) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 208 m and mass 229 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -3.53e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 502 m and mass 218 kg?",
+        "input": "Gravitational Field (g) = cal3(218, 502) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 502 m and mass 218 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -5.77e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 123 m from a mass of 148 kg?",
+        "input": "Gravitational Field (g) = cal3(148, 123) N/kg",
+        "output": "The gravitational field at a point P at a distance of 123 m from a mass of 148 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -6.52e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 202 m from the center of the uniform solid sphere of radius 283 m and mass 336 kg?",
+        "input": "Gravitational Field (g) = cal2(336, 202, 283) N/kg",
+        "output": "The gravitational field at a point P at a distance of 202 m from the center of the uniform solid sphere of radius 283 m and mass 336 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -2.00e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 463 m from the center of the spherical shell of radius 508 m and mass 109 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 105 m from the center of the spherical shell of radius 112 m and mass 391 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 236 m and mass 113 kg?",
+        "input": "Gravitational Field (g) = cal3(113, 236) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 370 m and mass 97 kg?",
+        "input": "Gravitational Field (g) = cal3(97, 370) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 64 m and mass 407 kg?",
+        "input": "Gravitational Field (g) = cal3(407, 64) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 64 m and mass 407 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -6.63e-12 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 126 m from the center of the uniform solid sphere of radius 130 m and mass 281 kg?",
+        "input": "Gravitational Field (g) = cal2(281, 126, 130) N/kg",
+        "output": "The gravitational field at a point P at a distance of 126 m from the center of the uniform solid sphere of radius 130 m and mass 281 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.18e-12 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 433 m and mass 185 kg?",
+        "input": "Gravitational Field (g) = cal3(185, 433) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 96 m from a mass of 71 kg?",
+        "input": "Gravitational Field (g) = cal3(71, 96) N/kg",
+        "output": "The gravitational field at a point P at a distance of 96 m from a mass of 71 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -5.14e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 512 m and mass 244 kg?",
+        "input": "Gravitational Field (g) = cal3(244, 512) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 512 m and mass 244 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -6.21e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 69 m from the center of the uniform solid sphere of radius 88 m and mass 72 kg?",
+        "input": "Gravitational Field (g) = cal2(72, 69, 88) N/kg",
+        "output": "The gravitational field at a point P at a distance of 69 m from the center of the uniform solid sphere of radius 88 m and mass 72 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.01e-12 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 450 m and mass 269 kg?",
+        "input": "Gravitational Field (g) = cal3(269, 450) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 429 m from the center of the uniform solid sphere of radius 510 m and mass 227 kg?",
+        "input": "Gravitational Field (g) = cal2(227, 429, 510) N/kg",
+        "output": "The gravitational field at a point P at a distance of 429 m from the center of the uniform solid sphere of radius 510 m and mass 227 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -4.90e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 459 m and mass 64 kg?",
+        "input": "Gravitational Field (g) = cal3(64, 459) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 459 m and mass 64 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -2.03e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 177 m and mass 313 kg?",
+        "input": "Gravitational Field (g) = cal3(313, 177) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 276 m from a mass of 87 kg?",
+        "input": "Gravitational Field (g) = cal3(87, 276) N/kg",
+        "output": "The gravitational field at a point P at a distance of 276 m from a mass of 87 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -7.62e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 527 m and mass 463 kg?",
+        "input": "Gravitational Field (g) = cal3(463, 527) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 224 m and mass 339 kg?",
+        "input": "Gravitational Field (g) = cal3(339, 224) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 224 m and mass 339 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -4.51e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 8 m from the center of the uniform solid sphere of radius 52 m and mass 238 kg?",
+        "input": "Gravitational Field (g) = cal2(238, 8, 52) N/kg",
+        "output": "The gravitational field at a point P at a distance of 8 m from the center of the uniform solid sphere of radius 52 m and mass 238 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -2.48e-10 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at the centre of the uniform solid sphere of radius 475 m and mass 261 kg?",
+        "input": "Gravitational Field (g) = cal3(261, 475) N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 100 m from the center of the uniform solid sphere of radius 193 m and mass 5 kg?",
+        "input": "Gravitational Field (g) = cal2(5, 100, 193) N/kg",
+        "output": "The gravitational field at a point P at a distance of 100 m from the center of the uniform solid sphere of radius 193 m and mass 5 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -3.33e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 384 m from a mass of 214 kg?",
+        "input": "Gravitational Field (g) = cal3(214, 384) N/kg",
+        "output": "The gravitational field at a point P at a distance of 384 m from a mass of 214 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -9.68e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 440 m and mass 347 kg?",
+        "input": "Gravitational Field (g) = cal3(347, 440) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 440 m and mass 347 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.20e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 532 m and mass 219 kg?",
+        "input": "Gravitational Field (g) = cal3(219, 532) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 532 m and mass 219 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -5.16e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 439 m from the center of the uniform solid sphere of radius 524 m and mass 375 kg?",
+        "input": "Gravitational Field (g) = cal2(375, 439, 524) N/kg",
+        "output": "The gravitational field at a point P at a distance of 439 m from the center of the uniform solid sphere of radius 524 m and mass 375 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.30e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 268 m from a mass of 425 kg?",
+        "input": "Gravitational Field (g) = cal3(425, 268) N/kg",
+        "output": "The gravitational field at a point P at a distance of 268 m from a mass of 425 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -3.95e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 108 m from the center of the uniform solid sphere of radius 200 m and mass 12 kg?",
+        "input": "Gravitational Field (g) = cal2(12, 108, 200) N/kg",
+        "output": "The gravitational field at a point P at a distance of 108 m from the center of the uniform solid sphere of radius 200 m and mass 12 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -6.86e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 392 m and mass 297 kg?",
+        "input": "Gravitational Field (g) = cal3(297, 392) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 392 m and mass 297 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.29e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 400 m from the center of the spherical shell of radius 434 m and mass 436 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 372 m and mass 112 kg?",
+        "input": "Gravitational Field (g) = cal3(112, 372) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 372 m and mass 112 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -5.40e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 287 m from the center of the uniform solid sphere of radius 385 m and mass 252 kg?",
+        "input": "Gravitational Field (g) = cal2(252, 287, 385) N/kg",
+        "output": "The gravitational field at a point P at a distance of 287 m from the center of the uniform solid sphere of radius 385 m and mass 252 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -8.45e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 280 m from the center of the spherical shell of radius 369 m and mass 280 kg?",
+        "input": "Gravitational Field (g) = 0 N/kg",
+        "output": "The gravitational field at the specified point is zero."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the spherical shell of radius 535 m and mass 140 kg?",
+        "input": "Gravitational Field (g) = cal3(140, 535) N/kg",
+        "output": "The gravitational field at a point P on the surface of the spherical shell of radius 535 m and mass 140 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -3.26e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 394 m from a mass of 19 kg?",
+        "input": "Gravitational Field (g) = cal3(19, 394) N/kg",
+        "output": "The gravitational field at a point P at a distance of 394 m from a mass of 19 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -8.16e-15 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P on the surface of the uniform solid sphere of radius 160 m and mass 458 kg?",
+        "input": "Gravitational Field (g) = cal3(458, 160) N/kg",
+        "output": "The gravitational field at a point P on the surface of the uniform solid sphere of radius 160 m and mass 458 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.19e-12 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 6 m from the center of the uniform solid sphere of radius 15 m and mass 224 kg?",
+        "input": "Gravitational Field (g) = cal2(224, 6, 15) N/kg",
+        "output": "The gravitational field at a point P at a distance of 6 m from the center of the uniform solid sphere of radius 15 m and mass 224 kg is given by the formula g = (-G * m * r) / (R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get g = -2.66e-11 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 385 m from a mass of 172 kg?",
+        "input": "Gravitational Field (g) = cal3(172, 385) N/kg",
+        "output": "The gravitational field at a point P at a distance of 385 m from a mass of 172 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -7.74e-14 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational field at a point P at a distance of 258 m from a mass of 179 kg?",
+        "input": "Gravitational Field (g) = cal3(179, 258) N/kg",
+        "output": "The gravitational field at a point P at a distance of 258 m from a mass of 179 kg is given by the formula g = (-G * m) / (r^2), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get g = -1.79e-13 N/kg."
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 33000 kg and 68000 kg seperated bt a distance 74 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 33000 x 10^-3 x 68000 x 10^-3)/74^2 = 2.73e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 97000 kg and 72000 kg seperated bt a distance 39 m. G = 6.67 x 10-11\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 97000 x 10^-3 x 72000 x 10^-3)/39^2 = 3.06e-04 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 18000 kg and 4000 kg seperated bt a distance 86 m. G = 6.67 x 10-11\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 18000 x 10^-3 x 4000 x 10^-3)/86^2 = 6.49e-07 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 42000 kg and 47000 kg seperated bt a distance 65 m. G = 6.67 x 10-11\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 42000 x 10^-3 x 47000 x 10^-3)/65^2 = 3.12e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 11000 kg and 17000 kg seperated bt a distance 66 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 11000 x 10^-3 x 17000 x 10^-3)/66^2 = 2.86e-06 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 81000 kg and 23000 kg seperated bt a distance 27 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 81000 x 10^-3 x 23000 x 10^-3)/27^2 = 1.70e-04 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 12000 kg and 99000 kg seperated bt a distance 31 m. G = 6.67 x 10-11\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 12000 x 10^-3 x 99000 x 10^-3)/31^2 = 8.25e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 95000 kg and 15000 kg seperated bt a distance 44 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 95000 x 10^-3 x 15000 x 10^-3)/44^2 = 4.91e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 7000 kg and 46000 kg seperated bt a distance 60 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 7000 x 10^-3 x 46000 x 10^-3)/60^2 = 5.97e-06 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 92000 kg and 76000 kg seperated bt a distance 26 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 92000 x 10^-3 x 76000 x 10^-3)/26^2 = 6.90e-04 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 47000 kg and 72000 kg seperated bt a distance 82 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 47000 x 10^-3 x 72000 x 10^-3)/82^2 = 3.36e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 35000 kg and 9000 kg seperated bt a distance 88 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 35000 x 10^-3 x 9000 x 10^-3)/88^2 = 2.71e-06 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 17000 kg and 98000 kg seperated bt a distance 73 m. G = 6.67 x 10-11\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 17000 x 10^-3 x 98000 x 10^-3)/73^2 = 2.09e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 75000 kg and 93000 kg seperated bt a distance 96 m. G = 6.67 x 10-11\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 75000 x 10^-3 x 93000 x 10^-3)/96^2 = 5.05e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 16000 kg and 75000 kg seperated bt a distance 65 m. G = 6.67 x 10-11\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 16000 x 10^-3 x 75000 x 10^-3)/65^2 = 1.89e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 17000 kg and 97000 kg seperated bt a distance 48 m. G = 6.67 x 10-11\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 17000 x 10^-3 x 97000 x 10^-3)/48^2 = 4.77e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 38000 kg and 89000 kg seperated bt a distance 85 m. G = 6.67 x 10-11\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 38000 x 10^-3 x 89000 x 10^-3)/85^2 = 3.12e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 60000 kg and 71000 kg seperated bt a distance 12 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 60000 x 10^-3 x 71000 x 10^-3)/12^2 = 1.97e-03 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 84000 kg and 7000 kg seperated bt a distance 6 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 84000 x 10^-3 x 7000 x 10^-3)/6^2 = 1.09e-03 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational force between two masses 37000 kg and 35000 kg seperated bt a distance 43 m.\n",
+        "input": "f = (g x m1 x m2)/d^2",
+        "output": "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x 37000 x 10^-3 x 35000 x 10^-3)/43^2 = 4.67e-05 newton\n"
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the spherical shell of radius 564 m and mass 381 kg?",
+        "input": "Gravitational Potential (V) = cal1(381, 464, 564) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 464 m from the center of the spherical shell of radius 564 m and mass 381 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -4.51e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 301 m from a mass of 131 kg?",
+        "input": "Gravitational Potential (V) = cal3(131, 301) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 301 m from a mass of 131 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -2.90e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the spherical shell of radius 363 m and mass 448 kg?",
+        "input": "Gravitational Potential (V) = cal1(448, 293, 363) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 293 m from the center of the spherical shell of radius 363 m and mass 448 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -8.23e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 222 m from the center of the spherical shell of radius 268 m and mass 5 kg?",
+        "input": "Gravitational Potential (V) = cal1(5, 222, 268) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 222 m from the center of the spherical shell of radius 268 m and mass 5 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -1.24e-12 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 259 m from the center of the spherical shell of radius 343 m and mass 499 kg?",
+        "input": "Gravitational Potential (V) = cal1(499, 259, 343) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 259 m from the center of the spherical shell of radius 343 m and mass 499 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -9.70e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the spherical shell of radius 454 m and mass 182 kg?",
+        "input": "Gravitational Potential (V) = cal1(182, 415, 454) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 415 m from the center of the spherical shell of radius 454 m and mass 182 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -2.67e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the spherical shell of radius 249 m and mass 85 kg?",
+        "input": "Gravitational Potential (V) = cal1(85, 213, 249) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 213 m from the center of the spherical shell of radius 249 m and mass 85 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -2.28e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 103 m from the center of the spherical shell of radius 118 m and mass 359 kg?",
+        "input": "Gravitational Potential (V) = cal1(359, 103, 118) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 103 m from the center of the spherical shell of radius 118 m and mass 359 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -2.03e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 342 m from the center of the spherical shell of radius 354 m and mass 64 kg?",
+        "input": "Gravitational Potential (V) = cal1(64, 342, 354) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 342 m from the center of the spherical shell of radius 354 m and mass 64 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -1.21e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the spherical shell of radius 172 m and mass 370 kg?",
+        "input": "Gravitational Potential (V) = cal1(370, 162, 172) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 162 m from the center of the spherical shell of radius 172 m and mass 370 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -1.43e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 118 m from a mass of 179 kg?",
+        "input": "Gravitational Potential (V) = cal3(179, 118) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 118 m from a mass of 179 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -1.01e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the spherical shell of radius 344 m and mass 468 kg?",
+        "input": "Gravitational Potential (V) = cal1(468, 264, 344) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 264 m from the center of the spherical shell of radius 344 m and mass 468 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -9.07e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 375 m from a mass of 91 kg?",
+        "input": "Gravitational Potential (V) = cal3(91, 375) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 375 m from a mass of 91 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -1.62e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 214 m from the center of the spherical shell of radius 288 m and mass 345 kg?",
+        "input": "Gravitational Potential (V) = cal1(345, 214, 288) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 214 m from the center of the spherical shell of radius 288 m and mass 345 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -7.99e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 190 m from a mass of 134 kg?",
+        "input": "Gravitational Potential (V) = cal3(134, 190) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 190 m from a mass of 134 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -4.70e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 409 m from a mass of 267 kg?",
+        "input": "Gravitational Potential (V) = cal3(267, 409) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 409 m from a mass of 267 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -4.35e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 309 m from a mass of 172 kg?",
+        "input": "Gravitational Potential (V) = cal3(172, 309) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 309 m from a mass of 172 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -3.71e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 58 m from the center of the spherical shell of radius 127 m and mass 126 kg?",
+        "input": "Gravitational Potential (V) = cal1(126, 58, 127) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 58 m from the center of the spherical shell of radius 127 m and mass 126 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -6.62e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 378 m from a mass of 290 kg?",
+        "input": "Gravitational Potential (V) = cal3(290, 378) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 378 m from a mass of 290 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -5.12e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the spherical shell of radius 168 m and mass 31 kg?",
+        "input": "Gravitational Potential (V) = cal1(31, 116, 168) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 116 m from the center of the spherical shell of radius 168 m and mass 31 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -1.23e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the spherical shell of radius 456 m and mass 439 kg?",
+        "input": "Gravitational Potential (V) = cal1(439, 429, 456) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 429 m from the center of the spherical shell of radius 456 m and mass 439 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -6.42e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 225 m from the center of the spherical shell of radius 314 m and mass 144 kg?",
+        "input": "Gravitational Potential (V) = cal1(144, 225, 314) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 225 m from the center of the spherical shell of radius 314 m and mass 144 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -3.06e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 476 m from the center of the spherical shell of radius 575 m and mass 163 kg?",
+        "input": "Gravitational Potential (V) = cal1(163, 476, 575) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 476 m from the center of the spherical shell of radius 575 m and mass 163 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -1.89e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the spherical shell of radius 263 m and mass 16 kg?",
+        "input": "Gravitational Potential (V) = cal1(16, 236, 263) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 236 m from the center of the spherical shell of radius 263 m and mass 16 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -4.06e-12 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 375 m from a mass of 302 kg?",
+        "input": "Gravitational Potential (V) = cal3(302, 375) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 375 m from a mass of 302 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -5.37e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 177 m from the center of the spherical shell of radius 228 m and mass 91 kg?",
+        "input": "Gravitational Potential (V) = cal1(91, 177, 228) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 177 m from the center of the spherical shell of radius 228 m and mass 91 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -2.66e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 324 m from the center of the spherical shell of radius 407 m and mass 230 kg?",
+        "input": "Gravitational Potential (V) = cal1(230, 324, 407) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 324 m from the center of the spherical shell of radius 407 m and mass 230 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -3.77e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the spherical shell of radius 203 m and mass 363 kg?",
+        "input": "Gravitational Potential (V) = cal1(363, 134, 203) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 134 m from the center of the spherical shell of radius 203 m and mass 363 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -1.19e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 481 m from the center of the spherical shell of radius 548 m and mass 495 kg?",
+        "input": "Gravitational Potential (V) = cal1(495, 481, 548) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 481 m from the center of the spherical shell of radius 548 m and mass 495 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -6.02e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 324 m from a mass of 17 kg?",
+        "input": "Gravitational Potential (V) = cal3(17, 324) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 324 m from a mass of 17 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -3.50e-12 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 372 m from the center of the spherical shell of radius 414 m and mass 64 kg?",
+        "input": "Gravitational Potential (V) = cal1(64, 372, 414) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 372 m from the center of the spherical shell of radius 414 m and mass 64 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -1.03e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 298 m from the center of the spherical shell of radius 348 m and mass 191 kg?",
+        "input": "Gravitational Potential (V) = cal1(191, 298, 348) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 298 m from the center of the spherical shell of radius 348 m and mass 191 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -3.66e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 319 m from a mass of 222 kg?",
+        "input": "Gravitational Potential (V) = cal3(222, 319) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 319 m from a mass of 222 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -4.64e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 446 m from the center of the spherical shell of radius 494 m and mass 297 kg?",
+        "input": "Gravitational Potential (V) = cal1(297, 446, 494) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 446 m from the center of the spherical shell of radius 494 m and mass 297 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -4.01e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 17 m from the center of the spherical shell of radius 117 m and mass 49 kg?",
+        "input": "Gravitational Potential (V) = cal1(49, 17, 117) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 17 m from the center of the spherical shell of radius 117 m and mass 49 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -2.79e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 302 m from the center of the spherical shell of radius 382 m and mass 299 kg?",
+        "input": "Gravitational Potential (V) = cal1(299, 302, 382) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 302 m from the center of the spherical shell of radius 382 m and mass 299 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -5.22e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 397 m from the center of the spherical shell of radius 432 m and mass 420 kg?",
+        "input": "Gravitational Potential (V) = cal1(420, 397, 432) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 397 m from the center of the spherical shell of radius 432 m and mass 420 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -6.48e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 143 m from a mass of 399 kg?",
+        "input": "Gravitational Potential (V) = cal3(399, 143) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 143 m from a mass of 399 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -1.86e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 446 m from the center of the spherical shell of radius 451 m and mass 424 kg?",
+        "input": "Gravitational Potential (V) = cal1(424, 446, 451) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 446 m from the center of the spherical shell of radius 451 m and mass 424 kg is given by the formula V = (-G * m) / R, where G is the gravitational constant, m is the mass, and R is the distance. Plugging in the values, we get V = -6.27e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 161 m from a mass of 362 kg?",
+        "input": "Gravitational Potential (V) = cal3(362, 161) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 161 m from a mass of 362 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -1.50e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 545 m and mass 419 kg?",
+        "input": "Gravitational Potential (V) = cal3(419, 545) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 545 m and mass 419 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -7.69e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the uniform solid sphere of radius 377 m and mass 498 kg?",
+        "input": "Gravitational Potential (V) = cal3(498, 377) joule/kg",
+        "output": "The gravitational potential at a point P on the surface of the uniform solid sphere of radius 377 m and mass 498 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -8.81e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the uniform solid sphere of radius 477 m and mass 202 kg?",
+        "input": "Gravitational Potential (V) = cal3(202, 477) joule/kg",
+        "output": "The gravitational potential at a point P on the surface of the uniform solid sphere of radius 477 m and mass 202 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -2.82e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 114 m and mass 151 kg?",
+        "input": "Gravitational Potential (V) = cal3(151, 114) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 114 m and mass 151 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -1.33e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 183 m from the center of the uniform solid sphere of radius 207 m and mass 218 kg?",
+        "input": "Gravitational Potential (V) = cal1(218, 183, 207) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 183 m from the center of the uniform solid sphere of radius 207 m and mass 218 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -7.79e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the uniform solid sphere of radius 417 m and mass 405 kg?",
+        "input": "Gravitational Potential (V) = cal3(405, 417) joule/kg",
+        "output": "The gravitational potential at a point P on the surface of the uniform solid sphere of radius 417 m and mass 405 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -6.48e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 319 m from the center of the uniform solid sphere of radius 341 m and mass 354 kg?",
+        "input": "Gravitational Potential (V) = cal1(354, 319, 341) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 319 m from the center of the uniform solid sphere of radius 341 m and mass 354 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -7.36e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 32 m from the center of the uniform solid sphere of radius 51 m and mass 214 kg?",
+        "input": "Gravitational Potential (V) = cal1(214, 32, 51) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 32 m from the center of the uniform solid sphere of radius 51 m and mass 214 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -3.65e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 308 m from the center of the uniform solid sphere of radius 361 m and mass 73 kg?",
+        "input": "Gravitational Potential (V) = cal1(73, 308, 361) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 308 m from the center of the uniform solid sphere of radius 361 m and mass 73 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -1.53e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 122 m and mass 356 kg?",
+        "input": "Gravitational Potential (V) = cal3(356, 122) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 122 m and mass 356 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -2.92e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 183 m from the center of the uniform solid sphere of radius 268 m and mass 202 kg?",
+        "input": "Gravitational Potential (V) = cal1(202, 183, 268) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 183 m from the center of the uniform solid sphere of radius 268 m and mass 202 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -6.37e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 20 m from the center of the uniform solid sphere of radius 21 m and mass 72 kg?",
+        "input": "Gravitational Potential (V) = cal1(72, 20, 21) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 20 m from the center of the uniform solid sphere of radius 21 m and mass 72 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -2.39e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 115 m and mass 192 kg?",
+        "input": "Gravitational Potential (V) = cal3(192, 115) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 115 m and mass 192 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -1.67e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the uniform solid sphere of radius 457 m and mass 385 kg?",
+        "input": "Gravitational Potential (V) = cal3(385, 457) joule/kg",
+        "output": "The gravitational potential at a point P on the surface of the uniform solid sphere of radius 457 m and mass 385 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -5.62e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 105 m from the center of the uniform solid sphere of radius 171 m and mass 71 kg?",
+        "input": "Gravitational Potential (V) = cal1(71, 105, 171) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 105 m from the center of the uniform solid sphere of radius 171 m and mass 71 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -3.63e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 461 m and mass 359 kg?",
+        "input": "Gravitational Potential (V) = cal3(359, 461) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 461 m and mass 359 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -7.79e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 188 m and mass 123 kg?",
+        "input": "Gravitational Potential (V) = cal3(123, 188) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 188 m and mass 123 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -6.55e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 342 m from the center of the uniform solid sphere of radius 426 m and mass 309 kg?",
+        "input": "Gravitational Potential (V) = cal1(309, 342, 426) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 342 m from the center of the uniform solid sphere of radius 426 m and mass 309 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -5.70e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 75 m from the center of the uniform solid sphere of radius 90 m and mass 287 kg?",
+        "input": "Gravitational Potential (V) = cal1(287, 75, 90) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 75 m from the center of the uniform solid sphere of radius 90 m and mass 287 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -2.45e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 340 m from the center of the uniform solid sphere of radius 351 m and mass 241 kg?",
+        "input": "Gravitational Potential (V) = cal1(241, 340, 351) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 340 m from the center of the uniform solid sphere of radius 351 m and mass 241 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -4.72e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the uniform solid sphere of radius 36 m and mass 150 kg?",
+        "input": "Gravitational Potential (V) = cal3(150, 36) joule/kg",
+        "output": "The gravitational potential at a point P on the surface of the uniform solid sphere of radius 36 m and mass 150 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -2.78e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 456 m and mass 496 kg?",
+        "input": "Gravitational Potential (V) = cal3(496, 456) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 456 m and mass 496 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -1.09e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 396 m from the center of the uniform solid sphere of radius 476 m and mass 472 kg?",
+        "input": "Gravitational Potential (V) = cal1(472, 396, 476) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 396 m from the center of the uniform solid sphere of radius 476 m and mass 472 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -7.63e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 279 m and mass 161 kg?",
+        "input": "Gravitational Potential (V) = cal3(161, 279) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 279 m and mass 161 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -5.77e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 547 m and mass 201 kg?",
+        "input": "Gravitational Potential (V) = cal3(201, 547) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 547 m and mass 201 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -3.68e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 200 m and mass 275 kg?",
+        "input": "Gravitational Potential (V) = cal3(275, 200) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 200 m and mass 275 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -1.38e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the uniform solid sphere of radius 379 m and mass 217 kg?",
+        "input": "Gravitational Potential (V) = cal3(217, 379) joule/kg",
+        "output": "The gravitational potential at a point P on the surface of the uniform solid sphere of radius 379 m and mass 217 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -3.82e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 210 m and mass 83 kg?",
+        "input": "Gravitational Potential (V) = cal3(83, 210) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 210 m and mass 83 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -3.95e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 85 m from the center of the uniform solid sphere of radius 185 m and mass 330 kg?",
+        "input": "Gravitational Potential (V) = cal1(330, 85, 185) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 85 m from the center of the uniform solid sphere of radius 185 m and mass 330 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -1.66e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 470 m from the center of the uniform solid sphere of radius 518 m and mass 389 kg?",
+        "input": "Gravitational Potential (V) = cal1(389, 470, 518) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 470 m from the center of the uniform solid sphere of radius 518 m and mass 389 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -5.45e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the uniform solid sphere of radius 433 m and mass 176 kg?",
+        "input": "Gravitational Potential (V) = cal3(176, 433) joule/kg",
+        "output": "The gravitational potential at a point P on the surface of the uniform solid sphere of radius 433 m and mass 176 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -2.71e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 211 m from the center of the uniform solid sphere of radius 233 m and mass 71 kg?",
+        "input": "Gravitational Potential (V) = cal1(71, 211, 233) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 211 m from the center of the uniform solid sphere of radius 233 m and mass 71 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -2.22e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at the center of the uniform solid sphere of radius 92 m and mass 291 kg?",
+        "input": "Gravitational Potential (V) = cal3(291, 92) joule/kg",
+        "output": "The gravitational potential at the center of the uniform solid sphere of radius 92 m and mass 291 kg is given by the formula V = (-3 * G * m) / (2 * r), where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -3.16e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 173 m from the center of the uniform solid sphere of radius 243 m and mass 490 kg?",
+        "input": "Gravitational Potential (V) = cal1(490, 173, 243) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 173 m from the center of the uniform solid sphere of radius 243 m and mass 490 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -1.68e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the uniform solid sphere of radius 290 m and mass 467 kg?",
+        "input": "Gravitational Potential (V) = cal3(467, 290) joule/kg",
+        "output": "The gravitational potential at a point P on the surface of the uniform solid sphere of radius 290 m and mass 467 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -1.07e-10 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 222 m from the center of the uniform solid sphere of radius 235 m and mass 202 kg?",
+        "input": "Gravitational Potential (V) = cal1(202, 222, 235) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 222 m from the center of the uniform solid sphere of radius 235 m and mass 202 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -6.04e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P on the surface of the uniform solid sphere of radius 396 m and mass 227 kg?",
+        "input": "Gravitational Potential (V) = cal3(227, 396) joule/kg",
+        "output": "The gravitational potential at a point P on the surface of the uniform solid sphere of radius 396 m and mass 227 kg is given by the formula V = (-G * m) / r, where G is the gravitational constant, m is the mass, and r is the distance. Plugging in the values, we get V = -3.82e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 163 m from the center of the uniform solid sphere of radius 217 m and mass 18 kg?",
+        "input": "Gravitational Potential (V) = cal1(18, 163, 217) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 163 m from the center of the uniform solid sphere of radius 217 m and mass 18 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -6.74e-12 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 208 m from the center of the uniform solid sphere of radius 279 m and mass 219 kg?",
+        "input": "Gravitational Potential (V) = cal1(219, 208, 279) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 208 m from the center of the uniform solid sphere of radius 279 m and mass 219 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -6.40e-11 joule/kg."
+    },
+    {
+        "instruction": "What is the gravitational potential at a point P at a distance of 122 m from the center of the uniform solid sphere of radius 215 m and mass 471 kg?",
+        "input": "Gravitational Potential (V) = cal1(471, 122, 215) joule/kg",
+        "output": "The gravitational potential at a point P at a distance of 122 m from the center of the uniform solid sphere of radius 215 m and mass 471 kg is given by the formula V = (-G * m * (3 * R^2 - r^2)) / (2 * R^3), where G is the gravitational constant, m is the mass, r is the distance, and R is the radius. Plugging in the values, we get V = -1.96e-10 joule/kg."
+    },
+    {
+        "instruction": "Suppose there existed a planet that went around the Sun 2476/495 times as fast as the Earth. What would be its orbital size as compared to that of the Earth?",
+        "input": "Orbital Size Ratio = (T_p / T_e)^(2/3) = (2476/495)^(2/3)",
+        "output": "The orbital size of the planet compared to that of the Earth would be approximately 2.9 times faster than Earth."
+    },
+    {
+        "instruction": "Suppose there existed a planet that went around the Sun 1523/1460 times as fast as the Earth. What would be its orbital size as compared to that of the Earth?",
+        "input": "Orbital Size Ratio = (T_p / T_e)^(2/3) = (1523/1460)^(2/3)",
+        "output": "The orbital size of the planet compared to that of the Earth would be approximately 1.0 times faster than Earth."
+    },
+    {
+        "instruction": "Suppose there existed a planet that went around the Sun 2301/2162 times as fast as the Earth. What would be its orbital size as compared to that of the Earth?",
+        "input": "Orbital Size Ratio = (T_p / T_e)^(2/3) = (2301/2162)^(2/3)",
+        "output": "The orbital size of the planet compared to that of the Earth would be approximately 1.0 times faster than Earth."
+    },
+    {
+        "instruction": "Suppose there existed a planet that went around the Sun 976/2480 times as fast as the Earth. What would be its orbital size as compared to that of the Earth?",
+        "input": "Orbital Size Ratio = (T_p / T_e)^(2/3) = (976/2480)^(2/3)",
+        "output": "The orbital size of the planet compared to that of the Earth would be approximately 0.5 times faster than Earth."
+    },
+    {
+        "instruction": "Suppose there existed a planet that went around the Sun 2555/2769 times as fast as the Earth. What would be its orbital size as compared to that of the Earth?",
+        "input": "Orbital Size Ratio = (T_p / T_e)^(2/3) = (2555/2769)^(2/3)",
+        "output": "The orbital size of the planet compared to that of the Earth would be approximately 0.9 times faster than Earth."
+    },
+    {
+        "instruction": "Suppose there existed a planet that went around the Sun 2218/2377 times as fast as the Earth. What would be its orbital size as compared to that of the Earth?",
+        "input": "Orbital Size Ratio = (T_p / T_e)^(2/3) = (2218/2377)^(2/3)",
+        "output": "The orbital size of the planet compared to that of the Earth would be approximately 1.0 times faster than Earth."
+    },
+    {
+        "instruction": "Suppose there existed a planet that went around the Sun 214/1119 times as fast as the Earth. What would be its orbital size as compared to that of the Earth?",
+        "input": "Orbital Size Ratio = (T_p / T_e)^(2/3) = (214/1119)^(2/3)",
+        "output": "The orbital size of the planet compared to that of the Earth would be approximately 0.3 times faster than Earth."
+    },
+    {
+        "instruction": "Suppose there existed a planet that went around the Sun 2472/1715 times as fast as the Earth. What would be its orbital size as compared to that of the Earth?",
+        "input": "Orbital Size Ratio = (T_p / T_e)^(2/3) = (2472/1715)^(2/3)",
+        "output": "The orbital size of the planet compared to that of the Earth would be approximately 1.3 times faster than Earth."
+    },
+    {
+        "instruction": "Suppose there existed a planet that went around the Sun 1827/595 times as fast as the Earth. What would be its orbital size as compared to that of the Earth?",
+        "input": "Orbital Size Ratio = (T_p / T_e)^(2/3) = (1827/595)^(2/3)",
+        "output": "The orbital size of the planet compared to that of the Earth would be approximately 2.1 times faster than Earth."
+    },
+    {
+        "instruction": "Suppose there existed a planet that went around the Sun 2401/2210 times as fast as the Earth. What would be its orbital size as compared to that of the Earth?",
+        "input": "Orbital Size Ratio = (T_p / T_e)^(2/3) = (2401/2210)^(2/3)",
+        "output": "The orbital size of the planet compared to that of the Earth would be approximately 1.1 times faster than Earth."
+    },
+    {
+        "instruction": "Assume an unknown planet of orbital period 555 days is rotating around the sun with an orbit of radius 291 * 10^8 m. What is the ratio of the mass of the sun to the mass of the unknown planet?",
+        "input": "Mass Ratio = ((R_earth^3) * (T_planet^2)) / ((R_planet^3) * (T_earth^2)) = ((149.6 * 10^8)^3 * (555^2)) / ((291 * 10^8)^3 * (365.25^2))",
+        "output": "The ratio of the mass of the sun to the mass of the unknown planet is approximately 0.3."
+    },
+    {
+        "instruction": "Assume an unknown planet of orbital period 1802 days is rotating around the sun with an orbit of radius 930 * 10^8 m. What is the ratio of the mass of the sun to the mass of the unknown planet?",
+        "input": "Mass Ratio = ((R_earth^3) * (T_planet^2)) / ((R_planet^3) * (T_earth^2)) = ((149.6 * 10^8)^3 * (1802^2)) / ((930 * 10^8)^3 * (365.25^2))",
+        "output": "The ratio of the mass of the sun to the mass of the unknown planet is approximately 0.1."
+    },
+    {
+        "instruction": "Assume an unknown planet of orbital period 1521 days is rotating around the sun with an orbit of radius 1665 * 10^8 m. What is the ratio of the mass of the sun to the mass of the unknown planet?",
+        "input": "Mass Ratio = ((R_earth^3) * (T_planet^2)) / ((R_planet^3) * (T_earth^2)) = ((149.6 * 10^8)^3 * (1521^2)) / ((1665 * 10^8)^3 * (365.25^2))",
+        "output": "The ratio of the mass of the sun to the mass of the unknown planet is approximately 0.0."
+    },
+    {
+        "instruction": "Assume an unknown planet of orbital period 1397 days is rotating around the sun with an orbit of radius 520 * 10^8 m. What is the ratio of the mass of the sun to the mass of the unknown planet?",
+        "input": "Mass Ratio = ((R_earth^3) * (T_planet^2)) / ((R_planet^3) * (T_earth^2)) = ((149.6 * 10^8)^3 * (1397^2)) / ((520 * 10^8)^3 * (365.25^2))",
+        "output": "The ratio of the mass of the sun to the mass of the unknown planet is approximately 0.3."
+    },
+    {
+        "instruction": "Assume an unknown planet of orbital period 1714 days is rotating around the sun with an orbit of radius 809 * 10^8 m. What is the ratio of the mass of the sun to the mass of the unknown planet?",
+        "input": "Mass Ratio = ((R_earth^3) * (T_planet^2)) / ((R_planet^3) * (T_earth^2)) = ((149.6 * 10^8)^3 * (1714^2)) / ((809 * 10^8)^3 * (365.25^2))",
+        "output": "The ratio of the mass of the sun to the mass of the unknown planet is approximately 0.1."
+    },
+    {
+        "instruction": "Assume an unknown planet of orbital period 859 days is rotating around the sun with an orbit of radius 962 * 10^8 m. What is the ratio of the mass of the sun to the mass of the unknown planet?",
+        "input": "Mass Ratio = ((R_earth^3) * (T_planet^2)) / ((R_planet^3) * (T_earth^2)) = ((149.6 * 10^8)^3 * (859^2)) / ((962 * 10^8)^3 * (365.25^2))",
+        "output": "The ratio of the mass of the sun to the mass of the unknown planet is approximately 0.0."
+    },
+    {
+        "instruction": "Assume an unknown planet of orbital period 1976 days is rotating around the sun with an orbit of radius 826 * 10^8 m. What is the ratio of the mass of the sun to the mass of the unknown planet?",
+        "input": "Mass Ratio = ((R_earth^3) * (T_planet^2)) / ((R_planet^3) * (T_earth^2)) = ((149.6 * 10^8)^3 * (1976^2)) / ((826 * 10^8)^3 * (365.25^2))",
+        "output": "The ratio of the mass of the sun to the mass of the unknown planet is approximately 0.2."
+    },
+    {
+        "instruction": "Assume an unknown planet of orbital period 890 days is rotating around the sun with an orbit of radius 530 * 10^8 m. What is the ratio of the mass of the sun to the mass of the unknown planet?",
+        "input": "Mass Ratio = ((R_earth^3) * (T_planet^2)) / ((R_planet^3) * (T_earth^2)) = ((149.6 * 10^8)^3 * (890^2)) / ((530 * 10^8)^3 * (365.25^2))",
+        "output": "The ratio of the mass of the sun to the mass of the unknown planet is approximately 0.1."
+    },
+    {
+        "instruction": "Assume an unknown planet of orbital period 343 days is rotating around the sun with an orbit of radius 1217 * 10^8 m. What is the ratio of the mass of the sun to the mass of the unknown planet?",
+        "input": "Mass Ratio = ((R_earth^3) * (T_planet^2)) / ((R_planet^3) * (T_earth^2)) = ((149.6 * 10^8)^3 * (343^2)) / ((1217 * 10^8)^3 * (365.25^2))",
+        "output": "The ratio of the mass of the sun to the mass of the unknown planet is approximately 0.0."
+    },
+    {
+        "instruction": "Assume an unknown planet of orbital period 859 days is rotating around the sun with an orbit of radius 1868 * 10^8 m. What is the ratio of the mass of the sun to the mass of the unknown planet?",
+        "input": "Mass Ratio = ((R_earth^3) * (T_planet^2)) / ((R_planet^3) * (T_earth^2)) = ((149.6 * 10^8)^3 * (859^2)) / ((1868 * 10^8)^3 * (365.25^2))",
+        "output": "The ratio of the mass of the sun to the mass of the unknown planet is approximately 0.0."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 86000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 8000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 690000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 86000000000000000000000000000000) / (8000000000000)) + ((6.67 * 10^-11) * 86000000000000000000000000000000) / (1380000000))",
+        "output": "The speed with which the stars collide is approximately 2.04e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 35000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 72000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 790000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 35000000000000000000000000000000) / (72000000000000)) + ((6.67 * 10^-11) * 35000000000000000000000000000000) / (1580000000))",
+        "output": "The speed with which the stars collide is approximately 1.22e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 45000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 56000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 900000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 45000000000000000000000000000000) / (56000000000000)) + ((6.67 * 10^-11) * 45000000000000000000000000000000) / (1800000000))",
+        "output": "The speed with which the stars collide is approximately 1.29e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 47000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 30000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 820000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 47000000000000000000000000000000) / (30000000000000)) + ((6.67 * 10^-11) * 47000000000000000000000000000000) / (1640000000))",
+        "output": "The speed with which the stars collide is approximately 1.38e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 75000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 49000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 660000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 75000000000000000000000000000000) / (49000000000000)) + ((6.67 * 10^-11) * 75000000000000000000000000000000) / (1320000000))",
+        "output": "The speed with which the stars collide is approximately 1.95e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 88000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 26000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 450000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 88000000000000000000000000000000) / (26000000000000)) + ((6.67 * 10^-11) * 88000000000000000000000000000000) / (900000000))",
+        "output": "The speed with which the stars collide is approximately 2.55e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 12000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 87000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 690000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 12000000000000000000000000000000) / (87000000000000)) + ((6.67 * 10^-11) * 12000000000000000000000000000000) / (1380000000))",
+        "output": "The speed with which the stars collide is approximately 7.62e+05 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 79000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 66000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 510000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 79000000000000000000000000000000) / (66000000000000)) + ((6.67 * 10^-11) * 79000000000000000000000000000000) / (1020000000))",
+        "output": "The speed with which the stars collide is approximately 2.27e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 89000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 64000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 940000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 89000000000000000000000000000000) / (64000000000000)) + ((6.67 * 10^-11) * 89000000000000000000000000000000) / (1880000000))",
+        "output": "The speed with which the stars collide is approximately 1.78e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 24000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 4000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 250000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 24000000000000000000000000000000) / (4000000000000)) + ((6.67 * 10^-11) * 24000000000000000000000000000000) / (500000000))",
+        "output": "The speed with which the stars collide is approximately 1.79e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 74000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 40000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 310000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 74000000000000000000000000000000) / (40000000000000)) + ((6.67 * 10^-11) * 74000000000000000000000000000000) / (620000000))",
+        "output": "The speed with which the stars collide is approximately 2.82e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 76000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 61000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 580000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 76000000000000000000000000000000) / (61000000000000)) + ((6.67 * 10^-11) * 76000000000000000000000000000000) / (1160000000))",
+        "output": "The speed with which the stars collide is approximately 2.09e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 28000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 77000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 520000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 28000000000000000000000000000000) / (77000000000000)) + ((6.67 * 10^-11) * 28000000000000000000000000000000) / (1040000000))",
+        "output": "The speed with which the stars collide is approximately 1.34e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 53000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 25000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 510000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 53000000000000000000000000000000) / (25000000000000)) + ((6.67 * 10^-11) * 53000000000000000000000000000000) / (1020000000))",
+        "output": "The speed with which the stars collide is approximately 1.86e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 97000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 48000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 100000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 97000000000000000000000000000000) / (48000000000000)) + ((6.67 * 10^-11) * 97000000000000000000000000000000) / (200000000))",
+        "output": "The speed with which the stars collide is approximately 5.69e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 28000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 26000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 200000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 28000000000000000000000000000000) / (26000000000000)) + ((6.67 * 10^-11) * 28000000000000000000000000000000) / (400000000))",
+        "output": "The speed with which the stars collide is approximately 2.16e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 89000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 14000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 600000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 89000000000000000000000000000000) / (14000000000000)) + ((6.67 * 10^-11) * 89000000000000000000000000000000) / (1200000000))",
+        "output": "The speed with which the stars collide is approximately 2.22e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 45000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 47000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 90000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 45000000000000000000000000000000) / (47000000000000)) + ((6.67 * 10^-11) * 45000000000000000000000000000000) / (180000000))",
+        "output": "The speed with which the stars collide is approximately 4.08e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 45000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 23000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 630000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 45000000000000000000000000000000) / (23000000000000)) + ((6.67 * 10^-11) * 45000000000000000000000000000000) / (1260000000))",
+        "output": "The speed with which the stars collide is approximately 1.54e+06 m/s."
+    },
+    {
+        "instruction": "Two stars each of one solar mass 3000000000000000000000000000000 kg are approaching each other for a head-on collision. When they are at a distance 6000000000 km, their speeds are negligible. What is the speed with which they collide? The radius of each star is 40000 km. Assume the stars remain undistorted until they collide.",
+        "input": "Speed = sqrt((-G*m/R) + (G*m/(2*r))) = sqrt(((-6.67 * 10^-11) * 3000000000000000000000000000000) / (6000000000000)) + ((6.67 * 10^-11) * 3000000000000000000000000000000) / (80000000))",
+        "output": "The speed with which the stars collide is approximately 1.58e+06 m/s."
+    },
+    {
+        "instruction": "A satellite of mass 600 kg orbits around a planet at a height of 4000 m from the surface of the planet. What is the gravitational potential energy on the satellite due to the planet's magnetic field? Mass of the planet = 830000000000 kg and radius of the planet = 9000000 m.",
+        "input": "Gravitational -M / (h + R)",
+        "output": "The gravitational potential energy on the satellite due to the planet's magnetic field is approximately -9.22e+04 joules."
+    },
+    {
+        "instruction": "A satellite of mass 451 kg orbits around a planet at a height of 7000 m from the surface of the planet. What is the gravitational potential on the satellite due to the planet's magnetic field? Mass of the planet = 90000000000 kg and radius of the planet = 3000000 m.",
+        "input": "Gravitational -M * m / (h + R)",
+        "output": "The gravitational potential on the satellite due to the planet's magnetic field is approximately -1.35e+07 joule/kg."
+    },
+    {
+        "instruction": "A satellite of mass 533 kg orbits around a planet at a height of 5000 m from the surface of the planet. What is the gravitational potential on the satellite due to the planet's magnetic field? Mass of the planet = 150000000000 kg and radius of the planet = 9000000 m.",
+        "input": "Gravitational -M * m / (h + R)",
+        "output": "The gravitational potential on the satellite due to the planet's magnetic field is approximately -8.88e+06 joule/kg."
+    },
+    {
+        "instruction": "A satellite of mass 449 kg orbits around a planet at a height of 3000 m from the surface of the planet. What is the gravitational potential energy on the satellite due to the planet's magnetic field? Mass of the planet = 740000000000 kg and radius of the planet = 5000000 m.",
+        "input": "Gravitational -M / (h + R)",
+        "output": "The gravitational potential energy on the satellite due to the planet's magnetic field is approximately -1.48e+05 joules."
+    },
+    {
+        "instruction": "A satellite of mass 531 kg orbits around a planet at a height of 2000 m from the surface of the planet. What is the gravitational potential energy on the satellite due to the planet's magnetic field? Mass of the planet = 900000000000 kg and radius of the planet = 9000000 m.",
+        "input": "Gravitational -M / (h + R)",
+        "output": "The gravitational potential energy on the satellite due to the planet's magnetic field is approximately -1.00e+05 joules."
+    },
+    {
+        "instruction": "A satellite of mass 466 kg orbits around a planet at a height of 8000 m from the surface of the planet. What is the gravitational potential energy on the satellite due to the planet's magnetic field? Mass of the planet = 220000000000 kg and radius of the planet = 5000000 m.",
+        "input": "Gravitational -M / (h + R)",
+        "output": "The gravitational potential energy on the satellite due to the planet's magnetic field is approximately -4.39e+04 joules."
+    },
+    {
+        "instruction": "A satellite of mass 581 kg orbits around a planet at a height of 4000 m from the surface of the planet. What is the gravitational potential on the satellite due to the planet's magnetic field? Mass of the planet = 90000000000 kg and radius of the planet = 10000000 m.",
+        "input": "Gravitational -M * m / (h + R)",
+        "output": "The gravitational potential on the satellite due to the planet's magnetic field is approximately -5.23e+06 joule/kg."
+    },
+    {
+        "instruction": "A satellite of mass 564 kg orbits around a planet at a height of 9000 m from the surface of the planet. What is the gravitational potential energy on the satellite due to the planet's magnetic field? Mass of the planet = 310000000000 kg and radius of the planet = 1000000 m.",
+        "input": "Gravitational -M / (h + R)",
+        "output": "The gravitational potential energy on the satellite due to the planet's magnetic field is approximately -3.07e+05 joules."
+    },
+    {
+        "instruction": "A satellite of mass 427 kg orbits around a planet at a height of 6000 m from the surface of the planet. What is the gravitational potential on the satellite due to the planet's magnetic field? Mass of the planet = 10000000000 kg and radius of the planet = 2000000 m.",
+        "input": "Gravitational -M * m / (h + R)",
+        "output": "The gravitational potential on the satellite due to the planet's magnetic field is approximately -2.13e+06 joule/kg."
+    },
+    {
+        "instruction": "A satellite of mass 459 kg orbits around a planet at a height of 7000 m from the surface of the planet. What is the gravitational potential on the satellite due to the planet's magnetic field? Mass of the planet = 10000000000 kg and radius of the planet = 1000000 m.",
+        "input": "Gravitational -M * m / (h + R)",
+        "output": "The gravitational potential on the satellite due to the planet's magnetic field is approximately -4.56e+06 joule/kg."
+    },
+    {
+        "instruction": "A satellite orbits the earth at a height of 152 km above the surface. How much potential must be expended to rocket the satellite out of the planet's gravitational influence? Mass of the satellite = 200 kg; mass of the planet = 6e+24 kg; radius of the planet = 6400000.0 m.",
+        "input": "-(g * m * M) / (r + h)",
+        "output": "The gravitational potential required to rocket the satellite out of the planet's gravitational influence is approximately -1.25e+10 joules."
+    },
+    {
+        "instruction": "A satellite orbits the earth at a height of 356 km above the surface. How much energy must be expended to rocket the satellite out of the planet's gravitational influence? Mass of the satellite = 200 kg; mass of the planet = 6e+24 kg; radius of the planet = 6400000.0 m.",
+        "input": "(g * m * M) / (2 * (r + h))",
+        "output": "The energy required to rocket the satellite out of the planet's gravitational influence is approximately 6.25e+09 joules."
+    },
+    {
+        "instruction": "A satellite orbits the earth at a height of 967 km above the surface. How much potential must be expended to rocket the satellite out of the planet's gravitational influence? Mass of the satellite = 200 kg; mass of the planet = 6e+24 kg; radius of the planet = 6400000.0 m.",
+        "input": "-(g * m * M) / (r + h)",
+        "output": "The gravitational potential required to rocket the satellite out of the planet's gravitational influence is approximately -1.25e+10 joules."
+    },
+    {
+        "instruction": "A satellite orbits the earth at a height of 780 km above the surface. How much potential must be expended to rocket the satellite out of the planet's gravitational influence? Mass of the satellite = 200 kg; mass of the planet = 6e+24 kg; radius of the planet = 6400000.0 m.",
+        "input": "-(g * m * M) / (r + h)",
+        "output": "The gravitational potential required to rocket the satellite out of the planet's gravitational influence is approximately -1.25e+10 joules."
+    },
+    {
+        "instruction": "A satellite orbits the earth at a height of 225 km above the surface. How much energy must be expended to rocket the satellite out of the planet's gravitational influence? Mass of the satellite = 200 kg; mass of the planet = 6e+24 kg; radius of the planet = 6400000.0 m.",
+        "input": "(g * m * M) / (2 * (r + h))",
+        "output": "The energy required to rocket the satellite out of the planet's gravitational influence is approximately 6.25e+09 joules."
+    },
+    {
+        "instruction": "A satellite orbits the earth at a height of 716 km above the surface. How much energy must be expended to rocket the satellite out of the planet's gravitational influence? Mass of the satellite = 200 kg; mass of the planet = 6e+24 kg; radius of the planet = 6400000.0 m.",
+        "input": "(g * m * M) / (2 * (r + h))",
+        "output": "The energy required to rocket the satellite out of the planet's gravitational influence is approximately 6.25e+09 joules."
+    },
+    {
+        "instruction": "A satellite orbits the earth at a height of 1012 km above the surface. How much potential must be expended to rocket the satellite out of the planet's gravitational influence? Mass of the satellite = 200 kg; mass of the planet = 6e+24 kg; radius of the planet = 6400000.0 m.",
+        "input": "-(g * m * M) / (r + h)",
+        "output": "The gravitational potential required to rocket the satellite out of the planet's gravitational influence is approximately -1.25e+10 joules."
+    },
+    {
+        "instruction": "A satellite orbits the earth at a height of 330 km above the surface. How much energy must be expended to rocket the satellite out of the planet's gravitational influence? Mass of the satellite = 200 kg; mass of the planet = 6e+24 kg; radius of the planet = 6400000.0 m.",
+        "input": "(g * m * M) / (2 * (r + h))",
+        "output": "The energy required to rocket the satellite out of the planet's gravitational influence is approximately 6.25e+09 joules."
+    },
+    {
+        "instruction": "A satellite orbits the earth at a height of 851 km above the surface. How much energy must be expended to rocket the satellite out of the planet's gravitational influence? Mass of the satellite = 200 kg; mass of the planet = 6e+24 kg; radius of the planet = 6400000.0 m.",
+        "input": "(g * m * M) / (2 * (r + h))",
+        "output": "The energy required to rocket the satellite out of the planet's gravitational influence is approximately 6.25e+09 joules."
+    },
+    {
+        "instruction": "A satellite orbits the earth at a height of 1003 km above the surface. How much potential must be expended to rocket the satellite out of the planet's gravitational influence? Mass of the satellite = 200 kg; mass of the planet = 6e+24 kg; radius of the planet = 6400000.0 m.",
+        "input": "-(g * m * M) / (r + h)",
+        "output": "The gravitational potential required to rocket the satellite out of the planet's gravitational influence is approximately -1.25e+10 joules."
+    }
+]

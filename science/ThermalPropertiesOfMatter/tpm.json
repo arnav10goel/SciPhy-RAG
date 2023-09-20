@@ -1,0 +1,1352 @@
+[
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 88 cm at 106 degree C. What is the change in the diameter of the hole when the sheet is heated to 367 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 18.307 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a steel sheet. The diameter of the hole is 19 cm at 110 degree C. What is the change in the diameter of the hole when the sheet is heated to 289 degree C? Coefficient of linear expansion of steel = 1.2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 0.384 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 43 cm at 100 degree C. What is the change in the diameter of the hole when the sheet is heated to 338 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 4.196 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a copper sheet. The diameter of the hole is 49 cm at 42 degree C. What is the change in the diameter of the hole when the sheet is heated to 357 degree C? Coefficient of linear expansion of copper = 1.7 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 6.055 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 83 cm at 55 degree C. What is the change in the diameter of the hole when the sheet is heated to 374 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 19.65 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 108 cm at 62 degree C. What is the change in the diameter of the hole when the sheet is heated to 283 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 23.27 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 31 cm at 51 degree C. What is the change in the diameter of the hole when the sheet is heated to 232 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 1.693 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a copper sheet. The diameter of the hole is 54 cm at 79 degree C. What is the change in the diameter of the hole when the sheet is heated to 452 degree C? Coefficient of linear expansion of copper = 1.7 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 8.566 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 30 cm at 10 degree C. What is the change in the diameter of the hole when the sheet is heated to 175 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 1.45 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a copper sheet. The diameter of the hole is 43 cm at 99 degree C. What is the change in the diameter of the hole when the sheet is heated to 267 degree C? Coefficient of linear expansion of copper = 1.7 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 2.564 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 35 cm at 49 degree C. What is the change in the diameter of the hole when the sheet is heated to 395 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 4.009 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a steel sheet. The diameter of the hole is 107 cm at 61 degree C. What is the change in the diameter of the hole when the sheet is heated to 241 degree C? Coefficient of linear expansion of steel = 1.2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 11.723 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a copper sheet. The diameter of the hole is 13 cm at 82 degree C. What is the change in the diameter of the hole when the sheet is heated to 405 degree C? Coefficient of linear expansion of copper = 1.7 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 0.456 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a steel sheet. The diameter of the hole is 35 cm at 29 degree C. What is the change in the diameter of the hole when the sheet is heated to 189 degree C? Coefficient of linear expansion of steel = 1.2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 1.157 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 20 cm at 59 degree C. What is the change in the diameter of the hole when the sheet is heated to 342 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 1.102 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 34 cm at 101 degree C. What is the change in the diameter of the hole when the sheet is heated to 488 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 4.213 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a copper sheet. The diameter of the hole is 21 cm at 33 degree C. What is the change in the diameter of the hole when the sheet is heated to 306 degree C? Coefficient of linear expansion of copper = 1.7 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 1.0 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 110 cm at 100 degree C. What is the change in the diameter of the hole when the sheet is heated to 294 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 21.394 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 29 cm at 95 degree C. What is the change in the diameter of the hole when the sheet is heated to 291 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 1.604 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a steel sheet. The diameter of the hole is 76 cm at 48 degree C. What is the change in the diameter of the hole when the sheet is heated to 255 degree C? Coefficient of linear expansion of steel = 1.2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 6.864 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a steel sheet. The diameter of the hole is 80 cm at 41 degree C. What is the change in the diameter of the hole when the sheet is heated to 197 degree C? Coefficient of linear expansion of steel = 1.2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 5.781 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 55 cm at 82 degree C. What is the change in the diameter of the hole when the sheet is heated to 299 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 6.213 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a steel sheet. The diameter of the hole is 87 cm at 102 degree C. What is the change in the diameter of the hole when the sheet is heated to 279 degree C? Coefficient of linear expansion of steel = 1.2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 7.698 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 106 cm at 100 degree C. What is the change in the diameter of the hole when the sheet is heated to 295 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 20.02 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a copper sheet. The diameter of the hole is 19 cm at 32 degree C. What is the change in the diameter of the hole when the sheet is heated to 289 degree C? Coefficient of linear expansion of copper = 1.7 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 0.773 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 95 cm at 81 degree C. What is the change in the diameter of the hole when the sheet is heated to 320 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 19.557 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a copper sheet. The diameter of the hole is 99 cm at 11 degree C. What is the change in the diameter of the hole when the sheet is heated to 229 degree C? Coefficient of linear expansion of copper = 1.7 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 16.745 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 98 cm at 99 degree C. What is the change in the diameter of the hole when the sheet is heated to 382 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 24.193 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a brass sheet. The diameter of the hole is 23 cm at 37 degree C. What is the change in the diameter of the hole when the sheet is heated to 427 degree C? Coefficient of linear expansion of brass = 2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 1.978 cm."
+    },
+    {
+        "instruction": "A hole is drilled in a steel sheet. The diameter of the hole is 41 cm at 39 degree C. What is the change in the diameter of the hole when the sheet is heated to 194 degree C? Coefficient of linear expansion of steel = 1.2 x 10-5K-1.",
+        "input": "Change in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter",
+        "output": "To calculate the change in diameter, we use the following formula:\n\nChange in diameter = initial diameter * sqrt(1 + (coefficient of linear expansion * initial diameter * (final temperature - initial temperature))) - initial diameter\n\nSubstituting the given values into the formula, we find that the change in diameter is approximately 1.535 cm."
+    },
+    {
+        "instruction": "A copper block of mass 2100 g is heated in a furnace to a temperature of 820 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.91 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 4677.7 g."
+    },
+    {
+        "instruction": "A copper block of mass 2624 g is heated in a furnace to a temperature of 777 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 2373.6 g."
+    },
+    {
+        "instruction": "A copper block of mass 1438 g is heated in a furnace to a temperature of 902 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.91 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 3523.4 g."
+    },
+    {
+        "instruction": "A copper block of mass 1333 g is heated in a furnace to a temperature of 876 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 1359.4 g."
+    },
+    {
+        "instruction": "A copper block of mass 1449 g is heated in a furnace to a temperature of 678 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.91 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 2668.7 g."
+    },
+    {
+        "instruction": "A copper block of mass 1430 g is heated in a furnace to a temperature of 777 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 1293.5 g."
+    },
+    {
+        "instruction": "A copper block of mass 2164 g is heated in a furnace to a temperature of 918 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 2312.7 g."
+    },
+    {
+        "instruction": "A copper block of mass 2466 g is heated in a furnace to a temperature of 981 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 2816.3 g."
+    },
+    {
+        "instruction": "A copper block of mass 2596 g is heated in a furnace to a temperature of 505 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 1526.2 g."
+    },
+    {
+        "instruction": "A copper block of mass 2531 g is heated in a furnace to a temperature of 955 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.91 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 6565.9 g."
+    },
+    {
+        "instruction": "A copper block of mass 2737 g is heated in a furnace to a temperature of 500 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 1593.2 g."
+    },
+    {
+        "instruction": "A copper block of mass 3233 g is heated in a furnace to a temperature of 953 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 3586.9 g."
+    },
+    {
+        "instruction": "A copper block of mass 3257 g is heated in a furnace to a temperature of 818 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 3101.6 g."
+    },
+    {
+        "instruction": "A copper block of mass 2116 g is heated in a furnace to a temperature of 692 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 1704.7 g."
+    },
+    {
+        "instruction": "A copper block of mass 1939 g is heated in a furnace to a temperature of 533 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 1203.2 g."
+    },
+    {
+        "instruction": "A copper block of mass 3134 g is heated in a furnace to a temperature of 742 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 2707.2 g."
+    },
+    {
+        "instruction": "A copper block of mass 3764 g is heated in a furnace to a temperature of 533 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 2335.6 g."
+    },
+    {
+        "instruction": "A copper block of mass 2426 g is heated in a furnace to a temperature of 950 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 2683.1 g."
+    },
+    {
+        "instruction": "A copper block of mass 3537 g is heated in a furnace to a temperature of 595 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 2450.0 g."
+    },
+    {
+        "instruction": "A copper block of mass 2454 g is heated in a furnace to a temperature of 524 degree C and then placed on a large ice block. What is the maximum amount of ice that can melt? Specific heat of copper is 0.39 Jg-1\u00b0C-1. Heat of fusion of water = 335 Jg-1.",
+        "input": "Maximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water",
+        "output": "To calculate the maximum amount of ice melted, we use the following formula:\n\nMaximum amount of ice melted = (mass of block * temperature change * specific heat) / heat of fusion of water\n\nSubstituting the given values into the formula, we find that the maximum amount of ice that can melt is approximately 1497.0 g."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 173 degree C, the outer diameter of the shaft is 167 cm and the diameter of the central hole in the wheel is 166.98 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 167.0 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 166 degree C, the outer diameter of the shaft is 180 cm and the diameter of the central hole in the wheel is 179.996 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 164.1 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 154 degree C, the outer diameter of the shaft is 195 cm and the diameter of the central hole in the wheel is 194.996 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 152.3 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 143 degree C, the outer diameter of the shaft is 172 cm and the diameter of the central hole in the wheel is 171.982 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 136.8 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 125 degree C, the outer diameter of the shaft is 175 cm and the diameter of the central hole in the wheel is 174.984 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 119.6 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 110 degree C, the outer diameter of the shaft is 127 cm and the diameter of the central hole in the wheel is 126.987 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 104.9 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 22 degree C, the outer diameter of the shaft is 144 cm and the diameter of the central hole in the wheel is 143.99 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 16.2 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 123 degree C, the outer diameter of the shaft is 80 cm and the diameter of the central hole in the wheel is 79.981 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 103.2 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 36 degree C, the outer diameter of the shaft is 29 cm and the diameter of the central hole in the wheel is 28.989 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 4.4 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 37 degree C, the outer diameter of the shaft is 155 cm and the diameter of the central hole in the wheel is 154.997 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 35.9 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 15 degree C, the outer diameter of the shaft is 150 cm and the diameter of the central hole in the wheel is 149.996 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 12.8 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 139 degree C, the outer diameter of the shaft is 145 cm and the diameter of the central hole in the wheel is 144.991 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 135.9 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 22 degree C, the outer diameter of the shaft is 60 cm and the diameter of the central hole in the wheel is 59.982 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately -3.0 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 180 degree C, the outer diameter of the shaft is 154 cm and the diameter of the central hole in the wheel is 153.99 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 176.8 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 114 degree C, the outer diameter of the shaft is 169 cm and the diameter of the central hole in the wheel is 168.986 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 109.1 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 171 degree C, the outer diameter of the shaft is 130 cm and the diameter of the central hole in the wheel is 129.98 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 158.2 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 146 degree C, the outer diameter of the shaft is 107 cm and the diameter of the central hole in the wheel is 106.993 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 140.5 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 34 degree C, the outer diameter of the shaft is 59 cm and the diameter of the central hole in the wheel is 58.998 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 31.2 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 140 degree C, the outer diameter of the shaft is 168 cm and the diameter of the central hole in the wheel is 167.995 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 137.5 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 19 degree C, the outer diameter of the shaft is 101 cm and the diameter of the central hole in the wheel is 100.993 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 13.2 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 141 degree C, the outer diameter of the shaft is 79 cm and the diameter of the central hole in the wheel is 78.989 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 134.0 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 174 degree C, the outer diameter of the shaft is 165 cm and the diameter of the central hole in the wheel is 164.995 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 172.2 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 103 degree C, the outer diameter of the shaft is 206 cm and the diameter of the central hole in the wheel is 205.99 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 100.1 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 150 degree C, the outer diameter of the shaft is 16 cm and the diameter of the central hole in the wheel is 15.999 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 146.9 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 120 degree C, the outer diameter of the shaft is 103 cm and the diameter of the central hole in the wheel is 102.989 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 113.7 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 110 degree C, the outer diameter of the shaft is 106 cm and the diameter of the central hole in the wheel is 105.987 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 99.8 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 168 degree C, the outer diameter of the shaft is 208 cm and the diameter of the central hole in the wheel is 207.99 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 164.0 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 83 degree C, the outer diameter of the shaft is 159 cm and the diameter of the central hole in the wheel is 158.986 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 75.7 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 153 degree C, the outer diameter of the shaft is 193 cm and the diameter of the central hole in the wheel is 192.997 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 152.1 degree C."
+    },
+    {
+        "instruction": "A large steel wheel is to be fitted onto a shaft of the same material. At 157 degree C, the outer diameter of the shaft is 27 cm and the diameter of the central hole in the wheel is 26.991 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? Assume the coefficient of linear expansion of the steel to be constant over the required temperature range \u03b1steel = 1.20 x 10-5K-1.",
+        "input": "Required temperature = t1 + ((d2 - d1) / (\u03b1 * d1))",
+        "output": "To calculate the required temperature, we use the following formula:\n\nRequired temperature = t1 + ((d2 - d1) / (\u03b1 * d1))\n\nSubstituting the given values into the formula, we find that the temperature is approximately 129.2 degree C."
+    },
+    {
+        "instruction": "A 84 kW drilling machine is used to drill a bore in a small aluminium block of mass 1 kg. How much is the rise in temperature of the block in 3 minutes, assuming 49 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 13569.2 degrees Celsius."
+    },
+    {
+        "instruction": "A 43 kW drilling machine is used to drill a bore in a small aluminium block of mass 18 kg. How much is the rise in temperature of the block in 9 minutes, assuming 12 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 661.5 degrees Celsius."
+    },
+    {
+        "instruction": "A 93 kW drilling machine is used to drill a bore in a small aluminium block of mass 4 kg. How much is the rise in temperature of the block in 5 minutes, assuming 57 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 7281.6 degrees Celsius."
+    },
+    {
+        "instruction": "A 40 kW drilling machine is used to drill a bore in a small aluminium block of mass 3 kg. How much is the rise in temperature of the block in 9 minutes, assuming 51 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 15692.3 degrees Celsius."
+    },
+    {
+        "instruction": "A 59 kW drilling machine is used to drill a bore in a small aluminium block of mass 19 kg. How much is the rise in temperature of the block in 9 minutes, assuming 45 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1382.0 degrees Celsius."
+    },
+    {
+        "instruction": "A 69 kW drilling machine is used to drill a bore in a small aluminium block of mass 18 kg. How much is the rise in temperature of the block in 9 minutes, assuming 16 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1415.4 degrees Celsius."
+    },
+    {
+        "instruction": "A 5 kW drilling machine is used to drill a bore in a small aluminium block of mass 11 kg. How much is the rise in temperature of the block in 8 minutes, assuming 35 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 326.3 degrees Celsius."
+    },
+    {
+        "instruction": "A 100 kW drilling machine is used to drill a bore in a small aluminium block of mass 9 kg. How much is the rise in temperature of the block in 7 minutes, assuming 47 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 4017.1 degrees Celsius."
+    },
+    {
+        "instruction": "A 4 kW drilling machine is used to drill a bore in a small aluminium block of mass 1 kg. How much is the rise in temperature of the block in 10 minutes, assuming 59 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 6051.3 degrees Celsius."
+    },
+    {
+        "instruction": "A 62 kW drilling machine is used to drill a bore in a small aluminium block of mass 10 kg. How much is the rise in temperature of the block in 5 minutes, assuming 20 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1589.7 degrees Celsius."
+    },
+    {
+        "instruction": "A 67 kW drilling machine is used to drill a bore in a small aluminium block of mass 16 kg. How much is the rise in temperature of the block in 9 minutes, assuming 11 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 455.6 degrees Celsius."
+    },
+    {
+        "instruction": "A 45 kW drilling machine is used to drill a bore in a small aluminium block of mass 6 kg. How much is the rise in temperature of the block in 8 minutes, assuming 19 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 2923.1 degrees Celsius."
+    },
+    {
+        "instruction": "A 57 kW drilling machine is used to drill a bore in a small aluminium block of mass 7 kg. How much is the rise in temperature of the block in 7 minutes, assuming 43 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 2693.4 degrees Celsius."
+    },
+    {
+        "instruction": "A 58 kW drilling machine is used to drill a bore in a small aluminium block of mass 11 kg. How much is the rise in temperature of the block in 8 minutes, assuming 36 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 3893.7 degrees Celsius."
+    },
+    {
+        "instruction": "A 41 kW drilling machine is used to drill a bore in a small aluminium block of mass 3 kg. How much is the rise in temperature of the block in 4 minutes, assuming 16 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 2242.7 degrees Celsius."
+    },
+    {
+        "instruction": "A 32 kW drilling machine is used to drill a bore in a small aluminium block of mass 13 kg. How much is the rise in temperature of the block in 6 minutes, assuming 22 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 833.1 degrees Celsius."
+    },
+    {
+        "instruction": "A 40 kW drilling machine is used to drill a bore in a small aluminium block of mass 19 kg. How much is the rise in temperature of the block in 6 minutes, assuming 37 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1198.4 degrees Celsius."
+    },
+    {
+        "instruction": "A 53 kW drilling machine is used to drill a bore in a small aluminium block of mass 13 kg. How much is the rise in temperature of the block in 10 minutes, assuming 43 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1926.5 degrees Celsius."
+    },
+    {
+        "instruction": "A 73 kW drilling machine is used to drill a bore in a small aluminium block of mass 20 kg. How much is the rise in temperature of the block in 8 minutes, assuming 21 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1572.3 degrees Celsius."
+    },
+    {
+        "instruction": "A 17 kW drilling machine is used to drill a bore in a small aluminium block of mass 7 kg. How much is the rise in temperature of the block in 8 minutes, assuming 57 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 2839.6 degrees Celsius."
+    },
+    {
+        "instruction": "A 89 kW drilling machine is used to drill a bore in a small aluminium block of mass 14 kg. How much is the rise in temperature of the block in 10 minutes, assuming 30 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 4890.1 degrees Celsius."
+    },
+    {
+        "instruction": "A 70 kW drilling machine is used to drill a bore in a small aluminium block of mass 11 kg. How much is the rise in temperature of the block in 5 minutes, assuming 49 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1713.3 degrees Celsius."
+    },
+    {
+        "instruction": "A 92 kW drilling machine is used to drill a bore in a small aluminium block of mass 19 kg. How much is the rise in temperature of the block in 2 minutes, assuming 21 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 521.5 degrees Celsius."
+    },
+    {
+        "instruction": "A 75 kW drilling machine is used to drill a bore in a small aluminium block of mass 13 kg. How much is the rise in temperature of the block in 6 minutes, assuming 33 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1255.3 degrees Celsius."
+    },
+    {
+        "instruction": "A 76 kW drilling machine is used to drill a bore in a small aluminium block of mass 5 kg. How much is the rise in temperature of the block in 4 minutes, assuming 58 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 9042.1 degrees Celsius."
+    },
+    {
+        "instruction": "A 23 kW drilling machine is used to drill a bore in a small aluminium block of mass 18 kg. How much is the rise in temperature of the block in 8 minutes, assuming 55 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 617.8 degrees Celsius."
+    },
+    {
+        "instruction": "A 100 kW drilling machine is used to drill a bore in a small aluminium block of mass 11 kg. How much is the rise in temperature of the block in 1 minutes, assuming 54 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 539.5 degrees Celsius."
+    },
+    {
+        "instruction": "A 52 kW drilling machine is used to drill a bore in a small aluminium block of mass 2 kg. How much is the rise in temperature of the block in 6 minutes, assuming 18 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 7200.0 degrees Celsius."
+    },
+    {
+        "instruction": "A 9 kW drilling machine is used to drill a bore in a small aluminium block of mass 8 kg. How much is the rise in temperature of the block in 2 minutes, assuming 57 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 328.8 degrees Celsius."
+    },
+    {
+        "instruction": "A 33 kW drilling machine is used to drill a bore in a small aluminium block of mass 3 kg. How much is the rise in temperature of the block in 10 minutes, assuming 26 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 3142.9 degrees Celsius."
+    },
+    {
+        "instruction": "A 21 kW drilling machine is used to drill a bore in a small aluminium block of mass 16 kg. How much is the rise in temperature of the block in 6 minutes, assuming 26 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 225.0 degrees Celsius."
+    },
+    {
+        "instruction": "A 9 kW drilling machine is used to drill a bore in a small aluminium block of mass 3 kg. How much is the rise in temperature of the block in 2 minutes, assuming 47 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 309.9 degrees Celsius."
+    },
+    {
+        "instruction": "A 85 kW drilling machine is used to drill a bore in a small aluminium block of mass 14 kg. How much is the rise in temperature of the block in 10 minutes, assuming 19 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1267.7 degrees Celsius."
+    },
+    {
+        "instruction": "A 24 kW drilling machine is used to drill a bore in a small aluminium block of mass 6 kg. How much is the rise in temperature of the block in 1 minutes, assuming 26 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 114.3 degrees Celsius."
+    },
+    {
+        "instruction": "A 98 kW drilling machine is used to drill a bore in a small aluminium block of mass 9 kg. How much is the rise in temperature of the block in 9 minutes, assuming 54 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 5815.4 degrees Celsius."
+    },
+    {
+        "instruction": "A 19 kW drilling machine is used to drill a bore in a small aluminium block of mass 10 kg. How much is the rise in temperature of the block in 8 minutes, assuming 39 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1520.0 degrees Celsius."
+    },
+    {
+        "instruction": "A 74 kW drilling machine is used to drill a bore in a small aluminium block of mass 10 kg. How much is the rise in temperature of the block in 7 minutes, assuming 19 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 2523.6 degrees Celsius."
+    },
+    {
+        "instruction": "A 7 kW drilling machine is used to drill a bore in a small aluminium block of mass 14 kg. How much is the rise in temperature of the block in 3 minutes, assuming 34 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 130.8 degrees Celsius."
+    },
+    {
+        "instruction": "A 84 kW drilling machine is used to drill a bore in a small aluminium block of mass 15 kg. How much is the rise in temperature of the block in 10 minutes, assuming 10 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 1435.9 degrees Celsius."
+    },
+    {
+        "instruction": "A 8 kW drilling machine is used to drill a bore in a small aluminium block of mass 13 kg. How much is the rise in temperature of the block in 4 minutes, assuming 32 percent of power is used up in heating the machine itself or lost to the surroundings? Specific heat of aluminium = 0.91 J g-1 K-1.",
+        "input": "Rise in temperature = (p * P * t) / (m * s)",
+        "output": "To calculate the rise in temperature, we use the following formula:\n\nRise in temperature = (p * P * t) / (m * s)\n\nSubstituting the given values into the formula, we find that the rise in temperature is approximately 86.6 degrees Celsius."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 707 A and -132 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately -5.36."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 16 A and -179 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately -0.09."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be -11 A and -121 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 0.09."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 591 A and 561 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 1.05."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 221 A and 416 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 0.53."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be -114 A and -47 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 2.43."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 580 A and 68 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 8.53."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 64 A and -76 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately -0.84."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be -171 A and 482 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately -0.35."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 194 A and 393 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 0.49."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 320 A and 510 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 0.63."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 673 A and 86 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 7.83."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 470 A and 216 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 2.18."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 691 A and 642 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 1.08."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 388 A and 395 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 0.98."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 104 A and 56 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 1.86."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be -122 A and -134 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 0.91."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be -164 A and 112 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately -1.46."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be 495 A and 383 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately 1.29."
+    },
+    {
+        "instruction": "Two absolute scales A and B have triple points of water defined to be -80 A and 19 B. What is the relation between TA and TB?",
+        "input": "Relation between TA and TB = TA / TB",
+        "output": "To find the relation between TA and TB, we divide the temperature on scale A (TA) by the temperature on scale B (TB). Therefore, the relation is given by:\n\nRelation between TA and TB = TA / TB\n\nSubstituting the given values, we find that the relation is approximately -4.21."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 63 degrees and 175 degrees respectively. If the temperature on the Kelvin scale is 318 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 113.4."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 162 degrees and 265 degrees respectively. If the temperature on the Fahrenheit scale is 166 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 238.7."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 164 degrees and 434 degrees respectively. If the temperature on the Kelvin scale is 397 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 498.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 26 degrees and 144 degrees respectively. If the temperature on the Fahrenheit scale is 72 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 52.2."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 126 degrees and 364 degrees respectively. If the temperature on the Kelvin scale is 373 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 364.0."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 134 degrees and 362 degrees respectively. If the temperature on the Fahrenheit scale is 45 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 150.5."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 25 degrees and 254 degrees respectively. If the temperature on the Kelvin scale is 281 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 43.3."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is -96 degrees and 53 degrees respectively. If the temperature on the Kelvin scale is 388 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 75.3."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 105 degrees and 224 degrees respectively. If the temperature on the Kelvin scale is 288 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 122.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 222 degrees and 479 degrees respectively. If the temperature on the Kelvin scale is 281 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 242.6."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is -19 degrees and 199 degrees respectively. If the temperature on the Fahrenheit scale is 107 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 71.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 79 degrees and 371 degrees respectively. If the temperature on the Celsius scale is 22 degrees Celsius, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 143.2."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 49 degrees and 238 degrees respectively. If the temperature on the Kelvin scale is 361 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 215.3."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 86 degrees and 297 degrees respectively. If the temperature on the Fahrenheit scale is 65 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 124.7."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 119 degrees and 355 degrees respectively. If the temperature on the Celsius scale is 22 degrees Celsius, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 170.9."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 93 degrees and 379 degrees respectively. If the temperature on the Fahrenheit scale is 137 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 259.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 175 degrees and 429 degrees respectively. If the temperature on the Fahrenheit scale is 68 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 225.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 202 degrees and 393 degrees respectively. If the temperature on the Kelvin scale is 353 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 354.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is -23 degrees and 191 degrees respectively. If the temperature on the Celsius scale is 85 degrees Celsius, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 158.9."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 296 degrees and 546 degrees respectively. If the temperature on the Fahrenheit scale is 81 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 364.1."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 114 degrees and 289 degrees respectively. If the temperature on the Celsius scale is 73 degrees Celsius, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 241.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is -82 degrees and 159 degrees respectively. If the temperature on the Celsius scale is 115 degrees Celsius, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 195.1."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is -83 degrees and 95 degrees respectively. If the temperature on the Kelvin scale is 345 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 45.2."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 29 degrees and 177 degrees respectively. If the temperature on the Kelvin scale is 315 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 91.2."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 144 degrees and 313 degrees respectively. If the temperature on the Fahrenheit scale is 154 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 258.5."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 287 degrees and 399 degrees respectively. If the temperature on the Fahrenheit scale is 200 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 391.5."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 285 degrees and 579 degrees respectively. If the temperature on the Fahrenheit scale is 193 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 548.0."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is -62 degrees and 74 degrees respectively. If the temperature on the Kelvin scale is 378 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 80.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is -97 degrees and 163 degrees respectively. If the temperature on the Celsius scale is 103 degrees Celsius, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 170.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 148 degrees and 363 degrees respectively. If the temperature on the Fahrenheit scale is 112 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 243.6."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is -4 degrees and 249 degrees respectively. If the temperature on the Fahrenheit scale is 41 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 8.7."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 82 degrees and 375 degrees respectively. If the temperature on the Fahrenheit scale is 188 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 335.9."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 158 degrees and 378 degrees respectively. If the temperature on the Kelvin scale is 367 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 364.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is -48 degrees and 120 degrees respectively. If the temperature on the Fahrenheit scale is 147 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 59.3."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 73 degrees and 307 degrees respectively. If the temperature on the Fahrenheit scale is 153 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 230.3."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 199 degrees and 474 degrees respectively. If the temperature on the Kelvin scale is 382 degrees Kelvin, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 498.8."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 47 degrees and 267 degrees respectively. If the temperature on the Fahrenheit scale is 167 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 212.0."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is -56 degrees and 223 degrees respectively. If the temperature on the Fahrenheit scale is 192 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 192.0."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 238 degrees and 414 degrees respectively. If the temperature on the Fahrenheit scale is 58 degrees Fahrenheit, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 263.4."
+    },
+    {
+        "instruction": "On an unknown scale, the temperature of the melting point and boiling point of water is 84 degrees and 367 degrees respectively. If the temperature on the Celsius scale is 35 degrees Celsius, what is the temperature shown on that scale?",
+        "input": "Temperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1",
+        "output": "To find the temperature on the unknown scale, we use the following formula:\n\nTemperature on the unknown scale = (((t2 - t1) * (t - ta)) / (tb - ta)) + t1\n\nSubstituting the given values into the formula, we find that the temperature on the unknown scale is approximately 183.1."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 90 m^3 for a rise in temperature from 97 degree C to 478 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 2.06 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 42 m^3 for a rise in temperature from 47 degree C to 434 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 7.96 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 91 m^3 for a rise in temperature from 65 degree C to 458 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 2.15 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 15 m^3 for a rise in temperature from 57 degree C to 260 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.18 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 47 m^3 for a rise in temperature from 47 degree C to 253 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.58 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 38 m^3 for a rise in temperature from 39 degree C to 428 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.89 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 89 m^3 for a rise in temperature from 34 degree C to 247 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.14 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 87 m^3 for a rise in temperature from 59 degree C to 360 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.57 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of steel is 3.6e-05 K^-1. What is the change in its volume 90 m^3 for a rise in temperature from 61 degree C to 424 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.18 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 66 m^3 for a rise in temperature from 104 degree C to 413 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 9.99 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of steel is 3.6e-05 K^-1. What is the change in its volume 12 m^3 for a rise in temperature from 110 degree C to 282 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.07 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of steel is 3.6e-05 K^-1. What is the change in its volume 60 m^3 for a rise in temperature from 56 degree C to 389 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.72 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 31 m^3 for a rise in temperature from 44 degree C to 256 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 3.22 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 79 m^3 for a rise in temperature from 14 degree C to 198 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.87 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of steel is 3.6e-05 K^-1. What is the change in its volume 59 m^3 for a rise in temperature from 72 degree C to 345 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.58 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 73 m^3 for a rise in temperature from 53 degree C to 390 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 12.05 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of steel is 3.6e-05 K^-1. What is the change in its volume 29 m^3 for a rise in temperature from 88 degree C to 479 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.41 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 66 m^3 for a rise in temperature from 73 degree C to 311 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 7.7 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 58 m^3 for a rise in temperature from 87 degree C to 264 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.62 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of steel is 3.6e-05 K^-1. What is the change in its volume 38 m^3 for a rise in temperature from 13 degree C to 234 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.3 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 60 m^3 for a rise in temperature from 93 degree C to 369 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 8.11 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 70 m^3 for a rise in temperature from 82 degree C to 428 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.45 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of copper is 5.1e-05 K^-1. What is the change in its volume 106 m^3 for a rise in temperature from 95 degree C to 406 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.68 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 23 m^3 for a rise in temperature from 97 degree C to 445 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.41 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 50 m^3 for a rise in temperature from 66 degree C to 465 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.2 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 96 m^3 for a rise in temperature from 25 degree C to 360 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.64 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of copper is 5.1e-05 K^-1. What is the change in its volume 12 m^3 for a rise in temperature from 68 degree C to 360 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.18 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 70 m^3 for a rise in temperature from 44 degree C to 198 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 5.28 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 17 m^3 for a rise in temperature from 96 degree C to 298 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.21 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 74 m^3 for a rise in temperature from 75 degree C to 296 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 8.01 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of copper is 5.1e-05 K^-1. What is the change in its volume 29 m^3 for a rise in temperature from 50 degree C to 415 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.54 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of steel is 3.6e-05 K^-1. What is the change in its volume 98 m^3 for a rise in temperature from 102 degree C to 277 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.62 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 108 m^3 for a rise in temperature from 20 degree C to 342 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.77 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 85 m^3 for a rise in temperature from 96 degree C to 280 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 7.66 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 99 m^3 for a rise in temperature from 96 degree C to 319 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.13 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 83 m^3 for a rise in temperature from 87 degree C to 239 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 6.18 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of steel is 3.6e-05 K^-1. What is the change in its volume 108 m^3 for a rise in temperature from 13 degree C to 285 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.06 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 92 m^3 for a rise in temperature from 84 degree C to 246 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 7.3 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of copper is 5.1e-05 K^-1. What is the change in its volume 43 m^3 for a rise in temperature from 92 degree C to 441 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.77 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 64 m^3 for a rise in temperature from 59 degree C to 369 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 9.72 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of copper is 5.1e-05 K^-1. What is the change in its volume 73 m^3 for a rise in temperature from 39 degree C to 383 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.28 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 57 m^3 for a rise in temperature from 38 degree C to 191 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.52 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of steel is 3.6e-05 K^-1. What is the change in its volume 56 m^3 for a rise in temperature from 45 degree C to 256 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.43 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 58 m^3 for a rise in temperature from 37 degree C to 210 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.6 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of steel is 3.6e-05 K^-1. What is the change in its volume 98 m^3 for a rise in temperature from 35 degree C to 232 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.7 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 106 m^3 for a rise in temperature from 23 degree C to 410 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 20.1 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of copper is 5.1e-05 K^-1. What is the change in its volume 45 m^3 for a rise in temperature from 25 degree C to 414 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.89 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 89 m^3 for a rise in temperature from 91 degree C to 367 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.47 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of steel is 3.6e-05 K^-1. What is the change in its volume 53 m^3 for a rise in temperature from 97 degree C to 412 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.6 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 49 m^3 for a rise in temperature from 36 degree C to 292 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.64 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 46 m^3 for a rise in temperature from 98 degree C to 491 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.08 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of steel is 3.6e-05 K^-1. What is the change in its volume 21 m^3 for a rise in temperature from 81 degree C to 358 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.21 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 88 m^3 for a rise in temperature from 61 degree C to 307 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.3 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of copper is 5.1e-05 K^-1. What is the change in its volume 90 m^3 for a rise in temperature from 75 degree C to 313 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.09 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 11 m^3 for a rise in temperature from 106 degree C to 337 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.15 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 34 m^3 for a rise in temperature from 64 degree C to 271 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.36 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 37 m^3 for a rise in temperature from 76 degree C to 406 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.62 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 58 m^3 for a rise in temperature from 103 degree C to 430 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 9.29 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of steel is 3.6e-05 K^-1. What is the change in its volume 38 m^3 for a rise in temperature from 85 degree C to 276 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.26 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 24 m^3 for a rise in temperature from 60 degree C to 228 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.24 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 100 m^3 for a rise in temperature from 12 degree C to 262 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 12.25 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 37 m^3 for a rise in temperature from 110 degree C to 271 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 2.92 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 86 m^3 for a rise in temperature from 54 degree C to 259 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.06 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 90 m^3 for a rise in temperature from 70 degree C to 250 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.83 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 60 m^3 for a rise in temperature from 97 degree C to 313 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.78 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of copper is 5.1e-05 K^-1. What is the change in its volume 85 m^3 for a rise in temperature from 10 degree C to 398 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.68 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 68 m^3 for a rise in temperature from 55 degree C to 403 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.42 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 10 m^3 for a rise in temperature from 44 degree C to 373 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.17 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 85 m^3 for a rise in temperature from 17 degree C to 204 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.81 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of steel is 3.6e-05 K^-1. What is the change in its volume 99 m^3 for a rise in temperature from 109 degree C to 281 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.61 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 90 m^3 for a rise in temperature from 69 degree C to 281 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 9.35 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 64 m^3 for a rise in temperature from 54 degree C to 389 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 10.51 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 63 m^3 for a rise in temperature from 25 degree C to 267 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.78 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 77 m^3 for a rise in temperature from 45 degree C to 380 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.55 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 71 m^3 for a rise in temperature from 85 degree C to 371 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.22 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 80 m^3 for a rise in temperature from 95 degree C to 484 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.87 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of steel is 3.6e-05 K^-1. What is the change in its volume 39 m^3 for a rise in temperature from 42 degree C to 312 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.38 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of steel is 3.6e-05 K^-1. What is the change in its volume 35 m^3 for a rise in temperature from 28 degree C to 251 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.28 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 69 m^3 for a rise in temperature from 75 degree C to 328 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.05 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of copper is 5.1e-05 K^-1. What is the change in its volume 73 m^3 for a rise in temperature from 43 degree C to 222 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.67 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of steel is 3.6e-05 K^-1. What is the change in its volume 69 m^3 for a rise in temperature from 35 degree C to 192 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.39 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 97 m^3 for a rise in temperature from 44 degree C to 423 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 18.01 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 13 m^3 for a rise in temperature from 62 degree C to 333 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.18 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of copper is 5.1e-05 K^-1. What is the change in its volume 37 m^3 for a rise in temperature from 33 degree C to 346 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.59 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of steel is 3.6e-05 K^-1. What is the change in its volume 63 m^3 for a rise in temperature from 20 degree C to 393 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.85 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of copper is 5.1e-05 K^-1. What is the change in its volume 63 m^3 for a rise in temperature from 14 degree C to 318 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.98 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 13 m^3 for a rise in temperature from 86 degree C to 415 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 2.1 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of brass is 6.000000000000001e-05 K^-1. What is the change in its volume 56 m^3 for a rise in temperature from 66 degree C to 447 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 1.28 m^3."
+    },
+    {
+        "instruction": "The coefficient of volume expansion of steel is 3.6e-05 K^-1. What is the change in its volume 90 m^3 for a rise in temperature from 42 degree C to 203 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 0.52 m^3."
+    },
+    {
+        "instruction": "The coefficient of linear expansion of glycerine is 0.0004900000000000001 K^-1. What is the change in its volume 31 m^3 for a rise in temperature from 14 degree C to 262 degree C?",
+        "input": "Change in volume = d1 * a * (t2 - t1)",
+        "output": "To find the change in volume, we use the following formula:\n\nChange in volume = d1 * a * (t2 - t1)\n\nSubstituting the given values into the formula, we find that the change in volume is approximately 3.77 m^3."
+    }
+]

@@ -1,0 +1,1152 @@
+[
+    {
+        "instruction": "A liquid has an angle of contact equal to 15 degrees with soda-lime glass. A narrow tube of radius 3 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.16 Nm-2. Density of liquid = 19 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.16 * cos(15 * 3.141592653589793 / 180)) / (3 * 19 * 10^3 * 9.8) = 5.53e-04 m."
+    },
+    {
+        "instruction": "Two narrow bores of diameters 6 mm and 18 mm are joined together to form a U-tube open at both ends. If the U-tube contains an unknown liquid, what is the difference in its levels at two ends? Surface tension of liquid is 1 x 10^(-2) Nm-2. Take the angle of contact to be 147 degrees and density of liquid to be 15 x 10^3 kgm-3.",
+        "input": "abs(-1.141048391762482e-07 * 111.1111111111111)",
+        "output": "The difference in levels of the U-tube is given by abs(-1.141048391762482e-07 * 111.1111111111111). Substituting the given values, we have abs(-1.141048391762482e-07 * 111.1111111111111) = 1.27e-05 m."
+    },
+    {
+        "instruction": "Two narrow bores of diameters 6 mm and 12 mm are joined together to form a U-tube open at both ends. If the U-tube contains an unknown liquid, what is the difference in its levels at two ends? Surface tension of liquid is 1 x 10^(-2) Nm-2. Take the angle of contact to be 52 degrees and density of liquid to be 15 x 10^3 kgm-3.",
+        "input": "abs(8.376346603070181e-08 * 83.33333333333333)",
+        "output": "The difference in levels of the U-tube is given by abs(8.376346603070181e-08 * 83.33333333333333). Substituting the given values, we have abs(8.376346603070181e-08 * 83.33333333333333) = 6.98e-06 m."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 102 degrees with soda-lime glass. A narrow tube of radius 9 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.45 Nm-2. Density of liquid = 7 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.45 * cos(102 * 3.141592653589793 / 180)) / (9 * 7 * 10^3 * 9.8) = -3.03e-04 m."
+    },
+    {
+        "instruction": "Two narrow bores of diameters 3 mm and 17 mm are joined together to form a U-tube open at both ends. If the U-tube contains an unknown liquid, what is the difference in its levels at two ends? Surface tension of liquid is 1 x 10^(-2) Nm-2. Take the angle of contact to be 163 degrees and density of liquid to be 15 x 10^3 kgm-3.",
+        "input": "abs(-1.301094906072157e-07 * 274.5098039215686)",
+        "output": "The difference in levels of the U-tube is given by abs(-1.301094906072157e-07 * 274.5098039215686). Substituting the given values, we have abs(-1.301094906072157e-07 * 274.5098039215686) = 3.57e-05 m."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 81 degrees with soda-lime glass. A narrow tube of radius 1 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.96 Nm-2. Density of liquid = 4 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.96 * cos(81 * 3.141592653589793 / 180)) / (1 * 4 * 10^3 * 9.8) = 7.66e-03 m."
+    },
+    {
+        "instruction": "Two narrow bores of diameters 2 mm and 6 mm are joined together to form a U-tube open at both ends. If the U-tube contains an unknown liquid, what is the difference in its levels at two ends? Surface tension of liquid is 1 x 10^(-2) Nm-2. Take the angle of contact to be 146 degrees and density of liquid to be 15 x 10^3 kgm-3.",
+        "input": "abs(-1.1279422755850905e-07 * 333.33333333333337)",
+        "output": "The difference in levels of the U-tube is given by abs(-1.1279422755850905e-07 * 333.33333333333337). Substituting the given values, we have abs(-1.1279422755850905e-07 * 333.33333333333337) = 3.76e-05 m."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 169 degrees with soda-lime glass. A narrow tube of radius 8 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.73 Nm-2. Density of liquid = 1 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.73 * cos(169 * 3.141592653589793 / 180)) / (8 * 1 * 10^3 * 9.8) = -1.83e-02 m."
+    },
+    {
+        "instruction": "Two narrow bores of diameters 10 mm and 17 mm are joined together to form a U-tube open at both ends. If the U-tube contains an unknown liquid, what is the difference in its levels at two ends? Surface tension of liquid is 1 x 10^(-2) Nm-2. Take the angle of contact to be 145 degrees and density of liquid to be 15 x 10^3 kgm-3.",
+        "input": "abs(-1.1144925772639342e-07 * 41.1764705882353)",
+        "output": "The difference in levels of the U-tube is given by abs(-1.1144925772639342e-07 * 41.1764705882353). Substituting the given values, we have abs(-1.1144925772639342e-07 * 41.1764705882353) = 4.59e-06 m."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 78 degrees with soda-lime glass. A narrow tube of radius 5 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.95 Nm-2. Density of liquid = 1 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.95 * cos(78 * 3.141592653589793 / 180)) / (5 * 1 * 10^3 * 9.8) = 8.06e-03 m."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 153 degrees with soda-lime glass. A narrow tube of radius 7 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.55 Nm-2. Density of liquid = 6 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.55 * cos(153 * 3.141592653589793 / 180)) / (7 * 6 * 10^3 * 9.8) = -2.38e-03 m."
+    },
+    {
+        "instruction": "Two narrow bores of diameters 13 mm and 7 mm are joined together to form a U-tube open at both ends. If the U-tube contains an unknown liquid, what is the difference in its levels at two ends? Surface tension of liquid is 14 x 10^(-2) Nm-2. Take the angle of contact to be 44 degrees and density of liquid to be 3 x 10^3 kgm-3.",
+        "input": "abs(6.850855241320487e-06 * -65.93406593406593)",
+        "output": "The difference in levels of the U-tube is given by abs(6.850855241320487e-06 * -65.93406593406593). Substituting the given values, we have abs(6.850855241320487e-06 * -65.93406593406593) = 4.52e-04 m."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 111 degrees with soda-lime glass. A narrow tube of radius 8 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.16 Nm-2. Density of liquid = 1 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.16 * cos(111 * 3.141592653589793 / 180)) / (8 * 1 * 10^3 * 9.8) = -1.46e-03 m."
+    },
+    {
+        "instruction": "Two narrow bores of diameters 1 mm and 12 mm are joined together to form a U-tube open at both ends. If the U-tube contains an unknown liquid, what is the difference in its levels at two ends? Surface tension of liquid is 15 x 10^(-2) Nm-2. Take the angle of contact to be 173 degrees and density of liquid to be 5 x 10^3 kgm-3.",
+        "input": "abs(-6.0768131733142164e-06 * 916.6666666666666)",
+        "output": "The difference in levels of the U-tube is given by abs(-6.0768131733142164e-06 * 916.6666666666666). Substituting the given values, we have abs(-6.0768131733142164e-06 * 916.6666666666666) = 5.57e-03 m."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 18 degrees with soda-lime glass. A narrow tube of radius 10 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.81 Nm-2. Density of liquid = 13 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.81 * cos(18 * 3.141592653589793 / 180)) / (10 * 13 * 10^3 * 9.8) = 1.21e-03 m."
+    },
+    {
+        "instruction": "Two narrow bores of diameters 14 mm and 13 mm are joined together to form a U-tube open at both ends. If the U-tube contains an unknown liquid, what is the difference in its levels at two ends? Surface tension of liquid is 15 x 10^(-2) Nm-2. Take the angle of contact to be 15 degrees and density of liquid to be 5 x 10^3 kgm-3.",
+        "input": "abs(5.913831589524908e-06 * -5.4945054945055025)",
+        "output": "The difference in levels of the U-tube is given by abs(5.913831589524908e-06 * -5.4945054945055025). Substituting the given values, we have abs(5.913831589524908e-06 * -5.4945054945055025) = 3.25e-05 m."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 128 degrees with soda-lime glass. A narrow tube of radius 8 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.44 Nm-2. Density of liquid = 11 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.44 * cos(128 * 3.141592653589793 / 180)) / (8 * 11 * 10^3 * 9.8) = -6.28e-04 m."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 68 degrees with soda-lime glass. A narrow tube of radius 10 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.62 Nm-2. Density of liquid = 17 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.62 * cos(68 * 3.141592653589793 / 180)) / (10 * 17 * 10^3 * 9.8) = 2.79e-04 m."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 176 degrees with soda-lime glass. A narrow tube of radius 10 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.72 Nm-2. Density of liquid = 3 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.72 * cos(176 * 3.141592653589793 / 180)) / (10 * 3 * 10^3 * 9.8) = -4.89e-03 m."
+    },
+    {
+        "instruction": "Two narrow bores of diameters 17 mm and 19 mm are joined together to form a U-tube open at both ends. If the U-tube contains an unknown liquid, what is the difference in its levels at two ends? Surface tension of liquid is 15 x 10^(-2) Nm-2. Take the angle of contact to be 108 degrees and density of liquid to be 5 x 10^3 kgm-3.",
+        "input": "abs(-1.8919407818874327e-06 * 6.191950464396287)",
+        "output": "The difference in levels of the U-tube is given by abs(-1.8919407818874327e-06 * 6.191950464396287). Substituting the given values, we have abs(-1.8919407818874327e-06 * 6.191950464396287) = 1.17e-05 m."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 45 ms-1 and 9 ms-1. What is the lift on the wing if its area is 33300 cm2? (Take the density of air to be 1.3 kgm-3)",
+        "input": "0.5 * 1.3 * (45**2 - 9**2) * (33300 / 10000)",
+        "output": "The lift on the wing is 4207.7880000000005 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 109 ms-1 and 87 ms-1. What is the lift on the wing if its area is 900 cm2?",
+        "input": "0.5 * 1.3 * (109**2 - 87**2) * (900 / 10000)",
+        "output": "The lift on the wing is 252.252 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 54 ms-1 and 37 ms-1. What is the lift on the wing if its area is 5800 cm2? (Take the density of air to be 1.3 kgm-3)",
+        "input": "0.5 * 1.3 * (54**2 - 37**2) * (5800 / 10000)",
+        "output": "The lift on the wing is 583.219 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 48 ms-1 and 8 ms-1. What is the lift on the wing if its area is 1300 cm2? (Take the density of air to be 1.3 kgm-3)",
+        "input": "0.5 * 1.3 * (48**2 - 8**2) * (1300 / 10000)",
+        "output": "The lift on the wing is 189.28 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 65 ms-1 and 36 ms-1. What is the lift on the wing if its area is 34700 cm2? (Take the density of air to be 1.3 kgm-3)",
+        "input": "0.5 * 1.3 * (65**2 - 36**2) * (34700 / 10000)",
+        "output": "The lift on the wing is 6606.3595000000005 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 60 ms-1 and 49 ms-1. What is the lift on the wing if its area is 30800 cm2?",
+        "input": "0.5 * 1.3 * (60**2 - 49**2) * (30800 / 10000)",
+        "output": "The lift on the wing is 2400.398 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 91 ms-1 and 72 ms-1. What is the lift on the wing if its area is 6400 cm2? (Take the density of air to be 1.3 kgm-3)",
+        "input": "0.5 * 1.3 * (91**2 - 72**2) * (6400 / 10000)",
+        "output": "The lift on the wing is 1288.352 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 128 ms-1 and 97 ms-1. What is the lift on the wing if its area is 17300 cm2?",
+        "input": "0.5 * 1.3 * (128**2 - 97**2) * (17300 / 10000)",
+        "output": "The lift on the wing is 7843.3875 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 89 ms-1 and 80 ms-1. What is the lift on the wing if its area is 35600 cm2?",
+        "input": "0.5 * 1.3 * (89**2 - 80**2) * (35600 / 10000)",
+        "output": "The lift on the wing is 3519.594 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 102 ms-1 and 77 ms-1. What is the lift on the wing if its area is 25800 cm2? (Take the density of air to be 1.3 kgm-3)",
+        "input": "0.5 * 1.3 * (102**2 - 77**2) * (25800 / 10000)",
+        "output": "The lift on the wing is 7504.575 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 99 ms-1 and 96 ms-1. What is the lift on the wing if its area is 27800 cm2? (Take the density of air to be 1.3 kgm-3)",
+        "input": "0.5 * 1.3 * (99**2 - 96**2) * (27800 / 10000)",
+        "output": "The lift on the wing is 1057.095 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 14 ms-1 and 5 ms-1. What is the lift on the wing if its area is 8600 cm2?",
+        "input": "0.5 * 1.3 * (14**2 - 5**2) * (8600 / 10000)",
+        "output": "The lift on the wing is 95.589 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 73 ms-1 and 38 ms-1. What is the lift on the wing if its area is 3000 cm2?",
+        "input": "0.5 * 1.3 * (73**2 - 38**2) * (3000 / 10000)",
+        "output": "The lift on the wing is 757.5749999999999 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 94 ms-1 and 58 ms-1. What is the lift on the wing if its area is 35800 cm2?",
+        "input": "0.5 * 1.3 * (94**2 - 58**2) * (35800 / 10000)",
+        "output": "The lift on the wing is 12733.344000000001 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 73 ms-1 and 58 ms-1. What is the lift on the wing if its area is 11100 cm2?",
+        "input": "0.5 * 1.3 * (73**2 - 58**2) * (11100 / 10000)",
+        "output": "The lift on the wing is 1417.7475000000002 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 74 ms-1 and 36 ms-1. What is the lift on the wing if its area is 1400 cm2? (Take the density of air to be 1.3 kgm-3)",
+        "input": "0.5 * 1.3 * (74**2 - 36**2) * (1400 / 10000)",
+        "output": "The lift on the wing is 380.38000000000005 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 92 ms-1 and 71 ms-1. What is the lift on the wing if its area is 12100 cm2? (Take the density of air to be 1.3 kgm-3)",
+        "input": "0.5 * 1.3 * (92**2 - 71**2) * (12100 / 10000)",
+        "output": "The lift on the wing is 2692.1895000000004 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 35 ms-1 and 25 ms-1. What is the lift on the wing if its area is 11800 cm2?",
+        "input": "0.5 * 1.3 * (35**2 - 25**2) * (11800 / 10000)",
+        "output": "The lift on the wing is 460.2 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 55 ms-1 and 47 ms-1. What is the lift on the wing if its area is 4700 cm2? (Take the density of air to be 1.3 kgm-3)",
+        "input": "0.5 * 1.3 * (55**2 - 47**2) * (4700 / 10000)",
+        "output": "The lift on the wing is 249.28799999999998 newton."
+    },
+    {
+        "instruction": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 114 ms-1 and 84 ms-1. What is the lift on the wing if its area is 21500 cm2?",
+        "input": "0.5 * 1.3 * (114**2 - 84**2) * (21500 / 10000)",
+        "output": "The lift on the wing is 8301.15 newton."
+    },
+    {
+        "instruction": "A tank with a square base of area 92 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 117 cm2. The tank is filled with water in one compartment, and an acid (of relative density 1.7) in the other, both to a height of 5 m. Compute the force necessary to keep the door closed.",
+        "input": "5 * abs(1.7 - 1) * 0.98 * 117",
+        "output": "The force necessary to keep the door closed is 401.3 Newton."
+    },
+    {
+        "instruction": "A tank with a square base of area 7 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 69 cm2. The tank is filled with water in one compartment, and an acid (of relative density 0.2) in the other, both to a height of 12 m. Compute the force necessary to keep the door closed.",
+        "input": "12 * abs(0.2 - 1) * 0.98 * 69",
+        "output": "The force necessary to keep the door closed is 649.2 Newton."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 6 mm, given that the surface tension of soap solution at the temperature 300 K is 92 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 50 cm inside a container containing the soap solution (of relative density 2.3), what would be the pressure inside the bubble?",
+        "input": "(4 * 92) / 6",
+        "output": "The excess pressure inside the soap bubble is 61.3 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 3 mm, given that the surface tension of soap solution at the temperature 280 K is 162 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 80 cm inside a container containing the soap solution (of relative density 2.5), what would be the pressure inside the bubble?",
+        "input": "(4 * 162) / 3",
+        "output": "The excess pressure inside the soap bubble is 216.0 Pascal. The pressure inside the air bubble floating up is 1.03e+05 Pascal."
+    },
+    {
+        "instruction": "A tank with a square base of area 71 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 60 cm2. The tank is filled with water in one compartment, and an acid (of relative density 0.2) in the other, both to a height of 10 m. Compute the force necessary to keep the door closed.",
+        "input": "10 * abs(0.2 - 1) * 0.98 * 60",
+        "output": "The force necessary to keep the door closed is 470.4 Newton."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 6 mm, given that the surface tension of soap solution at the temperature 286 K is 72 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 50 cm inside a container containing the soap solution (of relative density 1.8), what would be the pressure inside the bubble?",
+        "input": "(4 * 72) / 6",
+        "output": "The excess pressure inside the soap bubble is 48.0 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 9 mm, given that the surface tension of soap solution at the temperature 288 K is 78 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 20 cm inside a container containing the soap solution (of relative density 1.8), what would be the pressure inside the bubble?",
+        "input": "(4 * 78) / 9",
+        "output": "The excess pressure inside the soap bubble is 34.7 Pascal. The pressure inside the air bubble floating up is 1.01e+05 Pascal."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 5 mm, given that the surface tension of soap solution at the temperature 297 K is 12 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 60 cm inside a container containing the soap solution (of relative density 1.8), what would be the pressure inside the bubble?",
+        "input": "(4 * 12) / 5",
+        "output": "The excess pressure inside the soap bubble is 9.6 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "A tank with a square base of area 180 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 174 cm2. The tank is filled with water in one compartment, and an acid (of relative density 0.1) in the other, both to a height of 17 m. Compute the force necessary to keep the door closed.",
+        "input": "17 * abs(0.1 - 1) * 0.98 * 174",
+        "output": "The force necessary to keep the door closed is 2609.0 Newton."
+    },
+    {
+        "instruction": "A tank with a square base of area 4 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 24 cm2. The tank is filled with water in one compartment, and an acid (of relative density 1.2) in the other, both to a height of 12 m. Compute the force necessary to keep the door closed.",
+        "input": "12 * abs(1.2 - 1) * 0.98 * 24",
+        "output": "The force necessary to keep the door closed is 56.4 Newton."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 6 mm, given that the surface tension of soap solution at the temperature 285 K is 33 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 90 cm inside a container containing the soap solution (of relative density 1.1), what would be the pressure inside the bubble?",
+        "input": "(4 * 33) / 6",
+        "output": "The excess pressure inside the soap bubble is 22.0 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "A tank with a square base of area 175 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 24 cm2. The tank is filled with water in one compartment, and an acid (of relative density 0.8) in the other, both to a height of 19 m. Compute the force necessary to keep the door closed.",
+        "input": "19 * abs(0.8 - 1) * 0.98 * 24",
+        "output": "The force necessary to keep the door closed is 89.4 Newton."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 1 mm, given that the surface tension of soap solution at the temperature 280 K is 15 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 70 cm inside a container containing the soap solution (of relative density 1.1), what would be the pressure inside the bubble?",
+        "input": "(4 * 15) / 1",
+        "output": "The excess pressure inside the soap bubble is 60.0 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "A tank with a square base of area 98 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 148 cm2. The tank is filled with water in one compartment, and an acid (of relative density 1.9) in the other, both to a height of 5 m. Compute the force necessary to keep the door closed.",
+        "input": "5 * abs(1.9 - 1) * 0.98 * 148",
+        "output": "The force necessary to keep the door closed is 652.7 Newton."
+    },
+    {
+        "instruction": "A tank with a square base of area 194 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 15 cm2. The tank is filled with water in one compartment, and an acid (of relative density 1.0) in the other, both to a height of 2 m. Compute the force necessary to keep the door closed.",
+        "input": "2 * abs(1.0 - 1) * 0.98 * 15",
+        "output": "The force necessary to keep the door closed is 0.0 Newton."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 8 mm, given that the surface tension of soap solution at the temperature 295 K is 188 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 60 cm inside a container containing the soap solution (of relative density 1.6), what would be the pressure inside the bubble?",
+        "input": "(4 * 188) / 8",
+        "output": "The excess pressure inside the soap bubble is 94.0 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "A tank with a square base of area 133 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 129 cm2. The tank is filled with water in one compartment, and an acid (of relative density 0.7) in the other, both to a height of 3 m. Compute the force necessary to keep the door closed.",
+        "input": "3 * abs(0.7 - 1) * 0.98 * 129",
+        "output": "The force necessary to keep the door closed is 113.8 Newton."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 5 mm, given that the surface tension of soap solution at the temperature 300 K is 174 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 60 cm inside a container containing the soap solution (of relative density 2.7), what would be the pressure inside the bubble?",
+        "input": "(4 * 174) / 5",
+        "output": "The excess pressure inside the soap bubble is 139.2 Pascal. The pressure inside the air bubble floating up is 1.03e+05 Pascal."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 6 mm, given that the surface tension of soap solution at the temperature 285 K is 47 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 10 cm inside a container containing the soap solution (of relative density 1.1), what would be the pressure inside the bubble?",
+        "input": "(4 * 47) / 6",
+        "output": "The excess pressure inside the soap bubble is 31.3 Pascal. The pressure inside the air bubble floating up is 1.01e+05 Pascal."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 1 mm, given that the surface tension of soap solution at the temperature 289 K is 130 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 80 cm inside a container containing the soap solution (of relative density 2.7), what would be the pressure inside the bubble?",
+        "input": "(4 * 130) / 1",
+        "output": "The excess pressure inside the soap bubble is 520.0 Pascal. The pressure inside the air bubble floating up is 1.03e+05 Pascal."
+    },
+    {
+        "instruction": "A tank with a square base of area 22 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 197 cm2. The tank is filled with water in one compartment, and an acid (of relative density 0.2) in the other, both to a height of 12 m. Compute the force necessary to keep the door closed.",
+        "input": "12 * abs(0.2 - 1) * 0.98 * 197",
+        "output": "The force necessary to keep the door closed is 1853.4 Newton."
+    },
+    {
+        "instruction": "A tank with a square base of area 106 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 97 cm2. The tank is filled with water in one compartment, and an acid (of relative density 1.9) in the other, both to a height of 13 m. Compute the force necessary to keep the door closed.",
+        "input": "13 * abs(1.9 - 1) * 0.98 * 97",
+        "output": "The force necessary to keep the door closed is 1112.2 Newton."
+    },
+    {
+        "instruction": "A tank with a square base of area 129 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 57 cm2. The tank is filled with water in one compartment, and an acid (of relative density 2.0) in the other, both to a height of 12 m. Compute the force necessary to keep the door closed.",
+        "input": "12 * abs(2.0 - 1) * 0.98 * 57",
+        "output": "The force necessary to keep the door closed is 670.3 Newton."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 2 mm, given that the surface tension of soap solution at the temperature 285 K is 32 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 60 cm inside a container containing the soap solution (of relative density 1.4), what would be the pressure inside the bubble?",
+        "input": "(4 * 32) / 2",
+        "output": "The excess pressure inside the soap bubble is 64.0 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 4 mm, given that the surface tension of soap solution at the temperature 285 K is 167 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 70 cm inside a container containing the soap solution (of relative density 1.6), what would be the pressure inside the bubble?",
+        "input": "(4 * 167) / 4",
+        "output": "The excess pressure inside the soap bubble is 167.0 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 1 mm, given that the surface tension of soap solution at the temperature 285 K is 96 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 50 cm inside a container containing the soap solution (of relative density 2.4), what would be the pressure inside the bubble?",
+        "input": "(4 * 96) / 1",
+        "output": "The excess pressure inside the soap bubble is 384.0 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "A tank with a square base of area 120 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 145 cm2. The tank is filled with water in one compartment, and an acid (of relative density 2.0) in the other, both to a height of 10 m. Compute the force necessary to keep the door closed.",
+        "input": "10 * abs(2.0 - 1) * 0.98 * 145",
+        "output": "The force necessary to keep the door closed is 1421.0 Newton."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 3 mm, given that the surface tension of soap solution at the temperature 282 K is 196 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 60 cm inside a container containing the soap solution (of relative density 1.7), what would be the pressure inside the bubble?",
+        "input": "(4 * 196) / 3",
+        "output": "The excess pressure inside the soap bubble is 261.3 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "A tank with a square base of area 14 m2 is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 163 cm2. The tank is filled with water in one compartment, and an acid (of relative density 1.5) in the other, both to a height of 6 m. Compute the force necessary to keep the door closed.",
+        "input": "6 * abs(1.5 - 1) * 0.98 * 163",
+        "output": "The force necessary to keep the door closed is 479.2 Newton."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 4 mm, given that the surface tension of soap solution at the temperature 297 K is 158 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 70 cm inside a container containing the soap solution (of relative density 1.7), what would be the pressure inside the bubble?",
+        "input": "(4 * 158) / 4",
+        "output": "The excess pressure inside the soap bubble is 158.0 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 1016 micrometer and length 1897 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 1016)",
+        "output": "The largest average velocity of blood flow is 1.94 m/s. The corresponding flow rate is 6.28e-06 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 204 micrometer and length 1569 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 204)",
+        "output": "The largest average velocity of blood flow is 9.64 m/s. The corresponding flow rate is 1.26e-06 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 406 micrometer and length 843 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 406)",
+        "output": "The largest average velocity of blood flow is 4.84 m/s. The corresponding flow rate is 2.51e-06 m^3/s."
+    },
+    {
+        "instruction": "During blood transfusion, the needle is inserted in a vein where the gauge pressure is 10667 Pa. If the blood container is placed at 1068 mm above the Earth's level so that blood may just enter the vein, is it safe for the patient?",
+        "input": "(10667 / (1060 * 9.8)) * 1000",
+        "output": "Yes, the patient is safe."
+    },
+    {
+        "instruction": "During blood transfusion, the needle is inserted in a vein where the gauge pressure is 4794 Pa. If the blood container is placed at 407 mm above the Earth's level so that blood may just enter the vein, is it safe for the patient?",
+        "input": "(4794 / (1060 * 9.8)) * 1000",
+        "output": "No, the patient is not safe."
+    },
+    {
+        "instruction": "During blood transfusion, the needle is inserted in a vein where the gauge pressure is 8145 Pa. If the blood container is placed at 976 mm above the Earth's level so that blood may just enter the vein, is it safe for the patient?",
+        "input": "(8145 / (1060 * 9.8)) * 1000",
+        "output": "Yes, the patient is safe."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 463 micrometer and length 563 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 463)",
+        "output": "The largest average velocity of blood flow is 4.25 m/s. The corresponding flow rate is 2.86e-06 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 1678 micrometer and length 97 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 1678)",
+        "output": "The largest average velocity of blood flow is 1.17 m/s. The corresponding flow rate is 1.04e-05 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 1434 micrometer and length 138 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 1434)",
+        "output": "The largest average velocity of blood flow is 1.37 m/s. The corresponding flow rate is 8.86e-06 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 1492 micrometer and length 1719 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 1492)",
+        "output": "The largest average velocity of blood flow is 1.32 m/s. The corresponding flow rate is 9.22e-06 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 1316 micrometer and length 1898 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 1316)",
+        "output": "The largest average velocity of blood flow is 1.49 m/s. The corresponding flow rate is 8.13e-06 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 1024 micrometer and length 388 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 1024)",
+        "output": "The largest average velocity of blood flow is 1.92 m/s. The corresponding flow rate is 6.32e-06 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 816 micrometer and length 112 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 816)",
+        "output": "The largest average velocity of blood flow is 2.41 m/s. The corresponding flow rate is 5.04e-06 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 1760 micrometer and length 340 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 1760)",
+        "output": "The largest average velocity of blood flow is 1.12 m/s. The corresponding flow rate is 1.09e-05 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 1117 micrometer and length 1060 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 1117)",
+        "output": "The largest average velocity of blood flow is 1.76 m/s. The corresponding flow rate is 6.90e-06 m^3/s."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 1408 micrometer and length 1014 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 1408)",
+        "output": "The largest average velocity of blood flow is 1.4 m/s. The corresponding flow rate is 8.70e-06 m^3/s."
+    },
+    {
+        "instruction": "During blood transfusion, the needle is inserted in a vein where the gauge pressure is 8598 Pa. If the blood container is placed at 650 mm above the Earth's level so that blood may just enter the vein, is it safe for the patient?",
+        "input": "(8598 / (1060 * 9.8)) * 1000",
+        "output": "No, the patient is not safe."
+    },
+    {
+        "instruction": "During blood transfusion, the needle is inserted in a vein where the gauge pressure is 1607 Pa. If the blood container is placed at 324 mm above the Earth's level so that blood may just enter the vein, is it safe for the patient?",
+        "input": "(1607 / (1060 * 9.8)) * 1000",
+        "output": "Yes, the patient is safe."
+    },
+    {
+        "instruction": "During blood transfusion, the needle is inserted in a vein where the gauge pressure is 3765 Pa. If the blood container is placed at 253 mm above the Earth's level so that blood may just enter the vein, is it safe for the patient?",
+        "input": "(3765 / (1060 * 9.8)) * 1000",
+        "output": "No, the patient is not safe."
+    },
+    {
+        "instruction": "During blood transfusion, the needle is inserted in a vein where the gauge pressure is 6055 Pa. If the blood container is placed at 721 mm above the Earth's level so that blood may just enter the vein, is it safe for the patient?",
+        "input": "(6055 / (1060 * 9.8)) * 1000",
+        "output": "Yes, the patient is safe."
+    },
+    {
+        "instruction": "The cylindrical tube of a spare pump has a cross-section of 88 cm\u00b2, one end of which has 127 fine holes each of diameter 3 mm. If the liquid flow inside the tube is 3 m/min, what is the speed of ejection of the liquid through the holes?",
+        "input": "(88 * (10 ** -4) * (3 / 60)) / (math.pi * 3 ** 2 * 0.25 * (10 ** -6))",
+        "output": "The speed of ejection of the liquid through the holes is 6.22e+01 m/s."
+    },
+    {
+        "instruction": "The cylindrical tube of a spare pump has a cross-section of 75 cm\u00b2, one end of which has 45 fine holes each of diameter 9 mm. If the liquid flow inside the tube is 6 m/min, what is the speed of ejection of the liquid through the holes?",
+        "input": "(75 * (10 ** -4) * (6 / 60)) / (math.pi * 9 ** 2 * 0.25 * (10 ** -6))",
+        "output": "The speed of ejection of the liquid through the holes is 1.18e+01 m/s."
+    },
+    {
+        "instruction": "The cylindrical tube of a spare pump has a cross-section of 11 cm\u00b2, one end of which has 88 fine holes each of diameter 9 mm. If the liquid flow inside the tube is 2 m/min, what is the speed of ejection of the liquid through the holes?",
+        "input": "(11 * (10 ** -4) * (2 / 60)) / (math.pi * 9 ** 2 * 0.25 * (10 ** -6))",
+        "output": "The speed of ejection of the liquid through the holes is 5.76e-01 m/s."
+    },
+    {
+        "instruction": "The cylindrical tube of a spare pump has a cross-section of 16 cm\u00b2, one end of which has 1 fine holes each of diameter 6 mm. If the liquid flow inside the tube is 4 m/min, what is the speed of ejection of the liquid through the holes?",
+        "input": "(16 * (10 ** -4) * (4 / 60)) / (math.pi * 6 ** 2 * 0.25 * (10 ** -6))",
+        "output": "The speed of ejection of the liquid through the holes is 3.77e+00 m/s."
+    },
+    {
+        "instruction": "The cylindrical tube of a spare pump has a cross-section of 77 cm\u00b2, one end of which has 21 fine holes each of diameter 8 mm. If the liquid flow inside the tube is 6 m/min, what is the speed of ejection of the liquid through the holes?",
+        "input": "(77 * (10 ** -4) * (6 / 60)) / (math.pi * 8 ** 2 * 0.25 * (10 ** -6))",
+        "output": "The speed of ejection of the liquid through the holes is 1.53e+01 m/s."
+    },
+    {
+        "instruction": "The cylindrical tube of a spare pump has a cross-section of 28 cm\u00b2, one end of which has 195 fine holes each of diameter 10 mm. If the liquid flow inside the tube is 1 m/min, what is the speed of ejection of the liquid through the holes?",
+        "input": "(28 * (10 ** -4) * (1 / 60)) / (math.pi * 10 ** 2 * 0.25 * (10 ** -6))",
+        "output": "The speed of ejection of the liquid through the holes is 5.94e-01 m/s."
+    },
+    {
+        "instruction": "The cylindrical tube of a spare pump has a cross-section of 7 cm\u00b2, one end of which has 42 fine holes each of diameter 10 mm. If the liquid flow inside the tube is 7 m/min, what is the speed of ejection of the liquid through the holes?",
+        "input": "(7 * (10 ** -4) * (7 / 60)) / (math.pi * 10 ** 2 * 0.25 * (10 ** -6))",
+        "output": "The speed of ejection of the liquid through the holes is 1.04e+00 m/s."
+    },
+    {
+        "instruction": "The cylindrical tube of a spare pump has a cross-section of 14 cm\u00b2, one end of which has 192 fine holes each of diameter 1 mm. If the liquid flow inside the tube is 3 m/min, what is the speed of ejection of the liquid through the holes?",
+        "input": "(14 * (10 ** -4) * (3 / 60)) / (math.pi * 1 ** 2 * 0.25 * (10 ** -6))",
+        "output": "The speed of ejection of the liquid through the holes is 8.91e+01 m/s."
+    },
+    {
+        "instruction": "The cylindrical tube of a spare pump has a cross-section of 15 cm\u00b2, one end of which has 11 fine holes each of diameter 4 mm. If the liquid flow inside the tube is 4 m/min, what is the speed of ejection of the liquid through the holes?",
+        "input": "(15 * (10 ** -4) * (4 / 60)) / (math.pi * 4 ** 2 * 0.25 * (10 ** -6))",
+        "output": "The speed of ejection of the liquid through the holes is 7.96e+00 m/s."
+    },
+    {
+        "instruction": "The cylindrical tube of a spare pump has a cross-section of 3 cm\u00b2, one end of which has 171 fine holes each of diameter 10 mm. If the liquid flow inside the tube is 3 m/min, what is the speed of ejection of the liquid through the holes?",
+        "input": "(3 * (10 ** -4) * (3 / 60)) / (math.pi * 10 ** 2 * 0.25 * (10 ** -6))",
+        "output": "The speed of ejection of the liquid through the holes is 1.91e-01 m/s."
+    },
+    {
+        "instruction": "In Mullikan\u2019s oil drop experiment, what is the viscous force on the drop of radius 1509 x 10^(-6) m and density 2987 kg m-3 at terminal speed?",
+        "input": "(2 / (9 * 1.8 * (10 ** -5))) * (1509 ** 2 * 2987 * 9.8 * (10 ** -12))",
+        "output": "The viscous force on the drop is 8.23e+02 newton."
+    },
+    {
+        "instruction": "In Mullikan\u2019s oil drop experiment, what is the terminal speed of an uncharged drop of radius 693 x 10^(-6) m and density 1338 kg m-3?",
+        "input": "(2 / (9 * 1.8 * (10 ** -5))) * (693 ** 2 * 1338 * 9.8 * (10 ** -12))",
+        "output": "The terminal speed of the drop is 1.83e-05 m/s."
+    },
+    {
+        "instruction": "In Mullikan\u2019s oil drop experiment, what is the viscous force on the drop of radius 1559 x 10^(-6) m and density 2325 kg m-3 at terminal speed?",
+        "input": "(2 / (9 * 1.8 * (10 ** -5))) * (1559 ** 2 * 2325 * 9.8 * (10 ** -12))",
+        "output": "The viscous force on the drop is 6.84e+02 newton."
+    },
+    {
+        "instruction": "In Mullikan\u2019s oil drop experiment, what is the viscous force on the drop of radius 816 x 10^(-6) m and density 1020 kg m-3 at terminal speed?",
+        "input": "(2 / (9 * 1.8 * (10 ** -5))) * (816 ** 2 * 1020 * 9.8 * (10 ** -12))",
+        "output": "The viscous force on the drop is 8.22e+01 newton."
+    },
+    {
+        "instruction": "In Mullikan\u2019s oil drop experiment, what is the viscous force on the drop of radius 1660 x 10^(-6) m and density 2305 kg m-3 at terminal speed?",
+        "input": "(2 / (9 * 1.8 * (10 ** -5))) * (1660 ** 2 * 2305 * 9.8 * (10 ** -12))",
+        "output": "The viscous force on the drop is 7.68e+02 newton."
+    },
+    {
+        "instruction": "In Mullikan\u2019s oil drop experiment, what is the viscous force on the drop of radius 483 x 10^(-6) m and density 2872 kg m-3 at terminal speed?",
+        "input": "(2 / (9 * 1.8 * (10 ** -5))) * (483 ** 2 * 2872 * 9.8 * (10 ** -12))",
+        "output": "The viscous force on the drop is 8.11e+01 newton."
+    },
+    {
+        "instruction": "In Mullikan\u2019s oil drop experiment, what is the terminal speed of an uncharged drop of radius 1779 x 10^(-6) m and density 2737 kg m-3?",
+        "input": "(2 / (9 * 1.8 * (10 ** -5))) * (1779 ** 2 * 2737 * 9.8 * (10 ** -12))",
+        "output": "The terminal speed of the drop is 6.33e-04 m/s."
+    },
+    {
+        "instruction": "In Mullikan\u2019s oil drop experiment, what is the viscous force on the drop of radius 434 x 10^(-6) m and density 2596 kg m-3 at terminal speed?",
+        "input": "(2 / (9 * 1.8 * (10 ** -5))) * (434 ** 2 * 2596 * 9.8 * (10 ** -12))",
+        "output": "The viscous force on the drop is 5.92e+01 newton."
+    },
+    {
+        "instruction": "In Mullikan\u2019s oil drop experiment, what is the viscous force on the drop of radius 1896 x 10^(-6) m and density 2552 kg m-3 at terminal speed?",
+        "input": "(2 / (9 * 1.8 * (10 ** -5))) * (1896 ** 2 * 2552 * 9.8 * (10 ** -12))",
+        "output": "The viscous force on the drop is 1.11e+03 newton."
+    },
+    {
+        "instruction": "In Mullikan\u2019s oil drop experiment, what is the viscous force on the drop of radius 1731 x 10^(-6) m and density 1116 kg m-3 at terminal speed?",
+        "input": "(2 / (9 * 1.8 * (10 ** -5))) * (1731 ** 2 * 1116 * 9.8 * (10 ** -12))",
+        "output": "The viscous force on the drop is 4.05e+02 newton."
+    },
+    {
+        "instruction": "A vertical off-shore structure is built to withstand a maximum stress of 9800000 Pa. Is the structure suitable for putting up on top of an oil well in the ocean? Take the depth of the ocean to be roughly 10 km, and ignore ocean currents?",
+        "input": "10 * 1000 * 980",
+        "output": "yes, it is suitable"
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 1964 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 2159 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (1964 * 9.8)",
+        "output": "5.2475165218837025"
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 130 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 2842 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (130 * 9.8)",
+        "output": 79.27786499215071
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 520 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 2341 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (520 * 9.8)",
+        "output": "19.819466248037678"
+    },
+    {
+        "instruction": "A vertical off-shore structure is built to withstand a maximum stress of 9800000 Pa. Is the structure suitable for putting up on top of an oil well in the ocean? Take the depth of the ocean to be roughly 10 km, and ignore ocean currents?",
+        "input": "10 * 1000 * 980",
+        "output": "no, it is not suitable"
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 2981 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 2726 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (2981 * 9.8)",
+        "output": "3.4572701942232777"
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 2674 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 268 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (2674 * 9.8)",
+        "output": "3.8541968769557187"
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 1518 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 2201 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (1518 * 9.8)",
+        "output": "6.7892769756123785"
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 1924 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 1607 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (1924 * 9.8)",
+        "output": "5.356612499469642"
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 2768 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 749 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (2768 * 9.8)",
+        "output": "3.7233101333018754"
+    },
+    {
+        "instruction": "A vertical off-shore structure is built to withstand a maximum stress of 7840000 Pa. Is the structure suitable for putting up on top of an oil well in the ocean? Take the depth of the ocean to be roughly 8 km, and ignore ocean currents?",
+        "input": "8 * 1000 * 980",
+        "output": "no, it is not suitable"
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 1790 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 1960 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (1790 * 9.8)",
+        "output": "5.757610306692509"
+    },
+    {
+        "instruction": "A vertical off-shore structure is built to withstand a maximum stress of 2940000 Pa. Is the structure suitable for putting up on top of an oil well in the ocean? Take the depth of the ocean to be roughly 3 km, and ignore ocean currents?",
+        "input": "3 * 1000 * 980",
+        "output": "no, it is not suitable"
+    },
+    {
+        "instruction": "A vertical off-shore structure is built to withstand a maximum stress of 7840000 Pa. Is the structure suitable for putting up on top of an oil well in the ocean? Take the depth of the ocean to be roughly 8 km, and ignore ocean currents?",
+        "input": "8 * 1000 * 980",
+        "output": "no, it is not suitable"
+    },
+    {
+        "instruction": "A vertical off-shore structure is built to withstand a maximum stress of 2940000 Pa. Is the structure suitable for putting up on top of an oil well in the ocean? Take the depth of the ocean to be roughly 3 km, and ignore ocean currents?",
+        "input": "3 * 1000 * 980",
+        "output": "yes, it is suitable"
+    },
+    {
+        "instruction": "A vertical off-shore structure is built to withstand a maximum stress of 4900000 Pa. Is the structure suitable for putting up on top of an oil well in the ocean? Take the depth of the ocean to be roughly 5 km, and ignore ocean currents?",
+        "input": "5 * 1000 * 980",
+        "output": "no, it is not suitable"
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 1061 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 2000 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (1061 * 9.8)",
+        "output": "9.713593260112715"
+    },
+    {
+        "instruction": "A vertical off-shore structure is built to withstand a maximum stress of 1960000 Pa. Is the structure suitable for putting up on top of an oil well in the ocean? Take the depth of the ocean to be roughly 2 km, and ignore ocean currents?",
+        "input": "2 * 1000 * 980",
+        "output": "yes, it is suitable"
+    },
+    {
+        "instruction": "A vertical off-shore structure is built to withstand a maximum stress of 6860000 Pa. Is the structure suitable for putting up on top of an oil well in the ocean? Take the depth of the ocean to be roughly 7 km, and ignore ocean currents?",
+        "input": "7 * 1000 * 980",
+        "output": "yes, it is suitable"
+    },
+    {
+        "instruction": "Toricelli's barometer used mercury. If someone duplicated it using some liquid of density 1532 kg/m3. Determine the height of the liquid column for normal atmospheric pressure (density of material of barometer is 1944 kg/m3).",
+        "input": "(1.01 * (10 ** 5)) / (1532 * 9.8)",
+        "output": "6.727233974529759"
+    },
+    {
+        "instruction": "A 95 kg girl wearing high heel shoes. The heels are circular with a diameter 18689 micrometer. What is the pressure exerted by each of the heels on the horizontal floor?",
+        "input": "95 * 4.9 / 0.00027432286598720975",
+        "output": "The pressure exerted by each heel on the horizontal floor is 1.70e+06 newton. The pressure exerted by each heel on the horizontal floor is calculated using the formula P = (m * 4.9) / A, where m is the mass of the girl (95 kg) and A is the area of each heel (0.00027432286598720975 m^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 2817 kg. The area of cross-section of the piston carrying the load is 35940 mm2. What maximum pressure would the piston have to bear? (in atmosphere)",
+        "input": "2817 * 9.8 / (35940 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 7.6 atmosphere. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (2817 kg) and A is the area of the piston (35940 mm^2)."
+    },
+    {
+        "instruction": "A 78 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 8713 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "78 * 9.8 / 5.962457678440297e-05",
+        "output": "The pressure exerted by the heel on the horizontal floor is 1.28e+07 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (78 kg) and A is the area of the heel (5.962457678440297e-05 m^2)."
+    },
+    {
+        "instruction": "A 78 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 26629 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "78 * 9.8 / 0.0005569286972998435",
+        "output": "The pressure exerted by the heel on the horizontal floor is 1.37e+06 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (78 kg) and A is the area of the heel (0.0005569286972998435 m^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 3635 kg. The area of cross-section of the piston carrying the load is 47230 mm2. What maximum pressure would the piston have to bear? (in pascal)",
+        "input": "3635 * 9.8 / (47230 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 7.54e+05 pascal. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (3635 kg) and A is the area of the piston (47230 mm^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 2810 kg. The area of cross-section of the piston carrying the load is 40020 mm2. What maximum pressure would the piston have to bear? (in pascal)",
+        "input": "2810 * 9.8 / (40020 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 6.88e+05 pascal. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (2810 kg) and A is the area of the piston (40020 mm^2)."
+    },
+    {
+        "instruction": "A 100 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 23817 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "100 * 9.8 / 0.000445516706848741",
+        "output": "The pressure exerted by the heel on the horizontal floor is 2.20e+06 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (100 kg) and A is the area of the heel (0.000445516706848741 m^2)."
+    },
+    {
+        "instruction": "A 44 kg girl wearing high heel shoes. The heels are circular with a diameter 8108 micrometer. What is the pressure exerted by each of the heels on the horizontal floor?",
+        "input": "44 * 4.9 / 5.163181136796535e-05",
+        "output": "The pressure exerted by each heel on the horizontal floor is 4.18e+06 newton. The pressure exerted by each heel on the horizontal floor is calculated using the formula P = (m * 4.9) / A, where m is the mass of the girl (44 kg) and A is the area of each heel (5.163181136796535e-05 m^2)."
+    },
+    {
+        "instruction": "A 78 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 18719 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "78 * 9.8 / 0.0002752042712221009",
+        "output": "The pressure exerted by the heel on the horizontal floor is 2.78e+06 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (78 kg) and A is the area of the heel (0.0002752042712221009 m^2)."
+    },
+    {
+        "instruction": "A 75 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 10636 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "75 * 9.8 / 8.884777139366198e-05",
+        "output": "The pressure exerted by the heel on the horizontal floor is 8.27e+06 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (75 kg) and A is the area of the heel (8.884777139366198e-05 m^2)."
+    },
+    {
+        "instruction": "A 56 kg girl wearing high heel shoes. The heels are circular with a diameter 10769 micrometer. What is the pressure exerted by each of the heels on the horizontal floor?",
+        "input": "56 * 4.9 / 9.108369393610246e-05",
+        "output": "The pressure exerted by each heel on the horizontal floor is 3.01e+06 newton. The pressure exerted by each heel on the horizontal floor is calculated using the formula P = (m * 4.9) / A, where m is the mass of the girl (56 kg) and A is the area of each heel (9.108369393610246e-05 m^2)."
+    },
+    {
+        "instruction": "A 78 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 13516 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "78 * 9.8 / 0.00014347830834770246",
+        "output": "The pressure exerted by the heel on the horizontal floor is 5.33e+06 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (78 kg) and A is the area of the heel (0.00014347830834770246 m^2)."
+    },
+    {
+        "instruction": "A 45 kg girl wearing high heel shoes. The heels are circular with a diameter 32515 micrometer. What is the pressure exerted by each of the heels on the horizontal floor?",
+        "input": "45 * 4.9 / 0.000830342750012454",
+        "output": "The pressure exerted by each heel on the horizontal floor is 2.66e+05 newton. The pressure exerted by each heel on the horizontal floor is calculated using the formula P = (m * 4.9) / A, where m is the mass of the girl (45 kg) and A is the area of each heel (0.000830342750012454 m^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 2328 kg. The area of cross-section of the piston carrying the load is 14770 mm2. What maximum pressure would the piston have to bear? (in pascal)",
+        "input": "2328 * 9.8 / (14770 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 1.54e+06 pascal. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (2328 kg) and A is the area of the piston (14770 mm^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 3977 kg. The area of cross-section of the piston carrying the load is 31020 mm2. What maximum pressure would the piston have to bear? (in atmosphere)",
+        "input": "3977 * 9.8 / (31020 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 12.4 atmosphere. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (3977 kg) and A is the area of the piston (31020 mm^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 3090 kg. The area of cross-section of the piston carrying the load is 25380 mm2. What maximum pressure would the piston have to bear? (in atmosphere)",
+        "input": "3090 * 9.8 / (25380 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 11.8 atmosphere. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (3090 kg) and A is the area of the piston (25380 mm^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 2008 kg. The area of cross-section of the piston carrying the load is 40010 mm2. What maximum pressure would the piston have to bear? (in atmosphere)",
+        "input": "2008 * 9.8 / (40010 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 4.9 atmosphere. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (2008 kg) and A is the area of the piston (40010 mm^2)."
+    },
+    {
+        "instruction": "A 48 kg girl wearing high heel shoes. The heels are circular with a diameter 17716 micrometer. What is the pressure exerted by each of the heels on the horizontal floor?",
+        "input": "48 * 4.9 / 0.00024650244119246473",
+        "output": "The pressure exerted by each heel on the horizontal floor is 9.54e+05 newton. The pressure exerted by each heel on the horizontal floor is calculated using the formula P = (m * 4.9) / A, where m is the mass of the girl (48 kg) and A is the area of each heel (0.00024650244119246473 m^2)."
+    },
+    {
+        "instruction": "A 80 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 22661 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "80 * 9.8 / 0.0004033183882195661",
+        "output": "The pressure exerted by the heel on the horizontal floor is 1.94e+06 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (80 kg) and A is the area of the heel (0.0004033183882195661 m^2)."
+    },
+    {
+        "instruction": "A 51 kg girl wearing high heel shoes. The heels are circular with a diameter 25527 micrometer. What is the pressure exerted by each of the heels on the horizontal floor?",
+        "input": "51 * 4.9 / 0.0005117872215754501",
+        "output": "The pressure exerted by each heel on the horizontal floor is 4.88e+05 newton. The pressure exerted by each heel on the horizontal floor is calculated using the formula P = (m * 4.9) / A, where m is the mass of the girl (51 kg) and A is the area of each heel (0.0005117872215754501 m^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 3069 kg. The area of cross-section of the piston carrying the load is 45140 mm2. What maximum pressure would the piston have to bear? (in pascal)",
+        "input": "3069 * 9.8 / (45140 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 6.66e+05 pascal. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (3069 kg) and A is the area of the piston (45140 mm^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 3729 kg. The area of cross-section of the piston carrying the load is 35850 mm2. What maximum pressure would the piston have to bear? (in pascal)",
+        "input": "3729 * 9.8 / (35850 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 1.02e+06 pascal. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (3729 kg) and A is the area of the piston (35850 mm^2)."
+    },
+    {
+        "instruction": "A 85 kg girl wearing high heel shoes. The heels are circular with a diameter 33765 micrometer. What is the pressure exerted by each of the heels on the horizontal floor?",
+        "input": "85 * 4.9 / 0.0008954129878499325",
+        "output": "The pressure exerted by each heel on the horizontal floor is 4.65e+05 newton. The pressure exerted by each heel on the horizontal floor is calculated using the formula P = (m * 4.9) / A, where m is the mass of the girl (85 kg) and A is the area of each heel (0.0008954129878499325 m^2)."
+    },
+    {
+        "instruction": "A 60 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 26393 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "60 * 9.8 / 0.0005471008592848038",
+        "output": "The pressure exerted by the heel on the horizontal floor is 1.07e+06 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (60 kg) and A is the area of the heel (0.0005471008592848038 m^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 4532 kg. The area of cross-section of the piston carrying the load is 44940 mm2. What maximum pressure would the piston have to bear? (in atmosphere)",
+        "input": "4532 * 9.8 / (44940 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 9.8 atmosphere. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (4532 kg) and A is the area of the piston (44940 mm^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 4381 kg. The area of cross-section of the piston carrying the load is 30390 mm2. What maximum pressure would the piston have to bear? (in atmosphere)",
+        "input": "4381 * 9.8 / (30390 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 13.9 atmosphere. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (4381 kg) and A is the area of the piston (30390 mm^2)."
+    },
+    {
+        "instruction": "A 101 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 16150 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "101 * 9.8 / 0.00020484951247273095",
+        "output": "The pressure exerted by the heel on the horizontal floor is 4.83e+06 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (101 kg) and A is the area of the heel (0.00020484951247273095 m^2)."
+    },
+    {
+        "instruction": "A 62 kg girl wearing high heel shoes. The heels are circular with a diameter 34801 micrometer. What is the pressure exerted by each of the heels on the horizontal floor?",
+        "input": "62 * 4.9 / 0.0009512032562984164",
+        "output": "The pressure exerted by each heel on the horizontal floor is 3.19e+05 newton. The pressure exerted by each heel on the horizontal floor is calculated using the formula P = (m * 4.9) / A, where m is the mass of the girl (62 kg) and A is the area of each heel (0.0009512032562984164 m^2)."
+    },
+    {
+        "instruction": "A 53 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 30810 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "53 * 9.8 / 0.0007455439975338244",
+        "output": "The pressure exerted by the heel on the horizontal floor is 6.97e+05 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (53 kg) and A is the area of the heel (0.0007455439975338244 m^2)."
+    },
+    {
+        "instruction": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 3601 kg. The area of cross-section of the piston carrying the load is 43310 mm2. What maximum pressure would the piston have to bear? (in pascal)",
+        "input": "3601 * 9.8 / (43310 * (10 ** -6))",
+        "output": "The maximum pressure the piston has to bear is 8.15e+05 pascal. The maximum pressure is calculated using the formula P = (m * 9.8) / A, where m is the maximum mass of the car (3601 kg) and A is the area of the piston (43310 mm^2)."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 73 mm of water in one arm and 1993 mm of liquid in the other. What is the relative density of the liquid?",
+        "input": "l2 / l1",
+        "output": "Output: The relative density of the liquid is 27.30."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1308 mm of water in one arm and 1411 mm of liquid in the other. If 857 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 2.07e+00 mm."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 565 mm of water in one arm and 1256 mm of liquid in the other. What is the relative density of the liquid?",
+        "input": "l2 / l1",
+        "output": "Output: The relative density of the liquid is 2.22."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 934 mm of water in one arm and 1279 mm of liquid in the other. If 694 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 7.90e+00 mm."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 597 mm of water in one arm and 1082 mm of liquid in the other. If 1875 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 2.12e+01 mm."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1449 mm of water in one arm and 1133 mm of liquid in the other. If 458 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 4.87e+00 mm."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1323 mm of water in one arm and 117 mm of liquid in the other. If 640 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 1.39e+01 mm."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1284 mm of water in one arm and 1361 mm of liquid in the other. If 1735 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 1.93e+00 mm."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1899 mm of water in one arm and 1552 mm of liquid in the other. If 1119 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 6.14e+00 mm."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1454 mm of water in one arm and 1170 mm of liquid in the other. What is the relative density of the liquid?",
+        "input": "l2 / l1",
+        "output": "Output: The relative density of the liquid is 0.80."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 736 mm of water in one arm and 1015 mm of liquid in the other. If 928 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 7.47e+00 mm."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 584 mm of water in one arm and 1744 mm of liquid in the other. What is the relative density of the liquid?",
+        "input": "l2 / l1",
+        "output": "Output: The relative density of the liquid is 2.99."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 749 mm of water in one arm and 1729 mm of liquid in the other. What is the relative density of the liquid?",
+        "input": "l2 / l1",
+        "output": "Output: The relative density of the liquid is 2.31."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1308 mm of water in one arm and 1276 mm of liquid in the other. What is the relative density of the liquid?",
+        "input": "l2 / l1",
+        "output": "Output: The relative density of the liquid is 0.98."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1482 mm of water in one arm and 803 mm of liquid in the other. What is the relative density of the liquid?",
+        "input": "l2 / l1",
+        "output": "Output: The relative density of the liquid is 0.54."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 807 mm of water in one arm and 530 mm of liquid in the other. What is the relative density of the liquid?",
+        "input": "l2 / l1",
+        "output": "Output: The relative density of the liquid is 0.66."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 352 mm of water in one arm and 683 mm of liquid in the other. If 791 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 1.26e+01 mm."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1569 mm of water in one arm and 124 mm of liquid in the other. If 571 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 1.53e+01 mm."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1644 mm of water in one arm and 1934 mm of liquid in the other. What is the relative density of the liquid?",
+        "input": "l2 / l1",
+        "output": "Output: The relative density of the liquid is 1.18."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 144 mm of water in one arm and 1096 mm of liquid in the other. If 515 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 8.53e+01 mm."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 17 mm at room temperature? Surface tension of liquid at that temperature (303 K) is 448 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 52.71 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 4 mm at room temperature? Surface tension of liquid at that temperature (368 K) is 1486 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 743.00 pascal. The total pressure inside the drop is 1.02e+05 pascal."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 7 mm at room temperature? Surface tension of liquid at that temperature (355 K) is 641 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 183.14 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 19 mm at room temperature? Surface tension of liquid at that temperature (293 K) is 1035 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 108.95 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 2 mm at room temperature? Surface tension of liquid at that temperature (274 K) is 400 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 400.00 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 1389 x 10^(-3) N (which includes the small weight of the slider). The length of the slider is 1055 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.66 newton/m."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 11 mm at room temperature? Surface tension of liquid at that temperature (306 K) is 290 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 52.73 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 823 x 10^(-3) N (which includes the small weight of the slider). The length of the slider is 747 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.55 newton/m."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 16 mm at room temperature? Surface tension of liquid at that temperature (315 K) is 927 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 115.88 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 18 mm at room temperature? Surface tension of liquid at that temperature (363 K) is 1661 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 184.56 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 5 mm at room temperature? Surface tension of liquid at that temperature (375 K) is 1443 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 577.20 pascal. The total pressure inside the drop is 1.02e+05 pascal."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 1852 x 10^(-3) N (which includes the small weight of the slider). The length of the slider is 1427 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.65 newton/m."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 1280 x 10^(-3) N (which includes the small weight of the slider). The length of the slider is 1357 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.47 newton/m."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 3 mm at room temperature? Surface tension of liquid at that temperature (262 K) is 573 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 382.00 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 1270 x 10^(-3) N. The length of the slider is 353 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 1.80 newton/m."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 106 x 10^(-3) N (which includes the small weight of the slider). The length of the slider is 984 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.05 newton/m."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 592 x 10^(-3) N (which includes the small weight of the slider). The length of the slider is 727 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.41 newton/m."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 127 x 10^(-3) N (which includes the small weight of the slider). The length of the slider is 103 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.62 newton/m."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 1793 x 10^(-3) N. The length of the slider is 346 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 2.59 newton/m."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 482 x 10^(-3) N (which includes the small weight of the slider). The length of the slider is 87 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 2.77 newton/m."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 338 x 10^(-3) N. The length of the slider is 1988 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.09 newton/m."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 1518 x 10^(-3) N (which includes the small weight of the slider). The length of the slider is 789 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.96 newton/m."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 3 mm at room temperature? Surface tension of liquid at that temperature (347 K) is 1020 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 680.00 pascal. The total pressure inside the drop is 1.02e+05 pascal."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 830 x 10^(-3) N. The length of the slider is 622 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.67 newton/m."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 2 mm at room temperature? Surface tension of liquid at that temperature (329 K) is 1511 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 1511.00 pascal. The total pressure inside the drop is 1.03e+05 pascal."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 298 x 10^(-3) N. The length of the slider is 1594 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.09 newton/m."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 10 mm at room temperature? Surface tension of liquid at that temperature (233 K) is 242 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 48.40 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 3 mm at room temperature? Surface tension of liquid at that temperature (301 K) is 140 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 93.33 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 19 mm at room temperature? Surface tension of liquid at that temperature (246 K) is 294 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 30.95 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "A U-shaped wire is dipped in a soap solution, and removed. A thin soap film formed between the wire and a light slider supports a weight of 287 x 10^(-3) N. The length of the slider is 667 mm. What is the surface tension of the film?",
+        "input": "surface tension = weight / (2 * length)",
+        "output": "The surface tension of the film is 0.22 newton/m."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1211 mm and radius 5 cm. If the amount of glycerine collected per second at one end is 663 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 2.09e+01 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 882 mm and radius 1 cm. If the amount of glycerine collected per second at one end is 886 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 1.27e+04 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1113 mm and radius 10 cm. If the amount of glycerine collected per second at one end is 909 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube? (Density of glycerine = 1.3 x 10^3 kg/m^3 and viscosity of glycerine = 0.83 Pa s)",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 1.64e+00 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1591 mm and radius 5 cm. If the amount of glycerine collected per second at one end is 318 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube? (Density of glycerine = 1.3 x 10^3 kg/m^3 and viscosity of glycerine = 0.83 Pa s)",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 1.32e+01 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 491 mm and radius 9 cm. If the amount of glycerine collected per second at one end is 197 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 2.40e-01 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1737 mm and radius 7 cm. If the amount of glycerine collected per second at one end is 166 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube? (Density of glycerine = 1.3 x 10^3 kg/m^3 and viscosity of glycerine = 0.83 Pa s)",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 1.95e+00 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1499 mm and radius 10 cm. If the amount of glycerine collected per second at one end is 538 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 1.31e+00 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1204 mm and radius 9 cm. If the amount of glycerine collected per second at one end is 691 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 2.06e+00 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 439 mm and radius 5 cm. If the amount of glycerine collected per second at one end is 124 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 1.42e+00 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 909 mm and radius 1 cm. If the amount of glycerine collected per second at one end is 337 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube? (Density of glycerine = 1.3 x 10^3 kg/m^3 and viscosity of glycerine = 0.83 Pa s)",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 4.98e+03 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1759 mm and radius 7 cm. If the amount of glycerine collected per second at one end is 740 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 8.81e+00 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 943 mm and radius 2 cm. If the amount of glycerine collected per second at one end is 279 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 2.67e+02 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1400 mm and radius 1 cm. If the amount of glycerine collected per second at one end is 958 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 2.18e+04 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1050 mm and radius 10 cm. If the amount of glycerine collected per second at one end is 121 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube? (Density of glycerine = 1.3 x 10^3 kg/m^3 and viscosity of glycerine = 0.83 Pa s)",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 2.07e-01 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 642 mm and radius 9 cm. If the amount of glycerine collected per second at one end is 419 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 6.67e-01 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 935 mm and radius 5 cm. If the amount of glycerine collected per second at one end is 538 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 1.31e+01 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1670 mm and radius 6 cm. If the amount of glycerine collected per second at one end is 513 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 1.07e+01 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1499 mm and radius 4 cm. If the amount of glycerine collected per second at one end is 502 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube? (Density of glycerine = 1.3 x 10^3 kg/m^3 and viscosity of glycerine = 0.83 Pa s)",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 4.78e+01 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1919 mm and radius 2 cm. If the amount of glycerine collected per second at one end is 657 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 1.28e+03 pascal."
+    },
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 1327 mm and radius 5 cm. If the amount of glycerine collected per second at one end is 773 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube? (Density of glycerine = 1.3 x 10^3 kg/m^3 and viscosity of glycerine = 0.83 Pa s)",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 2.67e+01 pascal."
+    }
+]

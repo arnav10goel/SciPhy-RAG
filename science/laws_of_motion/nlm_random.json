@@ -1,0 +1,52 @@
+[
+    {
+        "instruction": "Glycerine flows steadily through a horizontal tube of length 943 mm and radius 2 cm. If the amount of glycerine collected per second at one end is 279 x 10^(-4) kg/s, what is the pressure difference between the two ends of the tube?",
+        "input": "pressure difference = (8 * V * viscosity * length * 100000) / (pi * (radius ** 4))",
+        "output": "The pressure difference between the two ends of the tube is 2.67e+02 pascal."
+    },
+    {
+        "instruction": "A liquid has an angle of contact equal to 68 degrees with soda-lime glass. A narrow tube of radius 10 mm made of this glass is dipped in a trough containing liquid. By what amount does the liquid dip down in the tube relative to the liquid surface outside? Surface tension of liquid is 0.62 Nm-2. Density of liquid = 17 x 10^3 kgm-3.",
+        "input": "(2 * st * cos(angle * pi / 180)) / (r * density * 9.8)",
+        "output": "The liquid in the narrow tube dips down by an amount given by (2 * st * cos(angle * pi / 180)) / (r * density * 9.8). Substituting the given values, we have (2 * 0.62 * cos(68 * 3.141592653589793 / 180)) / (10 * 17 * 10^3 * 9.8) = 2.79e-04 m."
+    },
+    {
+        "instruction": "What is the largest average velocity of blood flow in an artery of radius 1024 micrometer and length 388 mm if flow must remain laminar? What is the corresponding flow rate?",
+        "input": "(2000 * 2.084) / (1.06 * 2 * 1024)",
+        "output": "The largest average velocity of blood flow is 1.92 m/s. The corresponding flow rate is 6.32e-06 m^3/s."
+    },
+    {
+        "instruction": "What is the pressure inside a drop of liquid of radius 19 mm at room temperature? Surface tension of liquid at that temperature (293 K) is 1035 x 10^(-3) Nm^(-1). Also give the excess pressure inside the drop.",
+        "input": "excess pressure = (2 * surface tension) / radius, total pressure = 1.01 * (10 ** 5) + excess pressure",
+        "output": "The excess pressure inside the drop is 108.95 pascal. The total pressure inside the drop is 1.01e+05 pascal."
+    },
+    {
+        "instruction": "A 80 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 22661 micrometer. What is the pressure exerted by the heel on the horizontal floor?",
+        "input": "80 * 9.8 / 0.0004033183882195661",
+        "output": "The pressure exerted by the heel on the horizontal floor is 1.94e+06 newton. The pressure exerted by the heel on the horizontal floor is calculated using the formula P = (m * 9.8) / A, where m is the mass of the girl (80 kg) and A is the area of the heel (0.0004033183882195661 m^2)."
+    },
+    {
+        "instruction": "A U tube contains water and liquid separated by mercury. The mercury columns in the two arms are in level with 1308 mm of water in one arm and 1411 mm of liquid in the other. If 857 mm of water and liquid each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms?",
+        "input": "abs((l1 + l3) / 10 - (l2 / l1) * (l2 + l3) / 10) / 13.6",
+        "output": "Output: The difference in the levels of mercury in the two arms is 2.07e+00 mm."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 2 mm, given that the surface tension of soap solution at the temperature 285 K is 32 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 60 cm inside a container containing the soap solution (of relative density 1.4), what would be the pressure inside the bubble?",
+        "input": "(4 * 32) / 2",
+        "output": "The excess pressure inside the soap bubble is 64.0 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 1 mm, given that the surface tension of soap solution at the temperature 289 K is 130 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 80 cm inside a container containing the soap solution (of relative density 2.7), what would be the pressure inside the bubble?",
+        "input": "(4 * 130) / 1",
+        "output": "The excess pressure inside the soap bubble is 520.0 Pascal. The pressure inside the air bubble floating up is 1.03e+05 Pascal."
+    },
+    {
+        "instruction": "What is the excess pressure inside a bubble of soap solution of radius 3 mm, given that the surface tension of soap solution at the temperature 282 K is 196 x 10-3 Nm-1? If an air bubble of the same dimension was formed at a depth of 60 cm inside a container containing the soap solution (of relative density 1.7), what would be the pressure inside the bubble?",
+        "input": "(4 * 196) / 3",
+        "output": "The excess pressure inside the soap bubble is 261.3 Pascal. The pressure inside the air bubble floating up is 1.02e+05 Pascal."
+    },
+    {
+        "instruction": "Two narrow bores of diameters 13 mm and 7 mm are joined together to form a U-tube open at both ends. If the U-tube contains an unknown liquid, what is the difference in its levels at two ends? Surface tension of liquid is 14 x 10^(-2) Nm-2. Take the angle of contact to be 44 degrees and density of liquid to be 3 x 10^3 kgm-3.",
+        "input": "abs(6.850855241320487e-06 * -65.93406593406593)",
+        "output": "The difference in levels of the U-tube is given by abs(6.850855241320487e-06 * -65.93406593406593). Substituting the given values, we have abs(6.850855241320487e-06 * -65.93406593406593) = 4.52e-04 m."
+    }
+]
