@@ -1,6 +1,7 @@
 # SciPhy-RAG
 
-- This project aims to apply techniques from the domain of controllable scientific text generation to <b> High School Physics </b>
+- This project was awarded the <b> Summer Undergraduate Research Fellowship 2023 </b> and is done under the guidance of Dr. Rajiv Ratn Shah from MIDAS-IIITD.
+- It aims to apply techniques from the domain of controllable scientific text generation to <b> High School Physics </b>
 - The main idea behind the research project stems from the hypothesis that Physics Word Problems (PWPs) require understanding of concepts based on physics formulae and is thus a fundamentally different task from Math Word Problems (MWPs).
 
 ## Data Collection and Augmentation:
